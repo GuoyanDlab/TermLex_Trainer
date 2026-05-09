@@ -19,6 +19,8 @@ export interface YouGlishSnapshot {
   totalClips: number;
   clipIndex: number;
   consumedCount: number;
+  speed: number;
+  autoNextGapMs: number;
   videoId: string;
   phrase: string;
   captionId: number;
@@ -35,6 +37,8 @@ const EMPTY_SNAPSHOT: YouGlishSnapshot = {
   totalClips: 0,
   clipIndex: 0,
   consumedCount: 0,
+  speed: 1,
+  autoNextGapMs: 900,
   videoId: '',
   phrase: '',
   captionId: 0,
@@ -65,6 +69,8 @@ interface BridgeState {
   totalClips: number;
   clipIndex: number;
   consumedCount: number;
+  speed: number;
+  autoNextGapMs: number;
   videoId: string;
   phrase: string;
   captionId: number;
@@ -88,9 +94,15 @@ export class YouGlishBridge {
   }
 
   private resolveAutoNextGapMs(): number {
-    const value = Number(process.env.YOUGLISH_AUTO_NEXT_GAP_MS || '350');
-    if (!Number.isFinite(value) || value < 100) return 350;
+    const value = Number(process.env.YOUGLISH_AUTO_NEXT_GAP_MS || '900');
+    if (!Number.isFinite(value) || value < 100) return 900;
     return Math.floor(value);
+  }
+
+  private resolveDefaultSpeed(): number {
+    const value = Number(process.env.YOUGLISH_DEFAULT_SPEED || '0.92');
+    if (!Number.isFinite(value)) return 0.92;
+    return Math.max(0.5, Math.min(1.5, value));
   }
 
   private async resolveBrowserExecutablePath(): Promise<string | null> {
@@ -123,6 +135,7 @@ export class YouGlishBridge {
   private getBridgeHtml(): string {
     const autoNextEnabled = this.resolveAutoNextEnabled();
     const autoNextGapMs = this.resolveAutoNextGapMs();
+    const defaultSpeed = this.resolveDefaultSpeed();
     return String.raw`<!DOCTYPE html>
 <html lang="en">
   <head>
@@ -151,6 +164,7 @@ export class YouGlishBridge {
         var pendingFetch = null;
         var autoNextEnabled = ${JSON.stringify(autoNextEnabled)};
         var autoNextGapMs = ${JSON.stringify(autoNextGapMs)};
+        var defaultSpeed = ${JSON.stringify(defaultSpeed)};
         var readyWaitTimeoutMs = 12000;
         var maxReadyRetry = 3;
         var lastAutoNextAt = 0;
@@ -168,6 +182,8 @@ export class YouGlishBridge {
           totalClips: 0,
           clipIndex: 0,
           consumedCount: 0,
+          speed: defaultSpeed,
+          autoNextGapMs: autoNextGapMs,
           videoId: '',
           phrase: '',
           captionId: 0,
@@ -215,6 +231,40 @@ export class YouGlishBridge {
 
         function update(patch) {
           state = Object.assign({}, state, patch || {});
+        }
+
+        function clampSpeed(value) {
+          var n = Number(value);
+          if (!isFinite(n)) return state.speed || defaultSpeed || 1;
+          if (n < 0.5) return 0.5;
+          if (n > 1.5) return 1.5;
+          return Math.round(n * 100) / 100;
+        }
+
+        function clampGap(value) {
+          var n = Number(value);
+          if (!isFinite(n)) return autoNextGapMs;
+          if (n < 100) return 100;
+          if (n > 6000) return 6000;
+          return Math.round(n);
+        }
+
+        function applySpeed(nextSpeed, source) {
+          var speed = clampSpeed(nextSpeed);
+          try {
+            if (widget && typeof widget.setSpeed === 'function') {
+              widget.setSpeed(speed);
+            }
+          } catch (error) {}
+          if (source) {
+            update({
+              speed: speed,
+              message: source
+            });
+          } else {
+            update({ speed: speed });
+          }
+          return speed;
         }
 
         function requestFetch(source) {
@@ -292,6 +342,7 @@ export class YouGlishBridge {
                     videoId: String(event && event.video ? event.video : ''),
                     message: 'video-change'
                   });
+                  applySpeed(state.speed);
                 },
                 onCaptionChange: function (event) {
                   update({
@@ -315,6 +366,12 @@ export class YouGlishBridge {
                     message: 'player-state'
                   });
                 },
+                onSpeedChange: function (event) {
+                  update({
+                    speed: clampSpeed(event && event.speed),
+                    message: 'speed-change'
+                  });
+                },
                 onError: function (event) {
                   update({
                     errorCode: Number(event && typeof event.code === 'number' ? event.code : 1),
@@ -326,6 +383,7 @@ export class YouGlishBridge {
                     ready: true,
                     message: 'ready'
                   });
+                  applySpeed(state.speed, 'speed-applied');
                   lastWaitSecond = -1;
                   requestFetch('fetch-on-ready');
                 }
@@ -422,6 +480,31 @@ export class YouGlishBridge {
           play: function () {
             if (!widget) return false;
             widget.play();
+            return true;
+          },
+          setSpeed: function (rate) {
+            applySpeed(rate, 'speed-set');
+            return true;
+          },
+          adjustSpeed: function (delta) {
+            var next = clampSpeed((state.speed || defaultSpeed || 1) + Number(delta || 0));
+            applySpeed(next, 'speed-adjust');
+            return true;
+          },
+          setAutoNextGapMs: function (gapMs) {
+            autoNextGapMs = clampGap(gapMs);
+            update({
+              autoNextGapMs: autoNextGapMs,
+              message: 'gap-set'
+            });
+            return true;
+          },
+          adjustAutoNextGapMs: function (deltaMs) {
+            autoNextGapMs = clampGap(autoNextGapMs + Number(deltaMs || 0));
+            update({
+              autoNextGapMs: autoNextGapMs,
+              message: 'gap-adjust'
+            });
             return true;
           },
           toggle: function () {
@@ -564,6 +647,8 @@ export class YouGlishBridge {
       totalClips: Number.isFinite(parsed.totalClips) ? Number(parsed.totalClips) : 0,
       clipIndex: Number.isFinite(parsed.clipIndex) ? Number(parsed.clipIndex) : 0,
       consumedCount: Number.isFinite(parsed.consumedCount) ? Number(parsed.consumedCount) : 0,
+      speed: Number.isFinite(parsed.speed) ? Number(parsed.speed) : 1,
+      autoNextGapMs: Number.isFinite(parsed.autoNextGapMs) ? Number(parsed.autoNextGapMs) : 900,
       videoId: typeof parsed.videoId === 'string' ? parsed.videoId : '',
       phrase: typeof parsed.phrase === 'string' ? parsed.phrase : '',
       captionId: Number.isFinite(parsed.captionId) ? Number(parsed.captionId) : 0,
@@ -582,6 +667,8 @@ export class YouGlishBridge {
       totalClips: state.totalClips,
       clipIndex: state.clipIndex,
       consumedCount: state.consumedCount,
+      speed: state.speed,
+      autoNextGapMs: state.autoNextGapMs,
       videoId: state.videoId,
       phrase: state.phrase,
       captionId: state.captionId,
@@ -691,6 +778,82 @@ export class YouGlishBridge {
             bridge.previous();
           }
         });
+      }
+      return this.getSnapshot();
+    } catch (error) {
+      return this.errorSnapshot(error);
+    }
+  }
+
+  async setSpeed(rate: number): Promise<YouGlishSnapshot> {
+    try {
+      await this.ensurePage();
+      if (this.page) {
+        await this.page.evaluate((nextRate) => {
+          const bridge = (window as unknown as {
+            __YGBridge?: { setSpeed?: (speed: number) => boolean };
+          }).__YGBridge;
+          if (bridge && typeof bridge.setSpeed === 'function') {
+            bridge.setSpeed(nextRate);
+          }
+        }, rate);
+      }
+      return this.getSnapshot();
+    } catch (error) {
+      return this.errorSnapshot(error);
+    }
+  }
+
+  async adjustSpeed(delta: number): Promise<YouGlishSnapshot> {
+    try {
+      await this.ensurePage();
+      if (this.page) {
+        await this.page.evaluate((nextDelta) => {
+          const bridge = (window as unknown as {
+            __YGBridge?: { adjustSpeed?: (diff: number) => boolean };
+          }).__YGBridge;
+          if (bridge && typeof bridge.adjustSpeed === 'function') {
+            bridge.adjustSpeed(nextDelta);
+          }
+        }, delta);
+      }
+      return this.getSnapshot();
+    } catch (error) {
+      return this.errorSnapshot(error);
+    }
+  }
+
+  async setAutoNextGap(gapMs: number): Promise<YouGlishSnapshot> {
+    try {
+      await this.ensurePage();
+      if (this.page) {
+        await this.page.evaluate((nextGapMs) => {
+          const bridge = (window as unknown as {
+            __YGBridge?: { setAutoNextGapMs?: (gap: number) => boolean };
+          }).__YGBridge;
+          if (bridge && typeof bridge.setAutoNextGapMs === 'function') {
+            bridge.setAutoNextGapMs(nextGapMs);
+          }
+        }, gapMs);
+      }
+      return this.getSnapshot();
+    } catch (error) {
+      return this.errorSnapshot(error);
+    }
+  }
+
+  async adjustAutoNextGap(deltaMs: number): Promise<YouGlishSnapshot> {
+    try {
+      await this.ensurePage();
+      if (this.page) {
+        await this.page.evaluate((nextDeltaMs) => {
+          const bridge = (window as unknown as {
+            __YGBridge?: { adjustAutoNextGapMs?: (diffMs: number) => boolean };
+          }).__YGBridge;
+          if (bridge && typeof bridge.adjustAutoNextGapMs === 'function') {
+            bridge.adjustAutoNextGapMs(nextDeltaMs);
+          }
+        }, deltaMs);
       }
       return this.getSnapshot();
     } catch (error) {

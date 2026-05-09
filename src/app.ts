@@ -25,6 +25,8 @@ interface YouGlishOverlayState {
   clipIndex: number;
   totalClips: number;
   consumedCount: number;
+  speed: number;
+  autoNextGapMs: number;
   phrase: string;
   phraseTranslation: string;
   playerState: string;
@@ -81,6 +83,8 @@ export class App {
     clipIndex: 0,
     totalClips: 0,
     consumedCount: 0,
+    speed: 1,
+    autoNextGapMs: 900,
     phrase: '',
     phraseTranslation: '',
     playerState: 'unknown',
@@ -546,6 +550,8 @@ export class App {
     this.youglishState.clipIndex = snapshot.clipIndex;
     this.youglishState.totalClips = snapshot.totalClips;
     this.youglishState.consumedCount = snapshot.consumedCount;
+    this.youglishState.speed = snapshot.speed;
+    this.youglishState.autoNextGapMs = snapshot.autoNextGapMs;
     this.youglishState.videoId = snapshot.videoId;
     this.youglishState.phrase = normalizedPhrase;
     this.youglishState.playerState = snapshot.playerState;
@@ -625,6 +631,8 @@ export class App {
       clipIndex: 0,
       totalClips: 0,
       consumedCount: 0,
+      speed: 1,
+      autoNextGapMs: 900,
       phrase: '',
       phraseTranslation: '',
       playerState: 'unknown',
@@ -679,6 +687,8 @@ export class App {
       clipIndex: 0,
       totalClips: 0,
       consumedCount: 0,
+      speed: 1,
+      autoNextGapMs: 900,
       phrase: '',
       phraseTranslation: '',
       playerState: 'unknown',
@@ -854,6 +864,34 @@ export class App {
       } catch (error) {
         this.runtimeNotice = `Manual restart failed: ${(error as Error).message}`;
       }
+      return true;
+    }
+
+    if (ch === '-' || full === '-') {
+      const snapshot = await this.youglishBridge.adjustSpeed(-0.08);
+      this.applyYouGlishSnapshot(snapshot);
+      this.runtimeNotice = `YouGlish speed: ${snapshot.speed.toFixed(2)}x`;
+      return true;
+    }
+
+    if (ch === '=' || full === '=' || ch === '+') {
+      const snapshot = await this.youglishBridge.adjustSpeed(0.08);
+      this.applyYouGlishSnapshot(snapshot);
+      this.runtimeNotice = `YouGlish speed: ${snapshot.speed.toFixed(2)}x`;
+      return true;
+    }
+
+    if (ch === ',' || full === ',') {
+      const snapshot = await this.youglishBridge.adjustAutoNextGap(180);
+      this.applyYouGlishSnapshot(snapshot);
+      this.runtimeNotice = `YouGlish switch delay: ${snapshot.autoNextGapMs}ms`;
+      return true;
+    }
+
+    if (ch === '.' || full === '.') {
+      const snapshot = await this.youglishBridge.adjustAutoNextGap(-180);
+      this.applyYouGlishSnapshot(snapshot);
+      this.runtimeNotice = `YouGlish switch delay: ${snapshot.autoNextGapMs}ms`;
       return true;
     }
 
@@ -1124,6 +1162,8 @@ export class App {
       phraseTranslation: this.youglishState.phraseTranslation,
       playerState: this.youglishState.playerState,
       videoId: this.youglishState.videoId,
+      speed: this.youglishState.speed,
+      autoNextGapMs: this.youglishState.autoNextGapMs,
       message: this.youglishState.message,
       error: this.youglishState.error,
       chunkIndex: this.chunkRadioState.currentIndex,

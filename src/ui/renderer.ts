@@ -32,6 +32,8 @@ export interface YouGlishRenderState {
   clipIndex: number;
   totalClips: number;
   consumedCount: number;
+  speed?: number;
+  autoNextGapMs?: number;
   phrase: string;
   phraseTranslation: string;
   playerState: string;
@@ -113,7 +115,7 @@ export function renderStatus(layout: AppLayout, status: StatusRenderState): void
 
   if (status.mode === 'youglish') {
     layout.statusBar.setContent(withNotice(
-      `YOUGLISH | ${status.currentDictId} | Ctrl+Y/Esc close | Space pause/play | [ prev | ] next | t translate phrase | r reload word | x restart bridge | q quit`,
+      `YOUGLISH | ${status.currentDictId} | Ctrl+Y/Esc close | Space pause/play | [ prev | ] next | - slower | = faster | , delay+ | . delay- | t translate phrase | r reload word | x restart bridge | q quit`,
       status.notice,
     ));
     return;
@@ -121,7 +123,7 @@ export function renderStatus(layout: AppLayout, status: StatusRenderState): void
 
   if (status.mode === 'youglish_chunks') {
     layout.statusBar.setContent(withNotice(
-      `CHUNKS | ${status.currentDictId} | Ctrl+O/Esc close | Space pause/play | n next chunk | b prev chunk | j jump | [ prev | ] next | t translate phrase | r reload chunk | x restart bridge | q quit`,
+      `CHUNKS | ${status.currentDictId} | Ctrl+O/Esc close | Space pause/play | n next chunk | b prev chunk | j jump | [ prev | ] next | - slower | = faster | , delay+ | . delay- | t translate phrase | r reload chunk | x restart bridge | q quit`,
       status.notice,
     ));
     return;
@@ -201,6 +203,8 @@ export function renderYouGlish(layout: AppLayout, state: YouGlishRenderState): v
   }
   lines.push(`Player         : ${safeText(state.playerState)}`);
   lines.push(`Video          : ${safeText(state.videoId || '-')}`);
+  lines.push(`Speed          : ${Number.isFinite(state.speed) ? Number(state.speed).toFixed(2) : '1.00'}x`);
+  lines.push(`Switch Delay   : ${Number.isFinite(state.autoNextGapMs) ? Math.round(Number(state.autoNextGapMs)) : 900}ms`);
   lines.push('');
   lines.push('Phrase');
   lines.push(`${safePhrase}`);
@@ -212,9 +216,9 @@ export function renderYouGlish(layout: AppLayout, state: YouGlishRenderState): v
   lines.push(`Bridge Error   : ${safeError}`);
   lines.push('');
   if (state.mode === 'chunks') {
-    lines.push('Keys: Ctrl+O/Esc close | Space pause/play | n next chunk | b prev chunk | j jump | [ prev | ] next | t translate phrase | r reload chunk | x restart bridge');
+    lines.push('Keys: Ctrl+O/Esc close | Space pause/play | n next chunk | b prev chunk | j jump | [ prev | ] next | - slower | = faster | , delay+ | . delay- | t translate phrase | r reload chunk | x restart bridge');
   } else {
-    lines.push('Keys: Ctrl+Y/Esc close | Space pause/play | [ prev | ] next | t translate phrase | r reload word | x restart bridge');
+    lines.push('Keys: Ctrl+Y/Esc close | Space pause/play | [ prev | ] next | - slower | = faster | , delay+ | . delay- | t translate phrase | r reload word | x restart bridge');
   }
 
   layout.youglishPanel.setContent(lines.join('\n'));

@@ -1,199 +1,204 @@
 # TermLex Trainer
 
-一个运行在终端里的英文训练器（TUI），以单词逐字输入训练为主，以间隔重复为复习调度，单词高频真实场景句子训练强化的工具，另附有高频chunks磨耳训练语感模式。
+A terminal-first English learning trainer (TUI) focused on character-by-character spelling practice, spaced repetition scheduling, and contextual listening. It also includes a high-frequency chunk listening mode powered by YouGlish.
 
-本项目基于 TypeScript + Node.js + neo-blessed 构建，不是网页应用，不依赖 React/Ink，而是一个可常驻终端交互的学习程序。
+Built with TypeScript + Node.js + neo-blessed. This is not a web app and does not use React/Ink.
 
-## 快速开始（30秒）
+## Quick Start (30 Seconds)
 
 ```bash
-git clone 
-cd termlex-trainer
+git clone https://github.com/GuoyanDlab/TermLex_Trainer.git
+cd TermLex_Trainer
 corepack enable
 pnpm install
-cp  .env
+cp .env.example .env
 pnpm run dev
 ```
 
-启动后可先这样体验：
+First interaction flow:
 
-- 在左侧词库区按 `j/k`（或 `↑/↓`）选词库，`Enter` 加载
-- `Tab` 切到右侧开始练习
-- `Ctrl+Y` 打开单词 YouGlish，`Ctrl+O` 打开 Chunk Radio
-- `q` 退出
+- In the left dataset panel, use `j/k` (or `↑/↓`) to pick a dataset, then press `Enter`.
+- Press `Tab` to move focus to the training panel.
+- Press `Ctrl+Y` to open Word YouGlish, or `Ctrl+O` to open Chunk Radio.
+- Press `q` to quit.
 
-## 产品定位
+## Product Goal
 
-- 终端内高频训练英文单词与语块
-- 左侧词库选择，右侧任务练习，底部状态栏提示
-- 基于记忆阶段与到期调度，不是简单顺序刷词
-- 支持发音、句子播放、YouGlish 音频语境训练
+- High-frequency training for English words and chunks in terminal.
+- Two-column workflow: dataset selection on the left, task practice on the right.
+- Memory-stage and due-time scheduling instead of naive linear drilling.
+- Built-in word pronunciation, sentence playback, and YouGlish audio context.
 
-## 功能概览
+## Feature Overview
 
-- 词库管理
-- 自动读取 `json/*.json`
-- 支持 `/` 搜索词库、`j/k` 或 `↑/↓` 选择、`Enter` 切换词库
+- Dataset management
+- Automatically loads `json/*.json`
+- Supports `/` search, `j/k` or `↑/↓` navigation, and `Enter` to switch dataset
 
-- 训练任务（MVP）
+- Training tasks (MVP)
 - `copy_typing`
 - `meaning_to_word`
-- `word_to_meaning` + 自评（`again/hard/good`）
+- `word_to_meaning` + self-rating (`again/hard/good`)
 
-- 记忆系统
-- 阶段：`new / encoding / learning / reviewing / mature / leech`
-- 本地进度：`data/progress.json`
-- 到期优先调度：learning/encoding/leech -> reviewing -> new -> mature
+- Memory system
+- Stages: `new / encoding / learning / reviewing / mature / leech`
+- Local progress file: `data/progress.json`
+- Due priority: learning/encoding/leech -> reviewing -> new -> mature
 
-- 音频能力
-- 单词发音：有道接口 + 本地缓存（`data/audio/`）
-- 句子发音：ElevenLabs（可配置多音色轮播）
+- Audio
+- Word pronunciation: Youdao API + local cache (`data/audio/`)
+- Sentence TTS: ElevenLabs (supports voice cycling)
 
-- YouGlish 单词模式
-- 以当前单词作为 query 拉取语料片段
-- 显示 phrase、clip 进度、翻译
+- YouGlish Word mode
+- Uses current word as query
+- Shows phrase, clip progress, and translation
 
-- YouGlish Chunk Radio 模式
-- query 来源：`chunks/chunks.json`
-- 每条 chunk 自动播放，播到目标 clip 数后自动切下一条
-- 若某条不足 20 clip，则播完该条最后一个 clip 自动切下一条
-- 播到最后一条 chunk 后自动循环到第 1 条
-- 支持手动上一条/下一条/跳转
-- 退出模式时记录当前位置，下次从上次位置继续
+- YouGlish Chunk Radio mode
+- Queries come from `chunks/chunks.json`
+- Auto-plays clips and auto-switches to next chunk after target clips
+- If a chunk has fewer than 20 clips, it switches right after the last clip
+- Loops back to chunk 1 after the last chunk
+- Supports manual previous/next/jump
+- Saves position on exit and resumes next time
 
-## 核心设计原理
+- Real-time YouGlish playback controls
+- Adjust playback speed while listening
+- Adjust auto-switch delay between clips
+- Shows current speed and delay values in overlay panel
 
-### 1) 词典数据清洗（输入可靠）
+## Core Design Principles
 
-读取 `json/*.json` 后统一 normalize：
+### 1) Dictionary normalization (reliable input)
 
-- `name` 缺失则跳过
-- `trans`/`e_mean` 非数组时转空数组
-- `usphone`/`ukphone`/`speech` 缺失转空字符串
-- 同词库按 `name`（不区分大小写）去重
-- `sentence` 支持从 `sentence` 或 `sentences[]` 兼容读取
+After loading `json/*.json`, data is normalized:
 
-对应代码：
+- Missing `name` entries are skipped
+- Non-array `trans` / `e_mean` are converted to empty arrays
+- Missing `usphone` / `ukphone` / `speech` become empty strings
+- Deduplicates by `name` (case-insensitive) within the same dictionary
+- `sentence` is read from either `sentence` or `sentences[]` (compat mode)
+
+Code:
 
 - `src/dict/loader.ts`
 - `src/dict/normalize.ts`
 
-### 2) 训练状态机（任务驱动）
+### 2) Task state machine (task-driven learning)
 
-根据单词阶段生成任务类型与重复目标：
+Task type and repeat target are generated from stage:
 
 - `new` -> `copy_typing`
 - `encoding/learning/reviewing/leech` -> `meaning_to_word`
 - `mature` -> `word_to_meaning`
 
-每轮输入都经过逐字符校验；错误轮不计入 repeat，正确轮才累计。
+Each round is checked character-by-character. Wrong rounds do not count toward repeat; only clean rounds do.
 
-对应代码：
+Code:
 
 - `src/session/task.ts`
 - `src/session/typing-engine.ts`
 - `src/session/session.ts`
 
-### 3) 记忆进度更新（可持续复习）
+### 3) Progress updates (sustainable review)
 
-评分键 `a/s/d` 会更新：
+Rating keys `a/s/d` update:
 
 - `stage`
 - `spellingLevel` / `meaningLevel`
 - `wrongCount` / `consecutiveCorrect`
 - `nextSpellingAt` / `nextMeaningAt`
 
-并持久化到 `data/progress.json`。
+All updates persist to `data/progress.json`.
 
-对应代码：
+Code:
 
 - `src/progress/progress-store.ts`
 - `src/session/session.ts`
 
-### 4) 到期调度（先练该练的）
+### 4) Due scheduling (practice what matters now)
 
-每次选词优先从“已到期且更重要”的阶段选择，避免机械刷词。
+Word selection prioritizes due and more important stages before everything else.
 
-对应代码：
+Code:
 
 - `src/progress/scheduler.ts`
 
-### 5) 音频播放架构（本地缓存 + 回退）
+### 5) Audio architecture (cache + fallback)
 
-- 单词：有道接口下载 mp3 到本地缓存，再播放
-- 句子：ElevenLabs 合成并缓存，支持多 VOICE_ID 循环
-- macOS 以 `afplay` 为主，必要时可回退 `say`
+- Word audio: download MP3 from Youdao and cache locally
+- Sentence audio: generate with ElevenLabs and cache (with multi-voice rotation)
+- On macOS, `afplay` is preferred; `say` can be used as fallback
 
-对应代码：
+Code:
 
 - `src/audio/voice-player.ts`
 
-### 6) YouGlish Bridge（浏览器桥接）
+### 6) YouGlish bridge (browser bridge layer)
 
-- 用 Playwright 启动持久化浏览器上下文
-- 注入 YouGlish widget，采集 snapshot（clip、phrase、状态）
-- 具备超时重试、bridge 重启等自恢复能力
+- Uses Playwright persistent browser context
+- Injects YouGlish widget and reads snapshots (clip/phrase/state)
+- Includes timeout retry and manual bridge restart recovery
 
-对应代码：
+Code:
 
 - `src/youglish/bridge.ts`
 - `src/app.ts`
 
-### 7) Chunk Radio（语块连续听力）
+### 7) Chunk Radio (continuous chunk listening)
 
-- 读取 `chunks/chunks.json`（字符串数组）
-- 按 clip 进度驱动自动切换（不是按 caption 次数）
-- 退出时保存 chunk 游标到 `data/chunks-progress.json`
+- Loads `chunks/chunks.json` (string array)
+- Auto-switching is clip-progress based (not caption-count based)
+- Saves chunk cursor to `data/chunks-progress.json` on exit
 
-对应代码：
+Code:
 
 - `src/chunks/loader.ts`
 - `src/chunks/progress-store.ts`
 - `src/app.ts`
 
-## 环境要求
+## Requirements
 
-- Node.js 18+（推荐 20+）
+- Node.js 18+ (Node.js 20+ recommended)
 - `pnpm`
-- 推荐 macOS（当前音频播放路径对 macOS 最友好）
-- 本地可用 Chrome/Chromium/Edge（用于 YouGlish bridge）
+- macOS recommended (current audio path is optimized for macOS)
+- Local Chrome/Chromium/Edge (for YouGlish bridge)
 
-## 安装
+## Installation
 
 ```bash
-git clone <你的仓库地址>
-cd termlex-trainer
+git clone https://github.com/GuoyanDlab/TermLex_Trainer.git
+cd TermLex_Trainer
 corepack enable
 pnpm install
 cp .env.example .env
 ```
 
-然后按需编辑 `.env`（至少建议配置 `ELEVENLABS_API_KEY`，用于句子高质量发音）。
+Then edit `.env` as needed. At minimum, set `ELEVENLABS_API_KEY` for high-quality sentence TTS.
 
-## 启动与构建
+## Run and Build
 
-开发模式：
+Development mode:
 
 ```bash
 pnpm run dev
 ```
 
-构建并运行：
+Build and run:
 
 ```bash
 pnpm run build
 pnpm start
 ```
 
-句子补全工具：
+Sentence helper:
 
 ```bash
 pnpm run sentence:add -- <dictId> <word>
 ```
 
-## 环境变量说明
+## Environment Variables
 
-请参考 `.env.example`，常用项：
+See `.env.example`. Common options:
 
 - `ELEVENLABS_API_KEY`
 - `ELEVENLABS_VOICE_IDS`
@@ -204,90 +209,117 @@ pnpm run sentence:add -- <dictId> <word>
 - `YOUGLISH_HEADLESS`
 - `YOUGLISH_AUTO_NEXT`
 - `YOUGLISH_AUTO_NEXT_GAP_MS`
+- `YOUGLISH_DEFAULT_SPEED`
 
-## 键位说明
+## Keybindings
 
-### 全局
+### Global
 
-- `Tab`：切换左右焦点
-- `/`：词库搜索
-- `Enter`：加载词库
-- `q`：退出（非输入态）
-- `Shift+Q` 或 `Ctrl+C`：退出
-- `Ctrl+E`：为当前词查询并写入 sentence
+- `Tab`: switch focus between dataset and task panel
+- `/`: dataset search
+- `Enter`: load selected dataset
+- `q`: quit (outside input flow)
+- `Shift+Q` or `Ctrl+C`: force quit
+- `Ctrl+E`: query and write sentence for current word
 
-### 训练模式
+### Training Modes
 
-- 输入/释义提交：`Enter`
-- 回放单词：`Shift+P`
-- 静音开关：`Shift+M`
-- 美音/英音切换：`Shift+U`
-- 重载词库：`Shift+R`
+- Submit typing/meaning input: `Enter`
+- Replay current word: `Shift+P`
+- Toggle mute: `Shift+M`
+- Switch US/UK accent: `Shift+U`
+- Reload dictionary: `Shift+R`
 
-### Rating 模式
+### Rating Mode
 
-- `a`：again
-- `s`：hard
-- `d`：good
-- `e`：ElevenLabs 句子发音（按配置音色循环）
-- `f`：默认句子发音
-- `t`：翻译句子
+- `a`: again
+- `s`: hard
+- `d`: good
+- `e`: ElevenLabs sentence playback (voice cycling)
+- `f`: default sentence playback
+- `t`: translate sentence
 
-### YouGlish 单词模式
+### YouGlish Word Mode
 
-- 打开：`Ctrl+Y`
-- 关闭：`Esc` / `Ctrl+Y`
-- 播放/暂停：`Space`
-- 上一/下一 clip：`[` / `]`
-- 翻译 phrase：`t`
-- 重查当前单词：`r`
-- 重启 bridge：`x`
+- Open: `Ctrl+Y`
+- Close: `Esc` / `Ctrl+Y`
+- Play/pause: `Space`
+- Previous/next clip: `[` / `]`
+- Slower/faster playback: `-` / `=` (real-time)
+- Increase/decrease auto-switch delay: `,` / `.` (real-time)
+- Translate phrase: `t`
+- Reload current word query: `r`
+- Restart bridge: `x`
 
-### YouGlish Chunk Radio 模式
+### YouGlish Chunk Radio Mode
 
-- 打开：`Ctrl+O`
-- 关闭：`Esc` / `Ctrl+O`
-- 播放/暂停：`Space`
-- 下一/上一条 chunk：`n` / `b`
-- 跳转到第 N 条 chunk：`j`（输入数字后回车）
-- 上一/下一 clip：`[` / `]`
-- 翻译 phrase：`t`
-- 重查当前 chunk：`r`
-- 重启 bridge：`x`
+- Open: `Ctrl+O`
+- Close: `Esc` / `Ctrl+O`
+- Play/pause: `Space`
+- Next/previous chunk: `n` / `b`
+- Jump to chunk N: `j` (input number, then `Enter`)
+- Previous/next clip: `[` / `]`
+- Slower/faster playback: `-` / `=` (real-time)
+- Increase/decrease auto-switch delay: `,` / `.` (real-time)
+- Translate phrase: `t`
+- Reload current chunk query: `r`
+- Restart bridge: `x`
 
-## 数据文件说明
+## Real-time Playback Controls (YouGlish)
 
-- 词库来源：`json/*.json`
-- 语块来源：`chunks/chunks.json`
-- 单词进度：`data/progress.json`
-- Chunk 续播进度：`data/chunks-progress.json`
-- 音频缓存：`data/audio/`
-- YouGlish 浏览器 profile：`data/youglish/profile/`
+These controls work in both YouGlish Word mode and Chunk Radio mode:
 
-## 常见问题
+- `-`: decrease speed
+- `=` (or `+`): increase speed
+- `,`: increase auto-switch delay (switch later)
+- `.`: decrease auto-switch delay (switch sooner)
 
-### 1) YouGlish 出现 `ready-timeout-giveup`
+Current values are displayed in the YouGlish overlay:
 
-通常不是“你断网”，而是浏览器 profile/widget 状态卡住。
+- `Speed`: current playback rate (e.g. `0.92x`)
+- `Switch Delay`: current clip auto-switch delay in milliseconds (e.g. `900ms`)
 
-建议顺序：
+Default behavior:
 
-1. 在 YouGlish 面板按 `x` 重启 bridge
-2. 仍无效时，删除一次 `data/youglish/profile/` 后重启
+- Default speed: `0.92x`
+- Default switch delay: `900ms`
 
-### 2) 为什么删 profile 后会恢复？
+You can also set defaults through environment variables:
 
-`profile` 是浏览器持久化目录，含 cookie/localStorage/service worker 等状态。
-状态脏了会影响 player ready，删除后会重建为干净状态。
+- `YOUGLISH_DEFAULT_SPEED`
+- `YOUGLISH_AUTO_NEXT_GAP_MS`
 
-不需要频繁删除，只有在 `x` 重启也无法恢复时再删。
+## Data Files
 
-### 3) 非 macOS 没声音
+- Dictionaries: `json/*.json`
+- Chunks: `chunks/chunks.json`
+- Word progress: `data/progress.json`
+- Chunk radio progress: `data/chunks-progress.json`
+- Audio cache: `data/audio/`
+- YouGlish browser profile: `data/youglish/profile/`
 
-当前 MVP 的播放路径以 macOS 为主，非 macOS 音频后端仍有待完善。
-核心训练流程和 YouGlish 文本/控制不受影响。
+## FAQ
 
-## 目录结构
+### 1) YouGlish shows `ready-timeout-giveup`
+
+This is usually not a network outage. Most often the local browser profile/widget state is stuck.
+
+Recommended order:
+
+1. Press `x` in YouGlish panel to restart bridge.
+2. If still broken, delete `data/youglish/profile/` once and restart app.
+
+### 2) Why does deleting profile fix it?
+
+`profile` is a persistent browser directory with cookies/localStorage/service workers. If those states are corrupted, player-ready can fail. Deleting it recreates a clean profile.
+
+You do not need to delete it often. Only do this when bridge restart (`x`) cannot recover.
+
+### 3) No audio on non-macOS
+
+Current MVP audio backend is optimized for macOS. Core training logic and YouGlish text/control still work on other platforms.
+
+## Directory Structure
 
 ```text
 src/
@@ -314,20 +346,20 @@ data/
   youglish/
 ```
 
-## 当前版本范围（MVP）
+## Current MVP Scope
 
-已实现：
+Implemented:
 
-- 左侧词库列表 + 搜索 + 切换
-- 右侧训练任务（copy_typing / meaning_to_word / word_to_meaning + rating）
-- 逐字符校验 + repeat 机制
-- 本地进度持久化
-- 有道单词发音 + ElevenLabs 句子发音
-- YouGlish 单词模式
-- YouGlish Chunk Radio 模式
+- Left dataset list with search/switch
+- Right-side training tasks (`copy_typing / meaning_to_word / word_to_meaning + rating`)
+- Character-level validation + repeat mechanism
+- Local progress persistence
+- Youdao word pronunciation + ElevenLabs sentence TTS
+- YouGlish Word mode
+- YouGlish Chunk Radio mode
 
-后续可扩展：
+Planned extensions:
 
-- `choice / dictation / exam` 任务
-- 更完善的跨平台音频后端
-- 更智能的 YouGlish profile 自愈策略
+- `choice / dictation / exam` tasks
+- Better cross-platform audio backend
+- Smarter YouGlish profile self-healing
