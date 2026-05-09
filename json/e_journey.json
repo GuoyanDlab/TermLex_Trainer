@@ -1,0 +1,2433 @@
+[
+  {
+    "name": "convention",
+    "trans": [
+      "大会。event来到的事件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of meeting formally"
+    ],
+    "speech": "noun",
+    "sentence": "The convention was held in Geneva."
+  },
+  {
+    "name": "aboard",
+    "trans": [
+      "在(船、飞机等)上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "on a ship, train, plane or other vehicle"
+    ],
+    "speech": "adverb",
+    "sentence": "We all climbed aboard."
+  },
+  {
+    "name": "auto",
+    "trans": [
+      "汽车.automobile汽车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a motor vehicle with four wheels"
+    ],
+    "speech": "noun",
+    "sentence": "My brother is an auto mechanic."
+  },
+  {
+    "name": "express",
+    "trans": [
+      "表达，",
+      "快车， 快运， 快递"
+    ],
+    "usphone": "ɪk'sprɛs",
+    "ukphone": "ɪk'spres",
+    "e_mean": [
+      "communicate beliefs or opinions"
+    ],
+    "speech": "verb",
+    "sentence": "I took the express into town."
+  },
+  {
+    "name": "coach",
+    "trans": [
+      "教练；指导；长途汽车",
+      "训练； 辅导"
+    ],
+    "usphone": "kotʃ",
+    "ukphone": "kəutʃ",
+    "e_mean": [
+      "a vehicle carrying many passengers"
+    ],
+    "speech": "noun",
+    "sentence": "John flew coach to Vienna, but first-class back home."
+  },
+  {
+    "name": "truck",
+    "trans": [
+      "卡车，敞篷货运火车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an automotive vehicle suitable for hauling"
+    ],
+    "speech": "noun",
+    "sentence": "Mexican open-bed trucks haul most of the fresh produce that comes into the United States from Mexico."
+  },
+  {
+    "name": "van",
+    "trans": [
+      "运货车"
+    ],
+    "usphone": "væn",
+    "ukphone": "væn",
+    "e_mean": [
+      "a closed railroad car that carries baggage or freight"
+    ],
+    "speech": "noun",
+    "sentence": "The van sped down the road."
+  },
+  {
+    "name": "carriage",
+    "trans": [
+      "四轮马车，英客运火车的)车厢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a vehicle with wheels drawn by one or more horses"
+    ],
+    "speech": "noun",
+    "sentence": "The carriage ride was very romantic."
+  },
+  {
+    "name": "cart",
+    "trans": [
+      "运货马车、手推车，购物车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a heavy open wagon usually having two wheels and drawn by an animal"
+    ],
+    "speech": "noun",
+    "sentence": "The grocer delivered his goods by cart."
+  },
+  {
+    "name": "cycle",
+    "trans": [
+      "周期，自行车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a periodically repeated sequence of events"
+    ],
+    "speech": "noun",
+    "sentence": "the cycle of the seasons, or of the year"
+  },
+  {
+    "name": "navigate",
+    "trans": [
+      "航行，横渡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "direct carefully and safely"
+    ],
+    "speech": "verb",
+    "sentence": "He navigated the bomber to the Ruhr."
+  },
+  {
+    "name": "journey",
+    "trans": [
+      "旅行，历程"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of traveling from one place to another"
+    ],
+    "speech": "noun",
+    "sentence": "my journey of dealing with grief"
+  },
+  {
+    "name": "parade",
+    "trans": [
+      "游行/炫耀；庆祝游行/列队行进/炫耀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a ceremonial procession including people marching"
+    ],
+    "speech": "noun",
+    "sentence": "The floats and horses in the parade were impressive, but the marching bands were really amazing."
+  },
+  {
+    "name": "haunt",
+    "trans": [
+      "常出没于；常去的地方"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "follow stealthily or pursue like a ghost"
+    ],
+    "speech": "verb",
+    "sentence": "I went back the town I used to live and visited all my old haunts."
+  },
+  {
+    "name": "attraction",
+    "trans": [
+      "爱慕， 吸引； 吸引力； 具有吸引力的事"
+    ],
+    "usphone": "ə'trækʃən",
+    "ukphone": "ə'trækʃn",
+    "e_mean": [
+      "the quality of arousing interest"
+    ],
+    "speech": "noun",
+    "sentence": "The Moon is held in its orbit by the attraction of the Earth's gravity."
+  },
+  {
+    "name": "attractive",
+    "trans": [
+      "吸引的， 有吸引力的； 引起注意的"
+    ],
+    "usphone": "ə'træktɪv",
+    "ukphone": "ə'træktɪv",
+    "e_mean": [
+      "pleasing to the eye or mind as through beauty or charm"
+    ],
+    "speech": "adjective",
+    "sentence": "That's a very attractive offer."
+  },
+  {
+    "name": "memorial",
+    "trans": [
+      "纪念碑；纪念的/悼念的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a recognition of meritorious service"
+    ],
+    "speech": "noun",
+    "sentence": "a memorial building"
+  },
+  {
+    "name": "commemorate",
+    "trans": [
+      "纪念"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "call to remembrance"
+    ],
+    "speech": "verb",
+    "sentence": "On November 11th we commemorate the fallen with a march."
+  },
+  {
+    "name": "pyramid",
+    "trans": [
+      "金字塔，棱锥体[ˈpɪrəmɪd]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a polyhedron having a polygonal base and triangular sides"
+    ],
+    "speech": "noun",
+    "sentence": "Build your pyramid with all cards face down, except the cards in the bottom row."
+  },
+  {
+    "name": "helicopter",
+    "trans": [
+      "直升飞机"
+    ],
+    "usphone": "'hɛlɪkɑptɚ",
+    "ukphone": "'helɪkɒptə(r)",
+    "e_mean": [
+      "an aircraft without wings that obtains its lift from the rotation of overhead blades"
+    ],
+    "speech": "noun",
+    "sentence": "We flew over the city in a helicopter."
+  },
+  {
+    "name": "jet",
+    "trans": [
+      "喷气式飞机；喷射口"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a hard black form of lignite that takes a brilliant polish"
+    ],
+    "speech": "noun",
+    "sentence": "Farmers may either dip or jet sheep with chemicals."
+  },
+  {
+    "name": "parachute",
+    "trans": [
+      "降落伞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cloth canopy that fills with air to slow a fall"
+    ],
+    "speech": "noun",
+    "sentence": "The soldiers were parachuted behind enemy lines."
+  },
+  {
+    "name": "pilot",
+    "trans": [
+      "飞行员，引航员",
+      "驾驶， 为…引航"
+    ],
+    "usphone": "'paɪlət",
+    "ukphone": "'paɪlət",
+    "e_mean": [
+      "someone who is licensed to operate an aircraft in flight"
+    ],
+    "speech": "noun",
+    "sentence": "We would like to run a pilot in your facility before rolling out the program citywide."
+  },
+  {
+    "name": "baggage",
+    "trans": [
+      "行李.checkinone's~托运sb的行李"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cases used to carry belongings when traveling"
+    ],
+    "speech": "noun",
+    "sentence": "Please put your baggage in the trunk."
+  },
+  {
+    "name": "rack",
+    "trans": [
+      "搁物架，挂物架"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a framework for holding objects"
+    ],
+    "speech": "noun",
+    "sentence": "I bought a rack of lamb at the butcher's yesterday."
+  },
+  {
+    "name": "freight",
+    "trans": [
+      "货物",
+      "运送； 货运"
+    ],
+    "usphone": "fret",
+    "ukphone": "freɪt",
+    "e_mean": [
+      "goods carried by a large vehicle"
+    ],
+    "speech": "noun",
+    "sentence": "The freight was more expensive for cars than for coal."
+  },
+  {
+    "name": "fare",
+    "trans": [
+      "进展",
+      "费，票价"
+    ],
+    "usphone": "fɛr",
+    "ukphone": "feə(r)",
+    "e_mean": [
+      "the sum charged for riding in a public conveyance"
+    ],
+    "speech": "noun",
+    "sentence": "Behold! A knight fares forth."
+  },
+  {
+    "name": "route",
+    "trans": [
+      "路线； 路程"
+    ],
+    "usphone": "raʊt",
+    "ukphone": "ruːt;raut",
+    "e_mean": [
+      "an established line of travel or access"
+    ],
+    "speech": "noun",
+    "sentence": "The route was used so much that it formed a rut."
+  },
+  {
+    "name": "passage",
+    "trans": [
+      "通过/走廊.block~ofinformation\n封锁消息"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of moving from one state or place to the next"
+    ],
+    "speech": "noun",
+    "sentence": "She struggled to play the difficult passages."
+  },
+  {
+    "name": "path",
+    "trans": [
+      "小路"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an established line of travel or access"
+    ],
+    "speech": "noun",
+    "sentence": "the path of a meteor, of a caravan, or of a storm"
+  },
+  {
+    "name": "lane",
+    "trans": [
+      "小巷； 行车道"
+    ],
+    "usphone": "len",
+    "ukphone": "leɪn",
+    "e_mean": [
+      "a narrow way or road"
+    ],
+    "speech": "noun",
+    "sentence": "And it's Uncle Mo in front by two as they come to the top of the lane."
+  },
+  {
+    "name": "avenue",
+    "trans": [
+      "林阴道， 大街； 方法， 途径"
+    ],
+    "usphone": "'ævənu",
+    "ukphone": "'ævənjuː",
+    "e_mean": [
+      "a wide street or thoroughfare"
+    ],
+    "speech": "noun",
+    "sentence": "There are several avenues by which we can approach this problem."
+  },
+  {
+    "name": "curb",
+    "trans": [
+      "控制，抑制，约束",
+      "路缘， 镶边石； 马勒； 起限制作用的事物"
+    ],
+    "usphone": "kɝb",
+    "ukphone": "kɜːb",
+    "e_mean": [
+      "the act of restraining power or action or limiting excess"
+    ],
+    "speech": "noun",
+    "sentence": "\"Curb your dog.\""
+  },
+  {
+    "name": "signpost",
+    "trans": [
+      "在…设置路标",
+      "路标"
+    ],
+    "usphone": "'saɪnpost",
+    "ukphone": "'saɪnpəust",
+    "e_mean": [
+      "a post bearing a sign that gives directions or shows the way"
+    ],
+    "speech": "noun",
+    "sentence": "The route wasn't signposted, and we got lost on the way."
+  },
+  {
+    "name": "dock",
+    "trans": [
+      "码头；船坞",
+      "（使）〔船〕进港，（使）停靠码头"
+    ],
+    "usphone": "dɑk",
+    "ukphone": "dɒk",
+    "e_mean": [
+      "a landing in a harbor where ships are loaded and unloaded"
+    ],
+    "speech": "noun",
+    "sentence": "to dock an entail"
+  },
+  {
+    "name": "anchor",
+    "trans": [
+      "抛锚； 使固定， 系牢； 使基于； 主持",
+      "锚；给人安全感的人；精神支柱；顶梁柱"
+    ],
+    "usphone": "'æŋkɚ",
+    "ukphone": "'æŋkə(r)",
+    "e_mean": [
+      "a mechanical device that prevents a vessel from moving"
+    ],
+    "speech": "noun",
+    "sentence": "Our ship (or the captain) anchored in the stream."
+  },
+  {
+    "name": "submerge",
+    "trans": [
+      "浸没； 潜入水中"
+    ],
+    "usphone": "səb'mɝdʒ",
+    "ukphone": "səb'mɜːdʒ",
+    "e_mean": [
+      "put under water"
+    ],
+    "speech": "verb",
+    "sentence": "The submarine submerged in the water."
+  },
+  {
+    "name": "sailor",
+    "trans": [
+      "海员，水手[ˈseɪler]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any member of a ship's crew"
+    ],
+    "speech": "noun",
+    "sentence": "He's a talented sailor and has spent many years at sea."
+  },
+  {
+    "name": "carrier",
+    "trans": [
+      "航空母舰；运输工具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person or firm transporting people or goods or messages"
+    ],
+    "speech": "noun",
+    "sentence": "aircraft carrier"
+  },
+  {
+    "name": "vessel",
+    "trans": [
+      "〈总称〉船只； 容器； 血管"
+    ],
+    "usphone": "'vɛsl",
+    "ukphone": "'vesl",
+    "e_mean": [
+      "an object used as a container, especially for liquids"
+    ],
+    "speech": "noun",
+    "sentence": "Blood and lymph vessels are found in humans; xylem and phloem vessels are found in plants."
+  },
+  {
+    "name": "ferry",
+    "trans": [
+      "渡运",
+      "渡船；摆渡"
+    ],
+    "usphone": "'fɛri",
+    "ukphone": "'feri",
+    "e_mean": [
+      "a boat transporting people or vehicles over a body of water"
+    ],
+    "speech": "noun",
+    "sentence": "Trucks plowed through the water to ferry flood victims to safety."
+  },
+  {
+    "name": "sail",
+    "trans": [
+      "航行；驾驶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a large piece of fabric used to propel a vessel"
+    ],
+    "speech": "noun",
+    "sentence": "Take in sail: a storm is coming."
+  },
+  {
+    "name": "raft",
+    "trans": [
+      "木筏，木排"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a flat float that can be used for transport"
+    ],
+    "speech": "noun",
+    "sentence": "An inflatable raft. A log raft."
+  },
+  {
+    "name": "oar",
+    "trans": [
+      "桨认用桨划(船)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an implement used to propel or steer a boat"
+    ],
+    "speech": "noun",
+    "sentence": "He is a good oar."
+  },
+  {
+    "name": "deck",
+    "trans": [
+      "甲板装饰.~sth.out装饰某处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of various platforms built into a sailing vessel"
+    ],
+    "speech": "noun",
+    "sentence": "to swab the deck"
+  },
+  {
+    "name": "bow",
+    "trans": [
+      "船头鞠躬"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "something curved in shape"
+    ],
+    "speech": "noun",
+    "sentence": "The musician bowed his violin expertly."
+  },
+  {
+    "name": "recycle",
+    "trans": [
+      "回收，再利用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "use again after processing"
+    ],
+    "speech": "verb",
+    "sentence": "Both paper and plastic can be recycled."
+  },
+  {
+    "name": "garage",
+    "trans": [
+      "汽车修理厂，车库"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an outbuilding for housing automobiles"
+    ],
+    "speech": "noun",
+    "sentence": "We garaged the convertible during the monsoon months."
+  },
+  {
+    "name": "motor",
+    "trans": [
+      "发动机；机动的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "machine that creates mechanical energy and imparts movement"
+    ],
+    "speech": "noun",
+    "sentence": "Nice motor!"
+  },
+  {
+    "name": "embark",
+    "trans": [
+      "上船或飞机； 从事"
+    ],
+    "usphone": "ɪm'bɑrk",
+    "ukphone": "ɪm'bɑːk",
+    "e_mean": [
+      "go on board"
+    ],
+    "speech": "verb",
+    "sentence": "All passengers please embark now."
+  },
+  {
+    "name": "ditch",
+    "trans": [
+      "沟，渠抛弃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a long narrow excavation in the earth"
+    ],
+    "speech": "noun",
+    "sentence": "Digging ditches has long been considered one of the most demanding forms of manual labor."
+  },
+  {
+    "name": "railroad",
+    "trans": [
+      "铁路，铁路公司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a line of track providing a runway for wheels"
+    ],
+    "speech": "noun",
+    "sentence": "Many railroads roughly follow the trace of older land - and/or water roads"
+  },
+  {
+    "name": "underground",
+    "trans": [
+      "在地下",
+      "地下的",
+      "地铁[ˌʌndə'graund]"
+    ],
+    "usphone": "ʌndɚˈɡraʊnd",
+    "ukphone": "'ʌndəgrəund",
+    "e_mean": [
+      "beneath the surface of the earth"
+    ],
+    "speech": "adverb",
+    "sentence": "the French underground during World War II"
+  },
+  {
+    "name": "rail",
+    "trans": [
+      "栏杆，铁路路轨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a horizontal bar, usually of wood or metal"
+    ],
+    "speech": "noun",
+    "sentence": "We travelled to the seaside by rail."
+  },
+  {
+    "name": "depart",
+    "trans": [
+      "离开， 起程"
+    ],
+    "usphone": "dɪ'pɑrt",
+    "ukphone": "dɪ'pɑːt",
+    "e_mean": [
+      "go away or leave"
+    ],
+    "speech": "verb",
+    "sentence": "His latest statements seemed to depart from party policy somewhat."
+  },
+  {
+    "name": "arrive",
+    "trans": [
+      "到达；取得成功"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "reach a destination"
+    ],
+    "speech": "verb",
+    "sentence": "He arrived home for two days."
+  },
+  {
+    "name": "delay",
+    "trans": [
+      "耽搁， 延迟， 延期， 迟滞"
+    ],
+    "usphone": "dɪ'le",
+    "ukphone": "dɪ'leɪ",
+    "e_mean": [
+      "time during which some action is awaited"
+    ],
+    "speech": "noun",
+    "sentence": "the delay before the echo of a sound"
+  },
+  {
+    "name": "defer",
+    "trans": [
+      "推迟/拖延.~payment拖延付款"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "yield to another's wish or opinion"
+    ],
+    "speech": "verb",
+    "sentence": "We're going to defer the decision until we have all the facts."
+  },
+  {
+    "name": "lull",
+    "trans": [
+      "间歇， 暂停； 平静期"
+    ],
+    "usphone": "lʌl",
+    "ukphone": "lʌl",
+    "e_mean": [
+      "make calm or still"
+    ],
+    "speech": "verb",
+    "sentence": "The storm lulled."
+  },
+  {
+    "name": "expire",
+    "trans": [
+      "期满； 终止"
+    ],
+    "usphone": "ɪk'spaɪɚ",
+    "ukphone": "ɪk'spaɪə(r)",
+    "e_mean": [
+      "lose validity"
+    ],
+    "speech": "verb",
+    "sentence": "The patient expired in hospital."
+  },
+  {
+    "name": "due",
+    "trans": [
+      "到期的， 预期的； 应有的， 应得的； 正当的"
+    ],
+    "usphone": "du",
+    "ukphone": "djuː",
+    "e_mean": [
+      "that which is deserved or owed"
+    ],
+    "speech": "noun",
+    "sentence": "Give him his due — he is a good actor."
+  },
+  {
+    "name": "overdue",
+    "trans": [
+      "过期未付的； 逾期的； 过度的， 过火的； 迟到的， 延误的"
+    ],
+    "usphone": "'ovɚ'dʊ",
+    "ukphone": "ˌəuvə'djuː",
+    "e_mean": [
+      "not paid at the scheduled time"
+    ],
+    "speech": "adjective",
+    "sentence": "his library books were three days overdue; my car is overdue for an oil change; she finally left on a long overdue vacation"
+  },
+  {
+    "name": "horsepower",
+    "trans": [
+      "马力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a unit of power equal to 746 watts"
+    ],
+    "speech": "noun",
+    "sentence": "political horsepower"
+  },
+  {
+    "name": "wheel",
+    "trans": [
+      "方向盘；车轮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a simple machine consisting of a circular frame with spokes (or a solid disc) that can rotate on a shaft or axle (as in vehicles or other machines)"
+    ],
+    "speech": "noun",
+    "sentence": "the wheel of life"
+  },
+  {
+    "name": "brake",
+    "trans": [
+      "车闸/刹车；刹车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a restraint used to slow or stop a vehicle"
+    ],
+    "speech": "noun",
+    "sentence": "The farmer's son brakes the flax while mother brakes the bread dough"
+  },
+  {
+    "name": "honk",
+    "trans": [
+      "喇叭声/鹅叫;按(汽车喇叭)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the cry of a goose (or any sound resembling this)"
+    ],
+    "speech": "noun",
+    "sentence": "They stood and observed how long it took for the other cars to honk."
+  },
+  {
+    "name": "crew",
+    "trans": [
+      "轮船/飞机的)全体工作人员,\n(有专门技术的)一组工作人员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an organized group of workers"
+    ],
+    "speech": "noun",
+    "sentence": "He’s been crowing all day about winning the game of cards."
+  },
+  {
+    "name": "steward",
+    "trans": [
+      "[ˈstjuːəd]男乘务员；管家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "someone who manages property or affairs for someone else"
+    ],
+    "speech": "noun",
+    "sentence": "a steward in a Methodist church"
+  },
+  {
+    "name": "emergency",
+    "trans": [
+      "紧急事件;应急的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a sudden unforeseen crisis that requires immediate action"
+    ],
+    "speech": "noun",
+    "sentence": "Cardiac arrest is an emergency and if you find someone in cardiac arrest you should call 999 immediately."
+  },
+  {
+    "name": "wreck",
+    "trans": [
+      "使失事/破坏;失事的船只"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "something or someone that has suffered ruin or dilapidation"
+    ],
+    "speech": "noun",
+    "sentence": "He was an emotional wreck after the death of his wife."
+  },
+  {
+    "name": "crush",
+    "trans": [
+      "碾碎； 压服， 压垮； 镇压， 制服； 压碎， 压坏"
+    ],
+    "usphone": "krʌʃ",
+    "ukphone": "krʌʃ",
+    "e_mean": [
+      "compress with violence, out of natural shape or condition"
+    ],
+    "speech": "verb",
+    "sentence": "a crush at a reception"
+  },
+  {
+    "name": "crash",
+    "trans": [
+      "碰撞；冲，闯；倒下，坠落；发出撞击声；垮台，破产",
+      "速成的",
+      "碰撞；坠落，坠毁；破裂声，撞击声"
+    ],
+    "usphone": "kræʃ",
+    "ukphone": "kræʃ",
+    "e_mean": [
+      "break violently or noisily"
+    ],
+    "speech": "verb",
+    "sentence": "After the lightning came the crash of thunder."
+  },
+  {
+    "name": "dash",
+    "trans": [
+      "飞奔，猛冲；猛掷；使破灭，使沮丧",
+      "飞奔， 猛冲； 破折号； 精力， 干劲"
+    ],
+    "usphone": "dæʃ",
+    "ukphone": "dæʃ",
+    "e_mean": [
+      "run or move very quickly"
+    ],
+    "speech": "verb",
+    "sentence": "Add a dash of vinegar."
+  },
+  {
+    "name": "appear",
+    "trans": [
+      "出现， 显露， 公开露面； 出场， 问世； 仿佛， 似乎"
+    ],
+    "usphone": "ə'pɪr",
+    "ukphone": "ə'pɪə(r)",
+    "e_mean": [
+      "come into sight or view"
+    ],
+    "speech": "verb",
+    "sentence": "A great writer appeared at that time."
+  },
+  {
+    "name": "vanish",
+    "trans": [
+      "突然消失； 不复存在， 消逝"
+    ],
+    "usphone": "'vænɪʃ",
+    "ukphone": "'vænɪʃ",
+    "e_mean": [
+      "become invisible or unnoticeable"
+    ],
+    "speech": "verb",
+    "sentence": "a as in ale ordinarily ends with a vanish of i as in ill."
+  },
+  {
+    "name": "hazard",
+    "trans": [
+      "尝试着做； 冒…风险",
+      "危险，冒险"
+    ],
+    "usphone": "'hæzɚd",
+    "ukphone": "'hæzəd",
+    "e_mean": [
+      "an unpredictable phenomenon that causes a certain result"
+    ],
+    "speech": "noun",
+    "sentence": "He encountered the enemy at the hazard of his reputation and life."
+  },
+  {
+    "name": "harbour",
+    "trans": [
+      "停泊； 隐匿",
+      "港湾"
+    ],
+    "usphone": "hɑrbɚ",
+    "ukphone": "'hɑːbə(r)",
+    "e_mean": [
+      "a sheltered port where ships can take on or discharge cargo"
+    ],
+    "speech": "noun",
+    "sentence": "The neighborhood is a well-known harbor for petty thieves."
+  },
+  {
+    "name": "post",
+    "trans": [
+      "邮件/职位.postman邮递员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "piece of timber or metal fixed firmly in an upright position"
+    ],
+    "speech": "noun",
+    "sentence": "ram a post into the ground"
+  },
+  {
+    "name": "stamp",
+    "trans": [
+      "跺，重踏；在…上盖；"
+    ],
+    "usphone": "stæmp",
+    "ukphone": "stæmp",
+    "e_mean": [
+      "walk heavily"
+    ],
+    "speech": "verb",
+    "sentence": "The horse gave two quick stamps and rose up on its hind legs."
+  },
+  {
+    "name": "packet",
+    "trans": [
+      "[英]包装盒/小件包裹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small package or bundle"
+    ],
+    "speech": "noun",
+    "sentence": "Don't throw the crisp packet on the floor!"
+  },
+  {
+    "name": "package",
+    "trans": [
+      "包裹/[美]盒/包；包装"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a wrapped container"
+    ],
+    "speech": "noun",
+    "sentence": "Did you test the software package to ensure completeness?"
+  },
+  {
+    "name": "pack",
+    "trans": [
+      "打包，收拾；包装，包裹；塞满",
+      "包"
+    ],
+    "usphone": "pæk",
+    "ukphone": "pæk",
+    "e_mean": [
+      "a convenient package or parcel (as of cigarettes or film)"
+    ],
+    "speech": "noun",
+    "sentence": "The horses carried the packs across the plain."
+  },
+  {
+    "name": "bind",
+    "trans": [
+      "捆绑， 系； 约束； 凝结"
+    ],
+    "usphone": "baɪnd",
+    "ukphone": "baɪnd",
+    "e_mean": [
+      "secure with or as if with ropes"
+    ],
+    "speech": "verb",
+    "sentence": "the Maróczy Bind"
+  },
+  {
+    "name": "parcel",
+    "trans": [
+      "包裹"
+    ],
+    "usphone": "'pɑrsl",
+    "ukphone": "'pɑːsl",
+    "e_mean": [
+      "a wrapped package"
+    ],
+    "speech": "noun",
+    "sentence": "I saw a brown paper parcel on my doorstep."
+  },
+  {
+    "name": "load",
+    "trans": [
+      "装载；装",
+      "负荷； 装载"
+    ],
+    "usphone": "lod",
+    "ukphone": "ləud",
+    "e_mean": [
+      "weight to be borne or conveyed"
+    ],
+    "speech": "noun",
+    "sentence": "I struggled up the hill with the heavy load in my rucksack."
+  },
+  {
+    "name": "unload",
+    "trans": [
+      "从…卸下货物； 摆脱"
+    ],
+    "usphone": "'ʌn'lod",
+    "ukphone": "ˌʌn'ləud",
+    "e_mean": [
+      "leave or discharge"
+    ],
+    "speech": "verb",
+    "sentence": "to unload a ship; to unload a camel"
+  },
+  {
+    "name": "burden",
+    "trans": [
+      "担负;重担/负担bearthe~of背负重担"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "weight to be carried or borne"
+    ],
+    "speech": "noun",
+    "sentence": "a ship of a hundred tons burden"
+  },
+  {
+    "name": "transfer",
+    "trans": [
+      "搬， 转移； 调动， 转学； 转让， 过户； 转车， 换乘",
+      "转移； 调动； 转车， 换乘"
+    ],
+    "usphone": "træns'fɝ",
+    "ukphone": "træns'fɜː; trɑːns-; -nz-",
+    "e_mean": [
+      "move from one place to another"
+    ],
+    "speech": "verb",
+    "sentence": "to transfer the laws of one country to another; to transfer suspicion"
+  },
+  {
+    "name": "transit",
+    "trans": [
+      "通过， 经过； 中转",
+      "运输，运载"
+    ],
+    "usphone": "'træzɪt",
+    "ukphone": "'trænzɪt",
+    "e_mean": [
+      "a journey"
+    ],
+    "speech": "noun",
+    "sentence": "the transit of goods through a country"
+  },
+  {
+    "name": "transition",
+    "trans": [
+      "过渡， 过渡时期； 转变， 转换， 变革"
+    ],
+    "usphone": "træn'zɪʃən",
+    "ukphone": "træn'zɪʃn",
+    "e_mean": [
+      "the act of passing from one state or place to the next"
+    ],
+    "speech": "noun",
+    "sentence": "The soldier was transitioned from a combat role to a strategic role."
+  },
+  {
+    "name": "deliver",
+    "trans": [
+      "交付， 递送； 发表， 表达； 释放； 接生"
+    ],
+    "usphone": "dɪ'lɪvɚ",
+    "ukphone": "dɪ'lɪvə(r)",
+    "e_mean": [
+      "bring to a destination"
+    ],
+    "speech": "verb",
+    "sentence": "deliver a captive from the prison"
+  },
+  {
+    "name": "convey",
+    "trans": [
+      "传送， 运送； 表达， 传递"
+    ],
+    "usphone": "kən've",
+    "ukphone": "kən'veɪ",
+    "e_mean": [
+      "transmit or serve as the medium for transmission"
+    ],
+    "speech": "verb",
+    "sentence": "Air conveys sound. Water is conveyed through the pipe."
+  },
+  {
+    "name": "pasture",
+    "trans": [
+      "牧场，草原",
+      "放牧"
+    ],
+    "usphone": "'pæstʃɚ",
+    "ukphone": "'pɑːstʃə(r)",
+    "e_mean": [
+      "a field covered with grass and suitable for grazing"
+    ],
+    "speech": "noun",
+    "sentence": "The farmer pastures fifty oxen; the land will pasture forty cows."
+  },
+  {
+    "name": "fallow",
+    "trans": [
+      "休耕的； 休闲的"
+    ],
+    "usphone": "'fælo",
+    "ukphone": "'fæləu",
+    "e_mean": [
+      "left unplowed and unseeded during a growing season"
+    ],
+    "speech": "adjective",
+    "sentence": "a fallow period in one's career"
+  },
+  {
+    "name": "carousel",
+    "trans": [
+      "行李式传送带"
+    ],
+    "usphone": "'kærə'sɛl",
+    "ukphone": "ˌkærə'sel",
+    "e_mean": [
+      "a large, rotating machine with seats for children to ride"
+    ],
+    "speech": "noun",
+    "sentence": "After collecting his suitcase at the baggage carousel, he left the airport."
+  },
+  {
+    "name": "direction",
+    "trans": [
+      "方向；趋势，动向；"
+    ],
+    "usphone": "dəˈrɛkʃən; (also) daɪˈrɛkʃən",
+    "ukphone": "daɪ'rekʃn;dɪ'rekʃn",
+    "e_mean": [
+      "a line leading to a place or point"
+    ],
+    "speech": "noun",
+    "sentence": "Keep going in the same direction."
+  },
+  {
+    "name": "dazzle",
+    "trans": [
+      "使目眩；"
+    ],
+    "usphone": "'dæzl",
+    "ukphone": "'dæzl",
+    "e_mean": [
+      "cause to lose clear vision, especially from intense light"
+    ],
+    "speech": "verb",
+    "sentence": "Dazzled by the headlights of the lorry, the deer stopped in the middle of the street."
+  },
+  {
+    "name": "district",
+    "trans": [
+      "区， 地区"
+    ],
+    "usphone": "'dɪstrɪkt",
+    "ukphone": "'dɪstrɪkt",
+    "e_mean": [
+      "a region marked off for administrative or other purposes"
+    ],
+    "speech": "noun",
+    "sentence": "the Soho district of London"
+  },
+  {
+    "name": "stark",
+    "trans": [
+      "光秃秃的， 赤裸的； 荒凉的； 完全的"
+    ],
+    "usphone": "stɑrk",
+    "ukphone": "stɑːk",
+    "e_mean": [
+      "severely simple"
+    ],
+    "speech": "adjective",
+    "sentence": "I picked my way forlornly through the stark, sharp rocks."
+  },
+  {
+    "name": "zone",
+    "trans": [
+      "地区， 地带； 区域"
+    ],
+    "usphone": "zon",
+    "ukphone": "zəun",
+    "e_mean": [
+      "an area or region distinguished from adjacent parts"
+    ],
+    "speech": "noun",
+    "sentence": "Files in the Internet zone are blocked by default, as a security measure."
+  },
+  {
+    "name": "passport",
+    "trans": [
+      "护照； 途径， 路子， 手段"
+    ],
+    "usphone": "'pæspɔrt",
+    "ukphone": "'pɑːspɔːt",
+    "e_mean": [
+      "a document allowing a citizen to travel abroad"
+    ],
+    "speech": "noun",
+    "sentence": "You will have to bring your passport to prove who you are."
+  },
+  {
+    "name": "afield",
+    "trans": [
+      "在野外， 在田中； 在战场上； 离乡背井地； 到远方， 在远处"
+    ],
+    "usphone": "ə'fild",
+    "ukphone": "ə'fiːld",
+    "e_mean": [
+      "far away from home or one's usual surroundings"
+    ],
+    "speech": "adverb",
+    "sentence": "We now have both teams afield and can begin the match."
+  },
+  {
+    "name": "inland",
+    "trans": [
+      "向内地",
+      "内陆的[ˌIn'lænd]"
+    ],
+    "usphone": ",ɪn'lænd",
+    "ukphone": "'ɪnlænd",
+    "e_mean": [
+      "situated away from an area's coast or border"
+    ],
+    "speech": "adjective",
+    "sentence": "an inland town"
+  },
+  {
+    "name": "bay",
+    "trans": [
+      "海湾"
+    ],
+    "usphone": "be",
+    "ukphone": "beɪ",
+    "e_mean": [
+      "an indentation of a shoreline smaller than a gulf"
+    ],
+    "speech": "noun",
+    "sentence": "to bay the bear"
+  },
+  {
+    "name": "marketplace",
+    "trans": [
+      "市场， 集市"
+    ],
+    "usphone": "'mɑrkɪtples",
+    "ukphone": "'mɑːkɪtpleɪs",
+    "e_mean": [
+      "an area in a town where a public mercantile establishment is set up"
+    ],
+    "speech": "noun",
+    "sentence": "Some high-street retailers were slow to enter the new digital marketplace of the Internet."
+  },
+  {
+    "name": "guidance",
+    "trans": [
+      "指引， 指导"
+    ],
+    "usphone": "'gaɪdns",
+    "ukphone": "'gaɪdns",
+    "e_mean": [
+      "the act of showing the way"
+    ],
+    "speech": "noun",
+    "sentence": "divine guidance"
+  },
+  {
+    "name": "identification",
+    "trans": [
+      "身份证明； 识别， 鉴定"
+    ],
+    "usphone": "aɪˌdentɪfɪ'keʃn",
+    "ukphone": "aɪˌdentɪfɪ'keɪʃn",
+    "e_mean": [
+      "the act of designating something"
+    ],
+    "speech": "noun",
+    "sentence": "Much education and experience is required for proper identification of bird species"
+  },
+  {
+    "name": "identification",
+    "trans": [
+      "身份证明； 识别， 鉴定"
+    ],
+    "usphone": "aɪˌdentɪfɪ'keʃn",
+    "ukphone": "aɪˌdentɪfɪ'keɪʃn",
+    "e_mean": [
+      "the act of designating something"
+    ],
+    "speech": "noun",
+    "sentence": "Much education and experience is required for proper identification of bird species"
+  },
+  {
+    "name": "vacation",
+    "trans": [
+      "假期； 休假"
+    ],
+    "usphone": "veˈkeʃən",
+    "ukphone": "və'keɪʃn",
+    "e_mean": [
+      "leisure time away from work devoted to rest or pleasure"
+    ],
+    "speech": "noun",
+    "sentence": "The Conservative Party’s vacation of the centre ground gave an opportunity to its opponents."
+  },
+  {
+    "name": "isle",
+    "trans": [
+      "小岛， 岛"
+    ],
+    "usphone": "aɪl",
+    "ukphone": "aɪl",
+    "e_mean": [
+      "a small island"
+    ],
+    "speech": "noun",
+    "sentence": "Do you want to seat window or aisle?"
+  },
+  {
+    "name": "global",
+    "trans": [
+      "全球的， 全世界的； 整体的， 全面的"
+    ],
+    "usphone": "'ɡlobl",
+    "ukphone": "'gləubl",
+    "e_mean": [
+      "involving the entire earth"
+    ],
+    "speech": "adjective",
+    "sentence": "Pollution is a global problem."
+  },
+  {
+    "name": "flight",
+    "trans": [
+      "航班"
+    ],
+    "usphone": "flaɪt",
+    "ukphone": "flaɪt",
+    "e_mean": [
+      "an instance of traveling by air"
+    ],
+    "speech": "noun",
+    "sentence": "Most birds are capable of flight."
+  },
+  {
+    "name": "commodity",
+    "trans": [
+      "商品， 货物； 日用品"
+    ],
+    "usphone": "kə'mɑdəti",
+    "ukphone": "kə'mɒdəti",
+    "e_mean": [
+      "any good that can be bought and sold"
+    ],
+    "speech": "noun",
+    "sentence": "The price of crude oil is determined in continuous trading between professional players in World's many commodities exchanges."
+  },
+  {
+    "name": "outpost",
+    "trans": [
+      "前哨； 偏远村落"
+    ],
+    "usphone": "'aʊtpost",
+    "ukphone": "'autpəust",
+    "e_mean": [
+      "a military post stationed at a distance from the main body of troops"
+    ],
+    "speech": "noun",
+    "sentence": "The outpost did not have enough ammunition to resist a determined assault."
+  },
+  {
+    "name": "habitable",
+    "trans": [
+      "适于居住的， 可居住的"
+    ],
+    "usphone": "'hæbɪtəbl",
+    "ukphone": "'hæbɪtəbl",
+    "e_mean": [
+      "fit to be lived in"
+    ],
+    "speech": "adjective",
+    "sentence": "After we found the freshwater spring we were more confident that the place was habitable."
+  },
+  {
+    "name": "plot",
+    "trans": [
+      "情节； 阴谋； 小块土地"
+    ],
+    "usphone": "plɑt",
+    "ukphone": "plɔt",
+    "e_mean": [
+      "a small area of ground covered by specific vegetation"
+    ],
+    "speech": "noun",
+    "sentence": "The assassination of Lincoln was part of a larger plot."
+  },
+  {
+    "name": "terminal",
+    "trans": [
+      "末端的",
+      "终点，终端；终点站，航站楼"
+    ],
+    "usphone": "tɝ​mənl",
+    "ukphone": "'tɜːmɪnl",
+    "e_mean": [
+      "occurring at or forming an end"
+    ],
+    "speech": "adjective",
+    "sentence": "terminal cancer"
+  },
+  {
+    "name": "hospitality",
+    "trans": [
+      "友好款待， 好客； 盛情； 招待礼节"
+    ],
+    "usphone": ",hɑspɪ'tæləti",
+    "ukphone": "hɒspɪ'tæləti",
+    "e_mean": [
+      "kindness in welcoming guests or strangers"
+    ],
+    "speech": "noun",
+    "sentence": "Please thank our hosts for their hospitality during the week that we stayed."
+  },
+  {
+    "name": "navigable",
+    "trans": [
+      "可通航的； 适于航行的"
+    ],
+    "usphone": "'nævɪɡəbl",
+    "ukphone": "'nævɪgəbl",
+    "e_mean": [
+      "able to be sailed on or through safely"
+    ],
+    "speech": "adjective",
+    "sentence": "This Web site isn't very navigable. I can't tell which image links to which page."
+  },
+  {
+    "name": "loose",
+    "trans": [
+      "松的； 散漫的； 不精确的"
+    ],
+    "usphone": "lus",
+    "ukphone": "luːs",
+    "e_mean": [
+      "not affixed"
+    ],
+    "speech": "adjective",
+    "sentence": "This wheelbarrow has a loose wheel."
+  },
+  {
+    "name": "censor",
+    "trans": [
+      "审查，检查",
+      "检查员"
+    ],
+    "usphone": "'sɛnsɚ",
+    "ukphone": "'sensə(r)",
+    "e_mean": [
+      "a person authorized to suppress unacceptable material"
+    ],
+    "speech": "noun",
+    "sentence": "The Ancient Roman censors were part of the cursus honorum, a series of public offices held during a political career, like consuls and praetors."
+  },
+  {
+    "name": "identity",
+    "trans": [
+      "身份； 特性； 同一性"
+    ],
+    "usphone": "aɪ'dɛntəti",
+    "ukphone": "aɪ'dentəti",
+    "e_mean": [
+      "the characteristics by which a thing or person is known"
+    ],
+    "speech": "noun",
+    "sentence": "I've been through so many changes, I have no sense of identity."
+  },
+  {
+    "name": "assurance",
+    "trans": [
+      "信心； 保证； 保险"
+    ],
+    "usphone": "ə'ʃʊrəns",
+    "ukphone": "ə'ʃuərəns",
+    "e_mean": [
+      "a binding commitment to do or give or refrain from something"
+    ],
+    "speech": "noun",
+    "sentence": "his assurance is intolerable"
+  },
+  {
+    "name": "navigation",
+    "trans": [
+      "航空， 航海， 航行； 导航， 领航"
+    ],
+    "usphone": "'nævə'geʃən",
+    "ukphone": "ˌnævɪ'geɪʃn",
+    "e_mean": [
+      "guidance of ships, planes, or vehicles from place to place"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "voyage",
+    "trans": [
+      "旅行， 航行， 飞行"
+    ],
+    "usphone": "'vɔɪɪdʒ",
+    "ukphone": "'vɔɪɪdʒ",
+    "e_mean": [
+      "a journey to some distant place"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "aviation",
+    "trans": [
+      "航空， 飞行； 航空制造业"
+    ],
+    "usphone": ",evɪ'eʃən",
+    "ukphone": "ˌeɪvi'eɪʃn",
+    "e_mean": [
+      "the art of operating aircraft"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "safari",
+    "trans": [
+      "观兽旅行.be/goon~进行观兽旅行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a journey to hunt or see animals, especially in Africa"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pharaoh",
+    "trans": [
+      "法老。mummy木乃伊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an ancient Egyptian king"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "aeroplane",
+    "trans": [
+      "飞机"
+    ],
+    "usphone": "ˈɛrəˌplen",
+    "ukphone": "'eərəpleɪn",
+    "e_mean": [
+      "an aircraft that has a fixed wing and is powered by propellers or jets"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "luggage",
+    "trans": [
+      "行李"
+    ],
+    "usphone": "'lʌɡɪdʒ",
+    "ukphone": "'lʌgɪdʒ",
+    "e_mean": [
+      "cases used to carry belongings when traveling"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "suitcase",
+    "trans": [
+      "手提箱； 衣箱"
+    ],
+    "usphone": "'sutkes",
+    "ukphone": "'sʊːtk3ɪs",
+    "e_mean": [
+      "a portable rectangular container for carrying clothes"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "atlas",
+    "trans": [
+      "地图/册"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a collection of maps in book form"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "itinerary",
+    "trans": [
+      "行程表； 旅行路线， 旅行计划"
+    ],
+    "usphone": "aɪ'tɪnərɛri",
+    "ukphone": "aɪ'tɪnərəri",
+    "e_mean": [
+      "an established line of travel or access"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "intersection",
+    "trans": [
+      "道路交叉口， 十字路口"
+    ],
+    "usphone": ",ɪntɚ'sɛkʃən",
+    "ukphone": "ˌɪntə'sekʃn",
+    "e_mean": [
+      "the act of meeting at a point"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pave",
+    "trans": [
+      "铺(路或地面)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cover with a material such as stone or concrete to make suitable for vehicle traffic"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "seaman",
+    "trans": [
+      "海员，水手"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a man who serves as a sailor"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "steamer",
+    "trans": [
+      "轮船，汽船"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a cooking utensil that can be used to cook food by steaming it"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "canoe",
+    "trans": [
+      "独木舟"
+    ],
+    "usphone": "kə'nu",
+    "ukphone": "kə'nuː",
+    "e_mean": [
+      "a small, light boat propelled with a paddle"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "turbine",
+    "trans": [
+      "涡轮机， 汽轮机"
+    ],
+    "usphone": "'tɝbaɪn",
+    "ukphone": "'tɜːbaɪn",
+    "e_mean": [
+      "an engine that causes a bladed rotor to rotate"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "propeller",
+    "trans": [
+      "[preˈpeler]螺旋桨，推进器"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "device with blades that rotate to push against air or water"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "stern",
+    "trans": [
+      "船尾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "serious and harsh in manner or behavior"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "pavement",
+    "trans": [
+      "人行道； 地面， 路面"
+    ],
+    "usphone": "'pevmənt",
+    "ukphone": "'peɪvmənt",
+    "e_mean": [
+      "the paved surface of a thoroughfare"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "vehicle",
+    "trans": [
+      "辆/交通工具/工具/手段\nloadavehicle把东西装入车中"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a conveyance that transports people or objects"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tram",
+    "trans": [
+      "乘电车",
+      "有轨电车，电车轨道"
+    ],
+    "usphone": "træm",
+    "ukphone": "træm",
+    "e_mean": [
+      "a vehicle that runs on rails and is propelled by electricity"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "ambulance",
+    "trans": [
+      "救护车； 野战医院"
+    ],
+    "usphone": "'æmbjələns",
+    "ukphone": "'æmbjələns",
+    "e_mean": [
+      "a vehicle that takes people to and from hospitals"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "lorry",
+    "trans": [
+      "[英]卡车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a large low horse-drawn wagon without sides"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "wagon",
+    "trans": [
+      "四轮马车； 大篷车"
+    ],
+    "usphone": "'wægən",
+    "ukphone": "'wægən",
+    "e_mean": [
+      "a wheeled vehicle drawn by an animal or a tractor"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tractor",
+    "trans": [
+      "拖拉机；牵引车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a wheeled vehicle with large wheels"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pedicab",
+    "trans": [
+      "三轮车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a tricycle "
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cyclist",
+    "trans": [
+      "骑自行车的人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person who rides a bike"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "canal",
+    "trans": [
+      "[keˈnæl]运河,人体内输送食物管"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "long and narrow strip of water for boats or for irrigation"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "railway",
+    "trans": [
+      "[英]铁路，铁路系统"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "line that is the commercial organization responsible for operating a system of transportation for trains that pull passengers or freight"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "locomotive",
+    "trans": [
+      "火车头，机车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a self-propelled vehicle that draws a train along a track"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "subway",
+    "trans": [
+      "[英]地下通道；[美]地铁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a rail system operating below the surface of the ground"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tunnel",
+    "trans": [
+      "挖， 开",
+      "隧道；地道"
+    ],
+    "usphone": "'tʌnl",
+    "ukphone": "'tʌnl",
+    "e_mean": [
+      "a passageway through or under something, usually underground"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "destination",
+    "trans": [
+      "目的地， 终点； 目标"
+    ],
+    "usphone": ",dɛstɪ'neʃən",
+    "ukphone": "ˌdestɪ'neɪʃn",
+    "e_mean": [
+      "the place designated as the end, as of a race or journey"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "postpone",
+    "trans": [
+      "延迟， 延期"
+    ],
+    "usphone": "po'spon",
+    "ukphone": "pə'spəun",
+    "e_mean": [
+      "hold back to a later time"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "tyre",
+    "trans": [
+      "轮胎=tire"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "hoop that covers a wheel"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "stewardess",
+    "trans": [
+      "女乘务员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a woman steward on an airplane"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "disappear",
+    "trans": [
+      "失踪/消失失踪.~from从..消失"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "become invisible or unnoticeable"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "hazardous",
+    "trans": [
+      "危险的， 冒险的； 有害的"
+    ],
+    "usphone": "'hæzɚdəs",
+    "ukphone": "'hæzədəs",
+    "e_mean": [
+      "involving risk or danger"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "postage",
+    "trans": [
+      "邮费，邮资"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the charge for mailing something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "envelope",
+    "trans": [
+      "信封"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a flat container for a letter or thin package"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "transmit",
+    "trans": [
+      "传送； 传染； 发射"
+    ],
+    "usphone": "trænzˈmɪt",
+    "ukphone": "træns'mɪt",
+    "e_mean": [
+      "send from one person or place to another"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "velocity",
+    "trans": [
+      "速度， 速率； 迅速， 快速"
+    ],
+    "usphone": "vəˈlɑsəti",
+    "ukphone": "və'lɒsətɪ",
+    "e_mean": [
+      "distance traveled per unit time in one direction"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "swift",
+    "trans": [
+      "快的； 敏捷的， 迅速的"
+    ],
+    "usphone": "swɪft",
+    "ukphone": "swɪft",
+    "e_mean": [
+      "moving very fast"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "hamlet",
+    "trans": [
+      "小村庄"
+    ],
+    "usphone": "'hæmlət",
+    "ukphone": "'hæmlət",
+    "e_mean": [
+      "a community of people smaller than a village"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "scenery",
+    "trans": [
+      "舞台布景； 风景， 景色"
+    ],
+    "usphone": "'sinəri",
+    "ukphone": "'siːnəri",
+    "e_mean": [
+      "the appearance of a place"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "midst",
+    "trans": [
+      "中间"
+    ],
+    "usphone": "mɪdst",
+    "ukphone": "mɪdst",
+    "e_mean": [
+      "the location of something surrounded by other things"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "highway",
+    "trans": [
+      "公路"
+    ],
+    "usphone": "'haɪwe",
+    "ukphone": "'haɪweɪ",
+    "e_mean": [
+      "a major road for any form of motor transport"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "acclimatise",
+    "trans": [
+      "服水土； 适应新环境"
+    ],
+    "usphone": "ə'klaimətaiz",
+    "ukphone": "ə'klaɪmətaɪz",
+    "e_mean": [
+      "get used to a certain climate"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "cosmopolitan",
+    "trans": [
+      "世界性的，全球的",
+      "世界主义者； 四海为家者"
+    ],
+    "usphone": "'kɑzmə'pɑlətn",
+    "ukphone": "ˌkɒzmə'pɒlɪtən",
+    "e_mean": [
+      "composed of people from many parts of the world"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "humidity",
+    "trans": [
+      "湿度； 潮湿"
+    ],
+    "usphone": "hju'mɪdəti",
+    "ukphone": "hjuː'mɪdəti",
+    "e_mean": [
+      "wetness in the atmosphere"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "waterfront",
+    "trans": [
+      "滨水路， 滨水区， 码头区"
+    ],
+    "usphone": "'wɔtɚfrʌnt",
+    "ukphone": "'wɔːtəfrʌnt",
+    "e_mean": [
+      "the area of a city alongside a body of water"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mountainous",
+    "trans": [
+      "多山的"
+    ],
+    "usphone": "'maʊntənəs",
+    "ukphone": "'mauntənəs",
+    "e_mean": [
+      "containing many mountains"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "prominent",
+    "trans": [
+      "突出的； 著名的； 显著的"
+    ],
+    "usphone": "'prɑmɪnənt",
+    "ukphone": "'prɒmɪnənt",
+    "e_mean": [
+      "conspicuous in position or importance"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "insularity",
+    "trans": [
+      "岛国； 与外界隔绝的生活状况； 褊狭"
+    ],
+    "usphone": "",
+    "ukphone": "ˌɪnsju'lærəti",
+    "e_mean": [
+      "lack of openness to new ideas; narrow-mindedness"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "thrill",
+    "trans": [
+      "非常激动； 发抖"
+    ],
+    "usphone": "θrɪl",
+    "ukphone": "θrɪl",
+    "e_mean": [
+      "something that causes a sudden intense feeling"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "receptionist",
+    "trans": [
+      "接待员"
+    ],
+    "usphone": "rɪ'sɛpʃənɪst",
+    "ukphone": "rɪ'sepʃənɪst",
+    "e_mean": [
+      "an office worker who answers calls and greets visitors"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "bistro",
+    "trans": [
+      "小酒馆； 小餐馆"
+    ],
+    "usphone": "'bistro",
+    "ukphone": "'bɪːstrəu",
+    "e_mean": [
+      "a small informal restaurant; serves wine"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "marsh",
+    "trans": [
+      "沼泽； 湿地"
+    ],
+    "usphone": "mɑrʃ",
+    "ukphone": "mɑːʃ",
+    "e_mean": [
+      "low-lying wet land with grassy vegetation"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "siesta",
+    "trans": [
+      "午睡， 午休"
+    ],
+    "usphone": "sɪ'ɛstə",
+    "ukphone": "si'estə",
+    "e_mean": [
+      "a nap in the early afternoon"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "regional",
+    "trans": [
+      "局部范围的； 地方的， 区域性的； 全地区的， 整个地区的"
+    ],
+    "usphone": "'ridʒənl",
+    "ukphone": "'riːdʒənl",
+    "e_mean": [
+      "characteristic of a particular area"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "cloakroom",
+    "trans": [
+      "衣帽间； 〈英〉洗手间"
+    ],
+    "usphone": "'klokrum",
+    "ukphone": "'kləukruːm",
+    "e_mean": [
+      "a room where coats and other articles can be left temporarily"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "hostel",
+    "trans": [
+      "招待所； 学生宿舍"
+    ],
+    "usphone": "'hɑstl",
+    "ukphone": "'hɒstl",
+    "e_mean": [
+      "a hotel providing overnight lodging for travelers"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "dwell",
+    "trans": [
+      "居住， 栖身"
+    ],
+    "usphone": "dwɛl",
+    "ukphone": "'dw3l",
+    "e_mean": [
+      "inhabit or live in"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "homesick",
+    "trans": [
+      "想家的， 思乡的"
+    ],
+    "usphone": "'homsɪk",
+    "ukphone": "'həumsɪk",
+    "e_mean": [
+      "longing to return home"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "subtropical",
+    "trans": [
+      "亚热带的"
+    ],
+    "usphone": ",sʌb'trɑpɪkl",
+    "ukphone": "ˌsʌb'trɒpɪkl",
+    "e_mean": [
+      "of or relating to or characteristic of conditions in the subtropics"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "cascade",
+    "trans": [
+      "小瀑布"
+    ],
+    "usphone": "kæ'sked",
+    "ukphone": "kæ'skeɪd",
+    "e_mean": [
+      "a small waterfall or series of small waterfalls"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "fortnight",
+    "trans": [
+      "两星期， 十四天"
+    ],
+    "usphone": "'fɔrtnaɪt",
+    "ukphone": "'fɔːtnaɪt",
+    "e_mean": [
+      "a period of fourteen consecutive days"
+    ],
+    "speech": "noun"
+  }
+]

@@ -1,0 +1,7345 @@
+[
+  {
+    "name": "act",
+    "trans": [
+      "行动；行为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "behave in a certain manner"
+    ],
+    "speech": "verb",
+    "sentence": "You should act quickly if you want to solve the problem."
+  },
+  {
+    "name": "behave",
+    "trans": [
+      "表现； 运转； 起作用； 表现得体； 使检点"
+    ],
+    "usphone": "bɪ'hev",
+    "ukphone": "bɪ'heɪv",
+    "e_mean": [
+      "act in a certain manner"
+    ],
+    "speech": "verb",
+    "sentence": "The children behaved well during the ceremony."
+  },
+  {
+    "name": "behaviour",
+    "trans": [
+      "(=behavior)行为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the way a person behaves toward other people"
+    ],
+    "speech": "noun",
+    "sentence": "His behaviour in class has greatly improved."
+  },
+  {
+    "name": "deed",
+    "trans": [
+      "行为，功绩，契约"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a legal document to effect a transfer of property"
+    ],
+    "speech": "noun",
+    "sentence": "She is remembered for her kind deeds."
+  },
+  {
+    "name": "accustom",
+    "trans": [
+      "使习惯于"
+    ],
+    "usphone": "ə'kʌstəm",
+    "ukphone": "ə'kʌstəm",
+    "e_mean": [
+      "familiarize psychologically or physically"
+    ],
+    "speech": "verb",
+    "sentence": "It took him a while to accustom himself to the cold weather."
+  },
+  {
+    "name": "react",
+    "trans": [
+      "作出反应.~to对..作出反应"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "show a response to something"
+    ],
+    "speech": "verb",
+    "sentence": "She reacted calmly to the unexpected situation."
+  },
+  {
+    "name": "reaction",
+    "trans": [
+      "反应，反对"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an idea evoked by some experience"
+    ],
+    "speech": "noun",
+    "sentence": "Her reaction to the news was surprisingly calm."
+  },
+  {
+    "name": "respond",
+    "trans": [
+      "回答， 答复； 响应； 作出反应"
+    ],
+    "usphone": "rɪ'spɑnd",
+    "ukphone": "rɪ'spɒnd",
+    "e_mean": [
+      "show a reaction to something"
+    ],
+    "speech": "verb",
+    "sentence": "He refused to respond to the criticism."
+  },
+  {
+    "name": "response",
+    "trans": [
+      "回答， 答复； 反应， 响应"
+    ],
+    "usphone": "rɪ'spɑns",
+    "ukphone": "rɪ'spɒns",
+    "e_mean": [
+      "the speech act of continuing a conversational exchange"
+    ],
+    "speech": "noun",
+    "sentence": "We are still waiting for a response from the company."
+  },
+  {
+    "name": "reflect",
+    "trans": [
+      "反映.反射.reflection反射"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "throw or bend back from a surface"
+    ],
+    "speech": "verb",
+    "sentence": "The calm water reflects the blue sky beautifully."
+  },
+  {
+    "name": "bear",
+    "trans": [
+      "生(孩子)，容忍，承担"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "be pregnant with"
+    ],
+    "speech": "verb",
+    "sentence": "I can’t bear the loud noise anymore."
+  },
+  {
+    "name": "adopt",
+    "trans": [
+      "采用， 采取， 采纳； 收养， 领养； 正式通过， 批准"
+    ],
+    "usphone": "ə'dɑpt",
+    "ukphone": "ə'dɒpt",
+    "e_mean": [
+      "take into one's family"
+    ],
+    "speech": "verb",
+    "sentence": "The company decided to adopt a new strategy."
+  },
+  {
+    "name": "nourish",
+    "trans": [
+      "养育， 滋养； 培养"
+    ],
+    "usphone": "'nɜrɪʃ",
+    "ukphone": "'nʌrɪʃ",
+    "e_mean": [
+      "provide with sustenance"
+    ],
+    "speech": "verb",
+    "sentence": "Fresh vegetables help nourish your body."
+  },
+  {
+    "name": "mow",
+    "trans": [
+      "干草堆；割/修剪~thelawn"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cut with a blade or mower"
+    ],
+    "speech": "verb",
+    "sentence": "He mows the lawn every weekend."
+  },
+  {
+    "name": "support",
+    "trans": [
+      "支撑/支持/供养;支持/帮助"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of bearing the weight of or strengthening"
+    ],
+    "speech": "noun",
+    "sentence": "Her friends gave her strong support during the difficult time."
+  },
+  {
+    "name": "exhale",
+    "trans": [
+      "呼出； 散发"
+    ],
+    "usphone": "ɛks'hel",
+    "ukphone": "eks'heɪl",
+    "e_mean": [
+      "expel air"
+    ],
+    "speech": "verb",
+    "sentence": "Take a deep breath and slowly exhale."
+  },
+  {
+    "name": "intake",
+    "trans": [
+      "吸入， 纳入； 进气口， 入口"
+    ],
+    "usphone": "'ɪn'tek",
+    "ukphone": "'ɪnteɪk",
+    "e_mean": [
+      "an opening through which fluid is admitted to a tube"
+    ],
+    "speech": "noun",
+    "sentence": "You should reduce your sugar intake."
+  },
+  {
+    "name": "revive",
+    "trans": [
+      "苏醒， 复活； 重新使用"
+    ],
+    "usphone": "rɪ'vaɪv",
+    "ukphone": "rɪ'vaɪv",
+    "e_mean": [
+      "cause to regain consciousness"
+    ],
+    "speech": "verb",
+    "sentence": "The doctor worked hard to revive the patient."
+  },
+  {
+    "name": "survive",
+    "trans": [
+      "活下来； 幸免于； 比…活得长， 比…长命"
+    ],
+    "usphone": "sɚ'vaɪv",
+    "ukphone": "sə'vaɪv",
+    "e_mean": [
+      "continue in existence after"
+    ],
+    "speech": "verb",
+    "sentence": "Only a few plants can survive in the desert."
+  },
+  {
+    "name": "mess",
+    "trans": [
+      "弄糟， 搞乱",
+      "凌乱"
+    ],
+    "usphone": "mɛs",
+    "ukphone": "mes",
+    "e_mean": [
+      "a state of confusion and disorderliness"
+    ],
+    "speech": "noun",
+    "sentence": "The room was in a complete mess after the party."
+  },
+  {
+    "name": "twist",
+    "trans": [
+      "缠绕；捻；扭曲，弯曲",
+      "弯曲"
+    ],
+    "usphone": "twɪst",
+    "ukphone": "twɪst",
+    "e_mean": [
+      "cause an object to assume a curved or distorted shape"
+    ],
+    "speech": "verb",
+    "sentence": "He twisted the cap to open the bottle."
+  },
+  {
+    "name": "scatter",
+    "trans": [
+      "散开， 驱散； 撒； 撒播"
+    ],
+    "usphone": "'skætɚ",
+    "ukphone": "'skætə(r)",
+    "e_mean": [
+      "cause to separate and go in different directions"
+    ],
+    "speech": "verb",
+    "sentence": "The wind scattered the leaves across the yard."
+  },
+  {
+    "name": "fold",
+    "trans": [
+      "折叠",
+      "皱； 折"
+    ],
+    "usphone": "fold",
+    "ukphone": "fəuld",
+    "e_mean": [
+      "bend or lay so that one part covers the other"
+    ],
+    "speech": "verb",
+    "sentence": "She carefully folded the paper into a small square."
+  },
+  {
+    "name": "fasten",
+    "trans": [
+      "扎牢， 扣住"
+    ],
+    "usphone": "'fæsən",
+    "ukphone": "'fɑːsn",
+    "e_mean": [
+      "attach to"
+    ],
+    "speech": "verb",
+    "sentence": "Please fasten your seatbelt before the plane takes off."
+  },
+  {
+    "name": "smash",
+    "trans": [
+      "打碎，猛烈撞击，扣球"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "hit violently"
+    ],
+    "speech": "verb",
+    "sentence": "He accidentally smashed the glass on the floor."
+  },
+  {
+    "name": "scratch",
+    "trans": [
+      "划伤，"
+    ],
+    "usphone": "skrætʃ",
+    "ukphone": "skrætʃ",
+    "e_mean": [
+      "cut, scrape, or wear away the surface of"
+    ],
+    "speech": "verb",
+    "sentence": "Be careful not to scratch the surface of the table."
+  },
+  {
+    "name": "wipe",
+    "trans": [
+      "擦.wipeaway擦掉，清除"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "rub with a circular motion"
+    ],
+    "speech": "verb",
+    "sentence": "She wiped the dust off the window."
+  },
+  {
+    "name": "scrape",
+    "trans": [
+      "刮， 擦"
+    ],
+    "usphone": "skrep",
+    "ukphone": "skreɪp",
+    "e_mean": [
+      "cut the surface of; wear away the surface of"
+    ],
+    "speech": "verb",
+    "sentence": "He scraped the paint off the old wall."
+  },
+  {
+    "name": "polish",
+    "trans": [
+      "磨光，擦亮；使优美，"
+    ],
+    "usphone": "'pɑlɪʃ",
+    "ukphone": "'pɒlɪʃ",
+    "e_mean": [
+      "make (a surface) shine"
+    ],
+    "speech": "verb",
+    "sentence": "She polished her shoes until they shone brightly."
+  },
+  {
+    "name": "peel",
+    "trans": [
+      "剥落，掉漆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the rind of a fruit or vegetable"
+    ],
+    "speech": "noun",
+    "sentence": "The peel of the orange is easy to remove."
+  },
+  {
+    "name": "split",
+    "trans": [
+      "分裂，分离；撕裂，裂开；劈开；分担，分享",
+      "裂口； 分化， 分裂"
+    ],
+    "usphone": "splɪt",
+    "ukphone": "splɪt",
+    "e_mean": [
+      "separate into parts or portions"
+    ],
+    "speech": "verb",
+    "sentence": "He split the wood into smaller pieces."
+  },
+  {
+    "name": "sway",
+    "trans": [
+      "摇摆摇晃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "move back and forth"
+    ],
+    "speech": "verb",
+    "sentence": "The trees swayed gently in the wind."
+  },
+  {
+    "name": "shake",
+    "trans": [
+      "摇动，(使)颤动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "move or cause to move back and forth"
+    ],
+    "speech": "verb",
+    "sentence": "He shook the bottle before opening it."
+  },
+  {
+    "name": "vibrate",
+    "trans": [
+      "颤动"
+    ],
+    "usphone": "vaɪ'breɪt",
+    "ukphone": "vaɪ'breɪt",
+    "e_mean": [
+      "sound with resonance"
+    ],
+    "speech": "verb",
+    "sentence": "My phone vibrates when I receive a message."
+  },
+  {
+    "name": "whirl",
+    "trans": [
+      "(使)回旋回旋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the shape of something rotating rapidly"
+    ],
+    "speech": "noun",
+    "sentence": "The dancer spun in a fast whirl."
+  },
+  {
+    "name": "rotate",
+    "trans": [
+      "旋转， 转动； 轮流， 轮换"
+    ],
+    "usphone": "'rotet",
+    "ukphone": "rəu'teɪt",
+    "e_mean": [
+      "turn on or around an axis or a center"
+    ],
+    "speech": "verb",
+    "sentence": "The earth rotates around the sun."
+  },
+  {
+    "name": "reel",
+    "trans": [
+      "眩晕，混乱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a winder around which flexible materials can be wound"
+    ],
+    "speech": "noun",
+    "sentence": "He felt dizzy, as if the world was spinning on a reel."
+  },
+  {
+    "name": "shuffle",
+    "trans": [
+      "拖着脚走，搅乱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "walk by dragging one's feet"
+    ],
+    "speech": "verb",
+    "sentence": "He shuffled slowly across the room."
+  },
+  {
+    "name": "collide",
+    "trans": [
+      "碰撞，抵触"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "crash together with violent impact"
+    ],
+    "speech": "verb",
+    "sentence": "Two cars collided at the intersection."
+  },
+  {
+    "name": "deviate",
+    "trans": [
+      "偏离，背离deviation偏离"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "turn aside; turn away from"
+    ],
+    "speech": "verb",
+    "sentence": "The plane deviated slightly from its original course."
+  },
+  {
+    "name": "expel",
+    "trans": [
+      "把…开除； 驱逐"
+    ],
+    "usphone": "ɪk'spɛl",
+    "ukphone": "ɪk'spel",
+    "e_mean": [
+      "eliminate"
+    ],
+    "speech": "verb",
+    "sentence": "The school decided to expel the student for serious misconduct."
+  },
+  {
+    "name": "flee",
+    "trans": [
+      "逃走； 逃避"
+    ],
+    "usphone": "fli",
+    "ukphone": "fliː",
+    "e_mean": [
+      "run away quickly"
+    ],
+    "speech": "verb",
+    "sentence": "The villagers had to flee their homes during the flood."
+  },
+  {
+    "name": "bully",
+    "trans": [
+      "恃强凌弱者",
+      "恐吓； 胁迫， 欺负"
+    ],
+    "usphone": "'bʊli",
+    "ukphone": "'buli",
+    "e_mean": [
+      "discourage or frighten with threats or a domineering manner"
+    ],
+    "speech": "verb",
+    "sentence": "He used to bully his classmates at school."
+  },
+  {
+    "name": "panic",
+    "trans": [
+      "恐慌的",
+      "惊慌失措",
+      "恐慌，惊惶"
+    ],
+    "usphone": "'pænɪk",
+    "ukphone": "'pænɪk",
+    "e_mean": [
+      "an overwhelming feeling of fear and anxiety"
+    ],
+    "speech": "noun",
+    "sentence": "There was widespread panic when the fire alarm rang."
+  },
+  {
+    "name": "terrify",
+    "trans": [
+      "使恐怖， 使惊吓"
+    ],
+    "usphone": "ˈtɛrəˌfaɪ",
+    "ukphone": "'terɪfaɪ",
+    "e_mean": [
+      "frighten greatly"
+    ],
+    "speech": "verb",
+    "sentence": "The loud thunder terrified the little child."
+  },
+  {
+    "name": "terrifying",
+    "trans": [
+      "可怕的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "causing extreme fear"
+    ],
+    "speech": "adjective",
+    "sentence": "It was a terrifying experience to be lost in the dark forest."
+  },
+  {
+    "name": "revenge",
+    "trans": [
+      "报仇，复仇；向……报仇"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "action taken in return for an injury or offense"
+    ],
+    "speech": "noun",
+    "sentence": "He wanted revenge after being treated unfairly."
+  },
+  {
+    "name": "kidnap",
+    "trans": [
+      "绑架，劫持"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "take someone away against their will, often for ransom"
+    ],
+    "speech": "verb",
+    "sentence": "The criminals planned to kidnap a wealthy businessman."
+  },
+  {
+    "name": "hijack",
+    "trans": [
+      "劫持"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "take arbitrarily or by force"
+    ],
+    "speech": "verb",
+    "sentence": "The plane was hijacked shortly after takeoff."
+  },
+  {
+    "name": "smuggle",
+    "trans": [
+      "走私，偷运smuggler走私者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "import or export without paying customs duties"
+    ],
+    "speech": "verb",
+    "sentence": "They tried to smuggle goods across the border."
+  },
+  {
+    "name": "convict",
+    "trans": [
+      "定罪，宣判有罪；已决犯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "find or declare guilty"
+    ],
+    "speech": "verb",
+    "sentence": "The court convicted him of fraud."
+  },
+  {
+    "name": "strangle",
+    "trans": [
+      "扼杀，压制，勒死，扼死"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "kill by squeezing the throat of so as to cut off the air"
+    ],
+    "speech": "verb",
+    "sentence": "The villain tried to strangle his victim."
+  },
+  {
+    "name": "massacre",
+    "trans": [
+      "残杀，屠杀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the savage and excessive killing of many people"
+    ],
+    "speech": "noun",
+    "sentence": "The massacre shocked the entire world."
+  },
+  {
+    "name": "decimation",
+    "trans": [
+      "大批杀死，大量毁灭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the destruction or killing of a large part of the population"
+    ],
+    "speech": "noun",
+    "sentence": "The disease led to the decimation of the population."
+  },
+  {
+    "name": "intervene",
+    "trans": [
+      "干涉， 干扰； 介于其间"
+    ],
+    "usphone": ",ɪntɚ'vin",
+    "ukphone": "ˌɪntə'viːn",
+    "e_mean": [
+      "be placed or located between other things"
+    ],
+    "speech": "verb",
+    "sentence": "The government decided to intervene in the conflict."
+  },
+  {
+    "name": "impede",
+    "trans": [
+      "阻碍， 妨碍"
+    ],
+    "usphone": "ɪm'pid",
+    "ukphone": "ɪm'piːd",
+    "e_mean": [
+      "be a hindrance or obstacle to"
+    ],
+    "speech": "verb",
+    "sentence": "Heavy traffic impeded our progress."
+  },
+  {
+    "name": "allure",
+    "trans": [
+      "诱惑， 吸引"
+    ],
+    "usphone": "əˈlʊr",
+    "ukphone": "ə'luə(r)",
+    "e_mean": [
+      "the power to entice or attract"
+    ],
+    "speech": "noun",
+    "sentence": "The allure of the city attracts many tourists."
+  },
+  {
+    "name": "bait",
+    "trans": [
+      "使上当发火;诱饵"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "something used to lure fish or other animals"
+    ],
+    "speech": "noun",
+    "sentence": "The fisherman used worms as bait."
+  },
+  {
+    "name": "induce",
+    "trans": [
+      "引诱， 劝使； 引起， 导致； 感应"
+    ],
+    "usphone": "ɪn'dus",
+    "ukphone": "ɪn'djuːs",
+    "e_mean": [
+      "cause to act in a specified manner"
+    ],
+    "speech": "verb",
+    "sentence": "Nothing could induce her to change her mind."
+  },
+  {
+    "name": "cancel",
+    "trans": [
+      "取消， 废除； 抵消， 对消； 删去， 划掉"
+    ],
+    "usphone": "'kænsl",
+    "ukphone": "'kænsl",
+    "e_mean": [
+      "declare null and void"
+    ],
+    "speech": "verb",
+    "sentence": "They had to cancel the event due to bad weather."
+  },
+  {
+    "name": "erase",
+    "trans": [
+      "清除,抹去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "remove by or as if by rubbing"
+    ],
+    "speech": "verb",
+    "sentence": "He erased the mistake from the board."
+  },
+  {
+    "name": "rescue",
+    "trans": [
+      "营救， 救援"
+    ],
+    "usphone": "'rɛskju",
+    "ukphone": "'reskjuː",
+    "e_mean": [
+      "free from harm or evil"
+    ],
+    "speech": "verb",
+    "sentence": "The firefighters rescued the family from the burning house."
+  },
+  {
+    "name": "resort",
+    "trans": [
+      "求助； 诉诸",
+      "求助；诉诸；胜地"
+    ],
+    "usphone": "rɪ'zɔrt",
+    "ukphone": "rɪ'zɔːt",
+    "e_mean": [
+      "have recourse to"
+    ],
+    "speech": "verb",
+    "sentence": "He had to resort to borrowing money to pay his bills."
+  },
+  {
+    "name": "recover",
+    "trans": [
+      "重新获得， 重新得到； 使复原， 使康复； 收回， 换回"
+    ],
+    "usphone": "rɪ'kʌvɚ",
+    "ukphone": "rɪ'kʌvə(r)",
+    "e_mean": [
+      "regain or make up for"
+    ],
+    "speech": "verb",
+    "sentence": "It took him months to recover from the illness."
+  },
+  {
+    "name": "restore",
+    "trans": [
+      "恢复， 使复位； 修复， 整修， 重建； 归还， 交还"
+    ],
+    "usphone": "rɪ'stɔr",
+    "ukphone": "rɪ'stɔː(r)",
+    "e_mean": [
+      "bring back into original existence, function, or position"
+    ],
+    "speech": "verb",
+    "sentence": "They worked hard to restore the old building."
+  },
+  {
+    "name": "rectify",
+    "trans": [
+      "纠正，矫正，改正"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "make right or correct"
+    ],
+    "speech": "verb",
+    "sentence": "He tried to rectify his mistake as soon as possible."
+  },
+  {
+    "name": "redeem",
+    "trans": [
+      "赎回,挽回，补偿,兑现"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "exchange or buy back for money; under threat"
+    ],
+    "speech": "verb",
+    "sentence": "He hopes to redeem himself after the failure."
+  },
+  {
+    "name": "offset",
+    "trans": [
+      "抵消， 补偿， 弥补"
+    ],
+    "usphone": ",ɔf'sɛt",
+    "ukphone": "'ɒfset",
+    "e_mean": [
+      "a compensating equivalent"
+    ],
+    "speech": "noun",
+    "sentence": "The benefits can offset the high cost."
+  },
+  {
+    "name": "replenish",
+    "trans": [
+      "再斟满； 添加， 补充"
+    ],
+    "usphone": "rɪ'plɛnɪʃ",
+    "ukphone": "rɪ'plenɪʃ",
+    "e_mean": [
+      "fill something that had previously been emptied"
+    ],
+    "speech": "verb",
+    "sentence": "You should replenish your energy after exercise."
+  },
+  {
+    "name": "obtain",
+    "trans": [
+      "获得， 得到； 通用， 流行"
+    ],
+    "usphone": "əb'ten",
+    "ukphone": "əb'teɪn",
+    "e_mean": [
+      "come into possession of"
+    ],
+    "speech": "verb",
+    "sentence": "She obtained a degree from a top university."
+  },
+  {
+    "name": "gain",
+    "trans": [
+      "获得,增加;增加,改进"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "obtain"
+    ],
+    "speech": "verb",
+    "sentence": "He gained valuable experience from the job."
+  },
+  {
+    "name": "supply",
+    "trans": [
+      "供给，供应；",
+      "供给， 供应； 满足， 弥补"
+    ],
+    "usphone": "sə'plaɪ",
+    "ukphone": "sə'plaɪ",
+    "e_mean": [
+      "circulate or distribute or equip with"
+    ],
+    "speech": "verb",
+    "sentence": "The company supplies food to local stores."
+  },
+  {
+    "name": "render",
+    "trans": [
+      "使得， 致使； 给予， 以…回报； 提供； 呈报， 递交； 表达； 表演； 翻译"
+    ],
+    "usphone": "'rɛndɚ",
+    "ukphone": "'rendə(r)",
+    "e_mean": [
+      "give or supply"
+    ],
+    "speech": "verb",
+    "sentence": "The accident rendered him unable to walk."
+  },
+  {
+    "name": "enlarge",
+    "trans": [
+      "扩大， 放大， 扩充"
+    ],
+    "usphone": "ɪn'lɑrdʒ",
+    "ukphone": "ɪn'lɑːdʒ",
+    "e_mean": [
+      "make bigger"
+    ],
+    "speech": "verb",
+    "sentence": "They decided to enlarge the kitchen."
+  },
+  {
+    "name": "augment",
+    "trans": [
+      "增加， 提高， 扩大"
+    ],
+    "usphone": "ɔɡ'mɛnt",
+    "ukphone": "ɔːg'ment",
+    "e_mean": [
+      "enlarge or increase"
+    ],
+    "speech": "verb",
+    "sentence": "The company plans to augment its workforce."
+  },
+  {
+    "name": "magnify",
+    "trans": [
+      "放大， 扩大"
+    ],
+    "usphone": "'mæɡnɪfaɪ",
+    "ukphone": "'mægnɪfaɪ",
+    "e_mean": [
+      "increase in size, volume or significance"
+    ],
+    "speech": "verb",
+    "sentence": "This lens can magnify small objects."
+  },
+  {
+    "name": "amplify",
+    "trans": [
+      "详述；  放大"
+    ],
+    "usphone": "'æmplɪfaɪ",
+    "ukphone": "'æmplɪfaɪ",
+    "e_mean": [
+      "increase the volume of"
+    ],
+    "speech": "verb",
+    "sentence": "The speaker amplifies the sound of your voice."
+  },
+  {
+    "name": "exaggerate",
+    "trans": [
+      "夸大， 夸张"
+    ],
+    "usphone": "ɪɡ'zædʒəret",
+    "ukphone": "ɪg'zædʒəreɪt",
+    "e_mean": [
+      "enlarge beyond bounds or the truth"
+    ],
+    "speech": "verb",
+    "sentence": "He tends to exaggerate his achievements."
+  },
+  {
+    "name": "prolong",
+    "trans": [
+      "延长"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "lengthen in time; cause to be or last longer"
+    ],
+    "speech": "verb",
+    "sentence": "They tried to prolong the meeting to discuss more issues."
+  },
+  {
+    "name": "celebrate",
+    "trans": [
+      "赞扬， 歌颂； 庆祝"
+    ],
+    "usphone": "sɛləˌbret",
+    "ukphone": "'selɪbreɪt",
+    "e_mean": [
+      "have a festivity"
+    ],
+    "speech": "verb",
+    "sentence": "They celebrated their success with a big party."
+  },
+  {
+    "name": "congratulate",
+    "trans": [
+      "祝贺"
+    ],
+    "usphone": "kən'ɡrætʃulet",
+    "ukphone": "kən'grætʃʊleɪt",
+    "e_mean": [
+      "say something to someone that expresses praise"
+    ],
+    "speech": "verb",
+    "sentence": "I want to congratulate you on your success."
+  },
+  {
+    "name": "bless",
+    "trans": [
+      "祝福，为……祈求上帝保佑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "make the sign of the cross to call on God for protection"
+    ],
+    "speech": "verb",
+    "sentence": "The priest blessed the couple at their wedding."
+  },
+  {
+    "name": "participate",
+    "trans": [
+      "参加，参与"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "be involved in"
+    ],
+    "speech": "verb",
+    "sentence": "Many students participated in the competition."
+  },
+  {
+    "name": "farewell",
+    "trans": [
+      "告别； 欢送会"
+    ],
+    "usphone": ",fɛr'wɛl",
+    "ukphone": "ˌfeə'wel",
+    "e_mean": [
+      "an acknowledgment or expression of goodwill at parting"
+    ],
+    "speech": "noun",
+    "sentence": "They held a farewell party for their colleague."
+  },
+  {
+    "name": "assort",
+    "trans": [
+      "把…分类；相配"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "arrange or order by classes or categories"
+    ],
+    "speech": "verb",
+    "sentence": "The shopkeeper assorted the goods by type."
+  },
+  {
+    "name": "correspond",
+    "trans": [
+      "相一致， 符合； 通信； 相当于， 相应"
+    ],
+    "usphone": ",kɔrə'spɑnd",
+    "ukphone": "ˌkɒrə'spɒnd",
+    "e_mean": [
+      "take the place of or be parallel or equivalent to"
+    ],
+    "speech": "verb",
+    "sentence": "The results correspond with our expectations."
+  },
+  {
+    "name": "accord",
+    "trans": [
+      "一致，给予；协议"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "concurrence of opinion"
+    ],
+    "speech": "noun",
+    "sentence": "The two countries signed a peace accord."
+  },
+  {
+    "name": "accordance",
+    "trans": [
+      "—致.accordingly因此,所以"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "concurrence or agreement of opinion"
+    ],
+    "speech": "noun",
+    "sentence": "The work was done in accordance with the rules."
+  },
+  {
+    "name": "attribute",
+    "trans": [
+      "把…归于['ætrIbjʊːt]",
+      "属性； 品质"
+    ],
+    "usphone": "ə'trɪbjut",
+    "ukphone": "ə'trɪbjʊːt",
+    "e_mean": [
+      "a quality belonging to or characteristic of an entity"
+    ],
+    "speech": "noun",
+    "sentence": "Honesty is an important attribute of a good leader."
+  },
+  {
+    "name": "recall",
+    "trans": [
+      "回忆，回想起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "bring to mind"
+    ],
+    "speech": "verb",
+    "sentence": "I can still recall my first day at school."
+  },
+  {
+    "name": "recollect",
+    "trans": [
+      "记起,想起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "recall knowledge from memory"
+    ],
+    "speech": "verb",
+    "sentence": "She tried to recollect what had happened."
+  },
+  {
+    "name": "remind",
+    "trans": [
+      "提醒， 使想起； 使发生联想"
+    ],
+    "usphone": "rɪ'maɪnd",
+    "ukphone": "rɪ'maɪnd",
+    "e_mean": [
+      "put in the mind of someone"
+    ],
+    "speech": "verb",
+    "sentence": "Please remind me to call him later."
+  },
+  {
+    "name": "retell",
+    "trans": [
+      ".重新讲述，复述"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "to say, state, or perform again"
+    ],
+    "speech": "verb",
+    "sentence": "He retold the story in his own words."
+  },
+  {
+    "name": "repeat",
+    "trans": [
+      "重复;再次光顾的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "say or state again"
+    ],
+    "speech": "verb",
+    "sentence": "Could you please repeat that sentence?"
+  },
+  {
+    "name": "retrospect",
+    "trans": [
+      "回顾.retrospective回顾的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "contemplation of things past"
+    ],
+    "speech": "noun",
+    "sentence": "In retrospect, it was the right decision."
+  },
+  {
+    "name": "impress",
+    "trans": [
+      "给…留下深刻印象，使铭记；印，压印",
+      "印记"
+    ],
+    "usphone": "ɪm'prɛs",
+    "ukphone": "ɪm'pres",
+    "e_mean": [
+      "have a powerful and usually positive effect on"
+    ],
+    "speech": "verb",
+    "sentence": "Her speech impressed the audience deeply."
+  },
+  {
+    "name": "surmount",
+    "trans": [
+      "克服，置于...顶端"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "get on top of; deal with successfully"
+    ],
+    "speech": "verb",
+    "sentence": "They managed to surmount all the difficulties."
+  },
+  {
+    "name": "mortify",
+    "trans": [
+      "使难堪，使羞愧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cause to feel shame"
+    ],
+    "speech": "verb",
+    "sentence": "He was mortified by his mistake in public."
+  },
+  {
+    "name": "pervade",
+    "trans": [
+      "弥漫，渗透"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "spread or diffuse through"
+    ],
+    "speech": "verb",
+    "sentence": "A sense of excitement pervaded the room."
+  },
+  {
+    "name": "neck",
+    "trans": [
+      "脖子，衣领，海峡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the part of an organism that connects the head to the body"
+    ],
+    "speech": "noun",
+    "sentence": "He wore a scarf around his neck to keep warm."
+  },
+  {
+    "name": "beard",
+    "trans": [
+      "胡须.wearabeard留着胡须"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the hair growing on the lower part of a man's face"
+    ],
+    "speech": "noun",
+    "sentence": "He grew a beard during the winter."
+  },
+  {
+    "name": "shoulder",
+    "trans": [
+      "肩，肩膀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a joint connecting the arm to the body"
+    ],
+    "speech": "noun",
+    "sentence": "She rested her head on his shoulder."
+  },
+  {
+    "name": "limb",
+    "trans": [
+      "肢，树枝anartificial~假肢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "one of the jointed appendages of an animal"
+    ],
+    "speech": "noun",
+    "sentence": "The injured athlete could barely move his limb."
+  },
+  {
+    "name": "elbow",
+    "trans": [
+      "肘； 肘部"
+    ],
+    "usphone": "'ɛlbo",
+    "ukphone": "'elbəu",
+    "e_mean": [
+      "hinge joint between the forearm and upper arm"
+    ],
+    "speech": "noun",
+    "sentence": "He leaned on his elbow while reading."
+  },
+  {
+    "name": "wrist",
+    "trans": [
+      "腕，腕关节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a joint connecting the hand to the forearm"
+    ],
+    "speech": "noun",
+    "sentence": "She wore a watch on her wrist."
+  },
+  {
+    "name": "thumb",
+    "trans": [
+      "拇指"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the thick short innermost digit of the hand"
+    ],
+    "speech": "noun",
+    "sentence": "He gave a thumbs-up with his thumb."
+  },
+  {
+    "name": "palm",
+    "trans": [
+      "棕榈树，手掌；把…藏在手中"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the inner surface of the hand"
+    ],
+    "speech": "noun",
+    "sentence": "She held the coin in her palm."
+  },
+  {
+    "name": "finger",
+    "trans": [
+      "手指.fingerprint指纹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of the terminal members of the hand"
+    ],
+    "speech": "noun",
+    "sentence": "He pointed at the screen with his finger."
+  },
+  {
+    "name": "fist",
+    "trans": [
+      "拳头，拳"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a hand with the fingers clenched"
+    ],
+    "speech": "noun",
+    "sentence": "He clenched his fist in anger."
+  },
+  {
+    "name": "chest",
+    "trans": [
+      "胸； 金库， 资金"
+    ],
+    "usphone": "tʃɛst",
+    "ukphone": "tʃest",
+    "e_mean": [
+      "the part of the body between the neck and abdomen"
+    ],
+    "speech": "noun",
+    "sentence": "He felt a sharp pain in his chest."
+  },
+  {
+    "name": "abdomen",
+    "trans": [
+      "腹，腹部"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the region between the chest and pelvis"
+    ],
+    "speech": "noun",
+    "sentence": "The doctor examined his abdomen carefully."
+  },
+  {
+    "name": "rib",
+    "trans": [
+      "肋骨，排骨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "curved bones forming the chest"
+    ],
+    "speech": "noun",
+    "sentence": "He broke a rib during the accident."
+  },
+  {
+    "name": "waist",
+    "trans": [
+      "腰， 腰部"
+    ],
+    "usphone": "west",
+    "ukphone": "weɪst",
+    "e_mean": [
+      "the narrowing of the body between ribs and hips"
+    ],
+    "speech": "noun",
+    "sentence": "She tied a belt around her waist."
+  },
+  {
+    "name": "organ",
+    "trans": [
+      "器官； 机构"
+    ],
+    "usphone": "'ɔrɡən",
+    "ukphone": "'ɔːgən",
+    "e_mean": [
+      "a structure specialized for a function"
+    ],
+    "speech": "noun",
+    "sentence": "The heart is a vital organ in the human body."
+  },
+  {
+    "name": "organic",
+    "trans": [
+      "器官的； 有机的； 有机体的； 组织的"
+    ],
+    "usphone": "ɔr'gænɪk",
+    "ukphone": "ɔː'gænɪk",
+    "e_mean": [
+      "having properties of living organisms"
+    ],
+    "speech": "adjective",
+    "sentence": "She prefers to buy organic vegetables."
+  },
+  {
+    "name": "liver",
+    "trans": [
+      "生活者， 居住者； 肝脏"
+    ],
+    "usphone": "'lɪvɚ",
+    "ukphone": "'lɪvə(r)",
+    "e_mean": [
+      "a large organ that processes nutrients"
+    ],
+    "speech": "noun",
+    "sentence": "The liver plays an important role in digestion."
+  },
+  {
+    "name": "stomach",
+    "trans": [
+      "胃口，胃，腹部"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a saclike organ used in digestion"
+    ],
+    "speech": "noun",
+    "sentence": "He felt pain in his stomach after eating too much."
+  },
+  {
+    "name": "womb",
+    "trans": [
+      "子宫； 发源地"
+    ],
+    "usphone": "wum",
+    "ukphone": "wuːm",
+    "e_mean": [
+      "an organ where a fetus develops"
+    ],
+    "speech": "noun",
+    "sentence": "The baby develops inside the mother’s womb."
+  },
+  {
+    "name": "kidney",
+    "trans": [
+      "肾， 肾脏"
+    ],
+    "usphone": "'kɪdni",
+    "ukphone": "'kɪdni",
+    "e_mean": [
+      "an organ that filters waste from blood"
+    ],
+    "speech": "noun",
+    "sentence": "Drinking enough water helps protect your kidneys."
+  },
+  {
+    "name": "glimpse",
+    "trans": [
+      "瞥见；一瞥"
+    ],
+    "usphone": "ɡlɪmps",
+    "ukphone": "ɡlɪmps",
+    "e_mean": [
+      "a brief or incomplete view"
+    ],
+    "speech": "noun",
+    "sentence": "I caught a glimpse of her as she disappeared into the crowd."
+  },
+  {
+    "name": "glance",
+    "trans": [
+      "迅速看一眼；一瞥"
+    ],
+    "usphone": "ɡlæns",
+    "ukphone": "ɡlɑːns",
+    "e_mean": [
+      "take a brief look at"
+    ],
+    "speech": "verb",
+    "sentence": "She glanced at her watch and hurried out."
+  },
+  {
+    "name": "peep",
+    "trans": [
+      "窥视；偷看；偷偷一瞥"
+    ],
+    "usphone": "piːp",
+    "ukphone": "piːp",
+    "e_mean": [
+      "look quickly, cautiously, or secretly"
+    ],
+    "speech": "verb",
+    "sentence": "The child peeped through the door to see what was happening."
+  },
+  {
+    "name": "gaze",
+    "trans": [
+      "凝视；注视"
+    ],
+    "usphone": "ɡeɪz",
+    "ukphone": "ɡeɪz",
+    "e_mean": [
+      "a long fixed look"
+    ],
+    "speech": "noun",
+    "sentence": "She fixed her gaze on the distant mountains."
+  },
+  {
+    "name": "peer",
+    "trans": [
+      "凝视；仔细看；同等地位的人"
+    ],
+    "usphone": "pɪr",
+    "ukphone": "pɪə(r)",
+    "e_mean": [
+      "look searchingly"
+    ],
+    "speech": "verb",
+    "sentence": "He peered through the fog, trying to find the road."
+  },
+  {
+    "name": "stare",
+    "trans": [
+      "盯着看；凝视"
+    ],
+    "usphone": "ster",
+    "ukphone": "steə(r)",
+    "e_mean": [
+      "look at with fixed eyes"
+    ],
+    "speech": "verb",
+    "sentence": "It is rude to stare at strangers."
+  },
+  {
+    "name": "contemplate",
+    "trans": [
+      "沉思；凝视；考虑；打算"
+    ],
+    "usphone": "'kɑːntəmpleɪt",
+    "ukphone": "'kɒntəmpleɪt",
+    "e_mean": [
+      "think intently and at length"
+    ],
+    "speech": "verb",
+    "sentence": "He sat quietly by the window and contemplated his future."
+  },
+  {
+    "name": "vow",
+    "trans": [
+      "誓言；发誓"
+    ],
+    "usphone": "vaʊ",
+    "ukphone": "vaʊ",
+    "e_mean": [
+      "a solemn pledge to do something"
+    ],
+    "speech": "noun",
+    "sentence": "She made a vow never to give up her dream."
+  },
+  {
+    "name": "oath",
+    "trans": [
+      "誓言；宣誓"
+    ],
+    "usphone": "oʊθ",
+    "ukphone": "əʊθ",
+    "e_mean": [
+      "a solemn promise regarding future acts or behavior"
+    ],
+    "speech": "noun",
+    "sentence": "The witness took an oath to tell the truth."
+  },
+  {
+    "name": "pledge",
+    "trans": [
+      "誓约；保证；抵押；正式承诺"
+    ],
+    "usphone": "pledʒ",
+    "ukphone": "pledʒ",
+    "e_mean": [
+      "a binding commitment to do or give something"
+    ],
+    "speech": "noun",
+    "sentence": "The government made a pledge to reduce pollution."
+  },
+  {
+    "name": "whistle",
+    "trans": [
+      "吹口哨；哨子；口哨声"
+    ],
+    "usphone": "'wɪsl",
+    "ukphone": "'wɪsl",
+    "e_mean": [
+      "the sound made when someone forces breath through pursed lips"
+    ],
+    "speech": "noun",
+    "sentence": "I heard a whistle from the other side of the street."
+  },
+  {
+    "name": "reply",
+    "trans": [
+      "回答；答复"
+    ],
+    "usphone": "rɪ'plaɪ",
+    "ukphone": "rɪ'plaɪ",
+    "e_mean": [
+      "react verbally"
+    ],
+    "speech": "verb",
+    "sentence": "She didn’t reply to my message until the next morning."
+  },
+  {
+    "name": "notify",
+    "trans": [
+      "通知；报告"
+    ],
+    "usphone": "'noʊtɪfaɪ",
+    "ukphone": "'nəʊtɪfaɪ",
+    "e_mean": [
+      "inform somebody of something"
+    ],
+    "speech": "verb",
+    "sentence": "Please notify me if there are any changes."
+  },
+  {
+    "name": "assert",
+    "trans": [
+      "断言；声称；坚持"
+    ],
+    "usphone": "ə'sɜːrt",
+    "ukphone": "ə'sɜːt",
+    "e_mean": [
+      "declare or affirm firmly as true"
+    ],
+    "speech": "verb",
+    "sentence": "He asserted that the report was accurate."
+  },
+  {
+    "name": "quarrel",
+    "trans": [
+      "争吵；争论"
+    ],
+    "usphone": "'kwɔːrəl",
+    "ukphone": "'kwɒrəl",
+    "e_mean": [
+      "an angry dispute"
+    ],
+    "speech": "noun",
+    "sentence": "They had a quarrel over a small misunderstanding."
+  },
+  {
+    "name": "complain",
+    "trans": [
+      "抱怨；投诉"
+    ],
+    "usphone": "kəm'pleɪn",
+    "ukphone": "kəm'pleɪn",
+    "e_mean": [
+      "express discontent, displeasure, or unhappiness"
+    ],
+    "speech": "verb",
+    "sentence": "Customers often complain about the slow service."
+  },
+  {
+    "name": "dispute",
+    "trans": [
+      "争论；争端；对……表示异议"
+    ],
+    "usphone": "dɪ'spjuːt",
+    "ukphone": "dɪ'spjuːt",
+    "e_mean": [
+      "the act of coming into conflict"
+    ],
+    "speech": "noun",
+    "sentence": "The two sides are trying to settle the dispute peacefully."
+  },
+  {
+    "name": "mention",
+    "trans": [
+      "提及；说起"
+    ],
+    "usphone": "'menʃn",
+    "ukphone": "'menʃn",
+    "e_mean": [
+      "make reference to"
+    ],
+    "speech": "verb",
+    "sentence": "She didn’t mention the problem during the meeting."
+  },
+  {
+    "name": "hurry",
+    "trans": [
+      "赶紧；催促；匆忙"
+    ],
+    "usphone": "'hɜːri",
+    "ukphone": "'hʌri",
+    "e_mean": [
+      "move very fast"
+    ],
+    "speech": "verb",
+    "sentence": "We need to hurry or we will miss the train."
+  },
+  {
+    "name": "contact",
+    "trans": [
+      "接触；联系；与……取得联系"
+    ],
+    "usphone": "'kɑːntækt",
+    "ukphone": "'kɒntækt",
+    "e_mean": [
+      "the act of touching physically or communicating with someone"
+    ],
+    "speech": "noun",
+    "sentence": "Please contact me if you need any help."
+  },
+  {
+    "name": "approach",
+    "trans": [
+      "接近；方法；途径"
+    ],
+    "usphone": "ə'proʊtʃ",
+    "ukphone": "ə'prəʊtʃ",
+    "e_mean": [
+      "come near or nearer to"
+    ],
+    "speech": "verb",
+    "sentence": "The train is slowly approaching the station."
+  },
+  {
+    "name": "reach",
+    "trans": [
+      "到达；达到；伸手够到"
+    ],
+    "usphone": "riːtʃ",
+    "ukphone": "riːtʃ",
+    "e_mean": [
+      "arrive at a place"
+    ],
+    "speech": "verb",
+    "sentence": "We finally reached the top of the mountain."
+  },
+  {
+    "name": "arrive",
+    "trans": [
+      "到达；抵达"
+    ],
+    "usphone": "ə'raɪv",
+    "ukphone": "ə'raɪv",
+    "e_mean": [
+      "reach a destination"
+    ],
+    "speech": "verb",
+    "sentence": "They arrived at the airport early in the morning."
+  },
+  {
+    "name": "enter",
+    "trans": [
+      "进入；加入"
+    ],
+    "usphone": "'entər",
+    "ukphone": "'entə(r)",
+    "e_mean": [
+      "come or go into"
+    ],
+    "speech": "verb",
+    "sentence": "He entered the room quietly."
+  },
+  {
+    "name": "exit",
+    "trans": [
+      "出口；离开"
+    ],
+    "usphone": "'eksɪt",
+    "ukphone": "'eksɪt",
+    "e_mean": [
+      "go out of or leave"
+    ],
+    "speech": "verb",
+    "sentence": "Please exit the building in an orderly way."
+  },
+  {
+    "name": "depart",
+    "trans": [
+      "离开；出发"
+    ],
+    "usphone": "dɪ'pɑːrt",
+    "ukphone": "dɪ'pɑːt",
+    "e_mean": [
+      "leave, especially to start a journey"
+    ],
+    "speech": "verb",
+    "sentence": "The plane will depart at noon."
+  },
+  {
+    "name": "advance",
+    "trans": [
+      "前进；进展"
+    ],
+    "usphone": "əd'væns",
+    "ukphone": "əd'vɑːns",
+    "e_mean": [
+      "move forward"
+    ],
+    "speech": "verb",
+    "sentence": "The army continued to advance despite difficulties."
+  },
+  {
+    "name": "retreat",
+    "trans": [
+      "撤退；退却"
+    ],
+    "usphone": "rɪ'triːt",
+    "ukphone": "rɪ'triːt",
+    "e_mean": [
+      "move back or withdraw"
+    ],
+    "speech": "verb",
+    "sentence": "The soldiers were forced to retreat."
+  },
+  {
+    "name": "wander",
+    "trans": [
+      "漫步；徘徊；走神"
+    ],
+    "usphone": "'wɑːndər",
+    "ukphone": "'wɒndə(r)",
+    "e_mean": [
+      "move aimlessly"
+    ],
+    "speech": "verb",
+    "sentence": "He wandered around the city without a plan."
+  },
+  {
+    "name": "stroll",
+    "trans": [
+      "散步；闲逛"
+    ],
+    "usphone": "stroʊl",
+    "ukphone": "strəʊl",
+    "e_mean": [
+      "walk in a leisurely way"
+    ],
+    "speech": "verb",
+    "sentence": "They strolled along the beach at sunset."
+  },
+  {
+    "name": "march",
+    "trans": [
+      "行进；游行"
+    ],
+    "usphone": "mɑːrtʃ",
+    "ukphone": "mɑːtʃ",
+    "e_mean": [
+      "walk with regular steps"
+    ],
+    "speech": "verb",
+    "sentence": "The soldiers marched through the town."
+  },
+  {
+    "name": "rush",
+    "trans": [
+      "冲；奔；仓促行事"
+    ],
+    "usphone": "rʌʃ",
+    "ukphone": "rʌʃ",
+    "e_mean": [
+      "move with urgent haste"
+    ],
+    "speech": "verb",
+    "sentence": "She rushed to catch the last bus."
+  },
+  {
+    "name": "crawl",
+    "trans": [
+      "爬行；缓慢移动"
+    ],
+    "usphone": "krɔːl",
+    "ukphone": "krɔːl",
+    "e_mean": [
+      "move slowly on hands and knees"
+    ],
+    "speech": "verb",
+    "sentence": "The baby crawled across the floor."
+  },
+  {
+    "name": "climb",
+    "trans": [
+      "攀登；爬上"
+    ],
+    "usphone": "klaɪm",
+    "ukphone": "klaɪm",
+    "e_mean": [
+      "go up using hands and feet"
+    ],
+    "speech": "verb",
+    "sentence": "They climbed the hill together."
+  },
+  {
+    "name": "leap",
+    "trans": [
+      "跳跃；猛冲"
+    ],
+    "usphone": "liːp",
+    "ukphone": "liːp",
+    "e_mean": [
+      "jump or spring a long way"
+    ],
+    "speech": "verb",
+    "sentence": "The cat leaped onto the table."
+  },
+  {
+    "name": "dash",
+    "trans": [
+      "猛冲；急奔"
+    ],
+    "usphone": "dæʃ",
+    "ukphone": "dæʃ",
+    "e_mean": [
+      "run or move quickly"
+    ],
+    "speech": "verb",
+    "sentence": "He dashed out of the room in a hurry."
+  },
+  {
+    "name": "slide",
+    "trans": [
+      "滑动；滑落"
+    ],
+    "usphone": "slaɪd",
+    "ukphone": "slaɪd",
+    "e_mean": [
+      "move smoothly along a surface"
+    ],
+    "speech": "verb",
+    "sentence": "The book slid off the table."
+  },
+  {
+    "name": "drag",
+    "trans": [
+      "拖；拉"
+    ],
+    "usphone": "dræɡ",
+    "ukphone": "dræɡ",
+    "e_mean": [
+      "pull along with difficulty"
+    ],
+    "speech": "verb",
+    "sentence": "He dragged the heavy box across the floor."
+  },
+  {
+    "name": "pull",
+    "trans": [
+      "拉；牵引"
+    ],
+    "usphone": "pʊl",
+    "ukphone": "pʊl",
+    "e_mean": [
+      "exert force to move toward oneself"
+    ],
+    "speech": "verb",
+    "sentence": "She pulled the door open."
+  },
+  {
+    "name": "push",
+    "trans": [
+      "推；推动"
+    ],
+    "usphone": "pʊʃ",
+    "ukphone": "pʊʃ",
+    "e_mean": [
+      "apply force to move away"
+    ],
+    "speech": "verb",
+    "sentence": "He pushed the cart down the street."
+  },
+  {
+    "name": "connect",
+    "trans": [
+      "连接；联系；关联；接通"
+    ],
+    "usphone": "kə'nekt",
+    "ukphone": "kə'nekt",
+    "e_mean": [
+      "join or link together"
+    ],
+    "speech": "verb",
+    "sentence": "The bridge connects the two parts of the city."
+  },
+  {
+    "name": "combine",
+    "trans": [
+      "结合；联合；合并"
+    ],
+    "usphone": "kəm'baɪn",
+    "ukphone": "kəm'baɪn",
+    "e_mean": [
+      "join or merge to form a whole"
+    ],
+    "speech": "verb",
+    "sentence": "You can combine these ingredients to make a delicious dish."
+  },
+  {
+    "name": "bond",
+    "trans": [
+      "结合；粘合；纽带"
+    ],
+    "usphone": "bɑːnd",
+    "ukphone": "bɒnd",
+    "e_mean": [
+      "join securely; a connection between people"
+    ],
+    "speech": "noun",
+    "sentence": "There is a strong bond between the two friends."
+  },
+  {
+    "name": "integrate",
+    "trans": [
+      "使结合；使融入；整合"
+    ],
+    "usphone": "'ɪntɪɡreɪt",
+    "ukphone": "'ɪntɪgreɪt",
+    "e_mean": [
+      "combine into a whole"
+    ],
+    "speech": "verb",
+    "sentence": "The system is designed to integrate different functions."
+  },
+  {
+    "name": "merge",
+    "trans": [
+      "合并；融合"
+    ],
+    "usphone": "mɜːrdʒ",
+    "ukphone": "mɜːdʒ",
+    "e_mean": [
+      "combine or cause to combine"
+    ],
+    "speech": "verb",
+    "sentence": "The two companies decided to merge."
+  },
+  {
+    "name": "attach",
+    "trans": [
+      "附上；系上；贴上"
+    ],
+    "usphone": "ə'tætʃ",
+    "ukphone": "ə'tætʃ",
+    "e_mean": [
+      "fasten or join"
+    ],
+    "speech": "verb",
+    "sentence": "Please attach the file to your email."
+  },
+  {
+    "name": "fasten",
+    "trans": [
+      "系牢；扣紧"
+    ],
+    "usphone": "'fæsən",
+    "ukphone": "'fɑːsn",
+    "e_mean": [
+      "close or secure"
+    ],
+    "speech": "verb",
+    "sentence": "Fasten your seatbelt before takeoff."
+  },
+  {
+    "name": "link",
+    "trans": [
+      "连接；联系；关联"
+    ],
+    "usphone": "lɪŋk",
+    "ukphone": "lɪŋk",
+    "e_mean": [
+      "make a logical or causal connection"
+    ],
+    "speech": "verb",
+    "sentence": "These two events are closely linked."
+  },
+  {
+    "name": "relate",
+    "trans": [
+      "有关；涉及；理解；讲述"
+    ],
+    "usphone": "rɪ'leɪt",
+    "ukphone": "rɪ'leɪt",
+    "e_mean": [
+      "make or show a connection"
+    ],
+    "speech": "verb",
+    "sentence": "I can relate to what you are feeling."
+  },
+  {
+    "name": "associate",
+    "trans": [
+      "联系；交往；联合"
+    ],
+    "usphone": "ə'soʊʃieɪt",
+    "ukphone": "ə'səʊʃieɪt",
+    "e_mean": [
+      "connect in the mind"
+    ],
+    "speech": "verb",
+    "sentence": "People often associate this place with happy memories."
+  },
+  {
+    "name": "unite",
+    "trans": [
+      "联合；团结"
+    ],
+    "usphone": "ju'naɪt",
+    "ukphone": "juː'naɪt",
+    "e_mean": [
+      "join together for a common purpose"
+    ],
+    "speech": "verb",
+    "sentence": "The team united to achieve their goal."
+  },
+  {
+    "name": "joint",
+    "trans": [
+      "关节；接头；联合的"
+    ],
+    "usphone": "dʒɔɪnt",
+    "ukphone": "dʒɔɪnt",
+    "e_mean": [
+      "a point at which parts are joined"
+    ],
+    "speech": "noun",
+    "sentence": "The joint allows the arm to move freely."
+  },
+  {
+    "name": "separate",
+    "trans": [
+      "分开；分离；独立的"
+    ],
+    "usphone": "'sepəreɪt",
+    "ukphone": "'sepəreɪt",
+    "e_mean": [
+      "set or keep apart"
+    ],
+    "speech": "verb",
+    "sentence": "The teacher asked the students to separate into groups."
+  },
+  {
+    "name": "divide",
+    "trans": [
+      "分开；分割；划分"
+    ],
+    "usphone": "dɪ'vaɪd",
+    "ukphone": "dɪ'vaɪd",
+    "e_mean": [
+      "separate into parts"
+    ],
+    "speech": "verb",
+    "sentence": "The river divides the city into two parts."
+  },
+  {
+    "name": "split",
+    "trans": [
+      "分裂；分开；劈开"
+    ],
+    "usphone": "splɪt",
+    "ukphone": "splɪt",
+    "e_mean": [
+      "break or cause to break apart"
+    ],
+    "speech": "verb",
+    "sentence": "They decided to split the cost equally."
+  },
+  {
+    "name": "detach",
+    "trans": [
+      "分离；拆开"
+    ],
+    "usphone": "dɪ'tætʃ",
+    "ukphone": "dɪ'tætʃ",
+    "e_mean": [
+      "separate or remove"
+    ],
+    "speech": "verb",
+    "sentence": "Please detach the label before use."
+  },
+  {
+    "name": "isolate",
+    "trans": [
+      "隔离；孤立"
+    ],
+    "usphone": "'aɪsəleɪt",
+    "ukphone": "'aɪsəleɪt",
+    "e_mean": [
+      "separate from others"
+    ],
+    "speech": "verb",
+    "sentence": "The patient was isolated to prevent infection."
+  },
+  {
+    "name": "disconnect",
+    "trans": [
+      "断开；分离"
+    ],
+    "usphone": ",dɪskə'nekt",
+    "ukphone": ",dɪskə'nekt",
+    "e_mean": [
+      "break the connection of"
+    ],
+    "speech": "verb",
+    "sentence": "Please disconnect the device after use."
+  },
+  {
+    "name": "withdraw",
+    "trans": [
+      "撤回；退出；取出"
+    ],
+    "usphone": "wɪð'drɔː",
+    "ukphone": "wɪð'drɔː",
+    "e_mean": [
+      "remove or take away"
+    ],
+    "speech": "verb",
+    "sentence": "He decided to withdraw from the competition."
+  },
+  {
+    "name": "eliminate",
+    "trans": [
+      "消除；排除；淘汰"
+    ],
+    "usphone": "ɪ'lɪmɪneɪt",
+    "ukphone": "ɪ'lɪmɪneɪt",
+    "e_mean": [
+      "remove completely"
+    ],
+    "speech": "verb",
+    "sentence": "We need to eliminate all possible risks."
+  },
+  {
+    "name": "wrap",
+    "trans": [
+      "包裹；缠绕"
+    ],
+    "usphone": "ræp",
+    "ukphone": "ræp",
+    "e_mean": [
+      "cover or enclose something by folding or winding material around it"
+    ],
+    "speech": "verb",
+    "sentence": "She wrapped the gift carefully in colorful paper."
+  },
+  {
+    "name": "penetrate",
+    "trans": [
+      "穿透；刺入；洞察"
+    ],
+    "usphone": "'penətreɪt",
+    "ukphone": "'penɪtreɪt",
+    "e_mean": [
+      "pass into or through something"
+    ],
+    "speech": "verb",
+    "sentence": "The sunlight penetrated the thick clouds."
+  },
+  {
+    "name": "pierce",
+    "trans": [
+      "刺穿；穿透"
+    ],
+    "usphone": "pɪrs",
+    "ukphone": "pɪəs",
+    "e_mean": [
+      "make a hole in something with a sharp object"
+    ],
+    "speech": "verb",
+    "sentence": "He pierced the paper with a needle."
+  },
+  {
+    "name": "insert",
+    "trans": [
+      "插入；嵌入"
+    ],
+    "usphone": "ɪn'sɝt",
+    "ukphone": "ɪn'sɜːt",
+    "e_mean": [
+      "put something into something else"
+    ],
+    "speech": "verb",
+    "sentence": "Please insert the key into the lock."
+  },
+  {
+    "name": "tilt",
+    "trans": [
+      "倾斜；使倾侧"
+    ],
+    "usphone": "tɪlt",
+    "ukphone": "tɪlt",
+    "e_mean": [
+      "move or cause to move into a sloping position"
+    ],
+    "speech": "verb",
+    "sentence": "He tilted his head to listen more carefully."
+  },
+  {
+    "name": "tow",
+    "trans": [
+      "拖；牵引"
+    ],
+    "usphone": "toʊ",
+    "ukphone": "təʊ",
+    "e_mean": [
+      "pull something behind a vehicle"
+    ],
+    "speech": "verb",
+    "sentence": "The truck towed the broken car to the garage."
+  },
+  {
+    "name": "trail",
+    "trans": [
+      "拖在后面；小径"
+    ],
+    "usphone": "treɪl",
+    "ukphone": "treɪl",
+    "e_mean": [
+      "pull or drag along behind"
+    ],
+    "speech": "verb",
+    "sentence": "Her dress trailed along the floor as she walked."
+  },
+  {
+    "name": "arrange",
+    "trans": [
+      "安排；整理；排列"
+    ],
+    "usphone": "ə'reɪndʒ",
+    "ukphone": "ə'reɪndʒ",
+    "e_mean": [
+      "put things in a neat or planned order"
+    ],
+    "speech": "verb",
+    "sentence": "She arranged the books neatly on the shelf."
+  },
+  {
+    "name": "manipulate",
+    "trans": [
+      "操控；处理；影响"
+    ],
+    "usphone": "mə'nɪpjuleɪt",
+    "ukphone": "mə'nɪpjuleɪt",
+    "e_mean": [
+      "control or influence skillfully"
+    ],
+    "speech": "verb",
+    "sentence": "He tried to manipulate the situation to his advantage."
+  },
+  {
+    "name": "steer",
+    "trans": [
+      "驾驶；引导"
+    ],
+    "usphone": "stɪr",
+    "ukphone": "stɪə(r)",
+    "e_mean": [
+      "control the direction of a vehicle"
+    ],
+    "speech": "verb",
+    "sentence": "She steered the car through the narrow street."
+  },
+  {
+    "name": "baptise",
+    "trans": [
+      "给…施洗礼"
+    ],
+    "usphone": "bæp'taɪz",
+    "ukphone": "bæp'taɪz",
+    "e_mean": [
+      "administer baptism to someone"
+    ],
+    "speech": "verb",
+    "sentence": "The priest baptised the child in a quiet ceremony."
+  },
+  {
+    "name": "bet",
+    "trans": [
+      "打赌；下注"
+    ],
+    "usphone": "bet",
+    "ukphone": "bet",
+    "e_mean": [
+      "risk money on the outcome of an event"
+    ],
+    "speech": "verb",
+    "sentence": "He bet ten dollars on the game."
+  },
+  {
+    "name": "stake",
+    "trans": [
+      "赌注；风险；利害关系"
+    ],
+    "usphone": "steɪk",
+    "ukphone": "steɪk",
+    "e_mean": [
+      "something that is risked or could be lost"
+    ],
+    "speech": "noun",
+    "sentence": "They had a lot at stake in the final decision."
+  },
+  {
+    "name": "gamble",
+    "trans": [
+      "赌博；冒险"
+    ],
+    "usphone": "'ɡæmbl",
+    "ukphone": "'ɡæmbl",
+    "e_mean": [
+      "take a risk in hope of gain"
+    ],
+    "speech": "verb",
+    "sentence": "Starting a business can feel like a gamble."
+  },
+  {
+    "name": "promise",
+    "trans": [
+      "承诺；保证"
+    ],
+    "usphone": "'prɑːmɪs",
+    "ukphone": "'prɒmɪs",
+    "e_mean": [
+      "a commitment to do something"
+    ],
+    "speech": "noun",
+    "sentence": "She made a promise to help her friend."
+  },
+  {
+    "name": "tempt",
+    "trans": [
+      "引诱；诱惑"
+    ],
+    "usphone": "tempt",
+    "ukphone": "tempt",
+    "e_mean": [
+      "attract someone to do something"
+    ],
+    "speech": "verb",
+    "sentence": "The smell of fresh bread tempted him."
+  },
+  {
+    "name": "designate",
+    "trans": [
+      "指定；指派"
+    ],
+    "usphone": "'dezɪɡneɪt",
+    "ukphone": "'dezɪɡneɪt",
+    "e_mean": [
+      "officially choose someone for a role"
+    ],
+    "speech": "verb",
+    "sentence": "She was designated as the team leader."
+  },
+  {
+    "name": "assign",
+    "trans": [
+      "分配；指派"
+    ],
+    "usphone": "ə'saɪn",
+    "ukphone": "ə'saɪn",
+    "e_mean": [
+      "give someone a task or duty"
+    ],
+    "speech": "verb",
+    "sentence": "The teacher assigned homework to the class."
+  },
+  {
+    "name": "distribute",
+    "trans": [
+      "分发；分配"
+    ],
+    "usphone": "dɪ'strɪbjuːt",
+    "ukphone": "dɪ'strɪbjuːt",
+    "e_mean": [
+      "give out to several people"
+    ],
+    "speech": "verb",
+    "sentence": "They distributed food to the volunteers."
+  },
+  {
+    "name": "despatch",
+    "trans": [
+      "派遣；发送；迅速处理"
+    ],
+    "usphone": "dɪ'spætʃ",
+    "ukphone": "dɪ'spætʃ",
+    "e_mean": [
+      "send off to a destination"
+    ],
+    "speech": "verb",
+    "sentence": "The company despatched the goods the same day."
+  },
+  {
+    "name": "detach",
+    "trans": [
+      "分离；拆开；使脱离"
+    ],
+    "usphone": "dɪ'tætʃ",
+    "ukphone": "dɪ'tætʃ",
+    "e_mean": [
+      "separate or remove something"
+    ],
+    "speech": "verb",
+    "sentence": "Please detach the label before returning the item."
+  },
+  {
+    "name": "undo",
+    "trans": [
+      "解开；取消；撤销"
+    ],
+    "usphone": "ʌn'duː",
+    "ukphone": "ʌn'duː",
+    "e_mean": [
+      "cancel or reverse an action"
+    ],
+    "speech": "verb",
+    "sentence": "He tried to undo the damage he had caused."
+  },
+  {
+    "name": "disguise",
+    "trans": [
+      "伪装；掩饰"
+    ],
+    "usphone": "dɪs'ɡaɪz",
+    "ukphone": "dɪs'ɡaɪz",
+    "e_mean": [
+      "change appearance to hide identity"
+    ],
+    "speech": "verb",
+    "sentence": "He disguised himself as a guard to enter the building."
+  },
+  {
+    "name": "conceal",
+    "trans": [
+      "隐藏；隐瞒"
+    ],
+    "usphone": "kən'siːl",
+    "ukphone": "kən'siːl",
+    "e_mean": [
+      "keep something hidden"
+    ],
+    "speech": "verb",
+    "sentence": "She tried to conceal her disappointment."
+  },
+  {
+    "name": "refuse",
+    "trans": [
+      "拒绝；不接受"
+    ],
+    "usphone": "rɪ'fjuːz",
+    "ukphone": "rɪ'fjuːz",
+    "e_mean": [
+      "say no to something"
+    ],
+    "speech": "verb",
+    "sentence": "He refused to answer the question."
+  },
+  {
+    "name": "reject",
+    "trans": [
+      "拒绝；驳回"
+    ],
+    "usphone": "rɪ'dʒekt",
+    "ukphone": "rɪ'dʒekt",
+    "e_mean": [
+      "dismiss as unacceptable"
+    ],
+    "speech": "verb",
+    "sentence": "The proposal was rejected by the committee."
+  },
+  {
+    "name": "decline",
+    "trans": [
+      "拒绝；下降；衰退"
+    ],
+    "usphone": "dɪ'klaɪn",
+    "ukphone": "dɪ'klaɪn",
+    "e_mean": [
+      "politely refuse or decrease"
+    ],
+    "speech": "verb",
+    "sentence": "She declined the invitation politely."
+  },
+  {
+    "name": "resist",
+    "trans": [
+      "抵抗；抵制"
+    ],
+    "usphone": "rɪ'zɪst",
+    "ukphone": "rɪ'zɪst",
+    "e_mean": [
+      "withstand or oppose"
+    ],
+    "speech": "verb",
+    "sentence": "He couldn't resist the temptation."
+  },
+  {
+    "name": "oppose",
+    "trans": [
+      "反对；对抗"
+    ],
+    "usphone": "ə'poʊz",
+    "ukphone": "ə'pəʊz",
+    "e_mean": [
+      "be against something"
+    ],
+    "speech": "verb",
+    "sentence": "Many people oppose the new policy."
+  },
+  {
+    "name": "reverse",
+    "trans": [
+      "逆转；颠倒；撤销"
+    ],
+    "usphone": "rɪ'vɜːrs",
+    "ukphone": "rɪ'vɜːs",
+    "e_mean": [
+      "change to the opposite direction"
+    ],
+    "speech": "verb",
+    "sentence": "The decision was later reversed."
+  },
+  {
+    "name": "abandon",
+    "trans": [
+      "放弃；遗弃"
+    ],
+    "usphone": "ə'bændən",
+    "ukphone": "ə'bændən",
+    "e_mean": [
+      "give up completely or leave behind"
+    ],
+    "speech": "verb",
+    "sentence": "They had to abandon the plan due to lack of support."
+  },
+  {
+    "name": "quit",
+    "trans": [
+      "离开；放弃；停止"
+    ],
+    "usphone": "kwɪt",
+    "ukphone": "kwɪt",
+    "e_mean": [
+      "stop doing something"
+    ],
+    "speech": "verb",
+    "sentence": "He decided to quit his job and travel the world."
+  },
+  {
+    "name": "resign",
+    "trans": [
+      "辞职；放弃"
+    ],
+    "usphone": "rɪ'zaɪn",
+    "ukphone": "rɪ'zaɪn",
+    "e_mean": [
+      "leave a job formally"
+    ],
+    "speech": "verb",
+    "sentence": "She resigned from her position last week."
+  },
+  {
+    "name": "surrender",
+    "trans": [
+      "投降；放弃"
+    ],
+    "usphone": "sə'rendər",
+    "ukphone": "sə'rendə(r)",
+    "e_mean": [
+      "give up resistance"
+    ],
+    "speech": "verb",
+    "sentence": "The enemy was forced to surrender."
+  },
+  {
+    "name": "yield",
+    "trans": [
+      "屈服；让步；产生"
+    ],
+    "usphone": "jiːld",
+    "ukphone": "jiːld",
+    "e_mean": [
+      "give way or produce"
+    ],
+    "speech": "verb",
+    "sentence": "He refused to yield to pressure."
+  },
+  {
+    "name": "submit",
+    "trans": [
+      "提交；屈服"
+    ],
+    "usphone": "səb'mɪt",
+    "ukphone": "səb'mɪt",
+    "e_mean": [
+      "accept or give in to authority"
+    ],
+    "speech": "verb",
+    "sentence": "All students must submit their assignments on time."
+  },
+  {
+    "name": "obey",
+    "trans": [
+      "服从；遵守"
+    ],
+    "usphone": "oʊ'beɪ",
+    "ukphone": "əʊ'beɪ",
+    "e_mean": [
+      "follow rules or commands"
+    ],
+    "speech": "verb",
+    "sentence": "Children should learn to obey their parents."
+  },
+  {
+    "name": "comply",
+    "trans": [
+      "遵守；顺从"
+    ],
+    "usphone": "kəm'plaɪ",
+    "ukphone": "kəm'plaɪ",
+    "e_mean": [
+      "act according to a rule or request"
+    ],
+    "speech": "verb",
+    "sentence": "All companies must comply with the new regulations."
+  },
+  {
+    "name": "conform",
+    "trans": [
+      "遵守；符合"
+    ],
+    "usphone": "kən'fɔːrm",
+    "ukphone": "kən'fɔːm",
+    "e_mean": [
+      "behave according to rules or norms"
+    ],
+    "speech": "verb",
+    "sentence": "He refused to conform to social expectations."
+  },
+  {
+    "name": "adhere",
+    "trans": [
+      "坚持；遵守；粘附"
+    ],
+    "usphone": "əd'hɪr",
+    "ukphone": "əd'hɪə(r)",
+    "e_mean": [
+      "stick firmly or follow closely"
+    ],
+    "speech": "verb",
+    "sentence": "They adhere strictly to safety standards."
+  },
+  {
+    "name": "command",
+    "trans": [
+      "命令；指挥"
+    ],
+    "usphone": "kə'mænd",
+    "ukphone": "kə'mɑːnd",
+    "e_mean": [
+      "give an authoritative order"
+    ],
+    "speech": "verb",
+    "sentence": "The officer commanded the soldiers to move forward."
+  },
+  {
+    "name": "order",
+    "trans": [
+      "命令；指示"
+    ],
+    "usphone": "'ɔːrdər",
+    "ukphone": "'ɔːdə(r)",
+    "e_mean": [
+      "give an official instruction"
+    ],
+    "speech": "verb",
+    "sentence": "The judge ordered him to pay the fine."
+  },
+  {
+    "name": "instruct",
+    "trans": [
+      "指示；指导"
+    ],
+    "usphone": "ɪn'strʌkt",
+    "ukphone": "ɪn'strʌkt",
+    "e_mean": [
+      "tell someone how to do something"
+    ],
+    "speech": "verb",
+    "sentence": "She instructed me to wait outside."
+  },
+  {
+    "name": "direct",
+    "trans": [
+      "指挥；指导；指向"
+    ],
+    "usphone": "də'rekt",
+    "ukphone": "daɪ'rekt",
+    "e_mean": [
+      "guide or supervise"
+    ],
+    "speech": "verb",
+    "sentence": "He directed the team during the project."
+  },
+  {
+    "name": "demand",
+    "trans": [
+      "要求；强烈要求"
+    ],
+    "usphone": "dɪ'mænd",
+    "ukphone": "dɪ'mɑːnd",
+    "e_mean": [
+      "ask for something forcefully"
+    ],
+    "speech": "verb",
+    "sentence": "The workers demanded higher wages."
+  },
+  {
+    "name": "require",
+    "trans": [
+      "要求；需要"
+    ],
+    "usphone": "rɪ'kwaɪər",
+    "ukphone": "rɪ'kwaɪə(r)",
+    "e_mean": [
+      "need something or make it necessary"
+    ],
+    "speech": "verb",
+    "sentence": "This job requires strong communication skills."
+  },
+  {
+    "name": "forbid",
+    "trans": [
+      "禁止；不许"
+    ],
+    "usphone": "fər'bɪd",
+    "ukphone": "fə'bɪd",
+    "e_mean": [
+      "refuse to allow"
+    ],
+    "speech": "verb",
+    "sentence": "The school forbids students to use phones in class."
+  },
+  {
+    "name": "ban",
+    "trans": [
+      "禁止；取缔"
+    ],
+    "usphone": "bæn",
+    "ukphone": "bæn",
+    "e_mean": [
+      "officially prohibit something"
+    ],
+    "speech": "verb",
+    "sentence": "The government banned smoking in public places."
+  },
+  {
+    "name": "prohibit",
+    "trans": [
+      "禁止；阻止"
+    ],
+    "usphone": "proʊ'hɪbɪt",
+    "ukphone": "prəʊ'hɪbɪt",
+    "e_mean": [
+      "formally forbid something"
+    ],
+    "speech": "verb",
+    "sentence": "The law prohibits the sale of alcohol to minors."
+  },
+  {
+    "name": "permit",
+    "trans": [
+      "允许；许可"
+    ],
+    "usphone": "pər'mɪt",
+    "ukphone": "pə'mɪt",
+    "e_mean": [
+      "allow something to happen"
+    ],
+    "speech": "verb",
+    "sentence": "The rules permit students to leave early."
+  },
+  {
+    "name": "allow",
+    "trans": [
+      "允许；准许"
+    ],
+    "usphone": "ə'laʊ",
+    "ukphone": "ə'laʊ",
+    "e_mean": [
+      "let someone do something"
+    ],
+    "speech": "verb",
+    "sentence": "My parents allow me to stay out late on weekends."
+  },
+  {
+    "name": "grant",
+    "trans": [
+      "授予；允许"
+    ],
+    "usphone": "ɡrænt",
+    "ukphone": "ɡrɑːnt",
+    "e_mean": [
+      "agree to give or allow"
+    ],
+    "speech": "verb",
+    "sentence": "The university granted him a scholarship."
+  },
+  {
+    "name": "authorize",
+    "trans": [
+      "授权；批准"
+    ],
+    "usphone": "'ɔːθəraɪz",
+    "ukphone": "'ɔːθəraɪz",
+    "e_mean": [
+      "give official permission"
+    ],
+    "speech": "verb",
+    "sentence": "The manager authorized the payment."
+  },
+  {
+    "name": "approve",
+    "trans": [
+      "批准；同意"
+    ],
+    "usphone": "ə'pruːv",
+    "ukphone": "ə'pruːv",
+    "e_mean": [
+      "agree officially"
+    ],
+    "speech": "verb",
+    "sentence": "The plan was approved by the board."
+  },
+  {
+    "name": "control",
+    "trans": [
+      "控制；支配"
+    ],
+    "usphone": "kən'troʊl",
+    "ukphone": "kən'trəʊl",
+    "e_mean": [
+      "have power over something"
+    ],
+    "speech": "verb",
+    "sentence": "He struggled to control his emotions."
+  },
+  {
+    "name": "govern",
+    "trans": [
+      "管理；统治；支配"
+    ],
+    "usphone": "'ɡʌvərn",
+    "ukphone": "'ɡʌvən",
+    "e_mean": [
+      "conduct the policy or affairs of"
+    ],
+    "speech": "verb",
+    "sentence": "The country is governed by strict laws."
+  },
+  {
+    "name": "dominate",
+    "trans": [
+      "支配；主导"
+    ],
+    "usphone": "'dɑːmɪneɪt",
+    "ukphone": "'dɒmɪneɪt",
+    "e_mean": [
+      "have a commanding influence over"
+    ],
+    "speech": "verb",
+    "sentence": "The team dominated the entire match."
+  },
+  {
+    "name": "supervise",
+    "trans": [
+      "监督；管理"
+    ],
+    "usphone": "'suːpərvaɪz",
+    "ukphone": "'suːpəvaɪz",
+    "e_mean": [
+      "oversee and direct work"
+    ],
+    "speech": "verb",
+    "sentence": "She supervises a group of engineers."
+  },
+  {
+    "name": "monitor",
+    "trans": [
+      "监控；监测"
+    ],
+    "usphone": "'mɑːnɪtər",
+    "ukphone": "'mɒnɪtə(r)",
+    "e_mean": [
+      "observe and check progress"
+    ],
+    "speech": "verb",
+    "sentence": "The system monitors air quality continuously."
+  },
+  {
+    "name": "regulate",
+    "trans": [
+      "调节；管制"
+    ],
+    "usphone": "'reɡjuleɪt",
+    "ukphone": "'reɡjuleɪt",
+    "e_mean": [
+      "control by rules or laws"
+    ],
+    "speech": "verb",
+    "sentence": "The government regulates the financial market."
+  },
+  {
+    "name": "restrict",
+    "trans": [
+      "限制；约束"
+    ],
+    "usphone": "rɪ'strɪkt",
+    "ukphone": "rɪ'strɪkt",
+    "e_mean": [
+      "limit the movement or action"
+    ],
+    "speech": "verb",
+    "sentence": "Access to the area is strictly restricted."
+  },
+  {
+    "name": "limit",
+    "trans": [
+      "限制；限定"
+    ],
+    "usphone": "'lɪmɪt",
+    "ukphone": "'lɪmɪt",
+    "e_mean": [
+      "set bounds on something"
+    ],
+    "speech": "verb",
+    "sentence": "You should limit your screen time."
+  },
+  {
+    "name": "confine",
+    "trans": [
+      "限制；禁闭"
+    ],
+    "usphone": "kən'faɪn",
+    "ukphone": "kən'faɪn",
+    "e_mean": [
+      "keep within limits"
+    ],
+    "speech": "verb",
+    "sentence": "He was confined to his room due to illness."
+  },
+  {
+    "name": "constrain",
+    "trans": [
+      "约束；强制"
+    ],
+    "usphone": "kən'streɪn",
+    "ukphone": "kən'streɪn",
+    "e_mean": [
+      "compel or restrict someone"
+    ],
+    "speech": "verb",
+    "sentence": "Financial problems constrained their choices."
+  },
+  {
+    "name": "restrain",
+    "trans": [
+      "抑制；阻止"
+    ],
+    "usphone": "rɪ'streɪn",
+    "ukphone": "rɪ'streɪn",
+    "e_mean": [
+      "hold back from action"
+    ],
+    "speech": "verb",
+    "sentence": "He struggled to restrain his anger."
+  },
+  {
+    "name": "suppress",
+    "trans": [
+      "镇压；压制"
+    ],
+    "usphone": "sə'pres",
+    "ukphone": "sə'pres",
+    "e_mean": [
+      "forcibly put an end to"
+    ],
+    "speech": "verb",
+    "sentence": "The government tried to suppress the protests."
+  },
+  {
+    "name": "persuade",
+    "trans": [
+      "说服；劝说（使采取行动）"
+    ],
+    "usphone": "pər'sweɪd",
+    "ukphone": "pə'sweɪd",
+    "e_mean": [
+      "convince someone to do something"
+    ],
+    "speech": "verb",
+    "sentence": "She persuaded him to join the project."
+  },
+  {
+    "name": "convince",
+    "trans": [
+      "使相信；说服（观点）"
+    ],
+    "usphone": "kən'vɪns",
+    "ukphone": "kən'vɪns",
+    "e_mean": [
+      "make someone believe something"
+    ],
+    "speech": "verb",
+    "sentence": "He convinced me that the plan would work."
+  },
+  {
+    "name": "encourage",
+    "trans": [
+      "鼓励；激励"
+    ],
+    "usphone": "ɪn'kɜːrɪdʒ",
+    "ukphone": "ɪn'kʌrɪdʒ",
+    "e_mean": [
+      "give support or confidence"
+    ],
+    "speech": "verb",
+    "sentence": "Her teacher encouraged her to keep trying."
+  },
+  {
+    "name": "urge",
+    "trans": [
+      "敦促；强烈建议"
+    ],
+    "usphone": "ɜːrdʒ",
+    "ukphone": "ɜːdʒ",
+    "e_mean": [
+      "strongly advise someone"
+    ],
+    "speech": "verb",
+    "sentence": "They urged him to take immediate action."
+  },
+  {
+    "name": "advise",
+    "trans": [
+      "建议；劝告"
+    ],
+    "usphone": "əd'vaɪz",
+    "ukphone": "əd'vaɪz",
+    "e_mean": [
+      "offer suggestions about what to do"
+    ],
+    "speech": "verb",
+    "sentence": "The doctor advised him to rest."
+  },
+  {
+    "name": "recommend",
+    "trans": [
+      "推荐；建议"
+    ],
+    "usphone": ",rekə'mend",
+    "ukphone": ",rekə'mend",
+    "e_mean": [
+      "suggest something as good"
+    ],
+    "speech": "verb",
+    "sentence": "I recommend this book to all students."
+  },
+  {
+    "name": "suggest",
+    "trans": [
+      "建议；暗示"
+    ],
+    "usphone": "sə'dʒest",
+    "ukphone": "sə'dʒest",
+    "e_mean": [
+      "put forward an idea"
+    ],
+    "speech": "verb",
+    "sentence": "She suggested going out for dinner."
+  },
+  {
+    "name": "propose",
+    "trans": [
+      "提议；提出"
+    ],
+    "usphone": "prə'poʊz",
+    "ukphone": "prə'pəʊz",
+    "e_mean": [
+      "put forward a plan"
+    ],
+    "speech": "verb",
+    "sentence": "He proposed a new solution to the problem."
+  },
+  {
+    "name": "prompt",
+    "trans": [
+      "促使；引发"
+    ],
+    "usphone": "prɑːmpt",
+    "ukphone": "prɒmpt",
+    "e_mean": [
+      "cause someone to act"
+    ],
+    "speech": "verb",
+    "sentence": "The news prompted her to take action."
+  },
+  {
+    "name": "motivate",
+    "trans": [
+      "激励；驱使"
+    ],
+    "usphone": "'moʊtɪveɪt",
+    "ukphone": "'məʊtɪveɪt",
+    "e_mean": [
+      "give a reason or incentive"
+    ],
+    "speech": "verb",
+    "sentence": "His success motivated others to work harder."
+  },
+  {
+    "name": "inspire",
+    "trans": [
+      "激励；启发"
+    ],
+    "usphone": "ɪn'spaɪər",
+    "ukphone": "ɪn'spaɪə(r)",
+    "e_mean": [
+      "fill with the urge to do something"
+    ],
+    "speech": "verb",
+    "sentence": "Her story inspired many people."
+  },
+  {
+    "name": "influence",
+    "trans": [
+      "影响；左右"
+    ],
+    "usphone": "'ɪnfluəns",
+    "ukphone": "'ɪnfluəns",
+    "e_mean": [
+      "affect someone's behavior or thinking"
+    ],
+    "speech": "verb",
+    "sentence": "Parents greatly influence their children."
+  },
+  {
+    "name": "increase",
+    "trans": [
+      "增加；增长"
+    ],
+    "usphone": "ɪn'kriːs",
+    "ukphone": "ɪn'kriːs",
+    "e_mean": [
+      "become or make greater in size or amount"
+    ],
+    "speech": "verb",
+    "sentence": "The number of users has increased significantly."
+  },
+  {
+    "name": "rise",
+    "trans": [
+      "上升；增长"
+    ],
+    "usphone": "raɪz",
+    "ukphone": "raɪz",
+    "e_mean": [
+      "go up or grow higher"
+    ],
+    "speech": "verb",
+    "sentence": "Prices continue to rise every year."
+  },
+  {
+    "name": "grow",
+    "trans": [
+      "增长；发展"
+    ],
+    "usphone": "ɡroʊ",
+    "ukphone": "ɡrəʊ",
+    "e_mean": [
+      "become larger or develop"
+    ],
+    "speech": "verb",
+    "sentence": "The company has grown rapidly in recent years."
+  },
+  {
+    "name": "expand",
+    "trans": [
+      "扩大；扩展"
+    ],
+    "usphone": "ɪk'spænd",
+    "ukphone": "ɪk'spænd",
+    "e_mean": [
+      "become or make larger in scope"
+    ],
+    "speech": "verb",
+    "sentence": "They plan to expand their business overseas."
+  },
+  {
+    "name": "extend",
+    "trans": [
+      "延伸；扩大"
+    ],
+    "usphone": "ɪk'stend",
+    "ukphone": "ɪk'stend",
+    "e_mean": [
+      "make something larger or longer"
+    ],
+    "speech": "verb",
+    "sentence": "The road will be extended to the new town."
+  },
+  {
+    "name": "boost",
+    "trans": [
+      "促进；提升"
+    ],
+    "usphone": "buːst",
+    "ukphone": "buːst",
+    "e_mean": [
+      "increase or improve something"
+    ],
+    "speech": "verb",
+    "sentence": "The campaign helped boost sales."
+  },
+  {
+    "name": "enhance",
+    "trans": [
+      "提高；增强"
+    ],
+    "usphone": "ɪn'hæns",
+    "ukphone": "ɪn'hɑːns",
+    "e_mean": [
+      "improve the quality or value"
+    ],
+    "speech": "verb",
+    "sentence": "This feature enhances user experience."
+  },
+  {
+    "name": "improve",
+    "trans": [
+      "改善；提高"
+    ],
+    "usphone": "ɪm'pruːv",
+    "ukphone": "ɪm'pruːv",
+    "e_mean": [
+      "make something better"
+    ],
+    "speech": "verb",
+    "sentence": "He worked hard to improve his English."
+  },
+  {
+    "name": "upgrade",
+    "trans": [
+      "升级；提高"
+    ],
+    "usphone": "'ʌpɡreɪd",
+    "ukphone": "'ʌpɡreɪd",
+    "e_mean": [
+      "raise to a higher standard"
+    ],
+    "speech": "verb",
+    "sentence": "They upgraded the system last year."
+  },
+  {
+    "name": "elevate",
+    "trans": [
+      "提高；提升（地位/水平）"
+    ],
+    "usphone": "'elɪveɪt",
+    "ukphone": "'elɪveɪt",
+    "e_mean": [
+      "raise to a higher level"
+    ],
+    "speech": "verb",
+    "sentence": "Education can elevate people's living standards."
+  },
+  {
+    "name": "accelerate",
+    "trans": [
+      "加速；促进"
+    ],
+    "usphone": "æk'seləreɪt",
+    "ukphone": "æk'seləreɪt",
+    "e_mean": [
+      "increase the speed of something"
+    ],
+    "speech": "verb",
+    "sentence": "The new policy will accelerate economic growth."
+  },
+  {
+    "name": "amplify",
+    "trans": [
+      "放大；增强"
+    ],
+    "usphone": "'æmplɪfaɪ",
+    "ukphone": "'æmplɪfaɪ",
+    "e_mean": [
+      "increase the strength or effect"
+    ],
+    "speech": "verb",
+    "sentence": "The microphone amplifies your voice."
+  },
+  {
+    "name": "cause",
+    "trans": [
+      "导致；引起"
+    ],
+    "usphone": "kɔːz",
+    "ukphone": "kɔːz",
+    "e_mean": [
+      "make something happen"
+    ],
+    "speech": "verb",
+    "sentence": "Smoking can cause serious health problems."
+  },
+  {
+    "name": "lead to",
+    "trans": [
+      "导致；通向"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "result in or bring about"
+    ],
+    "speech": "verb",
+    "sentence": "Poor planning can lead to failure."
+  },
+  {
+    "name": "result in",
+    "trans": [
+      "导致；造成"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cause a particular outcome"
+    ],
+    "speech": "verb",
+    "sentence": "The accident resulted in several injuries."
+  },
+  {
+    "name": "bring about",
+    "trans": [
+      "引起；导致"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cause something to happen"
+    ],
+    "speech": "verb",
+    "sentence": "The new policy brought about significant changes."
+  },
+  {
+    "name": "give rise to",
+    "trans": [
+      "引起；产生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cause something to happen"
+    ],
+    "speech": "verb",
+    "sentence": "The issue gave rise to heated debates."
+  },
+  {
+    "name": "trigger",
+    "trans": [
+      "引发；触发"
+    ],
+    "usphone": "'trɪɡər",
+    "ukphone": "'trɪɡə(r)",
+    "e_mean": [
+      "cause something to start"
+    ],
+    "speech": "verb",
+    "sentence": "The news triggered a strong reaction."
+  },
+  {
+    "name": "spark",
+    "trans": [
+      "引发；激起"
+    ],
+    "usphone": "spɑːrk",
+    "ukphone": "spɑːk",
+    "e_mean": [
+      "cause something to begin"
+    ],
+    "speech": "verb",
+    "sentence": "The speech sparked a public discussion."
+  },
+  {
+    "name": "provoke",
+    "trans": [
+      "引起；激怒；挑起"
+    ],
+    "usphone": "prə'voʊk",
+    "ukphone": "prə'vəʊk",
+    "e_mean": [
+      "cause a reaction or emotion"
+    ],
+    "speech": "verb",
+    "sentence": "His comments provoked strong criticism."
+  },
+  {
+    "name": "generate",
+    "trans": [
+      "产生；生成"
+    ],
+    "usphone": "'dʒenəreɪt",
+    "ukphone": "'dʒenəreɪt",
+    "e_mean": [
+      "produce or create"
+    ],
+    "speech": "verb",
+    "sentence": "The project generated new opportunities."
+  },
+  {
+    "name": "produce",
+    "trans": [
+      "产生；制造"
+    ],
+    "usphone": "prə'duːs",
+    "ukphone": "prə'djuːs",
+    "e_mean": [
+      "bring into existence"
+    ],
+    "speech": "verb",
+    "sentence": "The factory produces large quantities of goods."
+  },
+  {
+    "name": "contribute to",
+    "trans": [
+      "促成；导致"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "help to cause something"
+    ],
+    "speech": "verb",
+    "sentence": "Lack of sleep contributes to poor performance."
+  },
+  {
+    "name": "account for",
+    "trans": [
+      "导致；解释；占比"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "be the reason for something"
+    ],
+    "speech": "verb",
+    "sentence": "These factors account for the decline in sales."
+  },
+  {
+    "name": "solve",
+    "trans": [
+      "解决；解答"
+    ],
+    "usphone": "sɑːlv",
+    "ukphone": "sɒlv",
+    "e_mean": [
+      "find an answer to a problem"
+    ],
+    "speech": "verb",
+    "sentence": "We need to solve this problem as soon as possible."
+  },
+  {
+    "name": "resolve",
+    "trans": [
+      "解决（冲突/问题）；下定决心"
+    ],
+    "usphone": "rɪ'zɑːlv",
+    "ukphone": "rɪ'zɒlv",
+    "e_mean": [
+      "find a solution to a problem"
+    ],
+    "speech": "verb",
+    "sentence": "They managed to resolve the dispute peacefully."
+  },
+  {
+    "name": "address",
+    "trans": [
+      "处理；应对（问题）"
+    ],
+    "usphone": "ə'dres",
+    "ukphone": "ə'dres",
+    "e_mean": [
+      "deal with a problem or issue"
+    ],
+    "speech": "verb",
+    "sentence": "The government is trying to address the issue of pollution."
+  },
+  {
+    "name": "tackle",
+    "trans": [
+      "处理；对付（难题）"
+    ],
+    "usphone": "'tækl",
+    "ukphone": "'tækl",
+    "e_mean": [
+      "make an effort to deal with a problem"
+    ],
+    "speech": "verb",
+    "sentence": "We must tackle the problem at its source."
+  },
+  {
+    "name": "handle",
+    "trans": [
+      "处理；应付"
+    ],
+    "usphone": "'hændl",
+    "ukphone": "'hændl",
+    "e_mean": [
+      "manage a situation"
+    ],
+    "speech": "verb",
+    "sentence": "She handled the situation very well."
+  },
+  {
+    "name": "deal with",
+    "trans": [
+      "处理；应对"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "take action to solve a problem"
+    ],
+    "speech": "verb",
+    "sentence": "We need to deal with this issue immediately."
+  },
+  {
+    "name": "cope with",
+    "trans": [
+      "应对；处理（困难）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "manage a difficult situation"
+    ],
+    "speech": "verb",
+    "sentence": "He struggled to cope with the pressure."
+  },
+  {
+    "name": "overcome",
+    "trans": [
+      "克服；战胜"
+    ],
+    "usphone": ",oʊvər'kʌm",
+    "ukphone": ",əʊvə'kʌm",
+    "e_mean": [
+      "succeed in dealing with a problem"
+    ],
+    "speech": "verb",
+    "sentence": "She overcame many difficulties to succeed."
+  },
+  {
+    "name": "fix",
+    "trans": [
+      "修复；解决"
+    ],
+    "usphone": "fɪks",
+    "ukphone": "fɪks",
+    "e_mean": [
+      "repair or correct something"
+    ],
+    "speech": "verb",
+    "sentence": "We need to fix this error quickly."
+  },
+  {
+    "name": "repair",
+    "trans": [
+      "修理；修复"
+    ],
+    "usphone": "rɪ'per",
+    "ukphone": "rɪ'peə(r)",
+    "e_mean": [
+      "restore something to good condition"
+    ],
+    "speech": "verb",
+    "sentence": "He repaired the broken machine."
+  },
+  {
+    "name": "remedy",
+    "trans": [
+      "补救；纠正"
+    ],
+    "usphone": "'remədi",
+    "ukphone": "'remədi",
+    "e_mean": [
+      "set right a problem"
+    ],
+    "speech": "verb",
+    "sentence": "They took steps to remedy the situation."
+  },
+  {
+    "name": "resolve itself",
+    "trans": [
+      "自行解决"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "be solved naturally over time"
+    ],
+    "speech": "verb",
+    "sentence": "The issue may resolve itself without intervention."
+  },
+  {
+    "name": "however",
+    "trans": [
+      "然而；不过"
+    ],
+    "usphone": "haʊ'evər",
+    "ukphone": "haʊ'evə(r)",
+    "e_mean": [
+      "in spite of that"
+    ],
+    "speech": "adverb",
+    "sentence": "The plan seemed perfect; however, it failed in practice."
+  },
+  {
+    "name": "but",
+    "trans": [
+      "但是；然而"
+    ],
+    "usphone": "bʌt",
+    "ukphone": "bʌt",
+    "e_mean": [
+      "used to introduce a contrast"
+    ],
+    "speech": "conjunction",
+    "sentence": "He tried hard, but he did not succeed."
+  },
+  {
+    "name": "yet",
+    "trans": [
+      "然而；但是"
+    ],
+    "usphone": "jet",
+    "ukphone": "jet",
+    "e_mean": [
+      "nevertheless; but"
+    ],
+    "speech": "conjunction",
+    "sentence": "The task was difficult, yet she completed it."
+  },
+  {
+    "name": "nevertheless",
+    "trans": [
+      "尽管如此；仍然"
+    ],
+    "usphone": ",nevərðə'les",
+    "ukphone": ",nevəðə'les",
+    "e_mean": [
+      "in spite of that"
+    ],
+    "speech": "adverb",
+    "sentence": "It was raining; nevertheless, they continued the game."
+  },
+  {
+    "name": "nonetheless",
+    "trans": [
+      "尽管如此"
+    ],
+    "usphone": ",nʌnðə'les",
+    "ukphone": ",nʌnðə'les",
+    "e_mean": [
+      "despite that"
+    ],
+    "speech": "adverb",
+    "sentence": "The evidence was weak; nonetheless, he was convinced."
+  },
+  {
+    "name": "whereas",
+    "trans": [
+      "然而；而；反之"
+    ],
+    "usphone": ",wer'æz",
+    "ukphone": ",weər'æz",
+    "e_mean": [
+      "in contrast with"
+    ],
+    "speech": "conjunction",
+    "sentence": "He prefers coffee, whereas she likes tea."
+  },
+  {
+    "name": "while",
+    "trans": [
+      "然而；尽管；同时"
+    ],
+    "usphone": "waɪl",
+    "ukphone": "waɪl",
+    "e_mean": [
+      "although or whereas"
+    ],
+    "speech": "conjunction",
+    "sentence": "While he enjoys sports, she prefers reading."
+  },
+  {
+    "name": "on the other hand",
+    "trans": [
+      "另一方面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "used to present a contrast"
+    ],
+    "speech": "phrase",
+    "sentence": "On the one hand, it is expensive; on the other hand, it is high quality."
+  },
+  {
+    "name": "in contrast",
+    "trans": [
+      "相比之下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "used to show difference"
+    ],
+    "speech": "phrase",
+    "sentence": "In contrast, the second method is much simpler."
+  },
+  {
+    "name": "by contrast",
+    "trans": [
+      "相比之下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "in comparison"
+    ],
+    "speech": "phrase",
+    "sentence": "The first plan is risky; by contrast, the second is safer."
+  },
+  {
+    "name": "instead",
+    "trans": [
+      "相反；代替"
+    ],
+    "usphone": "ɪn'sted",
+    "ukphone": "ɪn'sted",
+    "e_mean": [
+      "as an alternative"
+    ],
+    "speech": "adverb",
+    "sentence": "He didn’t go out; instead, he stayed home."
+  },
+  {
+    "name": "rather",
+    "trans": [
+      "而是；相反"
+    ],
+    "usphone": "'ræðər",
+    "ukphone": "'rɑːðə(r)",
+    "e_mean": [
+      "more exactly; instead"
+    ],
+    "speech": "adverb",
+    "sentence": "He is not lazy but rather very careful."
+  },
+  {
+    "name": "alternatively",
+    "trans": [
+      "或者；作为另一种选择"
+    ],
+    "usphone": "ɔːl'tɜːrnətɪvli",
+    "ukphone": "ɔːl'tɜːnətɪvli",
+    "e_mean": [
+      "as another option"
+    ],
+    "speech": "adverb",
+    "sentence": "You can take a bus; alternatively, you can walk."
+  },
+  {
+    "name": "assure",
+    "trans": [
+      "使确信， 使确保； 保证， 向…保证"
+    ],
+    "usphone": "ə'ʃʊr",
+    "ukphone": "ə'ʃuə(r)",
+    "e_mean": [
+      "inform positively and with certainty and confidence"
+    ],
+    "speech": "verb",
+    "sentence": "He assured of his commitment to her happiness."
+  },
+  {
+    "name": "undertake",
+    "trans": [
+      "承担， 负起责任； 同意或答应做某事"
+    ],
+    "usphone": ",ʌndɚ'tek",
+    "ukphone": "ˌʌndə'teɪk",
+    "e_mean": [
+      "enter upon an activity or enterprise"
+    ],
+    "speech": "verb",
+    "sentence": "He undertook to exercise more in future."
+  },
+  {
+    "name": "stipulate",
+    "trans": [
+      "规定， 明确要求； 讲定， 约定"
+    ],
+    "usphone": "'stɪpjulet",
+    "ukphone": "'stɪpjʊleɪt",
+    "e_mean": [
+      "make an express demand or provision in an agreement"
+    ],
+    "speech": "verb",
+    "sentence": "The contract stipulates that you need to give two weeks' notice."
+  },
+  {
+    "name": "convince",
+    "trans": [
+      "确信； 说服"
+    ],
+    "usphone": "kən'vɪns",
+    "ukphone": "kən'vɪns",
+    "e_mean": [
+      "make realize the truth or validity of something"
+    ],
+    "speech": "verb",
+    "sentence": "I wouldn't have or do something, unless I'm convinced that it's good."
+  },
+  {
+    "name": "reassure",
+    "trans": [
+      "使安心，使放心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cause to feel confident"
+    ],
+    "speech": "verb",
+    "sentence": "The boy's mother reassured him that there was no monster hiding under the bed."
+  },
+  {
+    "name": "exclude",
+    "trans": [
+      "把…排斥在外； 将排除， 不包括"
+    ],
+    "usphone": "ɪk'sklʊd",
+    "ukphone": "ɪk'skluːd",
+    "e_mean": [
+      "prevent from entering; shut out"
+    ],
+    "speech": "verb",
+    "sentence": "to exclude young animals from the womb or from eggs."
+  },
+  {
+    "name": "aspire",
+    "trans": [
+      "向往， 渴望， 追求； 有志于， 有抱负"
+    ],
+    "usphone": "ə'spaɪr",
+    "ukphone": "ə'spaɪə(r)",
+    "e_mean": [
+      "have an ambitious plan or a lofty goal"
+    ],
+    "speech": "verb",
+    "sentence": "He aspires to become a successful doctor."
+  },
+  {
+    "name": "desire",
+    "trans": [
+      "想望， 期望； 要求"
+    ],
+    "usphone": "dɪ'zaɪɚ",
+    "ukphone": "dɪ'zaɪə(r)",
+    "e_mean": [
+      "the feeling that accompanies an unsatisfied state"
+    ],
+    "speech": "noun",
+    "sentence": "It is my desire to speak with you."
+  },
+  {
+    "name": "yearn",
+    "trans": [
+      "渴望，向往"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "desire strongly or persistently"
+    ],
+    "speech": "verb",
+    "sentence": "All I yearn for is a simple life."
+  },
+  {
+    "name": "uphold",
+    "trans": [
+      "支持，维护，维持"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "stand up for; stick up for; of causes, principles, or ideals"
+    ],
+    "speech": "verb",
+    "sentence": "Even when it's hard, we should uphold the standards we agreed on."
+  },
+  {
+    "name": "backup",
+    "trans": [
+      "后援，支持；备用的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of providing approval and support"
+    ],
+    "speech": "noun",
+    "sentence": "If the goalkeeper is injured, we have a backup."
+  },
+  {
+    "name": "propel",
+    "trans": [
+      "推进， 推动； 驱使"
+    ],
+    "usphone": "prə'pɛl",
+    "ukphone": "prə'pel",
+    "e_mean": [
+      "cause to move forward with force"
+    ],
+    "speech": "verb",
+    "sentence": "A clear deadline can propel the whole team forward."
+  },
+  {
+    "name": "update",
+    "trans": [
+      "更新，使现代化"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "modernize"
+    ],
+    "speech": "verb",
+    "sentence": "He gave me an update on the situation in New York."
+  },
+  {
+    "name": "raise",
+    "trans": [
+      "举起，抚养，提高，筹募"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "move upwards"
+    ],
+    "speech": "verb",
+    "sentence": "The boss gave me a raise."
+  },
+  {
+    "name": "leak",
+    "trans": [
+      "漏洞；"
+    ],
+    "usphone": "lik",
+    "ukphone": "liːk",
+    "e_mean": [
+      "enter or escape as through a hole or crack or fissure"
+    ],
+    "speech": "verb",
+    "sentence": "a leak in a boat."
+  },
+  {
+    "name": "spill",
+    "trans": [
+      "溢出； 涌出"
+    ],
+    "usphone": "spɪl",
+    "ukphone": "spɪl",
+    "e_mean": [
+      "flow, run or fall out and become lost"
+    ],
+    "speech": "verb",
+    "sentence": "The bruise is from a bad spill he had last week."
+  },
+  {
+    "name": "seep",
+    "trans": [
+      "漏出， 渗漏"
+    ],
+    "usphone": "sip",
+    "ukphone": "siːp",
+    "e_mean": [
+      "pass gradually or leak or as if through small openings"
+    ],
+    "speech": "verb",
+    "sentence": "The water steadily seeped in through the thirl."
+  },
+  {
+    "name": "ooze",
+    "trans": [
+      "渗出；洋溢着"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "pass gradually or leak or as if through small openings"
+    ],
+    "speech": "verb",
+    "sentence": "The old pipe started to ooze water overnight."
+  },
+  {
+    "name": "evacuate",
+    "trans": [
+      "疏散； 撤离"
+    ],
+    "usphone": "ɪ'vækjuet",
+    "ukphone": "ɪ'vækjʊeɪt",
+    "e_mean": [
+      "move out of an unsafe location into safety"
+    ],
+    "speech": "verb",
+    "sentence": "The firefighters told us to evacuate the area as the flames approached."
+  },
+  {
+    "name": "trench",
+    "trans": [
+      "挖沟",
+      "沟，壕沟"
+    ],
+    "usphone": "trɛntʃ",
+    "ukphone": "trentʃ",
+    "e_mean": [
+      "any long ditch cut in the ground"
+    ],
+    "speech": "noun",
+    "sentence": "to trench land for the purpose of draining it."
+  },
+  {
+    "name": "saturate",
+    "trans": [
+      "使湿透， 浸透； 使充满， 使饱和"
+    ],
+    "usphone": "'sætʃərɪt",
+    "ukphone": "'sætʃəreɪt",
+    "e_mean": [
+      "infuse or fill completely"
+    ],
+    "speech": "verb",
+    "sentence": "After walking home in the driving rain, his clothes were saturated."
+  },
+  {
+    "name": "excuse",
+    "trans": [
+      "理由/借口；原谅/同意免除"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a defense of some offensive behavior"
+    ],
+    "speech": "noun",
+    "sentence": "Tell me why you were late – and I don't want to hear any excuses!"
+  },
+  {
+    "name": "forgive",
+    "trans": [
+      "原谅，宽恕"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "stop blaming"
+    ],
+    "speech": "verb",
+    "sentence": "Forgive others, not because they deserve forgiveness, but because you deserve peace."
+  },
+  {
+    "name": "contain",
+    "trans": [
+      "包含， 容纳， 装有； 控制， 阻止， 遏制"
+    ],
+    "usphone": "kən'ten",
+    "ukphone": "kən'teɪn",
+    "e_mean": [
+      "hold or have within"
+    ],
+    "speech": "verb",
+    "sentence": "I'm so excited, I can hardly contain myself!"
+  },
+  {
+    "name": "regard",
+    "trans": [
+      "尊重,问候；看待"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the condition of being honored or respected"
+    ],
+    "speech": "noun",
+    "sentence": "He is held in great regard in Whitehall."
+  },
+  {
+    "name": "flatter",
+    "trans": [
+      "奉承，讨好，向…谄媚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "praise somewhat dishonestly"
+    ],
+    "speech": "verb",
+    "sentence": "The land around here is flat."
+  },
+  {
+    "name": "worship",
+    "trans": [
+      "崇拜，礼拜；做礼拜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the activity of cherishing as divine"
+    ],
+    "speech": "noun",
+    "sentence": "We worship at the church down the road."
+  },
+  {
+    "name": "cause",
+    "trans": [
+      "原因，理由；引起，导致"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "events that provide the generative force of something"
+    ],
+    "speech": "noun",
+    "sentence": "They identified a burst pipe as the cause of the flooding."
+  },
+  {
+    "name": "sake",
+    "trans": [
+      "理由/目的.forthe~of为了..起见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the purpose of achieving or obtaining"
+    ],
+    "speech": "noun",
+    "sentence": "For the sake of argument."
+  },
+  {
+    "name": "replace",
+    "trans": [
+      "代替； 更换； 把…放回原处"
+    ],
+    "usphone": "rɪ'ples",
+    "ukphone": "rɪ'pleɪs",
+    "e_mean": [
+      "put something back where it belongs"
+    ],
+    "speech": "verb",
+    "sentence": "When you've finished using the telephone, please replace the handset."
+  },
+  {
+    "name": "substitute",
+    "trans": [
+      "代替，"
+    ],
+    "usphone": "'sʌbstɪtut",
+    "ukphone": "'sʌbstɪtjuːt",
+    "e_mean": [
+      "a person or thing that can take the place of another"
+    ],
+    "speech": "noun",
+    "sentence": "I had no shallots so I substituted onion."
+  },
+  {
+    "name": "distinguish",
+    "trans": [
+      "区别， 辨别； 辨认出； 使杰出"
+    ],
+    "usphone": "dɪ'stɪŋɡwɪʃ",
+    "ukphone": "dɪ'stɪŋgwɪʃ",
+    "e_mean": [
+      "mark as different"
+    ],
+    "speech": "verb",
+    "sentence": "The soldier distinguished himself in combat and received a medal."
+  },
+  {
+    "name": "differentiate",
+    "trans": [
+      "区分， 区别； 差别对待， 区别对待"
+    ],
+    "usphone": ",dɪfə'rɛnʃɪet",
+    "ukphone": "ˌdɪfə'renʃieɪt",
+    "e_mean": [
+      "acquire a distinct character"
+    ],
+    "speech": "verb",
+    "sentence": "I still can't differentiate those two shades of blue."
+  },
+  {
+    "name": "incline",
+    "trans": [
+      "倾向于/倾斜;斜坡,倾斜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "lower or bend, as in a nod or bow"
+    ],
+    "speech": "verb",
+    "sentence": "To reach the building, we had to climb a steep incline."
+  },
+  {
+    "name": "lean",
+    "trans": [
+      "倚靠/倾斜;瘦的/贫乏的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "incline or bend from a vertical position"
+    ],
+    "speech": "verb",
+    "sentence": "The trees had various leans toward gaps in the canopy."
+  },
+  {
+    "name": "sideways",
+    "trans": [
+      "向...一侧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "toward one side"
+    ],
+    "speech": "adverb",
+    "sentence": "He gave the ball a sideways kick."
+  },
+  {
+    "name": "feel",
+    "trans": [
+      "感知，触碰.feeling感情"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "be conscious of a physical, mental, or emotional state"
+    ],
+    "speech": "verb",
+    "sentence": "Bark has a rough feel."
+  },
+  {
+    "name": "mood",
+    "trans": [
+      "心情， 情绪"
+    ],
+    "usphone": "mud",
+    "ukphone": "muːd",
+    "e_mean": [
+      "a characteristic state of feeling"
+    ],
+    "speech": "noun",
+    "sentence": "I've been in a bad mood since I dumped my boyfriend."
+  },
+  {
+    "name": "emotion",
+    "trans": [
+      "感情； 情绪"
+    ],
+    "usphone": "ɪ'moʃən",
+    "ukphone": "ɪ'məuʃn",
+    "e_mean": [
+      "any strong feeling"
+    ],
+    "speech": "noun",
+    "sentence": "You could hear the emotion in her voice."
+  },
+  {
+    "name": "temper",
+    "trans": [
+      "情绪",
+      "使缓和"
+    ],
+    "usphone": "'tɛmpɚ",
+    "ukphone": "'tempə(r)",
+    "e_mean": [
+      "a characteristic state of feeling"
+    ],
+    "speech": "noun",
+    "sentence": "to have a good, bad, or calm temper."
+  },
+  {
+    "name": "manner",
+    "trans": [
+      "举止，礼貌，方式，风俗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "how something is done or how it happens"
+    ],
+    "speech": "noun",
+    "sentence": "His natural manner makes him seem like the boss."
+  },
+  {
+    "name": "attitude",
+    "trans": [
+      "态度， 看法； 姿势"
+    ],
+    "usphone": "'ætɪtʊd",
+    "ukphone": "'ætɪtjuːd",
+    "e_mean": [
+      "a complex mental state involving beliefs and feelings"
+    ],
+    "speech": "noun",
+    "sentence": "The ballet dancer walked with a graceful attitude."
+  },
+  {
+    "name": "character",
+    "trans": [
+      "性格， 品质； 性质， 特性； 人物， 角色； 符号， 字"
+    ],
+    "usphone": "'kærɪktɚ",
+    "ukphone": "'kærəktə(r)",
+    "e_mean": [
+      "a property that defines the individual nature of something"
+    ],
+    "speech": "noun",
+    "sentence": "A single locus governing the petal colour character was detected on the linkage group A2."
+  },
+  {
+    "name": "personality",
+    "trans": [
+      "人格； 个性； 名人， 人物"
+    ],
+    "usphone": ",pɝsə'næləti",
+    "ukphone": "ˌpɜːsə'næləti",
+    "e_mean": [
+      "the complex of attributes that characterize an individual"
+    ],
+    "speech": "noun",
+    "sentence": "The president has a unique personality."
+  },
+  {
+    "name": "trait",
+    "trans": [
+      "特性，特点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a distinguishing feature of your personal nature"
+    ],
+    "speech": "noun",
+    "sentence": "The number one personality trait I hate is hypocrisy. Why can't you be consistent!?"
+  },
+  {
+    "name": "virtue",
+    "trans": [
+      "美德； 优点"
+    ],
+    "usphone": "'vɝtʃʊ",
+    "ukphone": "'vɜːtʃuː",
+    "e_mean": [
+      "the quality of doing what is right"
+    ],
+    "speech": "noun",
+    "sentence": "Without virtue, there is no freedom."
+  },
+  {
+    "name": "feature",
+    "trans": [
+      "以…为特色； 由…主演； 占重要地位",
+      "特征，特色；"
+    ],
+    "usphone": "'fitʃɚ",
+    "ukphone": "'fiːtʃə(r)",
+    "e_mean": [
+      "a prominent attribute or aspect of something"
+    ],
+    "speech": "noun",
+    "sentence": "one of the features of the landscape."
+  },
+  {
+    "name": "stature",
+    "trans": [
+      "身高，身材(精神、道德等的)高度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the height of a standing person"
+    ],
+    "speech": "noun",
+    "sentence": "She has real stature in the design world."
+  },
+  {
+    "name": "flesh",
+    "trans": [
+      "肉,人类"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the soft tissue of the body of a vertebrate"
+    ],
+    "speech": "noun",
+    "sentence": "It looked scary, but the cut only went through the flesh."
+  },
+  {
+    "name": "lung",
+    "trans": [
+      "肺"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "either of two saclike respiratory organs in the chest of vertebrates; serves to remove carbon dioxide and provide oxygen to the blood"
+    ],
+    "speech": "noun",
+    "sentence": "He hasn't the lungs to play long rallies like he use to."
+  },
+  {
+    "name": "gland",
+    "trans": [
+      "腺"
+    ],
+    "usphone": "ɡlænd",
+    "ukphone": "glænd",
+    "e_mean": [
+      "a small organ that synthesizes and secretes chemicals"
+    ],
+    "speech": "noun",
+    "sentence": "My neck hurt because one gland was swollen."
+  },
+  {
+    "name": "chamber",
+    "trans": [
+      "室； 洞穴； 膛"
+    ],
+    "usphone": "ˈtʃeɪmbər",
+    "ukphone": "'tʃeɪmbə(r)",
+    "e_mean": [
+      "a natural or artificial enclosed space"
+    ],
+    "speech": "noun",
+    "sentence": "The resolution, which speedily passed the Senate, was unable to gain a majority in the lower chamber."
+  },
+  {
+    "name": "intestine",
+    "trans": [
+      "【解】 肠"
+    ],
+    "usphone": "ɪn'tɛstɪn",
+    "ukphone": "ɪn'testɪn",
+    "e_mean": [
+      "the part of the alimentary canal between the stomach and the anus"
+    ],
+    "speech": "noun",
+    "sentence": "Too much spicy food can upset your intestine."
+  },
+  {
+    "name": "thigh",
+    "trans": [
+      "大腿"
+    ],
+    "usphone": "θaɪ",
+    "ukphone": "θaɪ",
+    "e_mean": [
+      "the part of the leg between the hip and the knee"
+    ],
+    "speech": "noun",
+    "sentence": "I pulled my thigh at the gym yesterday."
+  },
+  {
+    "name": "joint",
+    "trans": [
+      "连接的； 联合的",
+      "接头；关节"
+    ],
+    "usphone": "dʒɔɪnt",
+    "ukphone": "dʒɔɪnt",
+    "e_mean": [
+      "junction by which parts or objects are linked together"
+    ],
+    "speech": "noun",
+    "sentence": "This rod is free to swing at the joint with the platform."
+  },
+  {
+    "name": "knee",
+    "trans": [
+      "膝盖，膝.akneebend屈膝运动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella"
+    ],
+    "speech": "noun",
+    "sentence": "Penny was wearing a miniskirt, so she skinned her exposed knees when she fell."
+  },
+  {
+    "name": "lap",
+    "trans": [
+      "大腿部，环节，一圈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the upper side of the thighs of a seated person"
+    ],
+    "speech": "noun",
+    "sentence": "The boy was sitting on his mother's lap."
+  },
+  {
+    "name": "ankle",
+    "trans": [
+      "踝关节，踝.anklejoint踝关节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a gliding joint between the tibia and fibula"
+    ],
+    "speech": "noun",
+    "sentence": "I twisted my ankle on the stairs."
+  },
+  {
+    "name": "heel",
+    "trans": [
+      "足跟.high-heel高跟鞋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the back part of the human foot"
+    ],
+    "speech": "noun",
+    "sentence": "He drove the heel of his hand into the man's nose."
+  },
+  {
+    "name": "toe",
+    "trans": [
+      "脚趾，足尖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "one of the digits of the foot"
+    ],
+    "speech": "noun",
+    "sentence": "to toe the mark."
+  },
+  {
+    "name": "pore",
+    "trans": [
+      "毛孔,小孔,气孔;凝视,沉思"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any tiny hole admitting passage of a liquid"
+    ],
+    "speech": "noun",
+    "sentence": "After running, every pore on my face was sweating."
+  },
+  {
+    "name": "pulse",
+    "trans": [
+      "脉搏,脉冲impulse冲动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the rhythmic contraction and expansion of arteries"
+    ],
+    "speech": "noun",
+    "sentence": "In the dead of night, all was still but the pulsing light."
+  },
+  {
+    "name": "artery",
+    "trans": [
+      "动脉； 干线， 要道"
+    ],
+    "usphone": "'ɑrtəri",
+    "ukphone": "'ɑːtəri",
+    "e_mean": [
+      "a blood vessel that carries blood from the heart to the body"
+    ],
+    "speech": "noun",
+    "sentence": "This road is the main artery into downtown."
+  },
+  {
+    "name": "nerve",
+    "trans": [
+      "神经； 勇敢"
+    ],
+    "usphone": "nɝv",
+    "ukphone": "nɜːv",
+    "e_mean": [
+      "a bundle of fibers running to organs and tissues of the body"
+    ],
+    "speech": "noun",
+    "sentence": "The nerves can be seen through the skin."
+  },
+  {
+    "name": "hormone",
+    "trans": [
+      "荷尔蒙，激素"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the secretion of an endocrine gland transmitted by the blood"
+    ],
+    "speech": "noun",
+    "sentence": "Stress hormones can ruin your sleep."
+  },
+  {
+    "name": "immune",
+    "trans": [
+      "免疫的， 有免疫力的； 有抵抗力的； 不受影响的； 免除的， 免除惩罚的， 豁免的"
+    ],
+    "usphone": "ɪ'mjʊn",
+    "ukphone": "ɪ'mjuːn",
+    "e_mean": [
+      "of the condition in which an organism can resist disease"
+    ],
+    "speech": "adjective",
+    "sentence": "As a diplomat, you are immune from prosecution."
+  },
+  {
+    "name": "immunise",
+    "trans": [
+      "使免疫.immunesystem免疫系统"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "perform vaccinations or produce immunity in by inoculation"
+    ],
+    "speech": "verb",
+    "sentence": "We should immunise kids early to prevent serious disease."
+  },
+  {
+    "name": "stimulus",
+    "trans": [
+      "刺激， 促进"
+    ],
+    "usphone": "'stɪmjələs",
+    "ukphone": "'stɪmjələs",
+    "e_mean": [
+      "any information or event that acts to arouse action"
+    ],
+    "speech": "noun",
+    "sentence": "an economic stimulus."
+  },
+  {
+    "name": "hasten",
+    "trans": [
+      "赶紧,促进;hasty匆忙的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "move fast"
+    ],
+    "speech": "verb",
+    "sentence": "Let's not hasten the decision until we see all the data."
+  },
+  {
+    "name": "urge",
+    "trans": [
+      "敦促， 力劝； 鼓励； 竭力主张"
+    ],
+    "usphone": "ɝdʒ",
+    "ukphone": "ɜːdʒ",
+    "e_mean": [
+      "urge or force in an indicated direction"
+    ],
+    "speech": "verb",
+    "sentence": "to urge an argument; to urge the necessity of a case."
+  },
+  {
+    "name": "scold",
+    "trans": [
+      "责骂，斥责"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "censure severely or angrily"
+    ],
+    "speech": "verb",
+    "sentence": "to scald the hand."
+  },
+  {
+    "name": "curse",
+    "trans": [
+      "诅咒；咒语beundera~被诅咒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an appeal to some supernatural power to inflict evil"
+    ],
+    "speech": "noun",
+    "sentence": "He muttered a curse under his breath when the laptop crashed."
+  },
+  {
+    "name": "swear",
+    "trans": [
+      "宣； 诅咒"
+    ],
+    "usphone": "swɛr",
+    "ukphone": "sweə(r)",
+    "e_mean": [
+      "to declare or affirm solemnly and formally as true"
+    ],
+    "speech": "verb",
+    "sentence": "I swear I sent you the file yesterday."
+  },
+  {
+    "name": "provoke",
+    "trans": [
+      "激怒，挑拨，引起\nthought-provoking引起思考的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "provide the needed stimulus for"
+    ],
+    "speech": "verb",
+    "sentence": "Don't provoke the dog; it may try to bite you."
+  },
+  {
+    "name": "preach",
+    "trans": [
+      "宣扬.~at/tosb.对某人说教"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "deliver a sermon"
+    ],
+    "speech": "verb",
+    "sentence": "A learned local Muslim used to preach in the small mosque every Friday."
+  },
+  {
+    "name": "boast",
+    "trans": [
+      "自夸； 夸耀"
+    ],
+    "usphone": "bost",
+    "ukphone": "bəust",
+    "e_mean": [
+      "talk about oneself with excessive pride or self-regard"
+    ],
+    "speech": "verb",
+    "sentence": "It was his regular boast that he could eat two full English breakfasts in one sitting."
+  },
+  {
+    "name": "tease",
+    "trans": [
+      "逗乐，奚落，戏弄；强求",
+      "揶揄， 戏弄， 取笑； 逗弄者， 取笑者"
+    ],
+    "usphone": "tiz",
+    "ukphone": "tiːz",
+    "e_mean": [
+      "mock or make fun of playfully"
+    ],
+    "speech": "verb",
+    "sentence": "Don't tease him about his haircut; he's already embarrassed."
+  },
+  {
+    "name": "mock",
+    "trans": [
+      "假的；模拟的",
+      "嘲弄；模仿，"
+    ],
+    "usphone": "mɑk",
+    "ukphone": "mɒk",
+    "e_mean": [
+      "treat with contempt"
+    ],
+    "speech": "verb",
+    "sentence": "He got a B in his History mock, but improved to an A in the exam."
+  },
+  {
+    "name": "touch",
+    "trans": [
+      "触摸/触动;触觉/接触"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "make physical contact with, come in contact with"
+    ],
+    "speech": "verb",
+    "sentence": "Her speech really touched me."
+  },
+  {
+    "name": "tap",
+    "trans": [
+      "轻拍，轻叩，开发"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "strike lightly"
+    ],
+    "speech": "verb",
+    "sentence": "We don't have bottled water; you'll have to get it from the tap."
+  },
+  {
+    "name": "clap",
+    "trans": [
+      "鼓掌；拍手"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "strike one's hands together"
+    ],
+    "speech": "verb",
+    "sentence": "He summoned the waiter with a clap."
+  },
+  {
+    "name": "applaud",
+    "trans": [
+      "鼓掌， 喝彩； 称赞"
+    ],
+    "usphone": "ə'plɔd",
+    "ukphone": "ə'plɔːd",
+    "e_mean": [
+      "clap one's hands or shout to indicate approval"
+    ],
+    "speech": "verb",
+    "sentence": "After the performance, the audience applauded for five minutes."
+  },
+  {
+    "name": "kneel",
+    "trans": [
+      "跪"
+    ],
+    "usphone": "nil",
+    "ukphone": "niːl",
+    "e_mean": [
+      "rest one's weight on one's knees"
+    ],
+    "speech": "verb",
+    "sentence": "She knelt the doll to fit it into the box."
+  },
+  {
+    "name": "catch",
+    "trans": [
+      "捉住，赶上，领会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "take hold of so as to seize or stop the motion of"
+    ],
+    "speech": "verb",
+    "sentence": "The catch of the perpetrator was the product of a year of police work."
+  },
+  {
+    "name": "snatch",
+    "trans": [
+      "—把抓住"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "grasp hastily or eagerly"
+    ],
+    "speech": "verb",
+    "sentence": "The leftfielder makes a nice snatch to end the inning."
+  },
+  {
+    "name": "grab",
+    "trans": [
+      "抓， 夺"
+    ],
+    "usphone": "ɡræb",
+    "ukphone": "græb",
+    "e_mean": [
+      "take or seize suddenly"
+    ],
+    "speech": "verb",
+    "sentence": "I grabbed her hand to pull her back from the cliff edge."
+  },
+  {
+    "name": "grasp",
+    "trans": [
+      "抓紧；掌握，全面理解",
+      "抓住； 支配； 理解"
+    ],
+    "usphone": "ɡræsp",
+    "ukphone": "grɑːsp",
+    "e_mean": [
+      "hold firmly"
+    ],
+    "speech": "verb",
+    "sentence": "The goal is within my grasp."
+  },
+  {
+    "name": "overtake",
+    "trans": [
+      "追上，超过，(情感等)压倒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "catch up with and possibly overtake"
+    ],
+    "speech": "verb",
+    "sentence": "The car was so slow we were overtaken by a bus."
+  },
+  {
+    "name": "attract",
+    "trans": [
+      "吸引， 招引， 引诱， 引起"
+    ],
+    "usphone": "ə'trækt",
+    "ukphone": "ə'trækt",
+    "e_mean": [
+      "exert a force on"
+    ],
+    "speech": "verb",
+    "sentence": "A magnet attracts iron filings."
+  },
+  {
+    "name": "obsess",
+    "trans": [
+      "痴迷，心神不宁\nbeobsessedby/with"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "be preoccupied with something"
+    ],
+    "speech": "verb",
+    "sentence": "Some people are obsessed with sports."
+  },
+  {
+    "name": "mesmerise",
+    "trans": [
+      "吸引，迷住(=mesmerize)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "attract strongly, as if with a magnet"
+    ],
+    "speech": "verb",
+    "sentence": "She mesmerized the audience with her tricks."
+  },
+  {
+    "name": "nightmare",
+    "trans": [
+      "噩梦； 可怕的事物"
+    ],
+    "usphone": "'naɪt'mɛr",
+    "ukphone": "'naɪtmeə(r)",
+    "e_mean": [
+      "a terrifying or deeply upsetting dream"
+    ],
+    "speech": "noun",
+    "sentence": "I had a nightmare that I tried to run but could neither move nor breathe."
+  },
+  {
+    "name": "amaze",
+    "trans": [
+      "使惊奇， 使惊愕"
+    ],
+    "usphone": "ə'mez",
+    "ukphone": "ə'meɪz",
+    "e_mean": [
+      "affect with wonder"
+    ],
+    "speech": "verb",
+    "sentence": "He was amazed when he found that the girl was a robot."
+  },
+  {
+    "name": "marvel",
+    "trans": [
+      "感到惊讶，大为赞叹；奇迹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "be amazed at"
+    ],
+    "speech": "verb",
+    "sentence": "I still marvel at how fast kids learn new tech."
+  },
+  {
+    "name": "astonish",
+    "trans": [
+      "使惊讶， 使吃惊"
+    ],
+    "usphone": "ə'stɑnɪʃ",
+    "ukphone": "ə'stɒnɪʃ",
+    "e_mean": [
+      "affect with wonder"
+    ],
+    "speech": "verb",
+    "sentence": "It still astonishes me how quickly she solved it."
+  },
+  {
+    "name": "involve",
+    "trans": [
+      "使卷入， 使参与； 牵涉， 陷入， 连累； 包含， 含有"
+    ],
+    "usphone": "ɪn'vɑlv",
+    "ukphone": "ɪn'vɒlv",
+    "e_mean": [
+      "contain as a part"
+    ],
+    "speech": "verb",
+    "sentence": "to involve in darkness or obscurity."
+  },
+  {
+    "name": "annoy",
+    "trans": [
+      "使烦恼； 打搅"
+    ],
+    "usphone": "ə'nɔɪ",
+    "ukphone": "ə'nɔɪ",
+    "e_mean": [
+      "disturb, especially by minor irritations"
+    ],
+    "speech": "verb",
+    "sentence": "Marc loved his sister, but when she annoyed him he wanted to switch her off."
+  },
+  {
+    "name": "upset",
+    "trans": [
+      "心烦的； 不适的",
+      "使苦恼；搅乱；推翻，颠倒[ˌʌp's3t]"
+    ],
+    "usphone": "ʌp'sɛt",
+    "ukphone": "ʌp's3t",
+    "e_mean": [
+      "cause to lose one's composure"
+    ],
+    "speech": "verb",
+    "sentence": "My late arrival caused the professor considerable upset."
+  },
+  {
+    "name": "bewilder",
+    "trans": [
+      "使迷惑， 使昏乱"
+    ],
+    "usphone": "bɪ'wɪldɚ",
+    "ukphone": "bɪ'wɪldə(r)",
+    "e_mean": [
+      "cause to be confused emotionally"
+    ],
+    "speech": "verb",
+    "sentence": "All the different possible options may bewilder us."
+  },
+  {
+    "name": "contempt",
+    "trans": [
+      "轻视， 鄙视， 不尊重； 蔑视"
+    ],
+    "usphone": "kən'tɛmpt",
+    "ukphone": "kən'tempt",
+    "e_mean": [
+      "lack of respect accompanied by a feeling of intense dislike"
+    ],
+    "speech": "noun",
+    "sentence": "He looked at the rules with open contempt."
+  },
+  {
+    "name": "neglect",
+    "trans": [
+      "忽视； 疏忽； 遗漏"
+    ],
+    "usphone": "nɪ'glɛkt",
+    "ukphone": "nɪ'glekt",
+    "e_mean": [
+      "leave undone or leave out"
+    ],
+    "speech": "verb",
+    "sentence": "to neglect duty or business; to neglect to pay debts."
+  },
+  {
+    "name": "disregard",
+    "trans": [
+      "不理会，漠视",
+      "忽视， 漠视"
+    ],
+    "usphone": ",dɪsrɪ'ɡɑrd",
+    "ukphone": "ˌdɪsrɪ'gɑːd",
+    "e_mean": [
+      "lack of attention and due care"
+    ],
+    "speech": "noun",
+    "sentence": "The government's disregard for the needs of disabled people is outrageous."
+  },
+  {
+    "name": "ignorance",
+    "trans": [
+      "无知， 愚昧； 不知道"
+    ],
+    "usphone": "'ɪɡnərəns",
+    "ukphone": "'ɪgnərəns",
+    "e_mean": [
+      "the lack of knowledge or education"
+    ],
+    "speech": "noun",
+    "sentence": "That comment came from ignorance, not bad intent."
+  },
+  {
+    "name": "irony",
+    "trans": [
+      "反话， 讽刺； 出人意料的事情"
+    ],
+    "usphone": "'aɪrəni",
+    "ukphone": "'aɪərəni",
+    "e_mean": [
+      "incongruity between what might be expected and what occurs"
+    ],
+    "speech": "noun",
+    "sentence": "The food had an irony taste to it."
+  },
+  {
+    "name": "ironic",
+    "trans": [
+      "反语的，具有讽刺意味的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "displaying incongruity between what is expected and what is"
+    ],
+    "speech": "adjective",
+    "sentence": "It's ironic to have a blizzard in the middle of the summer."
+  },
+  {
+    "name": "indignity",
+    "trans": [
+      "侮辱，轻蔑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an affront to one's self-esteem"
+    ],
+    "speech": "noun",
+    "sentence": "Being laughed at in public felt like a real indignity."
+  },
+  {
+    "name": "bias",
+    "trans": [
+      "使有偏见，使偏心；偏见，偏心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a partiality preventing objective consideration of an issue"
+    ],
+    "speech": "noun",
+    "sentence": "Our prejudices bias our views."
+  },
+  {
+    "name": "prejudice",
+    "trans": [
+      "偏见，成见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a partiality preventing objective consideration of an issue"
+    ],
+    "speech": "noun",
+    "sentence": "I am free of all prejudices. I hate everyone equally."
+  },
+  {
+    "name": "invoke",
+    "trans": [
+      "恳求， 祈求； 援用， 援引； 使用， 应用"
+    ],
+    "usphone": "ɪn'vok",
+    "ukphone": "ɪn'vəuk",
+    "e_mean": [
+      "request earnestly; ask for aid or protection"
+    ],
+    "speech": "verb",
+    "sentence": "The envoy invoked the King of Kings's magnanimity to reduce his province's tribute after another drought."
+  },
+  {
+    "name": "itch",
+    "trans": [
+      "发痒,渴望;痒,渴望"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an irritating cutaneous sensation that produces a desire to scratch"
+    ],
+    "speech": "noun",
+    "sentence": "He started learning to drive and he has been itching for opportunities to practice ever since."
+  },
+  {
+    "name": "attempt",
+    "trans": [
+      "尝试， 试图； 努力"
+    ],
+    "usphone": "ə'tɛmpt",
+    "ukphone": "ə'tempt",
+    "e_mean": [
+      "make an effort"
+    ],
+    "speech": "verb",
+    "sentence": "It was worth the attempt."
+  },
+  {
+    "name": "strive",
+    "trans": [
+      "努力，奋斗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "attempt by employing effort"
+    ],
+    "speech": "verb",
+    "sentence": "We strive to keep things simple for users."
+  },
+  {
+    "name": "effort",
+    "trans": [
+      "努力， 艰难的尝试； 成就"
+    ],
+    "usphone": "'ɛfɚt",
+    "ukphone": "'efət",
+    "e_mean": [
+      "use of physical or mental energy; hard work"
+    ],
+    "speech": "noun",
+    "sentence": "It took a lot of effort to find a decent-sized, fully-furnished apartment within walking distance of the office. He made a conscious effort to not appear affected by the stories in the paper."
+  },
+  {
+    "name": "fulfil",
+    "trans": [
+      "实现， 完成； 满足"
+    ],
+    "usphone": "ful'fil",
+    "ukphone": "ful'fɪl",
+    "e_mean": [
+      "meet the requirements or expectations of"
+    ],
+    "speech": "verb",
+    "sentence": "You made a promise, son, and now you must fulfill it."
+  },
+  {
+    "name": "range",
+    "trans": [
+      "变动.ranger护林员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a variety of different things or activities"
+    ],
+    "speech": "noun",
+    "sentence": "We sell a wide range of cars."
+  },
+  {
+    "name": "sort",
+    "trans": [
+      "种类，类别认把…分类"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a category of things distinguished by some common characteristic or quality"
+    ],
+    "speech": "noun",
+    "sentence": "I had a sort of my cupboard."
+  },
+  {
+    "name": "loom",
+    "trans": [
+      "隐现,逼近;织布机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a textile machine for weaving yarn into a textile"
+    ],
+    "speech": "noun",
+    "sentence": "The clouds loomed over the mountains."
+  },
+  {
+    "name": "launch",
+    "trans": [
+      "将…投放市场；开始从事，发动，发起；发射",
+      "发射； 上市"
+    ],
+    "usphone": "lɔntʃ",
+    "ukphone": "lɔːntʃ",
+    "e_mean": [
+      "propel with force"
+    ],
+    "speech": "verb",
+    "sentence": "book launch."
+  },
+  {
+    "name": "commence",
+    "trans": [
+      "开始， 着手"
+    ],
+    "usphone": "kə'mɛns",
+    "ukphone": "kə'mens",
+    "e_mean": [
+      "set in motion, cause to start"
+    ],
+    "speech": "verb",
+    "sentence": "The ceremony will commence at 10 sharp."
+  },
+  {
+    "name": "exploit",
+    "trans": [
+      "剥削； 开发， 开拓； 利用",
+      "英勇行为； 业绩， 功绩"
+    ],
+    "usphone": "ɛksplɔɪt; ɪkˈsplɔɪt",
+    "ukphone": "ˈeksplɔɪt;ɪkˈsplɔɪt",
+    "e_mean": [
+      "use or manipulate to one's advantage"
+    ],
+    "speech": "verb",
+    "sentence": "The first trek to the summit of Mount Everest was a stunning exploit."
+  },
+  {
+    "name": "explore",
+    "trans": [
+      "探险， 探索； 仔细检查， 探究"
+    ],
+    "usphone": "ɪk'splɔr",
+    "ukphone": "ɪk'splɔː(r)",
+    "e_mean": [
+      "travel to or penetrate into"
+    ],
+    "speech": "verb",
+    "sentence": "The committee has been exploring alternative solutions to the problem at hand."
+  },
+  {
+    "name": "exert",
+    "trans": [
+      "运用，行使,施加"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "put to use"
+    ],
+    "speech": "verb",
+    "sentence": "I exerted myself in today's training."
+  },
+  {
+    "name": "tackle",
+    "trans": [
+      "对付，处理；向某人提起；抢截，抢球",
+      "用具， 器具； 滑轮， 滑车； 抢截"
+    ],
+    "usphone": "'tækl",
+    "ukphone": "'tækl",
+    "e_mean": [
+      "seize and throw down an opponent player carrying the ball"
+    ],
+    "speech": "verb",
+    "sentence": "The government's measures to tackle crime were insufficient."
+  },
+  {
+    "name": "cope",
+    "trans": [
+      "应付； 处理"
+    ],
+    "usphone": "kop",
+    "ukphone": "kəup",
+    "e_mean": [
+      "come to terms with"
+    ],
+    "speech": "verb",
+    "sentence": "I thought I would never be able to cope with life after the amputation, but I have learned how to be happy again."
+  },
+  {
+    "name": "dispose",
+    "trans": [
+      "布置，安排"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "give, sell, or transfer to another"
+    ],
+    "speech": "verb",
+    "sentence": "I dispose of my trash in the garbage can."
+  },
+  {
+    "name": "conduct",
+    "trans": [
+      "进行，实施;举止，行为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the way a person behaves toward other people"
+    ],
+    "speech": "noun",
+    "sentence": "Good conduct will be rewarded and likewise poor conduct will be punished."
+  },
+  {
+    "name": "omit",
+    "trans": [
+      "遗漏,省略,删去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "leave undone or leave out"
+    ],
+    "speech": "verb",
+    "sentence": "Don't omit that detail from the report."
+  },
+  {
+    "name": "delete",
+    "trans": [
+      "删除，删掉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cut or eliminate"
+    ],
+    "speech": "verb",
+    "sentence": "I lost the file when I accidentally hit delete."
+  },
+  {
+    "name": "purpose",
+    "trans": [
+      "打算， 企图， 决心",
+      "目的，意图；用途，效果"
+    ],
+    "usphone": "'pɝpəs",
+    "ukphone": "'pɜːpəs",
+    "e_mean": [
+      "what something is used for"
+    ],
+    "speech": "noun",
+    "sentence": "The purpose of turning off the lights overnight is to save energy."
+  },
+  {
+    "name": "objective",
+    "trans": [
+      "客观的",
+      "目标，目的"
+    ],
+    "usphone": "əb'dʒɛktɪv",
+    "ukphone": "əb'dʒektɪv",
+    "e_mean": [
+      "the goal intended to be attained"
+    ],
+    "speech": "noun",
+    "sentence": "Our main objective this quarter is retention."
+  },
+  {
+    "name": "arouse",
+    "trans": [
+      "唤起，激起，引起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "call forth, as an emotion, feeling, or response"
+    ],
+    "speech": "verb",
+    "sentence": "The new building proposals in the village are arousing unneeded discomfort."
+  },
+  {
+    "name": "trigger",
+    "trans": [
+      "引发，"
+    ],
+    "usphone": "'trɪɡɚ",
+    "ukphone": "'trɪgə(r)",
+    "e_mean": [
+      "lever that activates the firing mechanism of a gun"
+    ],
+    "speech": "noun",
+    "sentence": "Just pull the trigger."
+  },
+  {
+    "name": "seek",
+    "trans": [
+      "寻找； 探索； 追求"
+    ],
+    "usphone": "sik",
+    "ukphone": "siːk",
+    "e_mean": [
+      "try to locate, discover, or establish the existence of"
+    ],
+    "speech": "verb",
+    "sentence": "I seek wisdom."
+  },
+  {
+    "name": "retrieve",
+    "trans": [
+      "取回,挽回"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "get or find back; recover the use of"
+    ],
+    "speech": "verb",
+    "sentence": "to retrieve one's character or independence; to retrieve a thrown ball."
+  },
+  {
+    "name": "testify",
+    "trans": [
+      "证明,作证.~agains不利..的证明"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "give a solemn statement in a court of law"
+    ],
+    "speech": "verb",
+    "sentence": "She agreed to testify in court."
+  },
+  {
+    "name": "verify",
+    "trans": [
+      "证明； 证实"
+    ],
+    "usphone": "'vɛrɪfaɪ",
+    "ukphone": "'verɪfaɪ",
+    "e_mean": [
+      "confirm the truth of"
+    ],
+    "speech": "verb",
+    "sentence": "Please verify your email before logging in."
+  },
+  {
+    "name": "specify",
+    "trans": [
+      "指定； 详细说明"
+    ],
+    "usphone": "'spɛsɪfaɪ",
+    "ukphone": "'spesɪfaɪ",
+    "e_mean": [
+      "be particular about"
+    ],
+    "speech": "verb",
+    "sentence": "Could you specify which version you're using?"
+  },
+  {
+    "name": "enlighten",
+    "trans": [
+      "启发； 开导； 阐明"
+    ],
+    "usphone": "ɪn'laɪtn",
+    "ukphone": "ɪn'laɪtn",
+    "e_mean": [
+      "give spiritual insight to"
+    ],
+    "speech": "verb",
+    "sentence": "The sun enlightens the Earth."
+  },
+  {
+    "name": "impart",
+    "trans": [
+      "给予， 赋予； 传授； 告知， 透露"
+    ],
+    "usphone": "ɪm'pɑrt",
+    "ukphone": "ɪm'pɑːt",
+    "e_mean": [
+      "bestow a quality on"
+    ],
+    "speech": "verb",
+    "sentence": "The sun imparts warmth."
+  },
+  {
+    "name": "deserve",
+    "trans": [
+      "应得； 值得"
+    ],
+    "usphone": "dɪ'zɝv",
+    "ukphone": "dɪ'zɜːv",
+    "e_mean": [
+      "be worthy"
+    ],
+    "speech": "verb",
+    "sentence": "After playing so well, the team really deserved their win."
+  },
+  {
+    "name": "drop",
+    "trans": [
+      "降低/和…断绝联系；滴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "let fall to the ground"
+    ],
+    "speech": "verb",
+    "sentence": "Put three drops of oil into the mixture."
+  },
+  {
+    "name": "sink",
+    "trans": [
+      "下降下沉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "fall or descend to a lower place or level"
+    ],
+    "speech": "verb",
+    "sentence": "Jones has a two-seamer with heavy sink."
+  },
+  {
+    "name": "plummet",
+    "trans": [
+      "垂直掉下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "drop sharply"
+    ],
+    "speech": "verb",
+    "sentence": "After its ascent, the arrow plummeted to earth."
+  },
+  {
+    "name": "muffle",
+    "trans": [
+      "使(声音)减弱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "deaden (a sound or noise), especially by wrapping"
+    ],
+    "speech": "verb",
+    "sentence": "to muffle the strings of a drum, or that part of an oar which rests in the rowlock."
+  },
+  {
+    "name": "overshadow",
+    "trans": [
+      "使黯然失色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cast a shadow upon"
+    ],
+    "speech": "verb",
+    "sentence": "The delays completely overshadowed the product launch."
+  },
+  {
+    "name": "invite",
+    "trans": [
+      "邀请。invitation邀请"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "ask someone in a friendly way to do something"
+    ],
+    "speech": "verb",
+    "sentence": "We invited our friends round for dinner."
+  },
+  {
+    "name": "greet",
+    "trans": [
+      "向…问好/对…作出反应greeting问候"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "express greetings upon meeting someone"
+    ],
+    "speech": "verb",
+    "sentence": "A brilliant dawn greeted her eyes as she looked out of the window."
+  },
+  {
+    "name": "salute",
+    "trans": [
+      "行礼/致敬"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a formal military gesture of respect"
+    ],
+    "speech": "noun",
+    "sentence": "The soldiers greeted the dignitaries with a crisp salute."
+  },
+  {
+    "name": "mankind",
+    "trans": [
+      "人类,男人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "all of the living human inhabitants of the earth"
+    ],
+    "speech": "noun",
+    "sentence": "Space exploration has always inspired mankind."
+  },
+  {
+    "name": "human",
+    "trans": [
+      "人类/有人性的;人类"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person; a hominid with a large brain and articulate speech"
+    ],
+    "speech": "noun",
+    "sentence": "Humans share common ancestors with other apes."
+  },
+  {
+    "name": "bone",
+    "trans": [
+      "骨，骨骼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "rigid tissue that makes up the skeleton of vertebrates"
+    ],
+    "speech": "noun",
+    "sentence": "to bone stays."
+  },
+  {
+    "name": "backbone",
+    "trans": [
+      "脊椎； 骨干； 支柱"
+    ],
+    "usphone": "'bæk'bon",
+    "ukphone": "'bækbəun",
+    "e_mean": [
+      "the series of vertebrae forming the axis of the skeleton and protecting the spinal cord"
+    ],
+    "speech": "noun",
+    "sentence": "Before automobiles, railroads were a backbone of commerce."
+  },
+  {
+    "name": "skeleton",
+    "trans": [
+      "骨骼，骨架，框架，梗概"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the structure providing a frame for the body of an animal"
+    ],
+    "speech": "noun",
+    "sentence": "She dressed up as a skeleton for Halloween."
+  },
+  {
+    "name": "skull",
+    "trans": [
+      "颅骨； 脑袋"
+    ],
+    "usphone": "skʌl",
+    "ukphone": "skʌl",
+    "e_mean": [
+      "the bony skeleton of the head of vertebrates"
+    ],
+    "speech": "noun",
+    "sentence": "The divers encountered a huge school of mackerel."
+  },
+  {
+    "name": "brain",
+    "trans": [
+      "脑，智慧，智力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the organ that is the center of the nervous system"
+    ],
+    "speech": "noun",
+    "sentence": "She was a total brain."
+  },
+  {
+    "name": "mind",
+    "trans": [
+      "头脑，思考能力，思维absenceof~"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "that which is responsible for one's thoughts and feelings"
+    ],
+    "speech": "noun",
+    "sentence": "Despite advancing age, his mind was still as sharp as ever."
+  },
+  {
+    "name": "physical",
+    "trans": [
+      "身体的，肉体的；物理的，物理学的；物质的，有形的",
+      "体检"
+    ],
+    "usphone": "'fɪzɪkl",
+    "ukphone": "'fɪzɪkl",
+    "e_mean": [
+      "involving the body as distinguished from the mind or spirit"
+    ],
+    "speech": "adjective",
+    "sentence": "How long has it been since your last physical?"
+  },
+  {
+    "name": "mental",
+    "trans": [
+      "心理的， 精神的； 智力的"
+    ],
+    "usphone": "'mɛntl",
+    "ukphone": "'mentl",
+    "e_mean": [
+      "involving the mind or an intellectual process"
+    ],
+    "speech": "adjective",
+    "sentence": "He is the most mental freshman I've seen yet."
+  },
+  {
+    "name": "cheek",
+    "trans": [
+      "面颊，颊.cheektocheek脸贴脸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "either side of the face below the eyes"
+    ],
+    "speech": "noun",
+    "sentence": "You’ve got some cheek, asking me for money!"
+  },
+  {
+    "name": "forehead",
+    "trans": [
+      "额"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the part of the face above the eyes"
+    ],
+    "speech": "noun",
+    "sentence": "He wiped the sweat from his forehead."
+  },
+  {
+    "name": "brow",
+    "trans": [
+      "眉，眉毛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the part of the face above the eyes"
+    ],
+    "speech": "noun",
+    "sentence": "the brow of a precipice."
+  },
+  {
+    "name": "eyelash",
+    "trans": [
+      "眼睫毛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of the short curved hairs that grow from the edges of the eyelids"
+    ],
+    "speech": "noun",
+    "sentence": "I had an eyelash in my eye all morning."
+  },
+  {
+    "name": "lip",
+    "trans": [
+      "嘴唇，(洞口、伤口等的)边缘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "either of two fleshy folds of tissue that surround the mouth and play a role in speaking"
+    ],
+    "speech": "noun",
+    "sentence": "Don’t give me any lip!"
+  },
+  {
+    "name": "tongue",
+    "trans": [
+      "舌头,语言.aslipofthe~口误"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a mobile mass of muscular tissue located in the oral cavity"
+    ],
+    "speech": "noun",
+    "sentence": "cold tongue with mustard."
+  },
+  {
+    "name": "throat",
+    "trans": [
+      "喉咙，窄路，嗓子，嗓音"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the passage to the stomach and lungs"
+    ],
+    "speech": "noun",
+    "sentence": "The wild pitch bounced and hit the catcher in the throat."
+  },
+  {
+    "name": "gorge",
+    "trans": [
+      "狼吞虎咽，"
+    ],
+    "usphone": "ɡɔrdʒ",
+    "ukphone": "gɔːdʒ",
+    "e_mean": [
+      "a deep ravine, usually with a river running through it"
+    ],
+    "speech": "noun",
+    "sentence": "We stopped to take photos of the deep gorge."
+  },
+  {
+    "name": "chin",
+    "trans": [
+      "下巴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the protruding part of the lower jaw"
+    ],
+    "speech": "noun",
+    "sentence": "He rested his chin on his hand and thought for a while."
+  },
+  {
+    "name": "jaw",
+    "trans": [
+      "颌"
+    ],
+    "usphone": "dʒɔ",
+    "ukphone": "dʒɔː",
+    "e_mean": [
+      "the part of the skull of a vertebrate that frames the mouth"
+    ],
+    "speech": "noun",
+    "sentence": "His jaw dropped in amazement."
+  },
+  {
+    "name": "lifestyle",
+    "trans": [
+      "生活方式"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a manner of living that reflects one's values and attitudes"
+    ],
+    "speech": "noun",
+    "sentence": "City life doesn't match my lifestyle anymore."
+  },
+  {
+    "name": "habit",
+    "trans": [
+      "习惯.acquirea~of养成的习惯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an established custom"
+    ],
+    "speech": "noun",
+    "sentence": "It’s become a habit of mine to have a cup of coffee after dinner."
+  },
+  {
+    "name": "sense",
+    "trans": [
+      "感官，感觉sensible明智的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the faculty through which the external world is apprehended"
+    ],
+    "speech": "noun",
+    "sentence": "a sense of security."
+  },
+  {
+    "name": "sight",
+    "trans": [
+      "视力，看见，景物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the ability to see; the visual faculty"
+    ],
+    "speech": "noun",
+    "sentence": "He is losing his sight and now can barely read."
+  },
+  {
+    "name": "eyesight",
+    "trans": [
+      "视力"
+    ],
+    "usphone": "'aɪsaɪt",
+    "ukphone": "'aɪsaɪt",
+    "e_mean": [
+      "normal use of the faculty of vision"
+    ],
+    "speech": "noun",
+    "sentence": "My eyesight gets blurry when I'm too tired."
+  },
+  {
+    "name": "view",
+    "trans": [
+      "见解，风景，察看"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the visual percept of a region"
+    ],
+    "speech": "noun",
+    "sentence": "a fine view of Lake George."
+  },
+  {
+    "name": "visual",
+    "trans": [
+      "视觉的， 用于视觉的"
+    ],
+    "usphone": "'vɪʒʊəl",
+    "ukphone": "'vɪʒʊəl",
+    "e_mean": [
+      "relating to or using sight"
+    ],
+    "speech": "adjective",
+    "sentence": "I'm a visual learner, so charts help me remember things."
+  },
+  {
+    "name": "visible",
+    "trans": [
+      "可见的， 看得见的； 有形的； 明显的， 显而易见的"
+    ],
+    "usphone": "'vɪzəbl",
+    "ukphone": "'vɪzəbl",
+    "e_mean": [
+      "capable of being seen or open to easy view"
+    ],
+    "speech": "adjective",
+    "sentence": "When the sun rises, the world becomes visible."
+  },
+  {
+    "name": "vague",
+    "trans": [
+      "模糊的； 含糊的"
+    ],
+    "usphone": "veɡ",
+    "ukphone": "veɪg",
+    "e_mean": [
+      "lacking clarity or distinctness"
+    ],
+    "speech": "adjective",
+    "sentence": "a vague term of abuse."
+  },
+  {
+    "name": "blind",
+    "trans": [
+      "盲目的，未察觉的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "unable to see"
+    ],
+    "speech": "adjective",
+    "sentence": "a duck blind."
+  },
+  {
+    "name": "dumb",
+    "trans": [
+      "哑/不肯开口的.dumb-bell哑铃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "slow to learn or understand; lacking intellectual acuity"
+    ],
+    "speech": "adjective",
+    "sentence": "His younger brother was born dumb, and communicated with sign language."
+  },
+  {
+    "name": "aural",
+    "trans": [
+      "耳/听觉/气味/先兆的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or pertaining to hearing or the ear"
+    ],
+    "speech": "adjective",
+    "sentence": "The app gives clear aural feedback for each tone."
+  },
+  {
+    "name": "dental",
+    "trans": [
+      "牙的，牙科的dentist牙医"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or relating to the teeth"
+    ],
+    "speech": "adjective",
+    "sentence": "I have a dental appointment tomorrow morning."
+  },
+  {
+    "name": "awake",
+    "trans": [
+      "醒着的，警觉的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "not in a state of sleep; completely conscious"
+    ],
+    "speech": "adjective",
+    "sentence": "They were awake to the possibility of a decline in sales."
+  },
+  {
+    "name": "yawn",
+    "trans": [
+      "打呵欠，裂开；呵欠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an involuntary intake of breath through a wide open mouth"
+    ],
+    "speech": "noun",
+    "sentence": "The slideshow we sat through was such a yawn. I was glad when it finished."
+  },
+  {
+    "name": "snore",
+    "trans": [
+      "打鼾.sneeze打喷嚏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "breathe noisily during one's sleep"
+    ],
+    "speech": "verb",
+    "sentence": "He started to snore the minute he fell asleep."
+  },
+  {
+    "name": "doze",
+    "trans": [
+      "打瞌睡；小睡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a light fitful sleep"
+    ],
+    "speech": "noun",
+    "sentence": "I felt much better after a short doze."
+  },
+  {
+    "name": "dose",
+    "trans": [
+      "剂量， 一剂"
+    ],
+    "usphone": "dos",
+    "ukphone": "dəus",
+    "e_mean": [
+      "a measured portion of medicine taken at any one time"
+    ],
+    "speech": "noun",
+    "sentence": "Take one dose after dinner."
+  },
+  {
+    "name": "asleep",
+    "trans": [
+      "睡着的，不活跃的，麻木的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "in a state of sleep"
+    ],
+    "speech": "adjective",
+    "sentence": "I was asleep when you called."
+  },
+  {
+    "name": "nap",
+    "trans": [
+      "小睡，绒毛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "sleeping for a short period of time (usually not in bed)"
+    ],
+    "speech": "noun",
+    "sentence": "The regulators were caught napping by the financial collapse."
+  },
+  {
+    "name": "ascend",
+    "trans": [
+      "攀登； 上升， 升高"
+    ],
+    "usphone": "ə'sɛnd",
+    "ukphone": "ə'send",
+    "e_mean": [
+      "travel up"
+    ],
+    "speech": "verb",
+    "sentence": "He ascended to heaven upon a cloud."
+  },
+  {
+    "name": "reorient",
+    "trans": [
+      "重新定方位； 重新定位； 使适应"
+    ],
+    "usphone": ",ri'ɔrɪɛnt",
+    "ukphone": "ˌriː'ɔːrient",
+    "e_mean": [
+      "determine one's position once again"
+    ],
+    "speech": "verb",
+    "sentence": "After the merger, we had to reorient our strategy."
+  },
+  {
+    "name": "reinforcement",
+    "trans": [
+      "增援， 加强， 加固"
+    ],
+    "usphone": ",riɪn'fɔrsmənt",
+    "ukphone": "ˌriːɪn'fɔːsmənt",
+    "e_mean": [
+      "an act performed to strengthen approved behavior"
+    ],
+    "speech": "noun",
+    "sentence": "The wall needs extra reinforcement before winter."
+  },
+  {
+    "name": "splash",
+    "trans": [
+      "溅； 泼"
+    ],
+    "usphone": "splæʃ",
+    "ukphone": "splæʃ",
+    "e_mean": [
+      "cause (a liquid) to spatter about, especially with force"
+    ],
+    "speech": "verb",
+    "sentence": "I heard a splash when the rock landed in the pond."
+  },
+  {
+    "name": "haul",
+    "trans": [
+      "用力拖； 搬运"
+    ],
+    "usphone": "hɔl",
+    "ukphone": "hɔːl",
+    "e_mean": [
+      "draw slowly or heavily"
+    ],
+    "speech": "verb",
+    "sentence": "Getting to his place was a real haul."
+  },
+  {
+    "name": "tug",
+    "trans": [
+      "用力拖"
+    ],
+    "usphone": "tʌɡ",
+    "ukphone": "tʌg",
+    "e_mean": [
+      "pull hard"
+    ],
+    "speech": "verb",
+    "sentence": "He had a quick tug to calm himself down before his date."
+  },
+  {
+    "name": "irrigation",
+    "trans": [
+      "灌溉； 冲洗"
+    ],
+    "usphone": "ˌɪrɪˈɡeʃn",
+    "ukphone": "ˌɪrɪ'geɪʃn",
+    "e_mean": [
+      "the act of supplying dry land with water by artificial means"
+    ],
+    "speech": "noun",
+    "sentence": "Good irrigation made the fields green again."
+  },
+  {
+    "name": "donation",
+    "trans": [
+      "捐款； 捐赠"
+    ],
+    "usphone": "do'neʃən",
+    "ukphone": "dəu'neɪʃn",
+    "e_mean": [
+      "a voluntary gift made to some worthwhile cause"
+    ],
+    "speech": "noun",
+    "sentence": "They were collecting donations for the elderly at Christmas."
+  },
+  {
+    "name": "stash",
+    "trans": [
+      "藏匿； 贮藏"
+    ],
+    "usphone": "stæʃ",
+    "ukphone": "stæʃ",
+    "e_mean": [
+      "save up as for future use"
+    ],
+    "speech": "verb",
+    "sentence": "They had quite a stash of food saved up for emergencies."
+  },
+  {
+    "name": "incur",
+    "trans": [
+      "招致， 遭受"
+    ],
+    "usphone": "ɪn'kɝ",
+    "ukphone": "ɪn'kɜː(r)",
+    "e_mean": [
+      "make oneself subject to"
+    ],
+    "speech": "verb",
+    "sentence": "If we cancel late, we'll incur a penalty."
+  },
+  {
+    "name": "inundate",
+    "trans": [
+      "淹没， 泛滥； 使不胜负荷， 使应接不暇"
+    ],
+    "usphone": "'ɪnʌndet",
+    "ukphone": "'ɪnʌndeɪt",
+    "e_mean": [
+      "fill or cover completely, usually with water"
+    ],
+    "speech": "verb",
+    "sentence": "The Dutch would sometimes inundate the land to hinder the Spanish army."
+  },
+  {
+    "name": "clip",
+    "trans": [
+      "夹住， 扣住； 剪， 修剪",
+      "夹子， 回形针， 别针； 弹夹； 修剪； 剪报， 电影片断"
+    ],
+    "usphone": "klɪp",
+    "ukphone": "klɪp",
+    "e_mean": [
+      "a small fastener used to hold loose articles together"
+    ],
+    "speech": "noun",
+    "sentence": "Use this clip to attach the check to your tax form."
+  },
+  {
+    "name": "pulverise",
+    "trans": [
+      "碾磨成粉， 粉碎"
+    ],
+    "usphone": "",
+    "ukphone": "'pʌlvəraɪz",
+    "e_mean": [
+      "make into a powder by breaking up or cause to become dust"
+    ],
+    "speech": "verb",
+    "sentence": "the stone pulverises easily."
+  },
+  {
+    "name": "perpetrate",
+    "trans": [
+      "做， 犯"
+    ],
+    "usphone": "'pɝpətret",
+    "ukphone": "'pɜːpətreɪt",
+    "e_mean": [
+      "perform an act, usually with a negative connotation"
+    ],
+    "speech": "verb",
+    "sentence": "The gang used fake IDs to perpetrate the scam."
+  },
+  {
+    "name": "relief",
+    "trans": [
+      "减轻， 解除； 援救， 救济； 安慰； 缓合剂"
+    ],
+    "usphone": "rɪ'lif",
+    "ukphone": "rɪ'liːf",
+    "e_mean": [
+      "the act of reducing something unpleasant"
+    ],
+    "speech": "noun",
+    "sentence": "I sighed with relief when I found out that my daughter hadn't got lost, but was waiting for me at home."
+  },
+  {
+    "name": "tolerate",
+    "trans": [
+      "容忍， 宽容； 容许， 承认"
+    ],
+    "usphone": "'tɑləret",
+    "ukphone": "'tɒləreɪt",
+    "e_mean": [
+      "put up with something or somebody unpleasant"
+    ],
+    "speech": "verb",
+    "sentence": "I can tolerate working on Saturdays, but not on Sundays."
+  },
+  {
+    "name": "underline",
+    "trans": [
+      "画线于…之下； 强调"
+    ],
+    "usphone": "'ʌndəlaɪn",
+    "ukphone": "ˌʌndə'laɪn",
+    "e_mean": [
+      "draw a line or lines underneath to call attention to"
+    ],
+    "speech": "verb",
+    "sentence": "underline the important words in the text."
+  },
+  {
+    "name": "advent",
+    "trans": [
+      "到来； 出现"
+    ],
+    "usphone": "",
+    "ukphone": "'ædv3nt",
+    "e_mean": [
+      "arrival that has been awaited"
+    ],
+    "speech": "noun",
+    "sentence": "With the advent of AI tools, small teams can build faster."
+  },
+  {
+    "name": "supersede",
+    "trans": [
+      "代替， 取代"
+    ],
+    "usphone": ",supɚ'sid",
+    "ukphone": "ˌsuːpə'siːd",
+    "e_mean": [
+      "take the place or move into the position of"
+    ],
+    "speech": "verb",
+    "sentence": "Rogue cancels and supersedes are being issued on a large scale against posters."
+  },
+  {
+    "name": "interplay",
+    "trans": [
+      "相互作用， 相互影响"
+    ],
+    "usphone": ",ɪntɚ'plɛi",
+    "ukphone": "'ɪntəpleɪ",
+    "e_mean": [
+      "the way in which two things mutually affect one another"
+    ],
+    "speech": "noun",
+    "sentence": "The interplay between price and quality shapes most buying decisions."
+  },
+  {
+    "name": "flap",
+    "trans": [
+      "拍打；拍动",
+      "薄片； 封盖； 振动； 激动"
+    ],
+    "usphone": "flæp",
+    "ukphone": "flæp",
+    "e_mean": [
+      "move in a wavy pattern or with a rising and falling motion"
+    ],
+    "speech": "verb",
+    "sentence": "The flag started to flap in the strong wind."
+  },
+  {
+    "name": "victimise",
+    "trans": [
+      "受害， 迫害"
+    ],
+    "usphone": "",
+    "ukphone": "'vɪktɪmaɪz",
+    "e_mean": [
+      "make a victim of"
+    ],
+    "speech": "verb",
+    "sentence": "Bullies often victimise kids who seem shy."
+  },
+  {
+    "name": "roam",
+    "trans": [
+      "随便走，漫游；徜徉；漫谈某事",
+      "漫步； 徘徊"
+    ],
+    "usphone": "rom",
+    "ukphone": "rəum",
+    "e_mean": [
+      "move about aimlessly or without any destination"
+    ],
+    "speech": "verb",
+    "sentence": "Gangs of thugs roamed the streets."
+  },
+  {
+    "name": "dissemination",
+    "trans": [
+      "散布， 传播"
+    ],
+    "usphone": "dɪ,sɛmə'neʃən",
+    "ukphone": "dɪˌsemɪ'neɪʃn",
+    "e_mean": [
+      "the act of dispersing or diffusing something"
+    ],
+    "speech": "noun",
+    "sentence": "Social media speeds up the dissemination of news."
+  },
+  {
+    "name": "despoil",
+    "trans": [
+      "抢夺， 掠夺； 蹂躏， 破坏"
+    ],
+    "usphone": "dɪ'spɔɪl",
+    "ukphone": "dɪ'spɔɪl",
+    "e_mean": [
+      "plunder or steal goods"
+    ],
+    "speech": "verb",
+    "sentence": "Illegal mining can despoil an entire valley."
+  },
+  {
+    "name": "generate",
+    "trans": [
+      "发生， 产生； 引起， 导致"
+    ],
+    "usphone": "'dʒɛnəret",
+    "ukphone": "'dʒenəreɪt",
+    "e_mean": [
+      "bring into existence"
+    ],
+    "speech": "verb",
+    "sentence": "The discussion generated an uproar."
+  },
+  {
+    "name": "regurgitate",
+    "trans": [
+      "涌回， 流回； 【动】 反胃， 将返回到口中， 反刍"
+    ],
+    "usphone": "rɪ'ɡɝdʒɪtet",
+    "ukphone": "rɪ'gɜːdʒɪtet",
+    "e_mean": [
+      "pour or rush back"
+    ],
+    "speech": "verb",
+    "sentence": "The young gulls were fed by their mother’s regurgitated food."
+  },
+  {
+    "name": "revelation",
+    "trans": [
+      "被揭示的真相， 新发现； 揭示， 显示； 泄露"
+    ],
+    "usphone": "'rɛvə'leʃən",
+    "ukphone": "ˌrevə'leɪʃn",
+    "e_mean": [
+      "the act of making something evident"
+    ],
+    "speech": "noun",
+    "sentence": "Finding the bug was a real revelation."
+  },
+  {
+    "name": "gallop",
+    "trans": [
+      "奔驰， 飞跑， 飞驰"
+    ],
+    "usphone": "'ɡæləp",
+    "ukphone": "'gæləp",
+    "e_mean": [
+      "a fast gait of a horse"
+    ],
+    "speech": "noun",
+    "sentence": "The horse galloped past the finishing line."
+  },
+  {
+    "name": "overcome",
+    "trans": [
+      "战胜， 克服； 压倒"
+    ],
+    "usphone": ",ovɚ'kʌm",
+    "ukphone": "ˌəuvə'kʌm",
+    "e_mean": [
+      "win a victory over"
+    ],
+    "speech": "verb",
+    "sentence": "to overcome enemies in battle."
+  },
+  {
+    "name": "detour",
+    "trans": [
+      "迂回， 绕道",
+      "弯路，便道"
+    ],
+    "usphone": "'ditʊr",
+    "ukphone": "'diːtuə(r)",
+    "e_mean": [
+      "a roundabout road or route"
+    ],
+    "speech": "noun",
+    "sentence": "There was a detour around the construction zone."
+  },
+  {
+    "name": "disruption",
+    "trans": [
+      "动乱； 打乱； 破坏"
+    ],
+    "usphone": "dɪs'rʌpʃən",
+    "ukphone": "dɪs'rʌpʃn",
+    "e_mean": [
+      "an act of delaying or interrupting the continuity"
+    ],
+    "speech": "noun",
+    "sentence": "There was great disruption in the classroom when the teacher left."
+  },
+  {
+    "name": "discovery",
+    "trans": [
+      "发现"
+    ],
+    "usphone": "dɪ'skʌvəri",
+    "ukphone": "dɪ'skʌvəri",
+    "e_mean": [
+      "the act of finding something"
+    ],
+    "speech": "noun",
+    "sentence": "This latest discovery should eventually lead to much better treatments for disease."
+  },
+  {
+    "name": "hide",
+    "trans": [
+      "把…藏起来，隐藏",
+      "〔可观察鸟兽行动的〕隐匿处，埋伏处"
+    ],
+    "usphone": "haɪd",
+    "ukphone": "haɪd",
+    "e_mean": [
+      "prevent from being seen or discovered"
+    ],
+    "speech": "verb",
+    "sentence": "He hides his magazines under the bed."
+  },
+  {
+    "name": "pursuit",
+    "trans": [
+      "追求，寻求；"
+    ],
+    "usphone": "pɚ'sut",
+    "ukphone": "pə'sjuːt",
+    "e_mean": [
+      "the act of following in an effort to overtake or capture"
+    ],
+    "speech": "noun",
+    "sentence": "Unremitting pursuit of wealth doesn't bring happiness, particularly if successful."
+  },
+  {
+    "name": "stroke",
+    "trans": [
+      "击，打；突然发作，中风；击球；笔触，一笔；划，划法；一击；报时的钟声；抚摸",
+      "抚摸"
+    ],
+    "usphone": "strok",
+    "ukphone": "strəuk",
+    "e_mean": [
+      "a single complete movement"
+    ],
+    "speech": "noun",
+    "sentence": "She gave the cat a stroke."
+  },
+  {
+    "name": "conversion",
+    "trans": [
+      "转化； 转变， 变换； 兑换； 改变信仰， 皈依"
+    ],
+    "usphone": "kən'vɝʒn",
+    "ukphone": "kən'vɜːʃn",
+    "e_mean": [
+      "the act of changing from one use or function to another"
+    ],
+    "speech": "noun",
+    "sentence": "His conversion to Christianity."
+  },
+  {
+    "name": "utilisation",
+    "trans": [
+      "利用"
+    ],
+    "usphone": ",ju:tilai'zeiʃən",
+    "ukphone": "ˌjuːtəlaɪ'zeɪʃn",
+    "e_mean": [
+      "the act of using"
+    ],
+    "speech": "noun",
+    "sentence": "Better utilisation of space made the office feel bigger."
+  },
+  {
+    "name": "demerit",
+    "trans": [
+      "过失； 缺点， 短处"
+    ],
+    "usphone": "di'mɛrɪt",
+    "ukphone": "diː'merɪt",
+    "e_mean": [
+      "a quality or feature deserving censure"
+    ],
+    "speech": "noun",
+    "sentence": "Being late again is a demerit on your record."
+  },
+  {
+    "name": "supervision",
+    "trans": [
+      "监督， 管理； 指导"
+    ],
+    "usphone": ",sʊpɚ'vɪʒən",
+    "ukphone": "ˌsʊːpə'vɪʒn",
+    "e_mean": [
+      "act or process of overseeing a person, group, or activity"
+    ],
+    "speech": "noun",
+    "sentence": "Under his parents' supervision he drilled the holes in the wood."
+  },
+  {
+    "name": "disadvantage",
+    "trans": [
+      "缺点， 不利"
+    ],
+    "usphone": ",dɪsəd'væntɪdʒ",
+    "ukphone": "ˌdɪsəd'vɑːntɪdʒ",
+    "e_mean": [
+      "the quality of having an inferior or less favorable position"
+    ],
+    "speech": "noun",
+    "sentence": "The disadvantage to owning a food processor is that you have to store it somewhere."
+  },
+  {
+    "name": "enquire",
+    "trans": [
+      "打听， 询问； 查问， 调查"
+    ],
+    "usphone": "ɪn'kwaɪr",
+    "ukphone": "ɪn'kwaɪə(r)",
+    "e_mean": [
+      "have a wish or desire to know something"
+    ],
+    "speech": "verb",
+    "sentence": "He enquired about the availability of rental bicycles in the town."
+  },
+  {
+    "name": "hesitation",
+    "trans": [
+      "犹豫， 踌躇"
+    ],
+    "usphone": ",hɛzə'teʃən",
+    "ukphone": "ˌhezɪ'teɪʃn",
+    "e_mean": [
+      "the act of pausing uncertainly"
+    ],
+    "speech": "noun",
+    "sentence": "She carried out the order without hesitation."
+  },
+  {
+    "name": "inspiration",
+    "trans": [
+      "启示， 灵感； 鼓舞人心的人， 激励"
+    ],
+    "usphone": "ˌɪnspəˈreʃən",
+    "ukphone": "ˌɪnspə'reɪʃn",
+    "e_mean": [
+      "arousal of the mind to unusual activity or creativity"
+    ],
+    "speech": "noun",
+    "sentence": "She was waiting for inspiration to write a book."
+  },
+  {
+    "name": "diversion",
+    "trans": [
+      "转向， 转移， 转换； 转移视线的事物； 娱乐"
+    ],
+    "usphone": "dəˈvɝʒən; dəˈvɝʃən; daɪˈvɝʒən; daɪˈvɝʃən",
+    "ukphone": "daɪ'vɜːʃn",
+    "e_mean": [
+      "a turning aside"
+    ],
+    "speech": "noun",
+    "sentence": "We took a short diversion to grab coffee."
+  },
+  {
+    "name": "addiction",
+    "trans": [
+      "瘾； 沉溺"
+    ],
+    "usphone": "ə'dɪkʃən",
+    "ukphone": "ə'dɪkʃn",
+    "e_mean": [
+      "being dependent on something habit-forming "
+    ],
+    "speech": "noun",
+    "sentence": "Phone addiction is hard to break."
+  },
+  {
+    "name": "cast",
+    "trans": [
+      "投射； 把…加于； 投， 扔； 丢弃， 剔除； 脱落， 蜕； 浇铸， 铸造",
+      "演员表， 全体演员； 石膏绷带； 铸模， 铸件； 外貌， 特征"
+    ],
+    "usphone": "kæst",
+    "ukphone": "kɑːst",
+    "e_mean": [
+      "put or send forth"
+    ],
+    "speech": "verb",
+    "sentence": "The area near the stream was covered with little bubbly worm casts."
+  },
+  {
+    "name": "momentum",
+    "trans": [
+      "动力， 冲力， 势头； 动量"
+    ],
+    "usphone": "mo'mɛntəm",
+    "ukphone": "mə'mentəm",
+    "e_mean": [
+      "the product of a body's mass and its velocity"
+    ],
+    "speech": "noun",
+    "sentence": "Once we fixed onboarding, growth gained momentum."
+  },
+  {
+    "name": "shin",
+    "trans": [
+      "爬",
+      "胫，胫部，胫骨"
+    ],
+    "usphone": "ʃɪn",
+    "ukphone": "ʃɪn",
+    "e_mean": [
+      "the front part of the human leg between the knee and the ankle"
+    ],
+    "speech": "noun",
+    "sentence": "to shin up a mast."
+  },
+  {
+    "name": "ration",
+    "trans": [
+      "配给量，定量；给养，口粮",
+      "配给， 定量供应"
+    ],
+    "usphone": "'ræʃən",
+    "ukphone": "'ræʃn",
+    "e_mean": [
+      "a fixed portion that is allotted"
+    ],
+    "speech": "noun",
+    "sentence": "We rationed ourselves to three sips of water a day until we were rescued."
+  },
+  {
+    "name": "spot",
+    "trans": [
+      "认出，发现；看见，"
+    ],
+    "usphone": "spɑt",
+    "ukphone": "spɒt",
+    "e_mean": [
+      "a point located with respect to surface features of some region"
+    ],
+    "speech": "noun",
+    "sentence": "The leopard is noted for the spots of color in its fur."
+  },
+  {
+    "name": "scamper",
+    "trans": [
+      "奔跑， 快跑"
+    ],
+    "usphone": "'skæmpɚ",
+    "ukphone": "'skæmpə(r)",
+    "e_mean": [
+      "run or move about quickly or lightly"
+    ],
+    "speech": "verb",
+    "sentence": "The dog scampered after the squirrel."
+  },
+  {
+    "name": "scour",
+    "trans": [
+      "四处搜寻， 细查； 擦洗， 擦亮； 冲刷出， 冲刷成"
+    ],
+    "usphone": "'skaʊɚ",
+    "ukphone": "'skauə(r)",
+    "e_mean": [
+      "rub hard or scrub"
+    ],
+    "speech": "verb",
+    "sentence": "Bridge scour may scoop out scour holes and compromise the integrity of the structure."
+  },
+  {
+    "name": "jerk",
+    "trans": [
+      "使猝然一动；猛拉",
+      "急推， 急扭； 抽搐"
+    ],
+    "usphone": "dʒɝk",
+    "ukphone": "dʒɜːk",
+    "e_mean": [
+      "a sudden abrupt pull"
+    ],
+    "speech": "noun",
+    "sentence": "When I yell \"OK,\" give the mooring line a good jerk!"
+  },
+  {
+    "name": "resilience",
+    "trans": [
+      "弹性， 弹力； 复原力； 适应性； 乐观的性情"
+    ],
+    "usphone": "rɪˈzɪliəns",
+    "ukphone": "rɪ'zɪliəns",
+    "e_mean": [
+      "ability of a material to return to its original shape"
+    ],
+    "speech": "noun",
+    "sentence": "What I admire most is her resilience after setbacks."
+  },
+  {
+    "name": "resistance",
+    "trans": [
+      "反抗， 抵制； 抵抗力， 抵抗性； 阻力； 电阻"
+    ],
+    "usphone": "rɪ'zɪstəns",
+    "ukphone": "rɪ'zɪstəns",
+    "e_mean": [
+      "any mechanical force that tends to slow or oppose motion"
+    ],
+    "speech": "noun",
+    "sentence": "the resistance of bacteria to certain antibiotics."
+  },
+  {
+    "name": "shrug",
+    "trans": [
+      "耸肩"
+    ],
+    "usphone": "ʃrʌɡ",
+    "ukphone": "ʃrʌg",
+    "e_mean": [
+      "raise one's shoulders to indicate indifference or resignation"
+    ],
+    "speech": "verb",
+    "sentence": "He dismissed my comment with a shrug."
+  },
+  {
+    "name": "spray",
+    "trans": [
+      "喷射， 溅洒",
+      "浪花；喷雾；飞沫"
+    ],
+    "usphone": "spreɪ",
+    "ukphone": "spreɪ",
+    "e_mean": [
+      "water in small drops in the atmosphere"
+    ],
+    "speech": "noun",
+    "sentence": "The sailor could feel the spray from the waves."
+  },
+  {
+    "name": "trek",
+    "trans": [
+      "牛拉车； 艰苦跋涉"
+    ],
+    "usphone": "trɛk",
+    "ukphone": "trek",
+    "e_mean": [
+      "any long and difficult trip"
+    ],
+    "speech": "noun",
+    "sentence": "We're planning a trek up Kilimanjaro."
+  },
+  {
+    "name": "repaint",
+    "trans": [
+      "重新油漆， 重画"
+    ],
+    "usphone": "",
+    "ukphone": "rɪ'peɪnt",
+    "e_mean": [
+      "paint again"
+    ],
+    "speech": "verb",
+    "sentence": "The priming wasn't good, so we had to do a repaint."
+  },
+  {
+    "name": "brunt",
+    "trans": [
+      "冲击； 冲力"
+    ],
+    "usphone": "brʌnt",
+    "ukphone": "brʌnt",
+    "e_mean": [
+      "the main part, especially of a force or shock"
+    ],
+    "speech": "noun",
+    "sentence": "Unfortunately, poor areas such as those in New Orleans bore the brunt of Hurricane Katrina’s winds."
+  },
+  {
+    "name": "extrusion",
+    "trans": [
+      "挤出， 推出， 挤压"
+    ],
+    "usphone": "ɪk'struːʒn",
+    "ukphone": "ɪk'struːʒn",
+    "e_mean": [
+      "something that bulges out or is protuberant or projects from its surroundings"
+    ],
+    "speech": "noun",
+    "sentence": "The part is made by plastic extrusion."
+  },
+  {
+    "name": "aeration",
+    "trans": [
+      "通风"
+    ],
+    "usphone": ",eə'reʃən",
+    "ukphone": "ˌeə'reɪʃn",
+    "e_mean": [
+      "the process of exposing to air (so as to purify)"
+    ],
+    "speech": "noun",
+    "sentence": "Soil aeration helped the roots grow stronger."
+  },
+  {
+    "name": "jostle",
+    "trans": [
+      "推挤； 挤开通路"
+    ],
+    "usphone": "'dʒɑsl",
+    "ukphone": "'dʒɒsl",
+    "e_mean": [
+      "make one's way by pushing or shoving"
+    ],
+    "speech": "verb",
+    "sentence": "People jostled for a better view near the stage."
+  },
+  {
+    "name": "reunite",
+    "trans": [
+      "结合； 重聚"
+    ],
+    "usphone": ",riju'naɪt",
+    "ukphone": "ˌriːjuː'naɪt",
+    "e_mean": [
+      "connect or come together again"
+    ],
+    "speech": "verb",
+    "sentence": "After ten years apart, the band will reunite."
+  },
+  {
+    "name": "clench",
+    "trans": [
+      "握紧； 咬紧； 牢牢抓住"
+    ],
+    "usphone": "klɛntʃ",
+    "ukphone": "klentʃ",
+    "e_mean": [
+      "squeeze together tightly"
+    ],
+    "speech": "verb",
+    "sentence": "He clenched his fist in anger."
+  },
+  {
+    "name": "carry",
+    "trans": [
+      "运送，搬运；传送，"
+    ],
+    "usphone": "ˈkærɪ",
+    "ukphone": "'kæri",
+    "e_mean": [
+      "physically move while supporting, by vehicle, hands, or body"
+    ],
+    "speech": "verb",
+    "sentence": "Adjust your carry from time to time so that you don't tire too quickly."
+  },
+  {
+    "name": "capsize",
+    "trans": [
+      "翻， 倾覆"
+    ],
+    "usphone": "'kæpsaɪz",
+    "ukphone": "kæp'saɪz",
+    "e_mean": [
+      "overturn accidentally"
+    ],
+    "speech": "verb",
+    "sentence": "The small boat can capsize if everyone leans to one side."
+  }
+]

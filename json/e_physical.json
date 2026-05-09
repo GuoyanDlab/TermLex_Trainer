@@ -1,0 +1,3637 @@
+[
+  {
+    "name": "core",
+    "trans": [
+      "果心，果核；中心部分；核心，要点，精髓",
+      "去掉核"
+    ],
+    "usphone": "kɔr",
+    "ukphone": "kɔː(r)",
+    "e_mean": [
+      "the center of an object"
+    ],
+    "speech": "noun",
+    "sentence": "the core of an apple or quince"
+  },
+  {
+    "name": "jeopardise",
+    "trans": [
+      "危害， 使受危困"
+    ],
+    "usphone": "'dʒepədaiz",
+    "ukphone": "'dʒepədaɪz",
+    "e_mean": [
+      "pose a threat to; present a danger to"
+    ],
+    "speech": "verb",
+    "sentence": "After having an affair with a junior, her chances of promotion were seriously jeopardized."
+  },
+  {
+    "name": "destructive",
+    "trans": [
+      "破坏的"
+    ],
+    "usphone": "dɪ'strʌktɪv",
+    "ukphone": "dɪ'strʌktɪv",
+    "e_mean": [
+      "causing damage"
+    ],
+    "speech": "adjective",
+    "sentence": "Catabolism is a destructive metabolism that involves the breakdown of molecules and release of energy."
+  },
+  {
+    "name": "phenomenon",
+    "trans": [
+      "n. 现象；杰出的人，非凡的人（或事物）；（哲学）现象",
+      "复数 phenomena或phenomenons"
+    ],
+    "usphone": "fə'nɑmɪnən",
+    "ukphone": "fə'nɒmɪnən",
+    "e_mean": [
+      "any state or process known through the senses"
+    ],
+    "speech": "noun",
+    "sentence": "An electromagnetic phenomenon."
+  },
+  {
+    "name": "magnet",
+    "trans": [
+      "磁铁， 磁石； 磁体； 有吸引力的人或物"
+    ],
+    "usphone": "'mægnɪt",
+    "ukphone": "'mægnət",
+    "e_mean": [
+      "a device that attracts iron and produces lines of force"
+    ],
+    "speech": "noun",
+    "sentence": "He always had a girl on his arm – he's a bit of a babe magnet."
+  },
+  {
+    "name": "marble",
+    "trans": [
+      "大理石；弹子；"
+    ],
+    "usphone": "'mɑrbl",
+    "ukphone": "'mɑːbl",
+    "e_mean": [
+      "a hard crystalline metamorphic rock that takes a high polish"
+    ],
+    "speech": "noun",
+    "sentence": "The Elgin Marbles were originally part of the temple of the Parthenon."
+  },
+  {
+    "name": "breeze",
+    "trans": [
+      "微风， 和风"
+    ],
+    "usphone": "briːz",
+    "ukphone": "briːz",
+    "e_mean": [
+      "a slight and usually refreshing wind"
+    ],
+    "speech": "noun",
+    "sentence": "The breeze rustled the papers on her desk."
+  },
+  {
+    "name": "gust",
+    "trans": [
+      "n. 一阵强风，一阵狂风；（雨、声音、感情等的）一阵突发，爆发",
+      "v. 一阵阵地劲吹"
+    ],
+    "usphone": "ɡʌst",
+    "ukphone": "ɡʌst",
+    "e_mean": [
+      "a strong current of air"
+    ],
+    "speech": "noun",
+    "sentence": "1942: ‘Yes, indeed,’ said Sava with solemn gust. — Rebecca West, Black Lamb and Grey Falcon (Canongate 2006, p. 1050)"
+  },
+  {
+    "name": "gale",
+    "trans": [
+      "n. 大风，狂风；海上风暴；一阵笑声（或哭声等）"
+    ],
+    "usphone": "ɡeil",
+    "ukphone": "ɡeil",
+    "e_mean": [
+      "a strong wind moving 34–40 knots"
+    ],
+    "speech": "noun",
+    "sentence": "It's blowing a gale outside."
+  },
+  {
+    "name": "tornado",
+    "trans": [
+      "n. 龙卷风，大旋风；极具破坏力的人（或物），情感火爆的人"
+    ],
+    "usphone": "tɔːrˈneɪdoʊ",
+    "ukphone": "tɔːˈneɪdəʊ",
+    "e_mean": [
+      "a violently destructive windstorm occurring over land"
+    ],
+    "speech": "noun",
+    "sentence": "A tornado is a rotating column of air."
+  },
+  {
+    "name": "erupt",
+    "trans": [
+      "v. 喷发；爆发，突然发生；（感情）迸发；（斑疹等）突然冒出；长牙"
+    ],
+    "usphone": "ɪˈrʌpt",
+    "ukphone": "ɪˈrʌpt",
+    "e_mean": [
+      "start suddenly"
+    ],
+    "speech": "verb",
+    "sentence": "The volcano erupted, spewing lava across a wide area."
+  },
+  {
+    "name": "smog",
+    "trans": [
+      "n.（通常指城市中汽车、工厂等排出的）烟雾，雾霾"
+    ],
+    "usphone": "smɑːɡ",
+    "ukphone": "smɒɡ",
+    "e_mean": [
+      "air pollution by a mixture of smoke and fog"
+    ],
+    "speech": "noun",
+    "sentence": "If the car is more than five years old, you'll have to have it smogged before you can register it."
+  },
+  {
+    "name": "overlook",
+    "trans": [
+      "v. 忽视，忽略；（工作、职位、提拔等）不考虑（某人）；（对不良现象等）不予理会，视而不见；眺望，俯瞰；",
+      "n. <美> 居高临下的位置，从高处能看到的景色；眺望"
+    ],
+    "usphone": "ˌoʊvərˈlʊk",
+    "ukphone": "ˌəʊvəˈlʊk",
+    "e_mean": [
+      "have a view of something from above"
+    ],
+    "speech": "verb",
+    "sentence": "Our hotel room overlooks the lake."
+  },
+  {
+    "name": "inevitable",
+    "trans": [
+      "adj. 必然发生的，不可避免的；总会发生的，惯常的",
+      "n. 必然发生的事，不可避免的事"
+    ],
+    "usphone": "ɪnˈevɪtəbl",
+    "ukphone": "ɪnˈevɪtəbl",
+    "e_mean": [
+      "incapable of being avoided or prevented"
+    ],
+    "speech": "adjective",
+    "sentence": "We were going so fast that the collision was inevitable."
+  },
+  {
+    "name": "inappropriate",
+    "trans": [
+      "adj. 不恰当的，不合适的"
+    ],
+    "usphone": "ˌɪnəˈprəʊpriət",
+    "ukphone": "ˌɪnəˈproʊpriət",
+    "e_mean": [
+      "not suitable for a particular occasion or use"
+    ],
+    "speech": "adjective",
+    "sentence": "It is inappropriate to burp at a formal dinner."
+  },
+  {
+    "name": "sediment",
+    "trans": [
+      "n. 沉淀物，沉渣；（最终形成岩石层的沙、石等）沉积物",
+      "v. （液体）沉淀；沉积"
+    ],
+    "usphone": "ˈsedɪmənt",
+    "ukphone": "ˈsedɪmənt",
+    "e_mean": [
+      "matter that has been deposited by some natural process"
+    ],
+    "speech": "noun",
+    "sentence": "The Nile delta is composed of sediment that was washed down and deposited at the mouth of the river."
+  },
+  {
+    "name": "muddy",
+    "trans": [
+      "adj. 泥泞的，多泥的；含泥的，浑浊的；灰暗的，暗淡的；模糊的，不清晰的；（声音，尤指乐声）重浊的；像泥土般的",
+      "v. 使变得泥泞，使浑浊；使模糊，使混乱；使（颜色）变暗"
+    ],
+    "usphone": "ˈmʌdi",
+    "ukphone": "ˈmʌdi",
+    "e_mean": [
+      "soft and watery, of soil"
+    ],
+    "speech": "adjective",
+    "sentence": "If you muddy your shoes don't wear them inside."
+  },
+  {
+    "name": "clay",
+    "trans": [
+      "n. 黏土，陶土；（网球场的）硬固泥地，红土网球场；<文>肉体；似黏土的东西；黄棕翼欧洲蛾",
+      "v. 用黏土处理"
+    ],
+    "usphone": "kleɪ",
+    "ukphone": "kleɪ",
+    "e_mean": [
+      "water-soaked soil; soft, wet earth"
+    ],
+    "speech": "noun",
+    "sentence": "The French Open is played on clay."
+  },
+  {
+    "name": "dirt",
+    "trans": [
+      "n. 污物，尘土；泥土，松土；丑闻，流言蜚语",
+      "adj. 土的，泥的"
+    ],
+    "usphone": "dɜːt",
+    "ukphone": "dɜːrt",
+    "e_mean": [
+      "the part of the earth's surface consisting of humus and disintegrated rock"
+    ],
+    "speech": "noun",
+    "sentence": "The reporter uncovered the dirt on the businessman by going undercover."
+  },
+  {
+    "name": "outskirts",
+    "trans": [
+      "n. 市郊，郊区"
+    ],
+    "usphone": "ˈaʊtskɜːrts",
+    "ukphone": "ˈaʊtskɜːts",
+    "e_mean": [
+      "area relatively far from the center, as of a city or town"
+    ],
+    "speech": "noun",
+    "sentence": "He lived on the outskirts of Paris for a time."
+  },
+  {
+    "name": "remote",
+    "trans": [
+      "adj. 边远的，偏僻的；（距离或空间上）遥远的；（时间上）久远的；（机会或可能性）渺茫的；差别很大的，很不相同的；不友好的，冷漠的；远亲关系的；（电子设备）遥控的；（计算机）远程的，远程连接的",
+      "n. 遥控装置，遥控器"
+    ],
+    "usphone": "rɪˈmoʊt",
+    "ukphone": "rɪ'məut",
+    "e_mean": [
+      "located far away spatially"
+    ],
+    "speech": "adjective",
+    "sentence": "A remote operator may control the vehicle with a wireless handset."
+  },
+  {
+    "name": "desolate",
+    "trans": [
+      "adj. 荒无人烟的，荒凉的；凄凉的，孤独忧伤的",
+      "v. 使悲痛欲绝，使孤独凄凉；使荒凉，使成废墟"
+    ],
+    "usphone": "ˈdesələt",
+    "ukphone": "ˈdesələt",
+    "e_mean": [
+      "providing no shelter or sustenance"
+    ],
+    "speech": "adjective",
+    "sentence": "a desolate isle; a desolate wilderness; a desolate house"
+  },
+  {
+    "name": "distant",
+    "trans": [
+      "adj. 遥远的，久远的；冷淡的；心不在焉的；远亲的；不相似的，不同的"
+    ],
+    "usphone": "ˈdɪstənt",
+    "ukphone": "ˈdɪstənt",
+    "e_mean": [
+      "separated in space or coming from far away"
+    ],
+    "speech": "adjective",
+    "sentence": "We heard a distant rumbling but didn't pay any more attention to it. She was surprised to find that her fiancé was a distant relative of hers. His distant look showed that he was not listening to me."
+  },
+  {
+    "name": "adjacent",
+    "trans": [
+      "adj. 邻近的，毗连的；（几何）（两个角）相邻的"
+    ],
+    "usphone": "əˈdʒeɪs(ə)nt",
+    "ukphone": "əˈdʒeɪs(ə)nt",
+    "e_mean": [
+      "having a common boundary or edge"
+    ],
+    "speech": "adjective",
+    "sentence": "Because the conference room is filled, we will have our meeting in the adjacent room."
+  },
+  {
+    "name": "toxic",
+    "trans": [
+      "adj. 有毒的，引起中毒的；令人极不愉快的，极其有害的，恶毒的；中毒的，中毒性的；（财政）（债务）有毒的，风险高的；（证券）有毒的",
+      "n. 有毒物质，毒药（toxics）"
+    ],
+    "usphone": "ˈtɑːksɪk",
+    "ukphone": "ˈtɒksɪk",
+    "e_mean": [
+      "of or relating to or caused by a poison"
+    ],
+    "speech": "adjective",
+    "sentence": "Tobacco smoke contains many toxic substances."
+  },
+  {
+    "name": "atmospheric",
+    "trans": [
+      "adj. 大气（层）的，有关大气的；有神秘（美）感的，富有情调的"
+    ],
+    "usphone": "ˌætməsˈfɪrɪk",
+    "ukphone": "ˌætməs'ferɪk",
+    "e_mean": [
+      "relating to or located in the mass of air surrounding Earth"
+    ],
+    "speech": "adjective",
+    "sentence": "a dark atmospheric thriller"
+  },
+  {
+    "name": "crust",
+    "trans": [
+      "n. 面包皮；（馅饼或比萨饼等的）酥皮；硬外皮，硬外壳；地壳；<非正式>生活，生计",
+      "v. 形成（或结成）硬皮（或硬壳）"
+    ],
+    "usphone": "krʌst",
+    "ukphone": "krʌst",
+    "e_mean": [
+      "a hard outer layer that covers something"
+    ],
+    "speech": "noun",
+    "sentence": "You've got a lot of crust standing there saying that."
+  },
+  {
+    "name": "mantle",
+    "trans": [
+      "披风，斗篷；覆盖物；纱罩；【解】外层；包膜；外表；槽；【地】地幔",
+      "用斗篷盖； 覆盖"
+    ],
+    "usphone": "'mæntl",
+    "ukphone": "'mæntl",
+    "e_mean": [
+      "a sleeveless garment like a cloak but shorter"
+    ],
+    "speech": "noun",
+    "sentence": "At the meeting, she finally assumed the mantle of leadership of the party."
+  },
+  {
+    "name": "latitude",
+    "trans": [
+      "纬度；"
+    ],
+    "usphone": "'lætɪtud",
+    "ukphone": "'lætɪtjuːd",
+    "e_mean": [
+      "an imaginary line around the Earth parallel to the equator"
+    ],
+    "speech": "noun",
+    "sentence": "His parents gave him a great deal of latitude."
+  },
+  {
+    "name": "altitude",
+    "trans": [
+      "海拔，高度；"
+    ],
+    "usphone": "'æltɪtud",
+    "ukphone": "'æltɪtjuːd",
+    "e_mean": [
+      "elevation above sea level or above the earth's surface"
+    ],
+    "speech": "noun",
+    "sentence": "As the altitude increases, the temperature gets lower, so remember to bring warm clothes to the mountains."
+  },
+  {
+    "name": "horizon",
+    "trans": [
+      "地平线； 范围； 眼界"
+    ],
+    "usphone": "hə'raɪzn",
+    "ukphone": "hə'raɪzn",
+    "e_mean": [
+      "the line at which the sky and Earth appear to meet"
+    ],
+    "speech": "noun",
+    "sentence": "A tall building was visible on the horizon."
+  },
+  {
+    "name": "horizontal",
+    "trans": [
+      "地平线的， 水平的"
+    ],
+    "usphone": "'hɔrə'zɑntl",
+    "ukphone": "ˌhɒrɪ'zɒntl",
+    "e_mean": [
+      "something that is oriented to a base line"
+    ],
+    "speech": "noun",
+    "sentence": "1667: As when the Sun new ris'n / Looks through the Horizontal misty Air — John Milton, Paradise Lost, Book 1, ll. 594-5"
+  },
+  {
+    "name": "disaster",
+    "trans": [
+      "n. 灾难，灾害；祸患，灾难性事物；彻底的失败"
+    ],
+    "usphone": "dɪˈzæstər",
+    "ukphone": "dɪˈzɑːstə(r)",
+    "e_mean": [
+      "an event resulting in great loss and misfortune"
+    ],
+    "speech": "noun",
+    "sentence": "People would suffer disasters when society's morality degenerates."
+  },
+  {
+    "name": "mishap",
+    "trans": [
+      "n. 灾祸；不幸事故；晦气"
+    ],
+    "usphone": "ˈmɪshæp",
+    "ukphone": "ˈmɪshæp",
+    "e_mean": [
+      "an unpredictable outcome that is unfortunate"
+    ],
+    "speech": "noun",
+    "sentence": "Since the mishap with the banana peel, he watches his step."
+  },
+  {
+    "name": "pebble",
+    "trans": [
+      "n. 鹅卵石，砾石；水晶透镜",
+      "vt. 用卵石铺"
+    ],
+    "usphone": "ˈpeb(ə)l",
+    "ukphone": "ˈpeb(ə)l",
+    "e_mean": [
+      "a small smooth rounded rock"
+    ],
+    "speech": "noun",
+    "sentence": "Brazilian pebble"
+  },
+  {
+    "name": "eruption",
+    "trans": [
+      "n. 发作，喷发；（战争、怒气等的）爆发；发疹，"
+    ],
+    "usphone": "ɪ'rʌpʃən",
+    "ukphone": "ɪ'rʌpʃn",
+    "e_mean": [
+      "the sudden occurrence of a violent discharge"
+    ],
+    "speech": "noun",
+    "sentence": "There was an eruption of joy at the final whistle."
+  },
+  {
+    "name": "fume",
+    "trans": [
+      "v. 发怒，生气；冒气（或烟、汽）；熏（尤指木材）",
+      "n. 刺鼻（或有害）的气，烟"
+    ],
+    "usphone": "fjuːm",
+    "ukphone": "fjuːm",
+    "e_mean": [
+      "a cloud of fine particles suspended in a gas"
+    ],
+    "speech": "noun",
+    "sentence": "Don't stand around in there breathing the fumes while the adhesive cures."
+  },
+  {
+    "name": "mist",
+    "trans": [
+      "n. 薄雾，水汽；雾状物；使视线模糊的东西；迷雾，难以透彻了解的事物",
+      "v. 使……蒙上雾气；（使）充满泪水；给……喷水；下毛毛细雨"
+    ],
+    "usphone": "mɪst",
+    "ukphone": "mɪst",
+    "e_mean": [
+      "a thin fog with condensation near the ground"
+    ],
+    "speech": "noun",
+    "sentence": "It was difficult to see through the morning mist."
+  },
+  {
+    "name": "torrent",
+    "trans": [
+      "n. 洪流； 爆发； 连发, current思潮趋势,现在的"
+    ],
+    "usphone": "'tɔrənt",
+    "ukphone": "'tɒrənt",
+    "e_mean": [
+      "an overwhelming number or amount"
+    ],
+    "speech": "noun",
+    "sentence": "A torrent of green and white water broke over the hull of the sail-boat."
+  },
+  {
+    "name": "avalanche",
+    "trans": [
+      "雪崩"
+    ],
+    "usphone": "'ævəlæntʃ",
+    "ukphone": "'ævəlɑːnʃ",
+    "e_mean": [
+      "a slide of large masses of snow, ice and mud down a mountain"
+    ],
+    "speech": "noun",
+    "sentence": "The shelf broke and the boxes avalanched the workers."
+  },
+  {
+    "name": "terrain",
+    "trans": [
+      "地形， 地势"
+    ],
+    "usphone": "tɛˈren",
+    "ukphone": "tə'reɪn",
+    "e_mean": [
+      "a piece of ground having specific characteristics"
+    ],
+    "speech": "noun",
+    "sentence": "The race will be run over a variety of terrain, including grass and sand."
+  },
+  {
+    "name": "landscape",
+    "trans": [
+      "风景",
+      "对…作景观美化， 美化"
+    ],
+    "usphone": "ˈlændskep",
+    "ukphone": "'lændskeɪp",
+    "e_mean": [
+      "an expanse of scenery that can be seen in a single view"
+    ],
+    "speech": "noun",
+    "sentence": "The software patent landscape has changed considerably in the last years"
+  },
+  {
+    "name": "continent",
+    "trans": [
+      "n.大陆， 陆地； 洲",
+      "adj. 有排便节制力的；<旧>节制性欲的"
+    ],
+    "usphone": "'kɑntɪnənt",
+    "ukphone": "'kɒntɪnənt",
+    "e_mean": [
+      "one of the large landmasses of the earth"
+    ],
+    "speech": "noun",
+    "sentence": "a continent fever"
+  },
+  {
+    "name": "continental",
+    "trans": [
+      "欧洲大陆的；大陆性的",
+      "欧洲大陆人"
+    ],
+    "usphone": ",kɑntɪ'nɛntl",
+    "ukphone": "ˌkɒntɪ'nentl",
+    "e_mean": [
+      "of or relating to or characteristic of a continent"
+    ],
+    "speech": "adjective",
+    "sentence": "I don't care a continental!"
+  },
+  {
+    "name": "cave",
+    "trans": [
+      "n. 洞穴，山洞；地窖",
+      "v. 洞穴探险；（在压力下）屈服，屈从；挖洞；塌落"
+    ],
+    "usphone": "keɪv",
+    "ukphone": "keɪv",
+    "e_mean": [
+      "a geological formation consisting of an underground enclosure with access from the surface of the ground or from the sea"
+    ],
+    "speech": "noun",
+    "sentence": "We found a cave on the mountainside where we could take shelter."
+  },
+  {
+    "name": "glacier",
+    "trans": [
+      "n.冰川， 冰河"
+    ],
+    "usphone": "'ɡleʃɚ",
+    "ukphone": "'glæsɪə(r)",
+    "e_mean": [
+      "a slowly moving mass of ice"
+    ],
+    "speech": "noun",
+    "sentence": "They warned that the effects of glacier melting on water resources are becoming “increasingly serious” for China."
+  },
+  {
+    "name": "swamp",
+    "trans": [
+      "n.沼泽,湿地",
+      "v. 浸没，吞没；（喻）压倒，淹没；使疲于应对，使应接不暇；（大批人等）涌入（某处），包围（某人）；极大地影响（某人），使崩溃；<非正式>（衣服）太大而不适合"
+    ],
+    "usphone": "swɑmp",
+    "ukphone": "swɒmp",
+    "e_mean": [
+      "low land that is seasonally flooded"
+    ],
+    "speech": "noun",
+    "sentence": "The boat was swamped in the storm."
+  },
+  {
+    "name": "delta",
+    "trans": [
+      "n.三角洲； 希腊字母表的第四个字母"
+    ],
+    "usphone": "'dɛltə",
+    "ukphone": "'deltə",
+    "e_mean": [
+      "the 4th letter of the Greek alphabet"
+    ],
+    "speech": "noun",
+    "sentence": "Nile Delta"
+  },
+  {
+    "name": "plain",
+    "trans": [
+      "adj. 无装饰的，朴素的；单色的，单纯的，不掺杂的；坦率的；相貌平平的；普通的",
+      "v. 洞穴探险；（在压力下）屈服，屈从；挖洞；塌落",
+      "The facts were plain to see"
+    ],
+    "usphone": "pleɪn",
+    "ukphone": "pleɪn",
+    "e_mean": [
+      "simple"
+    ],
+    "speech": "adjective",
+    "sentence": "Throughout high school she worried that she had a rather plain face."
+  },
+  {
+    "name": "oasis",
+    "trans": [
+      "n.绿洲；乐事；插花泥（Oasis）"
+    ],
+    "usphone": "oʊˈeɪsɪs",
+    "ukphone": "əʊˈeɪsɪs",
+    "e_mean": [
+      "a shelter serving as a place of safety or sanctuary"
+    ],
+    "speech": "noun",
+    "sentence": "The park was an oasis in the middle of the busy city."
+  },
+  {
+    "name": "globe",
+    "trans": [
+      "n. 地球，世界；地球仪；球体，球状物",
+      "v. （使）成球状"
+    ],
+    "usphone": "ɡloʊb",
+    "ukphone": "gləʊb",
+    "e_mean": [
+      "an object with a spherical shape"
+    ],
+    "speech": "noun",
+    "sentence": "the globe of the eye; the globe of a lamp"
+  },
+  {
+    "name": "equator",
+    "trans": [
+      "n. 赤道"
+    ],
+    "usphone": "ɪ'kwetɚ",
+    "ukphone": "ɪ'kweɪtə(r)",
+    "e_mean": [
+      "an imaginary line around the Earth forming a great circle"
+    ],
+    "speech": "noun",
+    "sentence": "Slice the onion through the equator."
+  },
+  {
+    "name": "equal",
+    "trans": [
+      "相等的",
+      "比得上"
+    ],
+    "usphone": "'ikwəl",
+    "ukphone": "'iːkwəl",
+    "e_mean": [
+      "having the same quantity, value, or measure as another"
+    ],
+    "speech": "adjective",
+    "sentence": "This beer has no equal."
+  },
+  {
+    "name": "pole",
+    "trans": [
+      "n. 杆，柱；地极；截然相反的两极之一；磁极；",
+      "v. 用篙撑（船）,n. （Pole）波兰人"
+    ],
+    "usphone": "poʊl",
+    "ukphone": "poʊl",
+    "e_mean": [
+      "a long rod of wood, metal, or plastic"
+    ],
+    "speech": "noun",
+    "sentence": "Huck Finn poled that raft southward down the Mississippi because going northward against the current was too much work."
+  },
+  {
+    "name": "axis",
+    "trans": [
+      "n. 轴，轴线；对称中心线，对称轴；（国家间的）联盟；斑鹿"
+    ],
+    "usphone": "ˈæksɪs",
+    "ukphone": "ˈæksɪs",
+    "e_mean": [
+      "a straight line through a body or figure"
+    ],
+    "speech": "noun",
+    "sentence": "The Earth rotates once a day on its axis"
+  },
+  {
+    "name": "deteriorate",
+    "trans": [
+      "v. 变坏， 恶化； 退化"
+    ],
+    "usphone": "dɪ'tɪrɪəret",
+    "ukphone": "dɪ'tɪəriəreɪt",
+    "e_mean": [
+      "become worse or disintegrate"
+    ],
+    "speech": "verb",
+    "sentence": "to deteriorate the mind"
+  },
+  {
+    "name": "aggravate",
+    "trans": [
+      "v. 使加重，使恶化；惹怒，激怒"
+    ],
+    "usphone": "'æɡrəvet",
+    "ukphone": "'ægrəveɪt",
+    "e_mean": [
+      "make worse"
+    ],
+    "speech": "verb",
+    "sentence": "He aggravated the story."
+  },
+  {
+    "name": "degrade",
+    "trans": [
+      "v. 降解，分解；使降级；侮辱，贬低；降低，削弱；使（岩石）陵削；使（能量）衰变"
+    ],
+    "usphone": "dɪ'ɡred",
+    "ukphone": "dɪ'greɪd",
+    "e_mean": [
+      "reduce in worth or character, usually verbally"
+    ],
+    "speech": "verb",
+    "sentence": "Fred degrades himself by his behaviour."
+  },
+  {
+    "name": "upgrade",
+    "trans": [
+      "n. 上坡，向上的斜坡；增加，改善",
+      "v. （使）升级；提高（设施、服务等的）档次，改善；（使）升级到更高待遇，（使）升舱；使（雇员）升职；使（某事物）升格"
+    ],
+    "usphone": ",ʌp'ɡred",
+    "ukphone": "ˌʌp'greɪd",
+    "e_mean": [
+      "rate higher; raise in value"
+    ],
+    "speech": "verb",
+    "sentence": "With my phone company, I get a free upgrade every twelve months if I keep topping up 10 pounds a month."
+  },
+  {
+    "name": "erode",
+    "trans": [
+      "v. 侵蚀，腐蚀；削弱，降低"
+    ],
+    "usphone": "ɪˈroʊd",
+    "ukphone": "ɪˈrəʊd",
+    "e_mean": [
+      "remove soil or rock"
+    ],
+    "speech": "verb",
+    "sentence": "to erode a person's trust"
+  },
+  {
+    "name": "ocean",
+    "trans": [
+      "n. <美>海洋，大海（the ocean）；（五大洋之一的）洋；<非正式>许多，大量（an ocean of/oceans of）"
+    ],
+    "usphone": "ˈoʊʃ(ə)n",
+    "ukphone": "ˈəʊʃ(ə)n",
+    "e_mean": [
+      "a large body of water that is part of the hydrosphere"
+    ],
+    "speech": "noun",
+    "sentence": "The island is surrounded by ocean"
+  },
+  {
+    "name": "marine",
+    "trans": [
+      "adj. 海洋的，海产的；海运的，海事的",
+      "n. 水兵，海军陆战队士兵；（一个国家的）船舶"
+    ],
+    "usphone": "məˈriːn",
+    "ukphone": "məˈriːn",
+    "e_mean": [
+      "of or relating to the sea"
+    ],
+    "speech": "adjective",
+    "sentence": "He was a marine in World War II."
+  },
+  {
+    "name": "gulf",
+    "trans": [
+      "n. 海湾；鸿沟，分歧；波斯湾；（地面的）裂口，深渊"
+    ],
+    "usphone": "ɡʌlf",
+    "ukphone": "ɡʌlf",
+    "e_mean": [
+      "an arm of a sea or ocean partly enclosed by land"
+    ],
+    "speech": "noun",
+    "sentence": "the Gulf of Mexico the Persian Gulf"
+  },
+  {
+    "name": "coast",
+    "trans": [
+      "n. 海岸，海滨；（车辆的）滑行",
+      "v. （人，车辆）滑行；毫不费力地做，（尤指）轻松获胜；不够努力，应付；沿海航行"
+    ],
+    "usphone": "koʊst",
+    "ukphone": "koʊst",
+    "e_mean": [
+      "the shore of a sea or ocean"
+    ],
+    "speech": "noun",
+    "sentence": "The rocky coast of Maine has few beaches."
+  },
+  {
+    "name": "shore",
+    "trans": [
+      "n. （海、湖或大河的）滨，岸；沿海国家（或地区）（shores）",
+      "v. 用支撑物（或梁）支撑；支持，帮助（shore up）"
+    ],
+    "usphone": "ʃɔr",
+    "ukphone": "ʃɔː(r)",
+    "e_mean": [
+      "the land along the edge of a body of water"
+    ],
+    "speech": "noun",
+    "sentence": "lake shore; bay shore; gulf shore; island shore; mainland shore; river shore; estuary shore; pond shore; sandy shore; rocky shore"
+  },
+  {
+    "name": "tide",
+    "trans": [
+      "n. 潮汐；潮水；潮流，趋势；怒潮，（难以控制的）浪潮；高涨的情绪；潮水般的人流，洪流",
+      "v. <古>顺潮水漂浮"
+    ],
+    "usphone": "taɪd",
+    "ukphone": "taɪd",
+    "e_mean": [
+      "the periodic rise and fall of the sea level"
+    ],
+    "speech": "noun",
+    "sentence": "The doctor's no good this tide."
+  },
+  {
+    "name": "current",
+    "trans": [
+      "adj. 现行的，当前的；通用的，流行的；最近的",
+      "n. 水流，气流；电流；思潮，趋势"
+    ],
+    "usphone": "ˈkɜːrənt",
+    "ukphone": "ˈkʌrənt",
+    "e_mean": [
+      "occurring in or belonging to the present time"
+    ],
+    "speech": "adjective",
+    "sentence": "current events; current leaders; current negotiations"
+  },
+  {
+    "name": "brook",
+    "trans": [
+      "n. 小溪，小河",
+      "v. <正式>容忍，允许（尤指不同意见或反对意见）"
+    ],
+    "usphone": "brʊk",
+    "ukphone": "brʊk",
+    "e_mean": [
+      "a natural stream of water smaller than a river"
+    ],
+    "speech": "noun",
+    "sentence": "I will not brook any disobedience. I will brook no refusal. I will brook no impertinence."
+  },
+  {
+    "name": "stream",
+    "trans": [
+      "n. 小河，小溪；一连串，源源不断（的事情）；流，股；班，组；音像流；数据流，指令流",
+      "v. （人，东西）流动，涌动；不断地流出（液体），不断地排出（气体）；（光线）照射，照耀；"
+    ],
+    "usphone": "striːm",
+    "ukphone": "striːm",
+    "e_mean": [
+      "a natural body of water flowing on or under the earth"
+    ],
+    "speech": "noun",
+    "sentence": "He poured the milk in a thin stream from the jug to the glass."
+  },
+  {
+    "name": "source",
+    "trans": [
+      "n. 来源，出处；（问题的）原因，根源；消息人士，源头，；源（代）码；（电子）源极，电源；（技）源",
+      "v. （从某地）获得；找出……的来源"
+    ],
+    "usphone": "sɔːrs",
+    "ukphone": "sɔːrs",
+    "e_mean": [
+      "the place where something begins"
+    ],
+    "speech": "noun",
+    "sentence": "The accused refused to reveal the source of the illegal drugs she was selling."
+  },
+  {
+    "name": "shallow",
+    "trans": [
+      "adj. 浅的，不深的；肤浅的，浅薄的；（呼吸）浅的，微弱的；平缓的；靠近内线的",
+      "n. （海、湖或河的）浅水处，浅滩（shallows）v. （使）变浅"
+    ],
+    "usphone": "ˈʃæloʊ",
+    "ukphone": "ˈʃæləʊ",
+    "e_mean": [
+      "lacking physical depth"
+    ],
+    "speech": "adjective",
+    "sentence": "The ship ran aground in an unexpected shallow."
+  },
+  {
+    "name": "superficial",
+    "trans": [
+      "adj. 粗浅的，粗略的；（思想）浅薄的，缺乏深度的；表面的，乍看起来的（尤指实际并非如此）；（伤势或伤害）表皮的；（皮肤、土壤或岩石）表层的；不重要的，无关痛痒的；<英>（建筑）面积的，平方的"
+    ],
+    "usphone": "ˌsuːpərˈfɪʃ(ə)l",
+    "ukphone": "ˌsuːpəˈfɪʃ(ə)l",
+    "e_mean": [
+      "of, affecting, or being on or near the surface"
+    ],
+    "speech": "adjective",
+    "sentence": "He always concentrates on the superficials and fails to see the real issue."
+  },
+  {
+    "name": "flat",
+    "trans": [
+      "adj. 平的，水平的；平坦的；",
+      "n. <英>公寓，单元房；v. 住公寓，伙住公寓；adv. 水平地；平整地；平贴着；正好；完全地，彻底地；"
+    ],
+    "usphone": "flæt",
+    "ukphone": "flæt",
+    "e_mean": [
+      "having a surface without a slope; level"
+    ],
+    "speech": "adjective",
+    "sentence": "She liked to walk in her flats more than in her high heels."
+  },
+  {
+    "name": "smooth",
+    "trans": [
+      "adj. （表面）光滑的，平坦的，平整的；顺利的，无困难的；（动作等）流畅的，（骑马、航行等）平稳的；",
+      "v. 抚平，弄平滑；轻轻地涂擦（液体、面霜等）；解决问题，消除困难；缓和；使优雅n. 平滑部分"
+    ],
+    "usphone": "smuːð",
+    "ukphone": "smuːð",
+    "e_mean": [
+      "having a surface free from roughness or irregularities"
+    ],
+    "speech": "adjective",
+    "sentence": "to smooth a person's temper"
+  },
+  {
+    "name": "rough",
+    "trans": [
+      "adj. （表面）粗糙的，不平的；（网球或软式墙网球拍）粗面的；粗暴的，猛烈的；（地方）多暴力的，犯罪盛行的；汹涌的，风浪很大的；粗制的，不完善的；粗俗的，不讲究的；粗略的，大致的；<非正式> 艰难的，不愉快的；<英，非正式> 身体不适的；（声音）粗哑的，不悦耳的；（酒）涩味的；未经加工的；（文具）用以打草稿的",
+      "adv. <非正式> 粗糙地，粗暴地；<英> 风餐露宿"
+    ],
+    "usphone": "rʌf",
+    "ukphone": "rʌf",
+    "e_mean": [
+      "having or caused by an irregular surface"
+    ],
+    "speech": "adjective",
+    "sentence": "Rough in the shape first, then polish the details."
+  },
+  {
+    "name": "sandy",
+    "trans": [
+      "adj. 沙地的；多沙的；含沙的",
+      "n. （Sandy）人名；"
+    ],
+    "usphone": "ˈsændi",
+    "ukphone": "ˈsændi",
+    "e_mean": [
+      "resembling or containing or abounding in sand"
+    ],
+    "speech": "adjective",
+    "sentence": "Some plants grow best in sandy soil."
+  },
+  {
+    "name": "stony",
+    "trans": [
+      "adj. 石头覆盖的，多石的；石制的，石头一样的；（表情或态度）冷冰冰的，冷漠的；（陨星） 石质的"
+    ],
+    "usphone": "ˈstoʊni",
+    "ukphone": "ˈstəʊni",
+    "e_mean": [
+      "abounding in rocks"
+    ],
+    "speech": "adjective",
+    "sentence": "a stony path"
+  },
+  {
+    "name": "vertical",
+    "trans": [
+      "adj. 垂直的，直立的；纵向的；不同层次（或等级）的；（某类产品从生产到销售各个阶段）纵向结构的；（尤指疾病或遗传特性传递）代代相传的；",
+      "n. 垂直线，垂直面，竖直位置；竖杆；垂直高度差"
+    ],
+    "usphone": "ˈvɜːrtɪk(ə)l",
+    "ukphone": "ˈvɜːtɪk(ə)l",
+    "e_mean": [
+      "at right angles to the plane of the horizon or a base line"
+    ],
+    "speech": "adjective",
+    "sentence": "We offer specialised accounting software targeting various verticals."
+  },
+  {
+    "name": "steep",
+    "trans": [
+      "adj. （路、山等）陡峭的；（价格，需求）难以接受的，过高的；（增加或减少）急剧的，大幅度的",
+      "v. 浸泡（食物）；使沉浸，使沉湎；n. <文>悬崖，陡坡；用于浸泡的溶液"
+    ],
+    "usphone": "stiːp",
+    "ukphone": "stiːp",
+    "e_mean": [
+      "having a sharp inclination"
+    ],
+    "speech": "adjective",
+    "sentence": "a steep hill or mountain; a steep roof; a steep ascent; a steep barometric gradient"
+  },
+  {
+    "name": "parallel",
+    "trans": [
+      "adj. 平行的；相似的，同时发生的；（计算机）并行的；并联的",
+      "n. （人或事物的）相似的手法，共同点；相似的人（或物）；（地球的）纬线，纬圈；（印刷）平行符号",
+      "v. 与……相似；与……同时发生；与……并行；与……相当，比得上"
+    ],
+    "usphone": "ˈpærəlel",
+    "ukphone": "'pærəlel",
+    "e_mean": [
+      "being everywhere equidistant and not intersecting"
+    ],
+    "speech": "adjective",
+    "sentence": "The 31st parallel passes through the center of my town."
+  },
+  {
+    "name": "narrow",
+    "trans": [
+      "adj. 狭窄的，狭小的；（想法、态度或信仰）狭隘的；勉强的，（成败）差距很小的；（种类或数目）有限的，范围小的；严格的，精确的；（标音）严式的；（语音）窄的",
+      "v. （人的眼睛）眯起来；使缩小，压缩；使变窄，变窄",
+      "n. 海峡；狭窄部分"
+    ],
+    "usphone": "ˈnæroʊ",
+    "ukphone": "ˈnærəʊ",
+    "e_mean": [
+      "not wide"
+    ],
+    "speech": "adjective",
+    "sentence": "the narrows of New York harbor"
+  },
+  {
+    "name": "climate",
+    "trans": [
+      "n. 气候；气候区；氛围，局势"
+    ],
+    "usphone": "ˈklaɪmət",
+    "ukphone": "ˈklaɪmət",
+    "e_mean": [
+      "the weather in some location averaged over a period of time"
+    ],
+    "speech": "noun",
+    "sentence": "Industries that require a lot of fossil fuels are unlikely to be popular in the current political climate."
+  },
+  {
+    "name": "weather",
+    "trans": [
+      "n. 天气，气象；恶劣天气（指寒冷、潮湿等），自然力；气象预报；处境；气候",
+      "v. （受风吹雨打而）（使）褪色，（使）风化；平安度过（困境）；",
+      "adj. 露天的；迎风的"
+    ],
+    "usphone": "ˈweðər",
+    "ukphone": "ˈweðə(r)",
+    "e_mean": [
+      "atmospheric conditions such as temperature and precipitation"
+    ],
+    "speech": "noun",
+    "sentence": "Wooden garden furniture must be well oiled as it is continuously exposed to weather."
+  },
+  {
+    "name": "mild",
+    "trans": [
+      "adj. （伤病）不严重的，轻微的；（感觉或表情）不强烈的，微弱的；（惩罚或批评）不严厉的；轻的，不过度的；（味道）清淡的，不刺激的；（药物、化妆品等）柔和的，无副作用的；（肥皂、洗涤液）温和的，不伤皮肤的；（天气）和煦的，温暖的；（人或其行为）和善的，随和的"
+    ],
+    "usphone": "maɪld",
+    "ukphone": "maɪld",
+    "e_mean": [
+      "humble in spirit or manner"
+    ],
+    "speech": "adjective",
+    "sentence": "a mild man"
+  },
+  {
+    "name": "moderate",
+    "trans": [
+      "adj. 普通的，中等的；不偏激的，温和的；有节制的，不过分的；（变化）不大的，有限的",
+      "v. 缓和，使适中；主持（讨论或会议）；审核评分（查看不同阅卷人所打分数是否公平一致）；（物理）使（中子）减速",
+      "n. 持温和政见者"
+    ],
+    "usphone": "ˈmɑːdərət",
+    "ukphone": "ˈmɒdərət",
+    "e_mean": [
+      "marked by avoidance of extravagance or extremes"
+    ],
+    "speech": "adjective",
+    "sentence": "The moderates are the natural advocates of ecumenism against the fanatics of their churches."
+  },
+  {
+    "name": "warm",
+    "trans": [
+      "adj. 暖和的，温暖的；（衣服或建筑物）保暖的，防寒的；友好的，热情的；暖色调的；",
+      "v. （使）温暖，（使）变暖和；（对某人） 产生好感，（对想法） 开始感兴趣；同情；激动；使……兴奋；",
+      "n. 暖和的地方（或地区）（the warm）；取暖；adv. 温暖地"
+    ],
+    "usphone": "wɔːrm",
+    "ukphone": "wɔːm",
+    "e_mean": [
+      "having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat"
+    ],
+    "speech": "adjective",
+    "sentence": "The tea is still warm."
+  },
+  {
+    "name": "arid",
+    "trans": [
+      "adj. （土地或气候）干燥的，干旱的；枯燥的，乏味的；不成功的，无结果的"
+    ],
+    "usphone": "ˈærɪd",
+    "ukphone": "ˈærɪd",
+    "e_mean": [
+      "lacking sufficient water or rainfall"
+    ],
+    "speech": "adjective",
+    "sentence": "The cake was arid."
+  },
+  {
+    "name": "damp",
+    "trans": [
+      "adj. 潮湿的",
+      "n. 湿气，潮气；沼气；气馁",
+      "v. 使潮湿，弄湿；减弱，抑制； 沮丧"
+    ],
+    "usphone": "dæmp",
+    "ukphone": "dæmp",
+    "e_mean": [
+      "slightly wet"
+    ],
+    "speech": "adjective",
+    "sentence": "to damp cloth"
+  },
+  {
+    "name": "humid",
+    "trans": [
+      "adj. 潮湿的，湿热的, 湿润的， 多潮气的"
+    ],
+    "usphone": "ˈhjuːmɪd",
+    "ukphone": "'hjuːmɪd",
+    "e_mean": [
+      "containing or characterized by a great deal of water vapor"
+    ],
+    "speech": "adjective",
+    "sentence": "humid earth"
+  },
+  {
+    "name": "snowy",
+    "trans": [
+      "adj. 多雪的，下雪的；雪白的；白雪覆盖的"
+    ],
+    "usphone": "ˈsnoʊi",
+    "ukphone": "ˈsnəʊi",
+    "e_mean": [
+      "covered with snow"
+    ],
+    "speech": "adjective",
+    "sentence": "snowy day"
+  },
+  {
+    "name": "frost",
+    "trans": [
+      "n. 严寒天气，霜冻；霜；冷淡，冷漠；",
+      "v. （使）蒙上霜，结霜；<美>在（糕饼）上撒糖霜；<美>将（头发）挑染成淡色；为（玻璃）制毛面；受冻"
+    ],
+    "usphone": "frɔːst",
+    "ukphone": "frɒst",
+    "e_mean": [
+      "ice crystals forming a white deposit"
+    ],
+    "speech": "noun",
+    "sentence": "I think the boss's decision frosted him a bit."
+  },
+  {
+    "name": "hail",
+    "trans": [
+      "v. 赞扬，欢呼；呼喊，招呼；下冰雹；",
+      "n. 冰雹；雹子般的一阵；招呼（某人）"
+    ],
+    "usphone": "heil",
+    "ukphone": "heil",
+    "e_mean": [
+      "precipitation of ice pellets"
+    ],
+    "speech": "noun",
+    "sentence": "They say it's going to hail tomorrow."
+  },
+  {
+    "name": "thaw",
+    "trans": [
+      "v. （使）（冰雪）融化；（使）（冷冻食品）解冻；使（身体等）变得暖起来；变得友好，变得缓和",
+      "n. 解冻时期，融化季节；（敌对国家之间）关系缓和"
+    ],
+    "usphone": "θɔː",
+    "ukphone": "θɔː",
+    "e_mean": [
+      "become or cause to become soft or liquid"
+    ],
+    "speech": "verb",
+    "sentence": "the ice thaws"
+  },
+  {
+    "name": "thaw",
+    "trans": [
+      "v. （使）（冰雪）融化；（使）（冷冻食品）解冻；使（身体等）变得暖起来；变得友好，变得缓和",
+      "n. 解冻时期，融化季节；（敌对国家之间）关系缓和"
+    ],
+    "usphone": "θɔː",
+    "ukphone": "θɔː",
+    "e_mean": [
+      "become or cause to become soft or liquid"
+    ],
+    "speech": "verb",
+    "sentence": "the ice thaws"
+  },
+  {
+    "name": "chill",
+    "trans": [
+      "n. 寒冷，寒意；着凉，受寒；害怕，担心；冷漠，敌意；冷模，冷模部件",
+      "v. （使）冷却，冰镇；使很冷；惊吓，使恐惧；<非正式>放松；（使）沮丧，（使）扫兴",
+      "adj. 冷飕飕的；令人紧张的，令人害怕的"
+    ],
+    "usphone": "tʃɪl",
+    "ukphone": "tʃɪl",
+    "e_mean": [
+      "coldness due to a cold environment"
+    ],
+    "speech": "noun",
+    "sentence": "There was a chill in the air."
+  },
+  {
+    "name": "freeze",
+    "trans": [
+      "v. 结冰；冻住；冷藏，冷冻；感到很冷，冻僵；突然停止，呆住；",
+      "n. 冻结；停止；冰冻期；霜冻"
+    ],
+    "usphone": "fri:z",
+    "ukphone": "fri:z",
+    "e_mean": [
+      "change from a liquid to a solid when cold"
+    ],
+    "speech": "verb",
+    "sentence": "The lake froze solid."
+  },
+  {
+    "name": "tremble",
+    "trans": [
+      "v. （因害怕、紧张、兴奋等）颤抖，哆嗦；颤动，轻轻摇晃；害怕，紧张；（声音）颤抖",
+      "n. 颤抖，战栗；"
+    ],
+    "usphone": "ˈtremb(ə)l",
+    "ukphone": "ˈtremb(ə)l",
+    "e_mean": [
+      "move quickly and involuntarily up and down or sideways"
+    ],
+    "speech": "verb",
+    "sentence": "Her lip started to tremble as she burst into tears"
+  },
+  {
+    "name": "shiver",
+    "trans": [
+      "v. （因寒冷或害怕而）颤抖，哆嗦，发抖",
+      "n. 颤抖,哆嗦（因寒冷、恐惧、激动等）；寒战，寒噤（因恐惧或发高烧）"
+    ],
+    "usphone": "ˈʃɪvər",
+    "ukphone": "ˈʃɪvə(r)",
+    "e_mean": [
+      "shake, as from cold"
+    ],
+    "speech": "verb",
+    "sentence": "A shiver went up my spine."
+  },
+  {
+    "name": "thunder",
+    "trans": [
+      "n. 雷，雷声；雷鸣般的响声，轰隆声；怒容满面，（雷鸣般的）怒吼",
+      "v. 打雷；发出雷鸣般的响声，轰隆地响；轰隆隆地快速移动，使快速移动；愤怒地大叫，怒吼；砰然重击"
+    ],
+    "usphone": "ˈθʌndər",
+    "ukphone": "ˈθʌndə(r)",
+    "e_mean": [
+      "a booming or crashing noise along the path of lightning"
+    ],
+    "speech": "noun",
+    "sentence": "Thunder is preceded by lightning."
+  },
+  {
+    "name": "lightning",
+    "trans": [
+      "n. 闪电；意外的幸运",
+      "adj. 闪电般的，很快的"
+    ],
+    "usphone": "ˈlaɪtnɪŋ",
+    "ukphone": "ˈlaɪtnɪŋ",
+    "e_mean": [
+      "flash of light from an electric discharge in the atmosphere"
+    ],
+    "speech": "noun",
+    "sentence": "Although we did not see the lightning, we did hear the thunder."
+  },
+  {
+    "name": "stormy",
+    "trans": [
+      "adj. 有暴风雨的，风暴的；激烈的，冲动的；（海）波涛汹涌的，（天空）乌云密布的"
+    ],
+    "usphone": "ˈstɔːrmi",
+    "ukphone": "ˈstɔːmi",
+    "e_mean": [
+      "affected or characterized by violent weather or commotion"
+    ],
+    "speech": "adjective",
+    "sentence": "a stormy season or a stormy day"
+  },
+  {
+    "name": "downpour",
+    "trans": [
+      "n. 倾盆大雨；注下，暴雨"
+    ],
+    "usphone": "'daʊnpɔr",
+    "ukphone": "'daunpɔː(r)",
+    "e_mean": [
+      "a heavy rain"
+    ],
+    "speech": "noun",
+    "sentence": "They got caught in a downpour without an umbrella and came back soaked."
+  },
+  {
+    "name": "sprinkle",
+    "trans": [
+      "v. 撒，洒；用……点缀，在……中随意穿插；零星分布；下小雨",
+      "n. 少量，一点；稀疏小雨；（撒在糕饼上作装饰用的）彩糖，糖屑（sprinkles）"
+    ],
+    "usphone": "ˈsprɪŋkl",
+    "ukphone": "ˈsprɪŋk(ə)l",
+    "e_mean": [
+      "scatter with liquid; wet lightly"
+    ],
+    "speech": "verb",
+    "sentence": "He decorated the Christmas card with a sprinkle of glitter."
+  },
+  {
+    "name": "rainbow",
+    "trans": [
+      "n. 彩虹；众多花色品种，五颜六色的组合，五花八门的聚合；五彩缤纷的展示；多种颜色，五彩缤纷",
+      "adj. 不同种族（或文化等）人群的"
+    ],
+    "usphone": "ˈreɪnboʊ",
+    "ukphone": "ˈreɪnbəʊ",
+    "e_mean": [
+      "an arc of colored light in the sky caused by refraction of the sun's rays by rain"
+    ],
+    "speech": "noun",
+    "sentence": "a rainbow of possibilities"
+  },
+  {
+    "name": "shower",
+    "trans": [
+      "n. 淋浴器，花洒；淋浴间，淋浴室；淋浴，洗澡；阵雨，阵雪； 流星雨；",
+      "v. 淋浴，洗澡；洒落，（使）纷纷降落；朝......阵雨般地扔（大量小东西）（shower sb. with）；大量给予，慷慨给予"
+    ],
+    "usphone": "ˈʃaʊə(r)",
+    "ukphone": "ˈʃaʊər",
+    "e_mean": [
+      "a brief period of precipitation"
+    ],
+    "speech": "noun",
+    "sentence": "Today there will be frequent showers and some sunny spells."
+  },
+  {
+    "name": "temperature",
+    "trans": [
+      "n. 温度，气温；体温；发烧；热烈程度，情绪激烈程度"
+    ],
+    "usphone": "ˈtemprətʃər",
+    "ukphone": "ˈtemprətʃə(r)",
+    "e_mean": [
+      "the degree of hotness or coldness of a body or environment"
+    ],
+    "speech": "noun",
+    "sentence": "The temperature in the room dropped nearly 20 degrees; it went from hot to cold."
+  },
+  {
+    "name": "forecast",
+    "trans": [
+      "v. 预测，预报",
+      "n. 预测，预报"
+    ],
+    "usphone": "ˈfɔːrkæst",
+    "ukphone": "'fɔːkɑːst",
+    "e_mean": [
+      "a prediction about how something will develop"
+    ],
+    "speech": "noun",
+    "sentence": "to forecast a rise in prices"
+  },
+  {
+    "name": "peak",
+    "trans": [
+      "n. 巅峰，顶点；山顶；有尖峰的山；尖端，尖顶；帽檐，帽舌；极值，峰值；（艏或艉的）尖舱；斜桁外端，（帆的）后上角",
+      "v. 达到高峰，达到最大值；最高的"
+    ],
+    "usphone": "piːk",
+    "ukphone": "piːk",
+    "e_mean": [
+      "a V shape"
+    ],
+    "speech": "noun",
+    "sentence": "The stock market reached a peak in September 1929."
+  },
+  {
+    "name": "mount",
+    "trans": [
+      "v. 组织，开展；爬上，登上；骑上；增多，增加，上升；增强，",
+      "n. 山，山峰；坐骑，马；登，骑；"
+    ],
+    "usphone": "maunt",
+    "ukphone": "maunt",
+    "e_mean": [
+      "go up, advance, or increase"
+    ],
+    "speech": "verb",
+    "sentence": "the mount of Jupiter"
+  },
+  {
+    "name": "mountain",
+    "trans": [
+      "n. 山，高山；许多，大量（a mountain/mountains of）；（食物的）过剩，积压"
+    ],
+    "usphone": "ˈmaʊnt(ə)n",
+    "ukphone": "ˈmaʊntən",
+    "e_mean": [
+      "a land mass that projects well above its surroundings"
+    ],
+    "speech": "noun",
+    "sentence": "We spent the weekend hiking in the mountains."
+  },
+  {
+    "name": "range",
+    "trans": [
+      "n. 山脉；牧场，牧区；靶场，射击场，炸弹试验场；（变动或浮动的）范围，界限；视觉（或听觉）范围；射程，射击距离；一系列；成套产品，系列商品；",
+      "v. 涉及，包括 ；（枪、炮、射击后校准）测距，（用雷达或激光）测距；支持，反对；自然生长，分布；与……联合起来，加入……行列"
+    ],
+    "usphone": "reindʒ",
+    "ukphone": "reindʒ",
+    "e_mean": [
+      "a variety of different things or activities"
+    ],
+    "speech": "noun",
+    "sentence": "We sell a wide range of cars."
+  },
+  {
+    "name": "ridge",
+    "trans": [
+      "n. 山脊，山脉；屋脊；隆起部分，脊状突起；（大气层的）高压脊，高压带",
+      "v. 使隆起，使形成脊状；（表面）成脊状，起皱"
+    ],
+    "usphone": "rɪdʒ",
+    "ukphone": "rɪdʒ",
+    "e_mean": [
+      "a long narrow natural elevation or striation"
+    ],
+    "speech": "noun",
+    "sentence": "The plough threw up ridges of earth between the furrows."
+  },
+  {
+    "name": "slope",
+    "trans": [
+      "n. 斜坡，斜面；山坡；滑雪斜坡；斜度，坡度；（电子）斜率；扛枪姿势；",
+      "v. 倾斜，成斜坡；歪斜；悄悄地走，溜；逛，随意走动"
+    ],
+    "usphone": "sloʊp",
+    "ukphone": "sləʊp",
+    "e_mean": [
+      "be at an angle"
+    ],
+    "speech": "verb",
+    "sentence": "I had to climb a small slope to get to the site."
+  },
+  {
+    "name": "southern",
+    "trans": [
+      "adj. 在南方的，向南的；南方的；美国南部地区的（Southern）；（风）从南面吹来的",
+      "n. 南方人（Southern）"
+    ],
+    "usphone": "ˈsʌðərn",
+    "ukphone": "ˈsʌðən",
+    "e_mean": [
+      "situated in or oriented toward the south"
+    ],
+    "speech": "adjective",
+    "sentence": "The southern climate."
+  },
+  {
+    "name": "irreversible",
+    "trans": [
+      "adj. 不可挽回的，无法逆转的；不能治愈的，不能挽救的"
+    ],
+    "usphone": "ˌɪrɪˈvɜːsəb(ə)l",
+    "ukphone": "ˌɪrɪˈvɜːrsəb(ə)l",
+    "e_mean": [
+      "incapable of being turned around"
+    ],
+    "speech": "adjective",
+    "sentence": "an irreversible engine"
+  },
+  {
+    "name": "contaminate",
+    "trans": [
+      "v. 污染，弄脏；毒害，腐蚀（人的思想或品德）"
+    ],
+    "usphone": "kənˈtæmɪneɪt",
+    "ukphone": "kən'tæmɪneɪt",
+    "e_mean": [
+      "make impure"
+    ],
+    "speech": "verb",
+    "sentence": "This water is contaminated. It isn't safe to drink."
+  },
+  {
+    "name": "geology",
+    "trans": [
+      "n. 地质学；地质状况"
+    ],
+    "usphone": "dʒiˈɑːlədʒi",
+    "ukphone": "dʒiˈɒlədʒi",
+    "e_mean": [
+      "science of the history of the earth as recorded in rocks"
+    ],
+    "speech": "noun",
+    "sentence": "The geology of the Alps."
+  },
+  {
+    "name": "border",
+    "trans": [
+      "n. 国境，边界；镶边，包边；狭长花坛，花带",
+      "v. 接壤，毗邻；环绕，沿……的边缘；近似，相像"
+    ],
+    "usphone": "ˈbɔːrdər",
+    "ukphone": "'bɔːdə(r)",
+    "e_mean": [
+      "the boundary of a surface"
+    ],
+    "speech": "noun",
+    "sentence": "the borders of the garden"
+  },
+  {
+    "name": "fringe",
+    "trans": [
+      "n. 穗，流苏；<英>刘海儿；（地区、组织或活动范围的）边缘，外围；偏激的人，极端的活动；干扰条纹，散乱边纹；（动物的）缘缨，（植物的）毛缘；（工资外的）补贴，附加福利",
+      "v. 在……上装以缘饰，加穗于；形成……的边缘"
+    ],
+    "usphone": "frɪndʒ",
+    "ukphone": "frɪndʒ",
+    "e_mean": [
+      "an ornamental border of short lengths of hanging threads"
+    ],
+    "speech": "noun",
+    "sentence": "the fringe of a picture"
+  },
+  {
+    "name": "plate",
+    "trans": [
+      "n. 盘子，碟子；一盘（食物）；<美>一道主菜；板块",
+      "v. 给……镀（金属）；给……加上装甲；用鳞片覆盖；摆盘；（棒球）跑垒得分；（生物）制作显微片"
+    ],
+    "usphone": "pleɪt",
+    "ukphone": "pleɪt",
+    "e_mean": [
+      "dish on which food is served or from which food is eaten"
+    ],
+    "speech": "noun",
+    "sentence": "I filled my plate from the bountiful table."
+  },
+  {
+    "name": "crack",
+    "trans": [
+      "v. 破裂，裂开；崩溃，垮掉；砸开，砸碎；破译，解决；重击，猛击；（使）发出爆裂声，劈啪作响；（嗓音）变嘶哑；说（笑话），开（玩笑）；阻止，打击；开瓶，（尤指）开瓶饮酒；使（碳氢化合物）裂化",
+      "n. 裂缝，裂纹；缝隙，窄缝；瑕疵，缺点；爆裂声，噼啪声；尝试，试图；破解信息，破解码；俏皮话，粗鲁的话；重击，猛击；好时光，友好愉快的交谈；嗓音变哑；强效可卡因；<非正式>股沟"
+    ],
+    "usphone": "kræk",
+    "ukphone": "kræk",
+    "e_mean": [
+      "a narrow opening"
+    ],
+    "speech": "noun",
+    "sentence": "A large crack had formed in the roadway."
+  },
+  {
+    "name": "gap",
+    "trans": [
+      "n. 缝隙，缺口；（时间上的）间隔；空白，缺漏；隔阂，差距"
+    ],
+    "usphone": "ɡæp",
+    "ukphone": "ɡæp",
+    "e_mean": [
+      "an open or empty space in or between things"
+    ],
+    "speech": "noun",
+    "sentence": "He made a gap in the fence by kicking at a weak spot."
+  },
+  {
+    "name": "splendid",
+    "trans": [
+      "adj. 极佳的，非常好的；壮丽的，灿烂的，辉煌的；（一段时光）令人愉快的"
+    ],
+    "usphone": "ˈsplendɪd",
+    "ukphone": "'splendɪd",
+    "e_mean": [
+      "characterized by grandeur"
+    ],
+    "speech": "adjective",
+    "sentence": "a splendid sun"
+  },
+  {
+    "name": "grand",
+    "trans": [
+      "adj. 壮丽的，堂皇的；宏伟的，宏大的；傲慢的，高高在上的；令人愉快的；<非正式>出色的，极好的；总括的；",
+      "n. <非正式>一千美元，一千英镑；大钢琴，三角钢琴"
+    ],
+    "usphone": "ɡrænd",
+    "ukphone": "grænd",
+    "e_mean": [
+      "large and impressive in physical size or extent"
+    ],
+    "speech": "adjective",
+    "sentence": "a grand army"
+  },
+  {
+    "name": "super",
+    "trans": [
+      "adj. <非正式>极好的，极优秀的；超级的",
+      "adv. 极其，非常",
+      "n. <非正式>（英国的）警官，（美国的）警长；<美>（大楼的）管理人；<非正式>主管，上司；过磷酸盐，过磷酸钙；特级品，特优产品；"
+    ],
+    "usphone": "ˈsuːpər",
+    "ukphone": "ˈsuːpə(r)",
+    "e_mean": [
+      "a caretaker for an apartment house"
+    ],
+    "speech": "noun",
+    "sentence": "The party was super awesome."
+  },
+  {
+    "name": "interesting",
+    "trans": [
+      "adj. 有趣的，有吸引力的；怪异的",
+      "v. 使感兴趣，引起……的关注；劝说（某人）做（或参与）（interest 的现在分词形式）"
+    ],
+    "usphone": "ˈɪntrəstɪŋ",
+    "ukphone": "ˈɪntrəstɪŋ",
+    "e_mean": [
+      "catching or holding your attention"
+    ],
+    "speech": "adjective",
+    "sentence": "Action films don't really interest me."
+  },
+  {
+    "name": "desert",
+    "trans": [
+      "n. 沙漠，荒漠；荒凉的地方；应得的赏罚",
+      "v. 离弃，舍弃（某地）；抛弃，遗弃（某人）；背弃，放弃；擅离，开小差；突然丧失",
+      "adj. 无人居住的，荒凉的；像沙漠的"
+    ],
+    "usphone": "ˈdezərt",
+    "ukphone": "ˈdezət",
+    "e_mean": [
+      "leave someone who needs or counts on you; leave in the lurch"
+    ],
+    "speech": "verb",
+    "sentence": "They were marooned on a desert island in the Pacific."
+  },
+  {
+    "name": "barren",
+    "trans": [
+      "adj. 贫瘠的，不毛的；不结果实的；<旧>不育的；不出成绩的，无效果的；沉闷无趣的，没有吸引力的",
+      "n. 瘠地"
+    ],
+    "usphone": "ˈbærən",
+    "ukphone": "'bærən",
+    "e_mean": [
+      "completely wanting or lacking"
+    ],
+    "speech": "adjective",
+    "sentence": "The pine barrens are a site lonely enough to suit any hermit."
+  },
+  {
+    "name": "fertilise",
+    "trans": [
+      "v. 使……受精；施肥于；使……肥沃（fertilize 的英式拼写）"
+    ],
+    "usphone": "ˈfɜːrtəlaɪz",
+    "ukphone": "ˈfɜːtəlaɪz",
+    "e_mean": [
+      "make fertile or productive"
+    ],
+    "speech": "verb",
+    "sentence": "to fertilize one's imagination"
+  },
+  {
+    "name": "solar",
+    "trans": [
+      "adj. 太阳的，和太阳有关的；（与）太阳能（有关）的",
+      "n. <英>（中世纪房屋的）屋顶室，顶层房间"
+    ],
+    "usphone": "ˈsoʊlər",
+    "ukphone": "'səulə(r)",
+    "e_mean": [
+      "relating to the sun or utilizing the energies of the sun"
+    ],
+    "speech": "adjective",
+    "sentence": "solar influence"
+  },
+  {
+    "name": "lunar",
+    "trans": [
+      "adj. 月亮的，月球的；银的；阴历的；似月的，月牙形的"
+    ],
+    "usphone": "ˈluːnər",
+    "ukphone": "'luːnə(r)",
+    "e_mean": [
+      "of or relating to or associated with the moon"
+    ],
+    "speech": "adjective",
+    "sentence": "lunar observations a lunar eclipse"
+  },
+  {
+    "name": "calendar",
+    "trans": [
+      "n. 日历；日程表；记事录，大事记；历法",
+      "v. 把……排进日程表（或时间表），把……记入记事录"
+    ],
+    "usphone": "ˈkælɪndər",
+    "ukphone": "'kælɪndə(r)",
+    "e_mean": [
+      "a system of timekeeping that defines divisions of the year"
+    ],
+    "speech": "noun",
+    "sentence": "The three principal calendars are the Gregorian, Jewish, and Islamic calendars."
+  },
+  {
+    "name": "sunrise",
+    "trans": [
+      "n. 日出（时分），黎明；晨曦，朝霞；（Sunrise）森赖斯（弗罗里达州一城市）",
+      "v. 把……排进日程表（或时间表），把……记入记事录"
+    ],
+    "usphone": "ˈsʌnraɪz",
+    "ukphone": "ˈsʌnraɪz",
+    "e_mean": [
+      "the daily event of the sun rising above the horizon"
+    ],
+    "speech": "noun",
+    "sentence": "I'll meet you at the docks at sunrise."
+  },
+  {
+    "name": "sunset",
+    "trans": [
+      "n. 日落，傍晚；晚霞，落日余晖；（法律的）自动废止期，效力消减期；衰落期（尤指人生的晚年）",
+      "adj. 衰落的，最后期的；定期废止的；霞红色的，浅橘红色的",
+      "v. （使）废止、终止"
+    ],
+    "usphone": "ˈsʌnset",
+    "ukphone": "ˈsʌnset",
+    "e_mean": [
+      "the time in the evening at which the sun begins to fall below the horizon"
+    ],
+    "speech": "noun",
+    "sentence": "one's sunset years"
+  },
+  {
+    "name": "eclipse",
+    "trans": [
+      "n. 日食，月食；黯然失色；羽毛暗淡期；消失，丧失",
+      "v. 遮住……的光，使黯然失色"
+    ],
+    "usphone": "ɪˈklɪps",
+    "ukphone": "ɪˈklɪps",
+    "e_mean": [
+      "the phenomenon when one celestial body obscures another"
+    ],
+    "speech": "noun",
+    "sentence": "The Moon eclipsed the Sun."
+  },
+  {
+    "name": "paradise",
+    "trans": [
+      "n. （某些宗教所指的）天堂，天国；乐土（指美好的环境）；（某类活动或某类人的）乐园，完美去处；至福，极乐；（《圣经》中的）伊甸园（Paradise）"
+    ],
+    "usphone": "ˈpærədaɪs",
+    "ukphone": "ˈpærədaɪs",
+    "e_mean": [
+      "any place of complete bliss and delight and peace"
+    ],
+    "speech": "noun",
+    "sentence": "Living in paradise comes with a price."
+  },
+  {
+    "name": "sunshine",
+    "trans": [
+      "n. 阳光，日照；幸福，快乐；<非正式>哥们，老兄（和让你生气的人说话时所用的称呼）"
+    ],
+    "usphone": "ˈsʌnʃaɪn",
+    "ukphone": "ˈsʌnʃaɪn",
+    "e_mean": [
+      "the rays of the sun"
+    ],
+    "speech": "noun",
+    "sentence": "We were warmed by the bright sunshine."
+  },
+  {
+    "name": "shade",
+    "trans": [
+      "n. 阴凉处；罩；暗部；色度；细微差别",
+      "v. 为……遮阳（挡光），遮蔽， 遮光； 把…涂暗"
+    ],
+    "usphone": "ʃeɪd",
+    "ukphone": "ʃeɪd",
+    "e_mean": [
+      "relative darkness caused when sunlight is blocked"
+    ],
+    "speech": "noun",
+    "sentence": "The old oak tree gave shade in the heat of the day."
+  },
+  {
+    "name": "shadow",
+    "trans": [
+      "n. 阴影，影子；暗处，阴影处,黑眼圈；坏影响；茫然，悲伤；虚幻的事物，不可能得到的东西；形影不离的人（或动物）；暗地跟踪者，尾随者；眼影（eyeshadow 的简称）；庇护；幽灵",
+      "v. 被……阴影笼罩，投阴影于；暗地跟踪；跟随……实地学习（或参观）",
+      "adj. 影子内阁的"
+    ],
+    "usphone": "ˈʃædoʊ",
+    "ukphone": "ˈʃædoʊ",
+    "e_mean": [
+      "a dark shape created by an object blocking a source of light"
+    ],
+    "speech": "noun",
+    "sentence": "My shadow lengthened as the sun began to set."
+  },
+  {
+    "name": "vapour",
+    "trans": [
+      "n. 蒸汽，水汽；<物>汽；忧郁，癔病（the vapours）",
+      "v. 吹牛，吹嘘，自夸"
+    ],
+    "usphone": "ˈveɪpər",
+    "ukphone": "ˈveɪpə(r)",
+    "e_mean": [
+      "a visible suspension in the air of particles of some substance"
+    ],
+    "speech": "noun",
+    "sentence": "to vapor away a heated fluid"
+  },
+  {
+    "name": "evaporate",
+    "trans": [
+      "v. （使）蒸发，挥发；消失，消散"
+    ],
+    "usphone": "ɪˈvæpəreɪt",
+    "ukphone": "ɪ'væpəreɪt",
+    "e_mean": [
+      "change into gas or steam"
+    ],
+    "speech": "verb",
+    "sentence": "to evaporate apples"
+  },
+  {
+    "name": "circulate",
+    "trans": [
+      "v. （液体或气体）环流，循环；传播，流传；传阅，传送；来往应酬，周旋"
+    ],
+    "usphone": "ˈsɜːrkjəleɪt",
+    "ukphone": "ˈsɜːkjəleɪt",
+    "e_mean": [
+      "move through a system and return to the starting point"
+    ],
+    "speech": "verb",
+    "sentence": "to circulate money or gossip"
+  },
+  {
+    "name": "precipitate",
+    "trans": [
+      "v. <正式>使……突然降临，加速（坏事的发生）；使突然陷入（某种状态）（precipitate sb./sth. into）；（使）沉淀，（使）淀析；<正式>使急落直下，使陡然下落；降水（如雨、雪、冰雹）",
+      "adj. <正式>鲁莽的，仓促的（=precipitous）；（事件，情况）突如其来的，突然的；猛地落下的",
+      "n. 沉淀物，析出物"
+    ],
+    "usphone": "prɪˈsɪpɪteɪt",
+    "ukphone": "prɪˈsɪpɪteɪt",
+    "e_mean": [
+      "bring about abruptly"
+    ],
+    "speech": "verb",
+    "sentence": "it precipitated their success"
+  },
+  {
+    "name": "waterfall",
+    "trans": [
+      "n. 瀑布；瀑布似的东西",
+      "adj. （一种项目管理方法）瀑布式的"
+    ],
+    "usphone": "ˈwɔːtərfɔːl",
+    "ukphone": "ˈwɔːtəfɔːl",
+    "e_mean": [
+      "a steep descent of the water of a river"
+    ],
+    "speech": "noun",
+    "sentence": "A waterfall of mist came from the open freezer."
+  },
+  {
+    "name": "fountain",
+    "trans": [
+      "n. 喷泉；喷射；天然泉；源泉；（纹章）银蓝相间波状纹圆盾",
+      "v. 喷射，喷流"
+    ],
+    "usphone": "ˈfaʊnt(ə)n",
+    "ukphone": "ˈfaʊntən",
+    "e_mean": [
+      "a structure from which a jet of water arises"
+    ],
+    "speech": "noun",
+    "sentence": "Lava fountained from the volcano."
+  },
+  {
+    "name": "spring",
+    "trans": [
+      "n. 春天，春季；泉，泉水；源泉，根源；弹簧，发条；弹性，弹力； ",
+      "adj. 春天的春天",
+      "v. 跳，跃；突然弹开，突然移动；，涌现， 突然出现； 突然提出"
+    ],
+    "usphone": "sprɪŋ",
+    "ukphone": "sprɪŋ",
+    "e_mean": [
+      "move forward by leaps and bounds"
+    ],
+    "speech": "verb",
+    "sentence": "to sprain one's ankle"
+  },
+  {
+    "name": "dew",
+    "trans": [
+      "n. 露水；（似露珠的）小水珠",
+      "v. <文>用水珠弄湿"
+    ],
+    "usphone": "duː",
+    "ukphone": "djuː",
+    "e_mean": [
+      "water that has condensed on a cool surface overnight"
+    ],
+    "speech": "noun",
+    "sentence": "There was a heavy dew this morning."
+  },
+  {
+    "name": "pour",
+    "trans": [
+      "v. 倾倒，倒出；（给……）斟，倒（饮料等）；倾泻，涌流；（人，物）接踵而至，纷至沓来；（雨）倾盆而下；大量注入（资金），捐献",
+      "n. 灌，注；倾泻；倾盆大雨"
+    ],
+    "usphone": "pɔːr",
+    "ukphone": "pɔː(r)",
+    "e_mean": [
+      "cause to run"
+    ],
+    "speech": "verb",
+    "sentence": "The bartender's inexpert pour left me with a pint of beer that was half foam."
+  },
+  {
+    "name": "drain",
+    "trans": [
+      "v. （使）排出，滤干；喝光，喝干；使劳累，使疲惫；（使）逐渐消失；使降低，消耗；（通常指因惊吓或疾病而脸色）变苍白；漂亮地完成（投篮、射门等）；将（球）轻击入穴",
+      "n. 下水道，排水管；流失，消耗；（将体内液体排走的）导管，引流管；（场效应晶体管的）漏极；使人疲倦的事物，负担"
+    ],
+    "usphone": "dreɪn",
+    "ukphone": "dreɪn",
+    "e_mean": [
+      "emptying something by allowing liquid to run out of it"
+    ],
+    "speech": "noun",
+    "sentence": "The drain in the kitchen sink is clogged."
+  },
+  {
+    "name": "drip",
+    "trans": [
+      "v. 滴下，滴出；含有，充满",
+      "n. 水滴，滴液；滴水声，滴落；（医用）滴注器；笨蛋，懦夫，平庸乏味者"
+    ],
+    "usphone": "drɪp",
+    "ukphone": "drɪp",
+    "e_mean": [
+      "flowing in drops"
+    ],
+    "speech": "noun",
+    "sentence": "Listening to the tap next door drip all night drove me mad!"
+  },
+  {
+    "name": "drown",
+    "trans": [
+      "v. （声音）压过，盖过；沉浸于，淹没于；（使）淹死"
+    ],
+    "usphone": "draʊn",
+    "ukphone": "draʊn",
+    "e_mean": [
+      "kill by submerging in water"
+    ],
+    "speech": "verb",
+    "sentence": "The answers intelligence services seek are often drowned in the flood of information they can now gather."
+  },
+  {
+    "name": "blow",
+    "trans": [
+      "v. （风）刮，吹；（用嘴）吹气；用力呼吸，喘息；吹响，吹奏；毁掉，炸毁；使（车胎）爆炸，使漏气；",
+      "n. 大风，强风；吹气，擤鼻子；呼吸新鲜空气；猛击，一击；奋斗，努力；失望，打击，挫折；开花，开花期；"
+    ],
+    "usphone": "bloʊ",
+    "ukphone": "bləʊ",
+    "e_mean": [
+      "be in motion due to some air or water current"
+    ],
+    "speech": "verb",
+    "sentence": "We're having a bit of a blow this afternoon."
+  },
+  {
+    "name": "puff",
+    "trans": [
+      "v. 吸，抽（烟、烟斗等）；吹，喷出；（尤指跑步、攀登之后）气喘吁吁，喘息；喷着汽（或烟）移动；（尤指显得很愚蠢地）咆哮，怒吼；膨胀；吹捧",
+      "n. 吸烟；（烟、气等的）一缕；（空气或蒸汽突然喷射发出的）噗的一声；（蒸汽，烟雾的）一喷；吐气，喘气；（充足的）气息，气力；泡芙；吹捧文字；"
+    ],
+    "usphone": "pʌf",
+    "ukphone": "pʌf",
+    "e_mean": [
+      "a short light gust of air"
+    ],
+    "speech": "noun",
+    "sentence": "out of puff"
+  },
+  {
+    "name": "intensive",
+    "trans": [
+      "adj. 加强的，集中的，深入细致的；精耕细作的，集约的；加强词意的；以强度测量的",
+      "n. 加强语势的形容词（或副词、小品词）"
+    ],
+    "usphone": "ɪnˈtensɪv",
+    "ukphone": "ɪnˈtensɪv",
+    "e_mean": [
+      "characterized by a heightened level or degree"
+    ],
+    "speech": "adjective",
+    "sentence": "This job is difficult because it is so labour-intensive."
+  },
+  {
+    "name": "emerge",
+    "trans": [
+      "v. 浮现，出现；显露，知悉；恢复过来，幸存下来；形成，兴起"
+    ],
+    "usphone": "ɪˈmɜːrdʒ",
+    "ukphone": "ɪˈmɜːdʒ",
+    "e_mean": [
+      "come out into view, as from concealment"
+    ],
+    "speech": "verb",
+    "sentence": "He emerged unscathed from the accident."
+  },
+  {
+    "name": "emergency",
+    "trans": [
+      "n. 突发事件，紧急情况；急症病人，急诊病人；<美>（医院的）急诊室",
+      "adj. 紧急情况下的；应急的"
+    ],
+    "usphone": "ɪˈmɜːrdʒənsi",
+    "ukphone": "ɪˈmɜːdʒənsi",
+    "e_mean": [
+      "a sudden unforeseen crisis that requires immediate action"
+    ],
+    "speech": "noun",
+    "sentence": "Cardiac arrest is an emergency and if you find someone in cardiac arrest you should call 999 immediately."
+  },
+  {
+    "name": "flash",
+    "trans": [
+      "v. 闪光，闪亮；（快速）出示，显示；飞驰，掠过；闪现；迅速播出，传送（信息）；突然显露（强烈情感）；",
+      "n. 闪光；闪光灯；闪现；（军装上的）肩章；网站动画程序；花哨，噱头；突然理解，顿悟；（感情的）突发；"
+    ],
+    "usphone": "flæʃ",
+    "ukphone": "flæʃ",
+    "e_mean": [
+      "emit a brief burst of light"
+    ],
+    "speech": "verb",
+    "sentence": "I just got my first commando flash."
+  },
+  {
+    "name": "float",
+    "trans": [
+      "v. （使）漂浮，（使）浮动；轻盈走动，飘然移动；提出（想法或计划）；发行（股票）上市；使（货币汇率）自由浮动",
+      "n. 彩车；鱼漂，浮子；（学游泳用的）浮板；（公司股票）上市，开始发行"
+    ],
+    "usphone": "floʊt",
+    "ukphone": "fləʊt",
+    "e_mean": [
+      "be on or below a liquid surface and not sink to the bottom"
+    ],
+    "speech": "verb",
+    "sentence": "Attach the float and the weight to the fishing line, above the hook."
+  },
+  {
+    "name": "environment",
+    "trans": [
+      "n. 自然环境，生态环境；周围状况，条件；工作平台，软件包"
+    ],
+    "usphone": "ɪnˈvaɪrənmənt",
+    "ukphone": "ɪnˈvaɪrənmənt",
+    "e_mean": [
+      "the totality of surrounding conditions"
+    ],
+    "speech": "noun",
+    "sentence": "That program uses the Microsoft Windows environment."
+  },
+  {
+    "name": "environment",
+    "trans": [
+      "n. 自然环境，生态环境；周围状况，条件；工作平台，软件包"
+    ],
+    "usphone": "ɪnˈvaɪrənmənt",
+    "ukphone": "ɪnˈvaɪrənmənt",
+    "e_mean": [
+      "the totality of surrounding conditions"
+    ],
+    "speech": "noun",
+    "sentence": "That program uses the Microsoft Windows environment."
+  },
+  {
+    "name": "condition",
+    "trans": [
+      "n. 状况，状态；条件，环境；疾病；条款；<旧>社会地位",
+      "v. 训练，使习惯于；控制，制约；护理，保养；影响；加条件于；使（人，动物）健康；（发酵后，在酵母仍存在时）使（啤酒，黑啤酒）酿熟"
+    ],
+    "usphone": "kənˈdɪʃ(ə)n",
+    "ukphone": "kənˈdɪʃn",
+    "e_mean": [
+      "a mode of being or form of existence of a person or thing"
+    ],
+    "speech": "noun",
+    "sentence": "Environmental protection is a condition for sustainability. What other planets might have the right conditions for life? The union had a dispute over sick time and other conditions of employment."
+  },
+  {
+    "name": "situation",
+    "trans": [
+      "n. 情况，形势；重要问题，突发情况；（建筑物或城镇的）地理位置，环境特点；<旧，正式>工作，职位"
+    ],
+    "usphone": "ˌsɪtʃuˈeɪʃn",
+    "ukphone": "ˌsɪtʃuˈeɪʃ(ə)n",
+    "e_mean": [
+      "physical position in relation to the surroundings"
+    ],
+    "speech": "noun",
+    "sentence": "The United States is in an awkward situation with debt default looming."
+  },
+  {
+    "name": "nature",
+    "trans": [
+      "n. 大自然，自然界；性格，秉性；本质，特点；类型，种类；<古>具有某种特性的人"
+    ],
+    "usphone": "ˈneɪtʃər",
+    "ukphone": "ˈneɪtʃə(r)",
+    "e_mean": [
+      "the physical world including plants and animals"
+    ],
+    "speech": "noun",
+    "sentence": "Nature never lies (i.e. tells untruths)."
+  },
+  {
+    "name": "natural",
+    "trans": [
+      "adj. 天然的，非人为的；合理的，意料之中的；天生的，本能的；不做作的，真实的；亲生的；",
+      "n. 有天赋的人；适合人选；本位音；白键；（纸牌、掷骰子中）最好的组合；天然鱼饵；白痴"
+    ],
+    "usphone": "ˈnætʃ(ə)rəl",
+    "ukphone": "ˈnætʃrəl",
+    "e_mean": [
+      "relating to or concerning the physical world"
+    ],
+    "speech": "adjective",
+    "sentence": "He's a natural on the saxophone."
+  },
+  {
+    "name": "artificial",
+    "trans": [
+      "adj. 人造的，人工的；人为的；不真挚的，矫揉造作的"
+    ],
+    "usphone": ",ɑ:ti'fiʃəl",
+    "ukphone": ",ɑ:ti'fiʃəl",
+    "e_mean": [
+      "contrived by art rather than nature"
+    ],
+    "speech": "adjective",
+    "sentence": "The flowers were artificial, and he thought them rather tacky."
+  },
+  {
+    "name": "gas",
+    "trans": [
+      "n. 气体；气体燃料；（手术）麻醉气；毒气，瓦斯；汽油；有趣的人（或事）；胀气，胃气",
+      "v. 用毒气杀死；闲聊，空谈"
+    ],
+    "usphone": "ɡæs",
+    "ukphone": "ɡæs",
+    "e_mean": [
+      "state of matter distinguished from solid and liquid states"
+    ],
+    "speech": "noun",
+    "sentence": "A lot of gas had escaped from the cylinder."
+  },
+  {
+    "name": "topsoil",
+    "trans": [
+      "n. 表层土；上层土"
+    ],
+    "usphone": "ˈtɑːpsɔɪl",
+    "ukphone": "'tɒpsɔɪl",
+    "e_mean": [
+      "the layer of soil on the surface"
+    ],
+    "speech": "noun",
+    "sentence": "Little grew on the farm, after the floods from the hurricane washed away the topsoil."
+  },
+  {
+    "name": "voltage",
+    "trans": [
+      "电压"
+    ],
+    "usphone": "'voltɪdʒ",
+    "ukphone": "'vəultɪdʒ",
+    "e_mean": [
+      "the rate at which energy is drawn from a source"
+    ],
+    "speech": "noun",
+    "sentence": "Be careful when opening high-voltage equipment."
+  },
+  {
+    "name": "corrupt",
+    "trans": [
+      "腐化，腐蚀；使堕落；破坏，损坏；"
+    ],
+    "usphone": "kə'rʌpt",
+    "ukphone": "kə'rʌpt",
+    "e_mean": [
+      "dishonest or immoral or evasive"
+    ],
+    "speech": "adjective",
+    "sentence": "to corrupt a book"
+  },
+  {
+    "name": "horizontal",
+    "trans": [
+      "adj. 水平的；（公司）同一层次的；统一的，一致的；地平线的，在地平线上的",
+      "n. 水平位置；水平线，水平面"
+    ],
+    "usphone": "ˌhɔːrɪˈzɑːnt(ə)l",
+    "ukphone": "ˌhɒrɪˈzɒnt(ə)l",
+    "e_mean": [
+      "something that is oriented to a base line"
+    ],
+    "speech": "noun",
+    "sentence": "1667: As when the Sun new ris'n / Looks through the Horizontal misty Air — John Milton, Paradise Lost, Book 1, ll. 594-5"
+  },
+  {
+    "name": "bubble",
+    "trans": [
+      "冒泡，起泡；发出冒泡的声音",
+      "泡， 泡沫； 气泡； 幻想的计划"
+    ],
+    "usphone": "'bʌbl",
+    "ukphone": "'bʌbl",
+    "e_mean": [
+      "a hollow globule of gas (e.g., air or carbon dioxide)"
+    ],
+    "speech": "noun",
+    "sentence": "bubbles in window glass, or in a lens"
+  },
+  {
+    "name": "slurry",
+    "trans": [
+      "n. 泥浆；悬浮液"
+    ],
+    "usphone": "ˈslɜːri",
+    "ukphone": "'slʌri",
+    "e_mean": [
+      "a suspension of insoluble particles usually in water"
+    ],
+    "speech": "noun",
+    "sentence": "Next week we will be slurrying the parking lot."
+  },
+  {
+    "name": "submarine",
+    "trans": [
+      "n. 潜艇，潜水艇；<美>潜艇三明治，长卷三明治；海底生物",
+      "adj. 海面下的，海底的"
+    ],
+    "usphone": "ˌsʌbməˈriːn",
+    "ukphone": "ˌsʌbmə'riːn；'sʌbməriːn",
+    "e_mean": [
+      "a submersible warship usually armed with torpedoes"
+    ],
+    "speech": "noun",
+    "sentence": "a submarine patent"
+  },
+  {
+    "name": "magnetic",
+    "trans": [
+      "adj. 磁的，磁性的；磁化的；有吸引力的，有魅力的；（航向）根据磁北测定的"
+    ],
+    "usphone": "mæɡˈnetɪk",
+    "ukphone": "mæg'netɪk",
+    "e_mean": [
+      "of or relating to or caused by attraction for iron"
+    ],
+    "speech": "adjective",
+    "sentence": "a magnetic recorder"
+  },
+  {
+    "name": "atmosphere",
+    "trans": [
+      "大气； 气氛； 环境"
+    ],
+    "usphone": "'ætməsfɪr",
+    "ukphone": "'ætməsfɪə(r)",
+    "__part": "自然地理",
+    "e_mean": [
+      "the envelope of gases surrounding any celestial body"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "hydrosphere",
+    "trans": [
+      "[地物] 水界，[地物] 水圈；水气"
+    ],
+    "usphone": "'haɪdroʊsfɪr",
+    "ukphone": "'haɪdrəʊsfɪə(r)",
+    "e_mean": [
+      "the watery layer of the earth's surface"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "lithosphere",
+    "trans": [
+      "陆界，[地物][地质] 岩石圈"
+    ],
+    "usphone": "'lɪθəsfɪr",
+    "ukphone": "'lɪθəsfɪə(r)",
+    "e_mean": [
+      "the solid part of the Earth"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "oxygen",
+    "trans": [
+      "氧， 氧气"
+    ],
+    "usphone": "'ɑksɪdʒən",
+    "ukphone": "'ɒksɪdʒən",
+    "e_mean": [
+      "a colorless, odorless gas that is essential for respiration"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "oxide",
+    "trans": [
+      "氧化物"
+    ],
+    "usphone": "'ɑksaɪd",
+    "ukphone": "'ɒksaɪd",
+    "e_mean": [
+      "any compound of oxygen with another element or a radical"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "dioxide",
+    "trans": [
+      "二氧化物"
+    ],
+    "usphone": "ˈdaɪ'ɑksaɪd",
+    "ukphone": "ˈdaɪ'ɒksaɪd",
+    "e_mean": [
+      "an oxide containing two atoms of oxygen in the molecule"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "carbon dioxide",
+    "trans": [
+      "二氧化物"
+    ],
+    "usphone": "",
+    "ukphone": "ˈkɑːbən daɪˈɒksaɪd",
+    "e_mean": [
+      "a heavy odorless colorless gas formed during respiration and by the decomposition of organic substances; absorbed from the air by plants in photosynthesis"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "hydrogen",
+    "trans": [
+      "氢，氢气"
+    ],
+    "usphone": "ˈhaɪdrədʒən",
+    "ukphone": "ˈhaɪdrədʒən",
+    "e_mean": [
+      "a nonmetallic univalent element that is normally a colorless and odorless highly flammable diatomic gas; the simplest and lightest and most abundant element in the universe"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "dismantle",
+    "trans": [
+      "拆除； 废除， 取消"
+    ],
+    "usphone": "dɪs'mæntl",
+    "ukphone": "dɪs'mæntl",
+    "e_mean": [
+      "take off or remove"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "longitude",
+    "trans": [
+      "经度， 经线"
+    ],
+    "usphone": "'lɑndʒətud",
+    "ukphone": "'lɒndʒɪtjuːd",
+    "e_mean": [
+      "the angular distance from the prime meridian at Greenwich"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "catastrophic",
+    "trans": [
+      "悲惨的； 灾难性的"
+    ],
+    "usphone": ",kætə'strɑfɪk",
+    "ukphone": "ˌkætə'strɒfɪk",
+    "e_mean": [
+      "extremely harmful; bringing physical or financial ruin"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "calamity",
+    "trans": [
+      "n. 灾难，灾祸"
+    ],
+    "usphone": "kəˈlæməti",
+    "ukphone": "kəˈlæməti",
+    "e_mean": [
+      "an event resulting in great loss and misfortune"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "endanger",
+    "trans": [
+      "危及， 危害"
+    ],
+    "usphone": "ɪn'dendʒɚ",
+    "ukphone": "ɪn'deɪndʒə(r)",
+    "e_mean": [
+      "pose a threat to"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "greenhouse",
+    "trans": [
+      "n. 温室，暖房",
+      "adj. 温室效应的"
+    ],
+    "usphone": "ˈɡriːnhaʊs",
+    "ukphone": "ˈɡriːnhaʊs",
+    "e_mean": [
+      "a building with glass walls and roof"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "ore",
+    "trans": [
+      "n. 矿石，矿砂"
+    ],
+    "usphone": "ɔːr",
+    "ukphone": "ɔː(r)",
+    "e_mean": [
+      "a mineral that contains metal valuable enough to be mined"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mineral",
+    "trans": [
+      "矿物， 矿石"
+    ],
+    "usphone": "'mɪnərəl",
+    "ukphone": "'mɪnərəl",
+    "e_mean": [
+      "a solid inorganic substance occurring in nature"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "quartz",
+    "trans": [
+      "石英"
+    ],
+    "usphone": "kwɔrts",
+    "ukphone": "kwɔːts",
+    "e_mean": [
+      "a hard glossy mineral consisting of silicon dioxide in crystal form; present in most rocks (especially sandstone and granite); yellow sand is quartz with iron oxide impurities"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "granite",
+    "trans": [
+      "花岗岩， 花岗石"
+    ],
+    "usphone": "'grænɪt",
+    "ukphone": "'grænɪt",
+    "e_mean": [
+      "a type of igneous rock with a visibly crystalline texture"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "hurricane",
+    "trans": [
+      "飓风"
+    ],
+    "usphone": "ˈhʌrɪken",
+    "ukphone": "'hʌrɪkən",
+    "e_mean": [
+      "a severe tropical cyclone usually with heavy rains and winds"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "typhoon",
+    "trans": [
+      "台风"
+    ],
+    "usphone": "taɪ'fʊn",
+    "ukphone": "taɪ'fuːn",
+    "e_mean": [
+      "a tropical cyclone in the western Pacific or Indian oceans"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "monsoon",
+    "trans": [
+      "n. 季风；（印度等地的）雨季；季候风"
+    ],
+    "usphone": "ˌmɑːnˈsuːn",
+    "ukphone": "ˌmɒnˈsuːn",
+    "e_mean": [
+      "a seasonal wind in southern Asia"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "volcano",
+    "trans": [
+      "火山"
+    ],
+    "usphone": "vɑl'keno",
+    "ukphone": "vɒl'keɪnəu",
+    "e_mean": [
+      "a fissure in the earth's crust through which gases erupt"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "magma",
+    "trans": [
+      "岩浆"
+    ],
+    "usphone": "'mæɡmə",
+    "ukphone": "'mægmə",
+    "e_mean": [
+      "molten rock in the earth's crust"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "thermodynamics",
+    "trans": [
+      "热力学"
+    ],
+    "usphone": "ˌθɜːrmoʊdaɪˈnæmɪks",
+    "ukphone": "ˌθɜːməʊdaɪˈnæmɪks",
+    "e_mean": [
+      "physics concerned with heat and other forms of energy"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tsunami",
+    "trans": [
+      "n. 海啸，海震"
+    ],
+    "usphone": "tsuːˈnɑːmi",
+    "ukphone": "tsuːˈnɑːmi",
+    "e_mean": [
+      "a cataclysm resulting from a destructive sea wave"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "drought",
+    "trans": [
+      "干旱， 旱灾"
+    ],
+    "usphone": "draʊt",
+    "ukphone": "draut",
+    "e_mean": [
+      "a shortage of rainfall"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "earthquake",
+    "trans": [
+      "地震"
+    ],
+    "usphone": "'ɝθ'kwek",
+    "ukphone": "'ɜːθkweɪk",
+    "e_mean": [
+      "vibration from underground movement along a fault plane"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "seismic",
+    "trans": [
+      "adj. 地震的，地震引起的；影响深远的，重大的"
+    ],
+    "usphone": "ˈsaɪzmɪk",
+    "ukphone": "ˈsaɪzmɪk",
+    "e_mean": [
+      "subject to or caused by an earthquake or earth vibration"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "cliff",
+    "trans": [
+      "n. 悬崖，峭壁"
+    ],
+    "usphone": "klɪf",
+    "ukphone": "klɪf",
+    "e_mean": [
+      "a steep high face of rock"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "plateau",
+    "trans": [
+      "n.高原； 稳定时期"
+    ],
+    "usphone": "plæ'to",
+    "ukphone": "'plætəu",
+    "e_mean": [
+      "a relatively flat raised area of land"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "hemisphere",
+    "trans": [
+      "n. （地球的）半球；脑半球；（球体的）一半"
+    ],
+    "usphone": "'hɛmɪsfɪr",
+    "ukphone": "'hemɪˌsfɪə(r)",
+    "e_mean": [
+      "half of a round, three-dimensional shape"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "arctic",
+    "trans": [
+      "adj. 北极的；严寒的，极冷的",
+      "n. 北极，北极地区；防水套鞋"
+    ],
+    "usphone": "ˈɑːktɪk",
+    "ukphone": "ˈɑːrktɪk",
+    "e_mean": [
+      "extremely cold"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "Antarctic",
+    "trans": [
+      "n. 南极洲，南极地区",
+      "adj. 南极的"
+    ],
+    "usphone": "ænˈtɑːrktɪk",
+    "ukphone": "ænˈtɑːktɪk",
+    "e_mean": [
+      "the region around the south pole: Antarctica and surrounding waters"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "polar",
+    "trans": [
+      "adj. 极地的，来自极地的；截然不同的；磁极的；（天体）极性的，极地的；",
+      "n. （几何）极线；极光双子星"
+    ],
+    "usphone": "ˈpoʊlər",
+    "ukphone": "ˈpəʊlə(r)",
+    "e_mean": [
+      "of or existing within the Arctic or Antarctic Circles"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "Mediterranean",
+    "trans": [
+      "adj. 地中海的；（肤色）浅黑的",
+      "n. 地中海（the Mediterranean）；地中海地区（the Mediterranean）；地中海沿岸国家居民"
+    ],
+    "usphone": "ˌmedɪtəˈreɪniən",
+    "ukphone": "ˌmedɪtəˈreɪniən",
+    "e_mean": [
+      "the largest inland sea; between Europe and Africa and Asia"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "Atlantic",
+    "trans": [
+      "n. 大西洋；（地质）大西洋气候期",
+      "adj. 大西洋的；（地质）大西洋气候期的"
+    ],
+    "usphone": "ətˈlæntɪk",
+    "ukphone": "ətˈlæntɪk",
+    "e_mean": [
+      "the 2nd largest ocean"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pacific",
+    "trans": [
+      "n. 太平洋（the Pacific）；车轮4-6-2排列的蒸汽机车，“太平洋”号机车",
+      "adj. 太平洋的（Pacific）；爱和平的，息事宁人的；平静的，宁静的"
+    ],
+    "usphone": "pəˈsɪfɪk",
+    "ukphone": "pəˈsɪfɪk",
+    "e_mean": [
+      "disposed to peace or of a peaceful nature"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "navigation",
+    "trans": [
+      "n. 导航；航行，航海；航运，水上运输；浏览，访问；领航术，航海术；内河水道（尤指运河）"
+    ],
+    "usphone": "'nævə'geʃən",
+    "ukphone": "ˌnævɪ'geɪʃn",
+    "e_mean": [
+      "guidance of ships, planes, or vehicles from place to place"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "beach",
+    "trans": [
+      "n. 海滩，海滨",
+      "v. 把（船）拖上岸；搁浅；（垂钓者）钓（鱼）上岸；让（某人）受损"
+    ],
+    "usphone": "biːtʃ",
+    "ukphone": "biːtʃ",
+    "e_mean": [
+      "an area of sand sloping down to the water of a sea or lake"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "currently",
+    "trans": [
+      "adv. 现时，当前"
+    ],
+    "usphone": "'kɝrəntlɪ",
+    "ukphone": "'kʌrəntli",
+    "e_mean": [
+      "at this time or period"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "Oceania",
+    "trans": [
+      "n. 大洋洲"
+    ],
+    "usphone": "ˌoʊʃiˈɑːniə",
+    "ukphone": "ˌəʊsiˈɑːniə",
+    "e_mean": [
+      "a large group of islands in the south Pacific including Melanesia and Micronesia and Polynesia (and sometimes Australasia and the Malay Archipelago)"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mainland",
+    "trans": [
+      "n. 大陆，本土"
+    ],
+    "usphone": "ˈmeɪnlənd",
+    "ukphone": "ˈmeɪnlænd",
+    "e_mean": [
+      "the main land mass of a country or continent"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "peninsula",
+    "trans": [
+      "n. 半岛"
+    ],
+    "usphone": "pɪˈnɪnsələr",
+    "ukphone": "pəˈnɪnsjələ",
+    "e_mean": [
+      "a large mass of land projecting into a body of water"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "meteorology",
+    "trans": [
+      "n. 气象状态，气象学"
+    ],
+    "usphone": "ˌmiːtiəˈrɑːlədʒi",
+    "ukphone": "ˌmiːtiəˈrɒlədʒi",
+    "e_mean": [
+      "the earth science dealing with phenomena of the atmosphere"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "thermal",
+    "trans": [
+      "adj. 热的，热量的；（衣服）保暖的，御寒的；（水）天然温热的；地热的，地温的",
+      "n. 上升的热气流；保暖衣服，保暖内衣（thermals）； 上升的热气流"
+    ],
+    "usphone": "ˈθɜːrm(ə)l",
+    "ukphone": "ˈθɜːm(ə)l",
+    "e_mean": [
+      "relating to or associated with heat"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "tropics",
+    "trans": [
+      "n. 热带地区"
+    ],
+    "usphone": "ˈtrɔpɪks",
+    "ukphone": "ˈtrɒpɪks",
+    "e_mean": [
+      "the part of the Earth's surface between the Tropic of Cancer and the Tropic of Capricorn; characterized by a hot climate"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "moist",
+    "trans": [
+      "adj. 潮润的，微湿的；（地区或空气）潮湿的，多雨的；（眼睛）含泪的，泪汪汪的；湿（性）的"
+    ],
+    "usphone": "mɔɪst",
+    "ukphone": "mɔɪst",
+    "e_mean": [
+      "slightly wet"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "frigid",
+    "trans": [
+      "adj. 寒冷的，严寒的；冷淡的"
+    ],
+    "usphone": "ˈfrɪdʒɪd",
+    "ukphone": "ˈfrɪdʒɪd",
+    "e_mean": [
+      "extremely cold"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "rainfall",
+    "trans": [
+      "n. 降雨；降雨量"
+    ],
+    "usphone": "ˈreɪnfɔːl",
+    "ukphone": "ˈreɪnfɔːl",
+    "e_mean": [
+      "water falling in drops from vapor condensed in the atmosphere"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "Celsius",
+    "trans": [
+      "adj. （温度）摄氏的",
+      "n. 摄氏温度"
+    ],
+    "usphone": "ˈselsiəs",
+    "ukphone": "ˈselsiəs",
+    "e_mean": [
+      "Swedish astronomer who devised the centigrade thermometer"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mountainous",
+    "trans": [
+      "adj. 多山的；巨大的，山一般的；波涛汹涌的，万丈波涛的"
+    ],
+    "usphone": "'maʊntənəs",
+    "ukphone": "'mauntənəs",
+    "e_mean": [
+      "containing many mountains"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "valley",
+    "trans": [
+      "n. 山谷；流域；溪谷"
+    ],
+    "usphone": "ˈvæli",
+    "ukphone": "ˈvæli",
+    "e_mean": [
+      "a long depression in the surface of the land"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "hillside",
+    "trans": [
+      "n. 山坡，山腹；山腰"
+    ],
+    "usphone": "ˈhɪlsaɪd",
+    "ukphone": "ˈhɪlsaɪd",
+    "e_mean": [
+      "the side or slope of a hill"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "southeast",
+    "trans": [
+      "n. 东南，东南方；东南地区，东南部",
+      "adj. 东南的，东南部的；（风）来自东南的",
+      "adv. 在东南，朝东南；来自东南"
+    ],
+    "usphone": "ˌsaʊθˈiːst",
+    "ukphone": "ˌsaʊθˈiːst",
+    "e_mean": [
+      "the compass point midway between south and east"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "southwest",
+    "trans": [
+      "n. 西南方",
+      "adj. 西南的",
+      "adv. 往西南；来自西南"
+    ],
+    "usphone": "ˌsaʊθˈwest",
+    "ukphone": "ˌsaʊθˈwest",
+    "e_mean": [
+      "the compass point midway between south and west"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "northeast",
+    "trans": [
+      "n. 东北方，东北部",
+      "adj. 东北的；向东北的；（风等）来自东北的",
+      "adv. 在东北；向东北；（风等）来自东北"
+    ],
+    "usphone": "ˌnɔːrθˈiːst",
+    "ukphone": "ˌnɔːθˈiːst",
+    "e_mean": [
+      "the direction corresponding to the northeastward compass point"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "northwest",
+    "trans": [
+      "n. 西北方；西北部",
+      "adj. （风）来自西北的；在西北部的",
+      "adv. 在西北，向西北，来自西北地"
+    ],
+    "usphone": "ˌnɔːrθˈwest",
+    "ukphone": "ˌnɔːrθˈwest",
+    "e_mean": [
+      "the direction corresponding to the northwestward compass point"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "eastern",
+    "trans": [
+      "adj. 东方的；向东的，朝东的"
+    ],
+    "usphone": "ˈiːstərn",
+    "ukphone": "ˈiːstən",
+    "e_mean": [
+      "lying toward or situated in the east"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "oriental",
+    "trans": [
+      "adj. 东方（尤指中国和日本）的，东方人的；（动物学）（与）东方界（有关）的（Oriental）；（珍珠或其他珠宝）有光泽的"
+    ],
+    "usphone": "ˌɔːriˈent(ə)l",
+    "ukphone": "ˌɔːriˈent(ə)l",
+    "e_mean": [
+      "denoting or characteristic of countries of Asia"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "abnormal",
+    "trans": [
+      "adj. 反常的，异常的，变态的；不规则的"
+    ],
+    "usphone": "æbˈnɔːrm(ə)l",
+    "ukphone": "æbˈnɔːm(ə)l",
+    "e_mean": [
+      "not typical or usual or regular"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "silt",
+    "trans": [
+      "n. 淤泥，泥沙；粉砂尘，泥沙层；（技）粉砂",
+      "v. （使）淤塞"
+    ],
+    "usphone": "sɪlt",
+    "ukphone": "sɪlt",
+    "e_mean": [
+      "mud or clay or small rocks deposited by a river or lake"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "rural",
+    "trans": [
+      "adj. 农村的，乡村的；有乡村特色的，有乡土气息的"
+    ],
+    "usphone": "'rʊrəl",
+    "ukphone": "'ruərəl",
+    "e_mean": [
+      "living in or characteristic of farming or country life"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "suburb",
+    "trans": [
+      "n. 城郊，近郊"
+    ],
+    "usphone": "ˈsʌbɜːrb",
+    "ukphone": "'sʌbɜːb",
+    "e_mean": [
+      "a residential district located on the outskirts of a city"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pollution",
+    "trans": [
+      "n. 污染；污染物；噪音污染，（夜间扰人的）强烈灯光"
+    ],
+    "usphone": "pəˈluːʃn",
+    "ukphone": "pəˈluːʃ(ə)n",
+    "e_mean": [
+      "contamination of the natural environment"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pollutant",
+    "trans": [
+      "n. 污染物质， 有害物质"
+    ],
+    "usphone": "pəˈluːtənt",
+    "ukphone": "pə'luːtənt",
+    "e_mean": [
+      "waste matter that contaminates the water, air, or soil"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "margin",
+    "trans": [
+      "n. 页边空白；差额，幅度；盈余，利润；余地，备用的时间（或空间、金钱等）；边缘，非主体部分；保证金，押金；<澳新>额外报酬",
+      "v. 给……加上边；预付定金，交押金；<古>页边做注释或总结"
+    ],
+    "usphone": "ˈmɑːrdʒɪn",
+    "ukphone": "'mɑːdʒɪn",
+    "e_mean": [
+      "the boundary line or area immediately inside the boundary"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "infringe",
+    "trans": [
+      "v. 违反，违背（法律、规则等）；侵犯，侵害（权益）"
+    ],
+    "usphone": "ɪn'frɪndʒ",
+    "ukphone": "ɪn'frɪndʒ",
+    "e_mean": [
+      "advance beyond the usual limit"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "plateau",
+    "trans": [
+      "n. 高原；（发展、增长后的）稳定期，停滞期；高原印第安人；托盘",
+      "v. （在一段时间的发展之后）趋于平稳，进入停滞期"
+    ],
+    "usphone": "plæˈtoʊ",
+    "ukphone": "ˈplætəʊ",
+    "e_mean": [
+      "a relatively flat raised area of land"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "debris",
+    "trans": [
+      "n. 残骸，碎片"
+    ],
+    "usphone": "dəˈbriː",
+    "ukphone": "ˈdebriː",
+    "e_mean": [
+      "the remains of something that has been destroyed"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "magnificent",
+    "trans": [
+      "adj. 宏伟的，壮丽的；令人印象深刻的，出色的；高尚的，高贵的"
+    ],
+    "usphone": "mæɡˈnɪfɪs(ə)nt",
+    "ukphone": "mæg'nɪfɪsnt",
+    "e_mean": [
+      "characterized by grandeur"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "dramatic",
+    "trans": [
+      "adj. 巨大而突然的，急剧的；激动人心的，引人注目的，给人深刻印象的；有关戏剧的，戏剧表演的；夸张的"
+    ],
+    "usphone": "drəˈmætɪk",
+    "ukphone": "drə'mætɪk",
+    "e_mean": [
+      "characteristic of a stage performance"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "wilderness",
+    "trans": [
+      "n. 未开发的地区，荒野；荒芜的地方，杂草丛生处；低潮时期，在野；大量，茫茫一片"
+    ],
+    "usphone": "ˈwɪldərnəs",
+    "ukphone": "ˈwɪldənəs",
+    "e_mean": [
+      "a wild and uninhabited area left in its natural condition"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "deforest",
+    "trans": [
+      "v. 砍伐树林"
+    ],
+    "usphone": "ˌdiːˈfɔːrɪst",
+    "ukphone": "ˌdiːˈfɒrɪst",
+    "e_mean": [
+      "remove the trees from"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "fertile",
+    "trans": [
+      "adj. 肥沃的，富饶的；可繁殖的，能结果的；能产生好结果的，促进的；点子多的，想象力丰富的；（核材料）能产生裂变物质的，增殖性的"
+    ],
+    "usphone": "ˈfɜːrt(ə)l",
+    "ukphone": "ˈfɜːtaɪl",
+    "e_mean": [
+      "capable of reproducing"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "dusk",
+    "trans": [
+      "n. 黄昏，傍晚；暮色；昏暗，幽暗",
+      "v. <文>变暗，变黑；使变微暗",
+      "adj. <文>幽暗的，昏暗的"
+    ],
+    "usphone": "dʌsk",
+    "ukphone": "dʌsk",
+    "e_mean": [
+      "the time of day immediately following sunset"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "heaven",
+    "trans": [
+      "n. 天堂，天国；<非正式>极乐之地，极乐；<文>天空；神，诸神；与上帝同享永福",
+      "int. （表示惊讶或强调）天哪"
+    ],
+    "usphone": "ˈhev(ə)n",
+    "ukphone": "ˈhev(ə)n",
+    "e_mean": [
+      "any place of complete bliss and delight and peace"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "overshadow",
+    "trans": [
+      "v. 使黯然失色，使相形见绌；使扫兴，使蒙上阴影；遮盖，遮蔽"
+    ],
+    "usphone": "ˌoʊvərˈʃædoʊ",
+    "ukphone": "ˌəuvə'ʃædəu",
+    "e_mean": [
+      "cast a shadow upon"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "reservoir",
+    "trans": [
+      "n. 水库，蓄水池；储藏，蓄积 ；（机器等的）贮液器，贮液槽；（病原体的）储存宿主"
+    ],
+    "usphone": "ˈrezərvwɑːr",
+    "ukphone": "ˈrezəvwɑː(r)",
+    "e_mean": [
+      "lake used to store water for community use"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "drainage",
+    "trans": [
+      "n. 排水系统；排水，排泄；排出的水，污水"
+    ],
+    "usphone": "ˈdreɪnɪdʒ",
+    "ukphone": "'dreɪnɪdʒ",
+    "e_mean": [
+      "emptying something accomplished by allowing liquid to run out of it"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "gush",
+    "trans": [
+      "v. 涌出；迸出",
+      "n. 涌出；迸发"
+    ],
+    "usphone": "ɡʌʃ",
+    "ukphone": "ɡʌʃ",
+    "e_mean": [
+      "flow forth in a sudden stream or jet"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "dense",
+    "trans": [
+      "adj. 稠密的；浓密的，浓重的；密度大的；（文字）难懂的；愚钝的，笨拙的"
+    ],
+    "usphone": "dens",
+    "ukphone": "dens",
+    "e_mean": [
+      "having high compaction or concentration"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "intensity",
+    "trans": [
+      "n. 强烈，剧烈；（光、声音等的）强度"
+    ],
+    "usphone": "ɪnˈtensəti",
+    "ukphone": "ɪn'tensəti",
+    "e_mean": [
+      "high level or degree"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "synthetic",
+    "trans": [
+      "adj. 合成的，人造的；（感情，行动）不诚恳的，虚假的；（语言）综合型的；（命题）综合的",
+      "n. 合成物，合成纤维（织物）"
+    ],
+    "usphone": "sɪnˈθetɪk",
+    "ukphone": "sɪn'θetɪk",
+    "e_mean": [
+      "a compound made artificially by chemical reactions"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "petrol",
+    "trans": [
+      "n. <英>汽油；深蓝绿色"
+    ],
+    "usphone": "ˈpetrəl",
+    "ukphone": "'petrəl",
+    "e_mean": [
+      "gasoline"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "petroleum",
+    "trans": [
+      "n. 石油，原油"
+    ],
+    "usphone": "pəˈtroʊliəm",
+    "ukphone": "pəˈtrəʊliəm",
+    "e_mean": [
+      "a dark oil consisting mainly of hydrocarbons"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "geographical",
+    "trans": [
+      "地理学的； 地理的"
+    ],
+    "usphone": "dʒɪə'græfɪkl",
+    "ukphone": "ˌdʒiːə'græfɪkl",
+    "e_mean": [
+      "of or relating to the science of geography"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "chemical",
+    "trans": [
+      "化学的",
+      "化学制品"
+    ],
+    "usphone": "'kɛmɪkl",
+    "ukphone": "'kemɪkl",
+    "e_mean": [
+      "produced by reactions involving atomic or molecular changes"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "foreland",
+    "trans": [
+      "前沿地； 岬角"
+    ],
+    "usphone": "'forlənd",
+    "ukphone": "'fɔːlənd",
+    "e_mean": [
+      "a natural elevation"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "overexploit",
+    "trans": [
+      "vt. 过度开发，过度开采"
+    ],
+    "usphone": "ˌoʊvərɪksˈplɔɪt",
+    "ukphone": "ˌəʊvərɪksˈplɔɪt",
+    "e_mean": [
+      "exploit excessively"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "geological",
+    "trans": [
+      "adj. 地质的，地质学的"
+    ],
+    "usphone": "ˌdʒiːəˈlɑːdʒɪk(ə)l",
+    "ukphone": "ˌdʒiːəˈlɒdʒɪkl",
+    "e_mean": [
+      "of or relating to or based on geology"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "highland",
+    "trans": [
+      "adj. 高地的，高原的；苏格兰高地的，苏格兰高地人的",
+      "n. 高地，高原；苏格兰高地（the Highlands）；海兰（苏格兰北部行政区）（Highland）"
+    ],
+    "usphone": "'haɪlənd",
+    "ukphone": "'haɪlənd",
+    "e_mean": [
+      "elevated (e.g., mountainous) land"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sundial",
+    "trans": [
+      "n. 日晷，日规；羽扇豆（产于美国东部） Sundial Dreams 暖阳/白日梦 Beyond the Sundial跨越日光/时间之河/超越日光"
+    ],
+    "usphone": "ˈsʌndaɪəl",
+    "ukphone": "'sʌndaɪəl",
+    "e_mean": [
+      "timepiece that indicates the daylight hours by the shadow that the gnomon casts on a calibrated dial"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "lava",
+    "trans": [
+      "n. （火山）熔岩，岩浆；火山岩"
+    ],
+    "usphone": "ˈlɑːvə",
+    "ukphone": "'lɑːvə",
+    "e_mean": [
+      "rock that in its molten form issues from volcanos"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "longitudinal",
+    "trans": [
+      "adj. 纵长的，纵向的；纵观的；经度的"
+    ],
+    "usphone": "ˌlɑːndʒəˈtuːdən(ə)l",
+    "ukphone": "ˌlɒŋɡɪˈtjuːdən(ə)l",
+    "e_mean": [
+      "relating to lines that bisect the globe through the poles"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "disorientate",
+    "trans": [
+      "v. （使）迷失方向；（使）迷惑,使失去方向感； 使迷茫， 使不知所措"
+    ],
+    "usphone": "dɪsˈɔːriənteɪt",
+    "ukphone": "dɪs'ɔːriənteɪt",
+    "e_mean": [
+      "cause to be lost or disoriented"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "estuary",
+    "trans": [
+      "n. 河口；江口， 河口湾"
+    ],
+    "usphone": "ˈestʃueri",
+    "ukphone": "'estʃʊəri",
+    "e_mean": [
+      "the wide part of a river where it nears the sea"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "gravel",
+    "trans": [
+      "n. 碎石，砂砾；（用于铺路及用作三合土的）砂砾；砂砾层；（医）尿砂",
+      "v. 用砂砾铺（地）；"
+    ],
+    "usphone": "ˈɡræv(ə)l",
+    "ukphone": "'grævl",
+    "e_mean": [
+      "rock fragments and pebbles"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "luxuriant",
+    "trans": [
+      "adj. 繁茂的，浓密的；丰富的，肥沃的，奢华的"
+    ],
+    "usphone": "lʌɡˈʒʊriənt",
+    "ukphone": "lʌg'ʒuəriənt",
+    "e_mean": [
+      "produced or growing in extreme abundance"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "ecological",
+    "trans": [
+      "adj. 生态的，生态学的；主张生态保护的"
+    ],
+    "usphone": "ˌiːkəˈlɑːdʒɪk(ə)l",
+    "ukphone": "ˌiːkə'lɒdʒɪkl",
+    "e_mean": [
+      "characterized by the interdependence of living organisms"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "biodiversity",
+    "trans": [
+      "n. 生物多样性（维持着生态环境平衡的大量各种生物的共存）"
+    ],
+    "usphone": "ˌbaɪoʊdaɪˈvɜːrsəti",
+    "ukphone": "ˌbaɪəudaɪ'vəːsəti",
+    "e_mean": [
+      "the variety of plant and animal life in a habitat"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "hinterland",
+    "trans": [
+      "n. 内地；穷乡僻壤；靠港口供应的内地贸易区"
+    ],
+    "usphone": "ˈhɪntərlænd",
+    "ukphone": "'hɪntəlænd",
+    "e_mean": [
+      "a remote and undeveloped area"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "precipitation",
+    "trans": [
+      "n. 降水（如雨，雪，冰雹）；沉淀，淀析；仓促，鲁莽，轻率；坠落"
+    ],
+    "usphone": "prɪˌsɪpɪˈteɪʃ(ə)n",
+    "ukphone": "prɪˌsɪpɪ'teɪʃn",
+    "e_mean": [
+      "the falling to earth of any form of water"
+    ],
+    "speech": "noun"
+  }
+]

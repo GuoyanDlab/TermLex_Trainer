@@ -1,0 +1,2289 @@
+[
+  {
+    "name": "architecture",
+    "trans": [
+      "建筑学； 建筑设计， 建筑风格； 【计】 体系结构"
+    ],
+    "usphone": "ˈɑːrkɪtektʃər",
+    "ukphone": "'ɑːkɪtektʃə(r)",
+    "e_mean": [
+      "the discipline dealing with the design of fine buildings"
+    ],
+    "speech": "noun",
+    "sentence": "Architecture is the visual public expression of a culture’s achievements, values, and outlook. ― Max Roscoe, \"How Your City Is Killing You With Ugliness\""
+  },
+  {
+    "name": "architect",
+    "trans": [
+      "建筑师， 设计师； 创造者"
+    ],
+    "usphone": "'ɑrkɪtɛkt",
+    "ukphone": "'ɑːkɪtekt",
+    "e_mean": [
+      "someone who creates plans to be used in making something"
+    ],
+    "speech": "noun",
+    "sentence": "Plato made the causes of things to be matter, ideas, and an efficient architect."
+  },
+  {
+    "name": "erection",
+    "trans": [
+      "建筑，建造"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of building or putting up"
+    ],
+    "speech": "noun",
+    "sentence": "The Empire State Building was once the world's tallest erection."
+  },
+  {
+    "name": "erect",
+    "trans": [
+      "垂直/竖直的；建立/建造/创立/设立"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "upright in position or posture"
+    ],
+    "speech": "adjective",
+    "sentence": "The penis should be fully erect before commencing copulation."
+  },
+  {
+    "name": "structure",
+    "trans": [
+      "结构；构造；建筑物",
+      "系统安排； 精心组织"
+    ],
+    "usphone": "'strʌktʃɚ",
+    "ukphone": "'strʌktʃə(r)",
+    "e_mean": [
+      "a complex entity made of many parts"
+    ],
+    "speech": "noun",
+    "sentence": "The birds had built an amazing structure out of sticks and various discarded items."
+  },
+  {
+    "name": "construct",
+    "trans": [
+      "建造；构思，构筑；创立['kɒnstrʌkt]",
+      "构想， 观念"
+    ],
+    "usphone": "kən'strʌkt",
+    "ukphone": "kən'strʌkt",
+    "e_mean": [
+      "make by combining materials and parts"
+    ],
+    "speech": "verb",
+    "sentence": "Loops and conditional statements are constructs in computer programming."
+  },
+  {
+    "name": "entrance",
+    "trans": [
+      "入口，进入权"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "something that provides access to get in"
+    ],
+    "speech": "noun",
+    "sentence": "Her entrance attracted no attention whatsoever."
+  },
+  {
+    "name": "entry",
+    "trans": [
+      "进入，进入权"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of going in"
+    ],
+    "speech": "noun",
+    "sentence": "Children are allowed entry only if accompanied by an adult."
+  },
+  {
+    "name": "enter",
+    "trans": [
+      "进入"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "to come or go into"
+    ],
+    "speech": "verb",
+    "sentence": "You should knock before you enter, unless you want to see me naked."
+  },
+  {
+    "name": "exit",
+    "trans": [
+      "出口/退场/离去；离去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "move out of or depart from"
+    ],
+    "speech": "verb",
+    "sentence": "He made his exit at the opportune time."
+  },
+  {
+    "name": "outside",
+    "trans": [
+      "外部的；外表"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the region that is outside of something"
+    ],
+    "speech": "noun",
+    "sentence": "He's repainting the outside of his house."
+  },
+  {
+    "name": "outward",
+    "trans": [
+      "外面的； 外表的， 表面的"
+    ],
+    "usphone": "'aʊtwɚd",
+    "ukphone": "'autwəd",
+    "e_mean": [
+      "that is going out or leaving"
+    ],
+    "speech": "adjective",
+    "sentence": "By all outward indications, he's a normal happy child, but if you talk to him, you will soon realize he has some psychological problems."
+  },
+  {
+    "name": "exterior",
+    "trans": [
+      "外部的，外表的",
+      "外部， 外表"
+    ],
+    "usphone": "ɪk'stɪrɪɚ",
+    "ukphone": "ɪk'stɪərɪə(r)",
+    "e_mean": [
+      "situated in the outdoors or outside of a building"
+    ],
+    "speech": "adjective",
+    "sentence": "The sticker was attached to the exterior of the package"
+  },
+  {
+    "name": "external",
+    "trans": [
+      "外面的， 表面的"
+    ],
+    "usphone": "ɪk'stɝnl",
+    "ukphone": "ɪk'stɜːnl",
+    "e_mean": [
+      "happening or arising outside some limits or surface"
+    ],
+    "speech": "adjective",
+    "sentence": "This building has some external pipework."
+  },
+  {
+    "name": "interior",
+    "trans": [
+      "内部的，里面的",
+      "内部； 内地"
+    ],
+    "usphone": "ɪn'tɪrɪɚ",
+    "ukphone": "ɪn'tɪəriə(r)",
+    "e_mean": [
+      "inside and toward a center"
+    ],
+    "speech": "adjective",
+    "sentence": "Sir Richard Burton explored far into the African interior."
+  },
+  {
+    "name": "internal",
+    "trans": [
+      "内部的； 国内的"
+    ],
+    "usphone": "ɪn'tɝnl",
+    "ukphone": "ɪn'tɜːnl",
+    "e_mean": [
+      "located inward"
+    ],
+    "speech": "adjective",
+    "sentence": "We saw the internal compartments."
+  },
+  {
+    "name": "cabin",
+    "trans": [
+      "小木屋；(船上的)小舱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small house built of wood; usually in a wooded area"
+    ],
+    "speech": "noun",
+    "sentence": "Abraham Lincoln was born in a log cabin."
+  },
+  {
+    "name": "obstruct",
+    "trans": [
+      "妨碍， 阻止； 阻塞； 截断"
+    ],
+    "usphone": "əb'strʌkt",
+    "ukphone": "əb'strʌkt",
+    "e_mean": [
+      "block passage through"
+    ],
+    "speech": "verb",
+    "sentence": "They obstructed my progress."
+  },
+  {
+    "name": "obstacle",
+    "trans": [
+      "障碍， 妨碍物， 干扰"
+    ],
+    "usphone": "'ɑbstəkl",
+    "ukphone": "'ɒbstəkl",
+    "e_mean": [
+      "something that stands in the way and must be surmounted"
+    ],
+    "speech": "noun",
+    "sentence": "A big obstacle to understanding the manual was that it had been poorly translated from the Japanese."
+  },
+  {
+    "name": "build",
+    "trans": [
+      "建造；开发"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "make by combining materials and parts"
+    ],
+    "speech": "verb",
+    "sentence": "Rugby players are of sturdy build."
+  },
+  {
+    "name": "found",
+    "trans": [
+      "创建/办.foundation基础/基金会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "set up"
+    ],
+    "speech": "verb",
+    "sentence": "I found my car keys. They were under the couch."
+  },
+  {
+    "name": "founder",
+    "trans": [
+      "创建者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person who establishes some institution"
+    ],
+    "speech": "noun",
+    "sentence": "the founder of Facebook, Mark Zuckerberg"
+  },
+  {
+    "name": "concrete",
+    "trans": [
+      "混凝土制的；确实的，具体的；有形的，实在的",
+      "混凝土"
+    ],
+    "usphone": "'kɑŋkrit",
+    "ukphone": "'kɒŋkriːt",
+    "e_mean": [
+      "capable of being perceived by the senses"
+    ],
+    "speech": "adjective",
+    "sentence": "The road was made of concrete that had been poured in large slabs."
+  },
+  {
+    "name": "site",
+    "trans": [
+      "地点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the piece of land on which something is located"
+    ],
+    "speech": "noun",
+    "sentence": "the site of a city or of a house"
+  },
+  {
+    "name": "pillar",
+    "trans": [
+      "柱子/中坚/栋梁.a~ofsociety社会栋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      " a vertical cylindrical structure supporting a structure"
+    ],
+    "speech": "noun",
+    "sentence": "a pillar of smoke"
+  },
+  {
+    "name": "column",
+    "trans": [
+      "柱； 柱形物； 专栏， 栏目"
+    ],
+    "usphone": "'kɑləm",
+    "ukphone": "'kɒləm",
+    "e_mean": [
+      "a line of units following one after another"
+    ],
+    "speech": "noun",
+    "sentence": "It was too hard to read the text across the whole page, so I split it into two columns."
+  },
+  {
+    "name": "beam",
+    "trans": [
+      "面露喜色； 发射电波， 播送",
+      "束；梁；笑容，喜色"
+    ],
+    "usphone": "bim",
+    "ukphone": "biːm",
+    "e_mean": [
+      "a long thick piece of material used in construction"
+    ],
+    "speech": "noun",
+    "sentence": "This ship has more beam than that one."
+  },
+  {
+    "name": "vault",
+    "trans": [
+      "拱顶/金库/保险库"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a burial chamber (usually underground)"
+    ],
+    "speech": "noun",
+    "sentence": "Family members had been buried in the vault for centuries."
+  },
+  {
+    "name": "arch",
+    "trans": [
+      "拱门；(使)弯成弓形"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a curved masonry construction for spanning an opening"
+    ],
+    "speech": "noun",
+    "sentence": "to pass into the arch of a bridge"
+  },
+  {
+    "name": "ceiling",
+    "trans": [
+      "天花板，顶棚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the overhead upper surface of a covered space"
+    ],
+    "speech": "noun",
+    "sentence": "the dining room had an ornate ceiling"
+  },
+  {
+    "name": "reception",
+    "trans": [
+      "接收， 接受； 接待， 招待会； 接收效果"
+    ],
+    "usphone": "rɪ'sɛpʃən",
+    "ukphone": "rɪ'sepʃn",
+    "e_mean": [
+      "the act of taking in"
+    ],
+    "speech": "noun",
+    "sentence": "The new system provides exceptional quality of the reception signal."
+  },
+  {
+    "name": "lobby",
+    "trans": [
+      "游说",
+      "大厅； 游说团"
+    ],
+    "usphone": "'lɑbi",
+    "ukphone": "'lɒbi",
+    "e_mean": [
+      "a large entrance or reception room or area"
+    ],
+    "speech": "noun",
+    "sentence": "I had to wait in the lobby for hours before seeing the doctor."
+  },
+  {
+    "name": "bench",
+    "trans": [
+      "长凳/法官职位"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a long seat for more than one person"
+    ],
+    "speech": "noun",
+    "sentence": "They sat on a park bench and tossed bread crumbs to the ducks and pigeons."
+  },
+  {
+    "name": "radiate",
+    "trans": [
+      ".散发(热)/发射(光)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "send out rays or waves"
+    ],
+    "speech": "verb",
+    "sentence": "The stove radiates heat."
+  },
+  {
+    "name": "fix",
+    "trans": [
+      "修理，使固定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "restore by replacing a part or putting together what is torn or broken"
+    ],
+    "speech": "verb",
+    "sentence": "That plumber's fix is much better than the first one's."
+  },
+  {
+    "name": "mend",
+    "trans": [
+      "修理，(使)康复"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "restore by putting together what is torn or broken"
+    ],
+    "speech": "verb",
+    "sentence": "My trousers have a big rip in them and need a mend."
+  },
+  {
+    "name": "modification",
+    "trans": [
+      "修改， 改正"
+    ],
+    "usphone": ",mɑdɪfɪ'keʃən",
+    "ukphone": "ˌmɒdɪfɪ'keɪʃn",
+    "e_mean": [
+      "the act of making something different"
+    ],
+    "speech": "noun",
+    "sentence": "Jim's modification to the radio's tuning resulted in clearer sound."
+  },
+  {
+    "name": "trim",
+    "trans": [
+      "修剪",
+      "修长的，苗条健康的",
+      "修剪"
+    ],
+    "usphone": "trɪm",
+    "ukphone": "trɪm",
+    "e_mean": [
+      "make a reduction in"
+    ],
+    "speech": "verb",
+    "sentence": "Paint the house white with blue trim."
+  },
+  {
+    "name": "saw",
+    "trans": [
+      "锯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "hand tool having a toothed blade for cutting"
+    ],
+    "speech": "noun",
+    "sentence": "They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;"
+  },
+  {
+    "name": "screw",
+    "trans": [
+      "螺丝，螺（丝）钉",
+      "用螺丝固定"
+    ],
+    "usphone": "skru",
+    "ukphone": "skruː",
+    "e_mean": [
+      "a simple machine with a threaded cylindrical rod and hole"
+    ],
+    "speech": "noun",
+    "sentence": "the skeleton screw (Caprella); the sand screw"
+  },
+  {
+    "name": "drill",
+    "trans": [
+      "钻； 训练"
+    ],
+    "usphone": "drɪl",
+    "ukphone": "drɪl",
+    "e_mean": [
+      "a tool for making holes in hard materials"
+    ],
+    "speech": "noun",
+    "sentence": "Wear safety glasses when operating an electric drill."
+  },
+  {
+    "name": "plumb",
+    "trans": [
+      "垂直度等的)铅锤；用铅垂线校正"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "exactly vertical"
+    ],
+    "speech": "adjective",
+    "sentence": "It hit him plumb in the middle of his face."
+  },
+  {
+    "name": "span",
+    "trans": [
+      "横跨； 持续",
+      "跨距；一段时间"
+    ],
+    "usphone": "spæn",
+    "ukphone": "spæn",
+    "e_mean": [
+      "the distance or interval between two points"
+    ],
+    "speech": "noun",
+    "sentence": "He has a short attention span and gets bored within minutes."
+  },
+  {
+    "name": "dam",
+    "trans": [
+      "水坝；控制/抑制"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a barrier constructed to contain the flow of water"
+    ],
+    "speech": "noun",
+    "sentence": "A dam is often an essential source of water to farmers of hilly country."
+  },
+  {
+    "name": "assemble",
+    "trans": [
+      "组装，装配"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "create by putting components or members together"
+    ],
+    "speech": "verb",
+    "sentence": "He assembled the model ship."
+  },
+  {
+    "name": "assembly",
+    "trans": [
+      "集会，[计]汇编"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a group of persons gathered together for a common purpose"
+    ],
+    "speech": "noun",
+    "sentence": "In order to change the bearing, you must first remove the gearbox assembly."
+  },
+  {
+    "name": "install",
+    "trans": [
+      "安顿， 安置； 安装， 设置； 正式任命， 使正式就职"
+    ],
+    "usphone": "ɪn'stɔl",
+    "ukphone": "ɪn'stɔːl",
+    "e_mean": [
+      "set up for use"
+    ],
+    "speech": "verb",
+    "sentence": "After inserting the disk, you need to run the install."
+  },
+  {
+    "name": "landmark",
+    "trans": [
+      "路标， 地标； 里程碑"
+    ],
+    "usphone": "'lændmɑrk",
+    "ukphone": "'lændmɑːk",
+    "e_mean": [
+      "a prominent or well-known object in a particular place"
+    ],
+    "speech": "noun",
+    "sentence": "a landmark paper in neurosurgery"
+  },
+  {
+    "name": "locate",
+    "trans": [
+      "找到； 位于； 使坐落于； 把…设置在"
+    ],
+    "usphone": "ˈloˌket; loˈket",
+    "ukphone": "ləu'keɪt",
+    "e_mean": [
+      "determine the place of by searching or examining"
+    ],
+    "speech": "verb",
+    "sentence": "The council must locate the new hospital"
+  },
+  {
+    "name": "residential",
+    "trans": [
+      "居住的， 住宅的； 寄宿的"
+    ],
+    "usphone": ",rɛzɪ'dɛnʃl",
+    "ukphone": "ˌrezɪ'denʃl",
+    "e_mean": [
+      "of or relating to the act of dwelling in a place"
+    ],
+    "speech": "adjective",
+    "sentence": "The youth group organises annual residentials."
+  },
+  {
+    "name": "inhabit",
+    "trans": [
+      "居住于.habitable适合居住的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "live in; be a resident of"
+    ],
+    "speech": "verb",
+    "sentence": "The Inuit inhabit the Arctic."
+  },
+  {
+    "name": "migrate",
+    "trans": [
+      "迁徙； 移居"
+    ],
+    "usphone": "'maɪɡret",
+    "ukphone": "maɪ'greɪt",
+    "e_mean": [
+      "move from one country or region to another and settle there"
+    ],
+    "speech": "verb",
+    "sentence": "Twice a year the Minnesotans migrate from their state to the Gulf of Mexico."
+  },
+  {
+    "name": "settle",
+    "trans": [
+      "定居， 安家； 解决， 调停； 安排， 安放； 支付， 结算； 安置于； 飞落， 停留， 栖息"
+    ],
+    "usphone": "'sɛtl",
+    "ukphone": "'setl",
+    "e_mean": [
+      "become resolved, fixed, established, or quiet"
+    ],
+    "speech": "verb",
+    "sentence": "to settle her estate"
+  },
+  {
+    "name": "dwelling",
+    "trans": [
+      "住所"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "housing that someone is living in"
+    ],
+    "speech": "noun",
+    "sentence": "The old house served as a dwelling for Albert."
+  },
+  {
+    "name": "flat",
+    "trans": [
+      ".公寓；水平的；住公寓"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "having a surface without a slope; level"
+    ],
+    "speech": "adjective",
+    "sentence": "She liked to walk in her flats more than in her high heels."
+  },
+  {
+    "name": "lodge",
+    "trans": [
+      "租住；小屋/度假屋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a rustic house used as a temporary shelter"
+    ],
+    "speech": "noun",
+    "sentence": "The tribe consists of about two hundred lodges, that is, of about a thousand individuals."
+  },
+  {
+    "name": "hut",
+    "trans": [
+      "小屋，棚屋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "small crude shelter used as a dwelling"
+    ],
+    "speech": "noun",
+    "sentence": "a thatched hut; a mud hut; a shepherd’s hut"
+  },
+  {
+    "name": "toilet",
+    "trans": [
+      "抽水马桶/[英]厕所"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a plumbing fixture for defecation and urination"
+    ],
+    "speech": "noun",
+    "sentence": "Sorry, I was in the toilet."
+  },
+  {
+    "name": "bath",
+    "trans": [
+      "洗澡/[英]浴缸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a large open container filled with water to wash the body"
+    ],
+    "speech": "noun",
+    "sentence": "a bath of heated sand, ashes, steam, or hot air"
+  },
+  {
+    "name": "bathe",
+    "trans": [
+      "用水清洗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "clean one's body by immersion into water"
+    ],
+    "speech": "verb",
+    "sentence": "I'm going to have a midnight bathe tonight."
+  },
+  {
+    "name": "reserve",
+    "trans": [
+      "预订，预约；保留；储备",
+      "储备； 自然保护区"
+    ],
+    "usphone": "rɪ'zɝv",
+    "ukphone": "rɪ'zɜːv",
+    "e_mean": [
+      "hold back or set aside, especially for future use"
+    ],
+    "speech": "verb",
+    "sentence": "We reserve the right to make modifications."
+  },
+  {
+    "name": "store",
+    "trans": [
+      "商店/贮存物;贮存\nadepartment~百货商场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a mercantile establishment for the sale of goods or services"
+    ],
+    "speech": "noun",
+    "sentence": "This building used to be a store for old tires."
+  },
+  {
+    "name": "complex",
+    "trans": [
+      "综合建筑群"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "complicated in structure"
+    ],
+    "speech": "adjective",
+    "sentence": "Jim has a real complex about working for a woman boss."
+  },
+  {
+    "name": "studio",
+    "trans": [
+      "工作室； 摄影室； 练习室"
+    ],
+    "usphone": "'studɪo",
+    "ukphone": "'stjuːdiəu",
+    "e_mean": [
+      "workplace for the teaching or practice of an art"
+    ],
+    "speech": "noun",
+    "sentence": "His studio was cramped when he began as an artist."
+  },
+  {
+    "name": "downtown",
+    "trans": [
+      "市中心;市中心的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the central area or commercial center of a town or city"
+    ],
+    "speech": "noun",
+    "sentence": "John walked every day to his downtown job."
+  },
+  {
+    "name": "furniture",
+    "trans": [
+      "家具"
+    ],
+    "usphone": "'fɝnɪtʃɚ",
+    "ukphone": "'fɜːnɪtʃə(r)",
+    "e_mean": [
+      "furnishings that make a room or other area ready for occupancy"
+    ],
+    "speech": "noun",
+    "sentence": "A chair is furniture. Sofas are also furniture."
+  },
+  {
+    "name": "placement",
+    "trans": [
+      "放置，布置"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the spatial property of the way in which something is placed"
+    ],
+    "speech": "noun",
+    "sentence": "It seems to me that the placement of that poster could be better."
+  },
+  {
+    "name": "design",
+    "trans": [
+      "设计； 谋划， 构思",
+      "设计，构想；图样，图案；企图，图谋"
+    ],
+    "usphone": "dɪ'zaɪn",
+    "ukphone": "dɪ'zaɪn",
+    "e_mean": [
+      "the act of working out the form of something"
+    ],
+    "speech": "noun",
+    "sentence": "To be hateful of the truth by design."
+  },
+  {
+    "name": "inner",
+    "trans": [
+      "内部的、内心的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "located inward"
+    ],
+    "speech": "adjective",
+    "sentence": "inner door; inner room; inner sanctum; inner surface"
+  },
+  {
+    "name": "shed",
+    "trans": [
+      "简易房/棚;流/洒/摆脱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cause or allow to flow or run out or over"
+    ],
+    "speech": "verb",
+    "sentence": "A metal comb shed her golden hair."
+  },
+  {
+    "name": "cottage",
+    "trans": [
+      "村舍，小屋asummer~避暑别墅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small house with a single story"
+    ],
+    "speech": "noun",
+    "sentence": "Most cottages in the area were larger and more elaborate than my home."
+  },
+  {
+    "name": "nursery",
+    "trans": [
+      "幼儿教育的",
+      "托儿所； 苗圃"
+    ],
+    "usphone": "'nɝsəri",
+    "ukphone": "'nɜːsəri",
+    "e_mean": [
+      "a child's room for a baby"
+    ],
+    "speech": "noun",
+    "sentence": "Commerce is the nursery of seamen."
+  },
+  {
+    "name": "cradle",
+    "trans": [
+      "摇篮；发源地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a baby bed with sides and rockers"
+    ],
+    "speech": "noun",
+    "sentence": "a cradle of crime"
+  },
+  {
+    "name": "shelter",
+    "trans": [
+      "掩蔽； 躲避",
+      "掩蔽，隐蔽；住所；保护"
+    ],
+    "usphone": "'ʃɛltɚ",
+    "ukphone": "'ʃeltə(r)",
+    "e_mean": [
+      "covering that provides protection from the weather"
+    ],
+    "speech": "noun",
+    "sentence": "During the rainstorm, we sheltered under a tree."
+  },
+  {
+    "name": "block",
+    "trans": [
+      "一排房屋，街区；阻塞；大块木料",
+      "阻塞， 拦阻； 封锁"
+    ],
+    "usphone": "blɑk",
+    "ukphone": "blɒk",
+    "e_mean": [
+      "obstruct"
+    ],
+    "speech": "verb",
+    "sentence": "a block of ice"
+  },
+  {
+    "name": "aisle",
+    "trans": [
+      "走廊， 通道； 侧廊"
+    ],
+    "usphone": "aɪl",
+    "ukphone": "aɪl",
+    "e_mean": [
+      "a long narrow passage (as in a cave or woods)"
+    ],
+    "speech": "noun",
+    "sentence": "Do you want to seat window or aisle?"
+  },
+  {
+    "name": "storey",
+    "trans": [
+      "楼层"
+    ],
+    "usphone": "'stɔri",
+    "ukphone": "'stɔːri",
+    "e_mean": [
+      "a part of a building with rooms on the same level"
+    ],
+    "speech": "noun",
+    "sentence": "For superstitious reasons, many buildings number their 13th storey as 14, bypassing 13 entirely."
+  },
+  {
+    "name": "layer",
+    "trans": [
+      "层， 层次"
+    ],
+    "usphone": "'leɪr",
+    "ukphone": "'leɪə(r)",
+    "e_mean": [
+      "a single thickness of some substance or material"
+    ],
+    "speech": "noun",
+    "sentence": "After the first coat of paint dried, he applied another layer."
+  },
+  {
+    "name": "lift",
+    "trans": [
+      "[英]电梯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "raise from a lower to a higher position"
+    ],
+    "speech": "verb",
+    "sentence": "He gave me a lift to the bus station."
+  },
+  {
+    "name": "periphery",
+    "trans": [
+      "不重要的部分； 外围"
+    ],
+    "usphone": "pə'rɪfəri",
+    "ukphone": "pə'rɪfəri",
+    "e_mean": [
+      "the outside boundary or surface of something"
+    ],
+    "speech": "noun",
+    "sentence": "The suburbs are a city's periphery."
+  },
+  {
+    "name": "vicinity",
+    "trans": [
+      "周围地区/附近inthe~of在附近"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a surrounding or nearby region"
+    ],
+    "speech": "noun",
+    "sentence": "There was a crackling sound in the vicinity of my right ear."
+  },
+  {
+    "name": "void",
+    "trans": [
+      "空间/空白/空虚；空的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an empty area or space"
+    ],
+    "speech": "noun",
+    "sentence": "Nobody has crossed the void since one man died trying three hundred years ago; it's high time we had another go."
+  },
+  {
+    "name": "spacious",
+    "trans": [
+      "宽广的， 宽敞的"
+    ],
+    "usphone": "'speʃəs",
+    "ukphone": "'speɪʃəs",
+    "e_mean": [
+      "having ample room"
+    ],
+    "speech": "adjective",
+    "sentence": "The apartment has a spacious bedroom."
+  },
+  {
+    "name": "airtight",
+    "trans": [
+      "密闭的； 无懈可击的"
+    ],
+    "usphone": "'ɛrtaɪt",
+    "ukphone": "'eətaɪt",
+    "e_mean": [
+      "completely sealed so as to prevent gas from moving in or out"
+    ],
+    "speech": "adjective",
+    "sentence": "We have an airtight argument they won’t be able to punch holes in."
+  },
+  {
+    "name": "expansion",
+    "trans": [
+      "扩大， 扩张"
+    ],
+    "usphone": "ɪk'spænʃən",
+    "ukphone": "ɪk'spænʃn",
+    "e_mean": [
+      "the act of increasing in size or volume or quantity or scope"
+    ],
+    "speech": "noun",
+    "sentence": "The expansion of metals and plastics in response to heat is well understood."
+  },
+  {
+    "name": "tile",
+    "trans": [
+      "瓦/瓷砖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a flat thin rectangular slab used to cover surfaces"
+    ],
+    "speech": "noun",
+    "sentence": "Each tile within Google Maps consists of 256 × 256 pixels."
+  },
+  {
+    "name": "brick",
+    "trans": [
+      "砖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "rectangular block of clay baked by the sun or in a kiln"
+    ],
+    "speech": "noun",
+    "sentence": "This wall is made of bricks."
+  },
+  {
+    "name": "suspension",
+    "trans": [
+      "暂缓/暂令停职[səˈspenʃn]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of hanging something from above so it moves freely"
+    ],
+    "speech": "noun",
+    "sentence": "suspension from a hook"
+  },
+  {
+    "name": "hook",
+    "trans": [
+      "钩住， 挂住； 钓",
+      "钩，吊钩，钩状物"
+    ],
+    "usphone": "hʊk",
+    "ukphone": "huk",
+    "e_mean": [
+      "a mechanical device that is curved or bent to suspend or hold or pull something"
+    ],
+    "speech": "noun",
+    "sentence": "He is not handling this job, so we're giving him the hook."
+  },
+  {
+    "name": "lever",
+    "trans": [
+      "〔机器或设备的〕控制杆，操纵杆",
+      "〔用杠杆〕撬动"
+    ],
+    "usphone": "'lɛvɚ",
+    "ukphone": "'liːvə(r)",
+    "e_mean": [
+      "a simple machine giving a mechanical advantage on a fulcrum"
+    ],
+    "speech": "noun",
+    "sentence": "With great effort and a big crowbar I managed to lever the beam off the floor."
+  },
+  {
+    "name": "pole",
+    "trans": [
+      "杆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a long rod of wood, metal, or plastic"
+    ],
+    "speech": "noun",
+    "sentence": "Huck Finn poled that raft southward down the Mississippi because going northward against the current was too much work."
+  },
+  {
+    "name": "malfunction",
+    "trans": [
+      "发生故障"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "fail to work properly"
+    ],
+    "speech": "verb",
+    "sentence": "She told him the machine was poorly built, but they both knew that she was the one who had malfunctioned."
+  },
+  {
+    "name": "hall",
+    "trans": [
+      "门厅； 礼堂"
+    ],
+    "usphone": "hɔl",
+    "ukphone": "hɔːl",
+    "e_mean": [
+      "an interior passage or corridor onto which rooms open"
+    ],
+    "speech": "noun",
+    "sentence": "The drinking fountain was out in the hall."
+  },
+  {
+    "name": "manor",
+    "trans": [
+      "领地， 庄园"
+    ],
+    "usphone": "'mænɚ",
+    "ukphone": "'mænə(r)",
+    "e_mean": [
+      "the landed estate of a lord, including the house on it"
+    ],
+    "speech": "noun",
+    "sentence": "2012, July 30, Shekhar Bhatia, \"My East End manor is now as smart as Notting Hill\", The Evening Standard"
+  },
+  {
+    "name": "dome",
+    "trans": [
+      "圆屋顶； 穹顶"
+    ],
+    "usphone": "dom",
+    "ukphone": "dəum",
+    "e_mean": [
+      "a concave shape whose concavity faces downward"
+    ],
+    "speech": "noun",
+    "sentence": "a cake dome"
+  },
+  {
+    "name": "abode",
+    "trans": [
+      "房屋， 家， 住所"
+    ],
+    "usphone": "ə'bod",
+    "ukphone": "ə'bəud",
+    "e_mean": [
+      "any address at which you dwell more than temporarily"
+    ],
+    "speech": "noun",
+    "sentence": "The old oak tree abides the wind endlessly."
+  },
+  {
+    "name": "stall",
+    "trans": [
+      "货摊； 小隔间"
+    ],
+    "usphone": "stɔl",
+    "ukphone": "stɔːl",
+    "e_mean": [
+      "a small area set off for special use"
+    ],
+    "speech": "noun",
+    "sentence": "to stall an ox"
+  },
+  {
+    "name": "windscreen",
+    "trans": [
+      "挡风玻璃， 风挡"
+    ],
+    "usphone": "'wɪndskrin",
+    "ukphone": "'wɪndskriːn",
+    "e_mean": [
+      "transparent screen to protect occupants of a vehicle"
+    ],
+    "speech": "noun",
+    "sentence": "Oh no! A vandal has just smashed our windscreen! Susan, can you go and call the insurance company?"
+  },
+  {
+    "name": "reconstruction",
+    "trans": [
+      "重建； 再现"
+    ],
+    "usphone": ",rikən'strʌkʃən",
+    "ukphone": "ˌriːkən'strʌkʃn",
+    "e_mean": [
+      "the activity of building something again"
+    ],
+    "speech": "noun",
+    "sentence": "The reconstruction of the medieval bridge began last year."
+  },
+  {
+    "name": "escalator",
+    "trans": [
+      "〈美〉自动扶梯"
+    ],
+    "usphone": "'ɛskə'letɚ",
+    "ukphone": "'eskəleɪtə(r)",
+    "e_mean": [
+      "a stairway whose steps move continuously on a circulating belt"
+    ],
+    "speech": "noun",
+    "sentence": "They agreed to a cost-of-living escalator."
+  },
+  {
+    "name": "construction",
+    "trans": [
+      "建造； 建筑物； 构造"
+    ],
+    "usphone": "kən'strʌkʃən",
+    "ukphone": "kən'strʌkʃn",
+    "e_mean": [
+      "the act of building something"
+    ],
+    "speech": "noun",
+    "sentence": "Construction is underway on the new bridge."
+  },
+  {
+    "name": "rental",
+    "trans": [
+      "租用的； 出租的",
+      "租金额；出租，租赁"
+    ],
+    "usphone": "'rɛntl",
+    "ukphone": "'rentl",
+    "e_mean": [
+      "the act of paying for the use of something"
+    ],
+    "speech": "noun",
+    "sentence": "It's just a rental, so I don't need to take very good care of it."
+  },
+  {
+    "name": "bungalow",
+    "trans": [
+      "平房"
+    ],
+    "usphone": "ˈbʌŋɡəˌlo",
+    "ukphone": "'bʌŋgələu",
+    "e_mean": [
+      "a small house with a single story"
+    ],
+    "speech": "noun",
+    "sentence": "My aunt can't manage the stairs any more, so she's moving to a bungalow."
+  },
+  {
+    "name": "infrastructure",
+    "trans": [
+      "基础结构， 基础设施"
+    ],
+    "usphone": "'ɪnfrə'strʌktʃɚ",
+    "ukphone": "'ɪnfrəstrʌktʃə(r)",
+    "e_mean": [
+      "the basic features of a system or organization"
+    ],
+    "speech": "noun",
+    "sentence": "The parasitic tyranny's infrastructure depends on secrecy in order to be effective."
+  },
+  {
+    "name": "encompass",
+    "trans": [
+      "包含； 包围； 环绕"
+    ],
+    "usphone": "ɪn'kʌmpəs",
+    "ukphone": "ɪn'kʌmpəs",
+    "e_mean": [
+      "include in scope"
+    ],
+    "speech": "verb",
+    "sentence": "This book on English grammar encompasses all irregular verbs."
+  },
+  {
+    "name": "alley",
+    "trans": [
+      "小巷； 胡同"
+    ],
+    "usphone": "'æli",
+    "ukphone": "'ælɪ",
+    "e_mean": [
+      "a narrow street with walls on both sides"
+    ],
+    "speech": "noun",
+    "sentence": "The parking lot to my friend's apartment building is in the alley."
+  },
+  {
+    "name": "structural",
+    "trans": [
+      "结构上的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "relating to the composition of something"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "constructive",
+    "trans": [
+      "建设性的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "tending to improve or promote development"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "establish",
+    "trans": [
+      "建立； 确立； 安置， 使定居"
+    ],
+    "usphone": "ɪˈstæblɪʃ",
+    "ukphone": "ɪ'stæblɪʃ",
+    "e_mean": [
+      "set up or found"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "established",
+    "trans": [
+      "已确立的.establishment建立/机构"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "brought about or set up or accepted"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "steel",
+    "trans": [
+      "钢铁.steely强硬/坚决的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an alloy of iron with small amounts of carbon"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "stability",
+    "trans": [
+      "稳定(性)stable稳定的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the quality or attribute of being firm and steadfast"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "columnist",
+    "trans": [
+      "专栏作家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a journalist who writes editorials"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "laser",
+    "trans": [
+      "激光"
+    ],
+    "usphone": "'lezɚ",
+    "ukphone": "'leɪzə(r)",
+    "e_mean": [
+      "an optical device that produces an intense beam of light"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "eaves",
+    "trans": [
+      "屋檐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the overhang at the lower edge of a roof"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "chimney",
+    "trans": [
+      "烟囱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "vertical flue carrying smoke through the wall of a building"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "lobbyist",
+    "trans": [
+      "说客"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "someone who is employed to persuade how legislators vote"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "parlour",
+    "trans": [
+      "客厅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a room in a private house or establishment where people can sit and talk and relax"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "fireplace",
+    "trans": [
+      "壁炉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an open recess in a wall at the base of a chimney where a fire can be built"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "radiator",
+    "trans": [
+      "暖气设备.heating供暖；加热"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "heater consisting of a series of pipes for circulating steam"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "maintain",
+    "trans": [
+      "维持， 保持； 维修， 保养； 坚持， 主张； 赡养， 负担"
+    ],
+    "usphone": "men'ten",
+    "ukphone": "meɪn'teɪn",
+    "e_mean": [
+      "keep in a certain state, position, or activity"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "maintenance",
+    "trans": [
+      "维持； 保养； 抚养费"
+    ],
+    "usphone": "'mentənəns",
+    "ukphone": "'meɪntənəns",
+    "e_mean": [
+      "activity involved in keeping something in good working order"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "modify",
+    "trans": [
+      "更改， 修改； 修饰"
+    ],
+    "usphone": "'mɑdɪfaɪ",
+    "ukphone": "'mɒdɪfaɪ",
+    "e_mean": [
+      "cause to change; make different"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "weld",
+    "trans": [
+      "焊接，使紧密结合"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a metal joint formed by softening with heat and fusing"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "viaduct",
+    "trans": [
+      "高架桥"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a segmented, elevated bridge carrying a road over a valley"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "installation",
+    "trans": [
+      "安装的设备，安装"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of setting something up for use"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "venue",
+    "trans": [
+      "地点"
+    ],
+    "usphone": "'vɛnju",
+    "ukphone": "'venjuː",
+    "e_mean": [
+      "the scene of any event or action"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "reside",
+    "trans": [
+      "居住。residence居住"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "live in"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "emigrate",
+    "trans": [
+      "移居国外/移民"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "leave one's country of residence for a new one"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "immigrate",
+    "trans": [
+      "(从外地)移居/移民[ˈɪmɪɡreɪt]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "come into a new country and change residency"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "settlement",
+    "trans": [
+      "解决；定居点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of colonizing; the establishment of colonies"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "skyscraper",
+    "trans": [
+      "摩天楼"
+    ],
+    "usphone": "'skaɪ'skrepɚ",
+    "ukphone": "'skaɪskreɪpə(r)",
+    "e_mean": [
+      "a very tall building with many stories"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "villa",
+    "trans": [
+      "乡间别墅.vanilla香草"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a country house in ancient Rome"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mansion",
+    "trans": [
+      "大厦； 宅邸"
+    ],
+    "usphone": "'mænʃən",
+    "ukphone": "'mænʃn",
+    "e_mean": [
+      "a large and imposing house"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "apartment",
+    "trans": [
+      "公寓套房.asuiteof~—套公寓"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a home in a building divided into separate dwellings"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cabinet",
+    "trans": [
+      "储藏柜/内阁.a~meeting内阁会议"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a storage compartment for clothes and valuables"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "balcony",
+    "trans": [
+      "阳台； 楼座"
+    ],
+    "usphone": "'bælkənɪ",
+    "ukphone": "'bælkəni",
+    "e_mean": [
+      "a platform projecting from the wall of a building"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "terrace",
+    "trans": [
+      "一层梯田； 一排并列的房子； 阳台"
+    ],
+    "usphone": "ˈtɛrəs",
+    "ukphone": "'terəs",
+    "e_mean": [
+      "usually paved outdoor area adjoining a residence"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "lavatory",
+    "trans": [
+      "盥洗室， 厕所"
+    ],
+    "usphone": "'lævətɔri",
+    "ukphone": "'lævətrɪ",
+    "e_mean": [
+      "a room or building equipped with one or more toilets"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "basin",
+    "trans": [
+      "盆/盆地.washbowl洗脸盆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a bowl-shaped vessel used for holding food or liquids"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "reservoir",
+    "trans": [
+      "水库.dam水坝"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "lake used to store water for community use"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "booth",
+    "trans": [
+      "小房间； 公用电话亭； 售货棚"
+    ],
+    "usphone": "bʊθ",
+    "ukphone": "buːð",
+    "e_mean": [
+      "a small shop at a fair; for selling goods or entertainment"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "casino",
+    "trans": [
+      "赌场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a public building for gambling and entertainment"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "urban",
+    "trans": [
+      "都市的； 住在都市的"
+    ],
+    "usphone": "'ɝbən",
+    "ukphone": "'ɜːbən",
+    "e_mean": [
+      "relating to a city or densely populated area"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "urbanise",
+    "trans": [
+      "使城市化=urbanize"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "make more industrial or city-like"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "urbanisation",
+    "trans": [
+      "城市化=urbanization)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the social process whereby cities grow and societies become more urban"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "peripheral",
+    "trans": [
+      "外围的；次要的，附带的",
+      "外围设备"
+    ],
+    "usphone": "pə'rɪfərəl",
+    "ukphone": "pə'rɪfərəl",
+    "e_mean": [
+      "on or near an edge or constituting an outer boundary"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "furnish",
+    "trans": [
+      "布置， 为…配备家具； 供应， 提供； 装备"
+    ],
+    "usphone": "'fɝnɪʃ",
+    "ukphone": "'fɜːnɪʃ",
+    "e_mean": [
+      "provide with objects or articles that make a room usable"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "layout",
+    "trans": [
+      "布局， 安排， 设计"
+    ],
+    "usphone": "'leaʊt",
+    "ukphone": "'leɪaut",
+    "e_mean": [
+      "a plan or design of something that is laid out"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "inward",
+    "trans": [
+      "向内的/内心的；向内"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "directed or moving inward or toward a center"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "cellar",
+    "trans": [
+      "地窖，地下室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a room that is partly or wholly below ground level"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "grid",
+    "trans": [
+      "格子， 栅格； 地图上的坐标方格； 输电网， 煤气输送网"
+    ],
+    "usphone": "ɡrɪd",
+    "ukphone": "grɪd",
+    "e_mean": [
+      "a pattern of regularly spaced horizontal and vertical lines"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "porch",
+    "trans": [
+      "门廊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a structure attached to the exterior of a building often forming a covered entrance"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "corridor",
+    "trans": [
+      "过道， 走廊"
+    ],
+    "usphone": "'kɔrɪdɔr",
+    "ukphone": "'kɒrɪdɔː(r)",
+    "e_mean": [
+      "an enclosed passageway"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "stair",
+    "trans": [
+      "楼梯.upstairs在楼上楼上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "support consisting of a place to rest the foot while ascending or descending a stairway"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "staircase",
+    "trans": [
+      "楼梯"
+    ],
+    "usphone": "'stɛrkes",
+    "ukphone": "'steəkeɪs",
+    "e_mean": [
+      "a way of access consisting of a set of steps"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "elevator",
+    "trans": [
+      "[美]电梯.afreight~货梯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "handrail",
+    "trans": [
+      "扶手/栏杆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a railing at the side of a staircase or balcony"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "expanse",
+    "trans": [
+      "广阔/辽阔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a wide and open space or area, as of land, sea, or sky"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "plaza",
+    "trans": [
+      "广场/购物中心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a public square with room for pedestrians"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "castle",
+    "trans": [
+      "城堡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a large building formerly occupied by a ruler and fortified against attack"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "brickwork",
+    "trans": [
+      "砖结构"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "masonry done with bricks and mortar"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "scaffold",
+    "trans": [
+      "脚手架；绞刑架"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a temporary arrangement erected around a building"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "crane",
+    "trans": [
+      "起重机；鹤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a long-necked wading bird"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "maltreat",
+    "trans": [
+      "虐待"
+    ],
+    "usphone": ",mæl'trit",
+    "ukphone": "ˌmæl'triːt",
+    "e_mean": [
+      "be cruel to someone"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "darkroom",
+    "trans": [
+      "暗室"
+    ],
+    "usphone": "'dɑrkrum",
+    "ukphone": "'dɑːkrum",
+    "e_mean": [
+      "a place in which photographic film is developed"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "inlet",
+    "trans": [
+      "入口； 进口， 水湾"
+    ],
+    "usphone": "ɪnˌlɛt",
+    "ukphone": "'ɪnlet",
+    "e_mean": [
+      "an arm off of a larger body of water"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "keystone",
+    "trans": [
+      "拱顶石； 基础， 主旨"
+    ],
+    "usphone": "'ki'ston",
+    "ukphone": "'kiːstəun",
+    "e_mean": [
+      "the central building block at the top of an arch or vault"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "residence",
+    "trans": [
+      "住宅， 住处； 居住"
+    ],
+    "usphone": "'rɛzɪdəns",
+    "ukphone": "'rezɪdəns",
+    "e_mean": [
+      "any address at which you dwell more than temporarily"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "earthwork",
+    "trans": [
+      "土方"
+    ],
+    "usphone": "'ɝθwɝk",
+    "ukphone": "'ɜːθwɜːk",
+    "e_mean": [
+      "an earthen rampart"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sanitary",
+    "trans": [
+      "清洁的；保健的，卫生的",
+      "公共厕所"
+    ],
+    "usphone": "'sænə'tɛri",
+    "ukphone": "'sænətri",
+    "e_mean": [
+      "free from filth and pathogens"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "breakwater",
+    "trans": [
+      "防浪堤"
+    ],
+    "usphone": "'brek'wɔtɚ",
+    "ukphone": "'breɪkwɔːtə(r)",
+    "e_mean": [
+      "a protective structure of stone or concrete"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "turret",
+    "trans": [
+      "塔楼， 角楼"
+    ],
+    "usphone": "ˈtərɪt",
+    "ukphone": "'tʌrət",
+    "e_mean": [
+      "a small tower extending above a building"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "hectare",
+    "trans": [
+      "公顷"
+    ],
+    "usphone": "'hɛktɛr",
+    "ukphone": "'hekt3ə(r)",
+    "e_mean": [
+      "a unit of surface area equal to 100 ares"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "urbanization",
+    "trans": [
+      "城市化， 都市化"
+    ],
+    "usphone": ",ɝbənɪ'zeʃən",
+    "ukphone": "ˌɜːbənaɪ'zeɪʃn",
+    "e_mean": [
+      "the social process whereby cities grow"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "aquarium",
+    "trans": [
+      "养鱼池； 玻璃缸； 水族馆"
+    ],
+    "usphone": "ə'kwɛrɪəm",
+    "ukphone": "ə'kweəriəm",
+    "e_mean": [
+      "a tank or pool filled with water for keeping live fish"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "demolition",
+    "trans": [
+      "拆除； 破坏， 毁坏"
+    ],
+    "usphone": ",dɛmə'lɪʃən; ,dimə'lɪʃən",
+    "ukphone": "ˌdemə'lɪʃn",
+    "e_mean": [
+      "the act of destroying completely"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "arcade",
+    "trans": [
+      "拱廊， 有拱廊的街道"
+    ],
+    "usphone": "ɑr'ked",
+    "ukphone": "ɑː'keɪd",
+    "e_mean": [
+      "a structure composed of arches supported by columns"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "metro",
+    "trans": [
+      "地下铁路"
+    ],
+    "usphone": "'mɛtro",
+    "ukphone": "'metrəu",
+    "e_mean": [
+      "an electric railway operating below the surface of the ground (usually in a city)"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mall",
+    "trans": [
+      "购物中心"
+    ],
+    "usphone": "mɔl",
+    "ukphone": "mɔːl",
+    "e_mean": [
+      "mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers; usually includes restaurants and a convenient parking area; a modern version of the traditional marketplace"
+    ],
+    "speech": "noun"
+  }
+]

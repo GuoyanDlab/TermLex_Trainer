@@ -1,0 +1,9 @@
+node_modules
+dist
+data/audio/*.mp3
+.env
+.corepack
+.DS_Store
+data/progress*.json
+data/chunks-progress.json
+data/youglish/

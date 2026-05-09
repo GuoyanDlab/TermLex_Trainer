@@ -1,0 +1,3248 @@
+[
+  {
+    "name": "politics",
+    "trans": [
+      "政治/政见；从事政治活动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the activities involved in managing a state or a government"
+    ],
+    "speech": "noun",
+    "sentence": "He made a career out of politics."
+  },
+  {
+    "name": "crown",
+    "trans": [
+      "王冠； 花冠； 齿冠"
+    ],
+    "usphone": "kraʊn",
+    "ukphone": "kraun",
+    "e_mean": [
+      "an ornamental jeweled headdress signifying sovereignty"
+    ],
+    "speech": "noun",
+    "sentence": "the martyr's crown"
+  },
+  {
+    "name": "guideline",
+    "trans": [
+      "指导方针，指导原则"
+    ],
+    "usphone": "'ɡaɪdlaɪn",
+    "ukphone": "'gaɪdlaɪn",
+    "e_mean": [
+      "a rule that provides direction for appropriate behavior"
+    ],
+    "speech": "noun",
+    "sentence": "He considered the Ten Commandments more a guideline than a requirement."
+  },
+  {
+    "name": "suggest",
+    "trans": [
+      "建议， 提出； 暗示"
+    ],
+    "usphone": "sə'dʒɛst",
+    "ukphone": "sə'dʒest",
+    "e_mean": [
+      "make a proposal; declare a plan for something"
+    ],
+    "speech": "verb",
+    "sentence": "Are you suggesting that I killed my wife?"
+  },
+  {
+    "name": "advise",
+    "trans": [
+      "劝告/建议.advice建议"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "give advice to"
+    ],
+    "speech": "verb",
+    "sentence": "The dentist advised me to brush three times a day."
+  },
+  {
+    "name": "declare",
+    "trans": [
+      "正式宣布； 声明； 断言"
+    ],
+    "usphone": "dɪ'klɛr",
+    "ukphone": "dɪ'kleə(r)",
+    "e_mean": [
+      "state emphatically and authoritatively"
+    ],
+    "speech": "verb",
+    "sentence": "He declared him innocent."
+  },
+  {
+    "name": "affirm",
+    "trans": [
+      "断言/声称/证实.~aview证实某观点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "declare solemnly and formally as true"
+    ],
+    "speech": "verb",
+    "sentence": "She affirmed that she would go when I asked her."
+  },
+  {
+    "name": "state",
+    "trans": [
+      "陈述/说明；国家/州"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the way something is with respect to its main attributes"
+    ],
+    "speech": "noun",
+    "sentence": "He stated that he was willing to help."
+  },
+  {
+    "name": "statement",
+    "trans": [
+      "陈述； 声明； 报表"
+    ],
+    "usphone": "'stetmənt",
+    "ukphone": "'steɪtmənt",
+    "e_mean": [
+      "the act of affirming or asserting something"
+    ],
+    "speech": "noun",
+    "sentence": "a bank statement"
+  },
+  {
+    "name": "clarify",
+    "trans": [
+      "澄清； 阐明"
+    ],
+    "usphone": "'klærəfaɪ",
+    "ukphone": "'klærəfaɪ",
+    "e_mean": [
+      "make clear by removing impurities or solids, as by heating"
+    ],
+    "speech": "verb",
+    "sentence": "Leave the wine for 24 hours and it will clarify."
+  },
+  {
+    "name": "banner",
+    "trans": [
+      "横幅； 旗帜"
+    ],
+    "usphone": "'bænɚ",
+    "ukphone": "'bænə(r)",
+    "e_mean": [
+      "long strip of cloth or paper for decoration or advertising"
+    ],
+    "speech": "noun",
+    "sentence": "The mayor hung a banner across Main Street to commemorate the town's 100th anniversary."
+  },
+  {
+    "name": "president",
+    "trans": [
+      "总统， 校长， 会长， 主席"
+    ],
+    "usphone": "'prɛzɪdənt",
+    "ukphone": "'prezɪdənt",
+    "e_mean": [
+      "the leader of a republic or democracy"
+    ],
+    "speech": "noun",
+    "sentence": "The vast majority of presidents have been male."
+  },
+  {
+    "name": "premier",
+    "trans": [
+      "首要的， 第一位的； 最著名的",
+      "总理；首相"
+    ],
+    "usphone": "prɪ'mɪr",
+    "ukphone": "'premiə(r)",
+    "e_mean": [
+      "first in rank or degree"
+    ],
+    "speech": "adjective",
+    "sentence": "The composer invited all his friends when they premiered the movie he orchestrated, we got to see it before anyone but the crew."
+  },
+  {
+    "name": "minister",
+    "trans": [
+      "部长； 外交使节； 牧师"
+    ],
+    "usphone": "'mɪnɪstɚ",
+    "ukphone": "'mɪnɪstə(r)",
+    "e_mean": [
+      "a person authorized to conduct religious worship"
+    ],
+    "speech": "noun",
+    "sentence": "The minister said a prayer on behalf of the entire congregation."
+  },
+  {
+    "name": "secretary",
+    "trans": [
+      "秘书，书记员，大臣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an assistant who handles correspondence and clerical work"
+    ],
+    "speech": "noun",
+    "sentence": "Ban Ki-Moon was a secretary general of the United Nations."
+  },
+  {
+    "name": "parliament",
+    "trans": [
+      "议会， 国会"
+    ],
+    "usphone": "'pɑrləmənt",
+    "ukphone": "'pɑːləmənt",
+    "e_mean": [
+      "a legislative assembly in certain countries"
+    ],
+    "speech": "noun",
+    "sentence": "Following the general election, Jane Doe took her oath of office as a member of the nation's fifth parliament."
+  },
+  {
+    "name": "race",
+    "trans": [
+      "人种"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a contest of speed"
+    ],
+    "speech": "noun",
+    "sentence": "The race around the park was won by Johnny, who ran faster than the others."
+  },
+  {
+    "name": "specific",
+    "trans": [
+      "特定的； 明确的"
+    ],
+    "usphone": "spɪ'sɪfɪk",
+    "ukphone": "spə'sɪfɪk",
+    "e_mean": [
+      "stated explicitly or in detail"
+    ],
+    "speech": "adjective",
+    "sentence": "a highly specific test, specific and nonspecific symptoms"
+  },
+  {
+    "name": "qualification",
+    "trans": [
+      "资格， 合格； 技能； 限定， 条件； 合格证"
+    ],
+    "usphone": ",kwɑlɪfɪ'keʃən",
+    "ukphone": "ˌkwɒlɪfɪ'keɪʃn",
+    "e_mean": [
+      "the act of modifying or changing the strength of some idea"
+    ],
+    "speech": "noun",
+    "sentence": "Qualification for this organization is extraordinarily difficult."
+  },
+  {
+    "name": "exceptional",
+    "trans": [
+      "例外的； 异常的"
+    ],
+    "usphone": "ɪk'sɛpʃənl",
+    "ukphone": "ɪk'sepʃənl",
+    "e_mean": [
+      "surpassing what is common or usual or expected"
+    ],
+    "speech": "adjective",
+    "sentence": "What an exceptional flower!"
+  },
+  {
+    "name": "tick off",
+    "trans": [
+      "列举；用记号标出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "put a check mark on or near or next to"
+    ],
+    "speech": "verb",
+    "sentence": "I ticked off Harry today because he announced he was present."
+  },
+  {
+    "name": "requisition",
+    "trans": [
+      "正式要求； 征用"
+    ],
+    "usphone": "'rɛkwə'zɪʃən",
+    "ukphone": "ˌrekwɪ'zɪʃn",
+    "e_mean": [
+      "an authoritative demand"
+    ],
+    "speech": "noun",
+    "sentence": "a requisition for a public meeting"
+  },
+  {
+    "name": "achievement",
+    "trans": [
+      "成就， 成绩； 达到， 完成， 实现"
+    ],
+    "usphone": "ə'tʃivmənt",
+    "ukphone": "ə'tʃiːvmənt",
+    "e_mean": [
+      "the action of accomplishing something"
+    ],
+    "speech": "noun",
+    "sentence": "Finishing the game does not give you a 100% score until you have unlocked all of the achievements."
+  },
+  {
+    "name": "ministry",
+    "trans": [
+      "部"
+    ],
+    "usphone": "'mɪnɪstri",
+    "ukphone": "'mɪnɪstri",
+    "e_mean": [
+      "the work of a person authorized to conduct religious worship"
+    ],
+    "speech": "noun",
+    "sentence": "She works for the ministry of finance."
+  },
+  {
+    "name": "republic",
+    "trans": [
+      "共和国，共和政体"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a form of government whose head of state is not a monarch"
+    ],
+    "speech": "noun",
+    "sentence": "The United States is a republic; the United Kingdom of Great Britain and Northern Ireland is a constitutional monarchy."
+  },
+  {
+    "name": "communal",
+    "trans": [
+      "[kəˈmjuːnl]公共的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "for or by a group rather than individuals"
+    ],
+    "speech": "adjective",
+    "sentence": "communal politics"
+  },
+  {
+    "name": "regime",
+    "trans": [
+      "[reɪˈʒiːm]统治制度/政权/管理体制"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the governing authority of a political unit"
+    ],
+    "speech": "noun",
+    "sentence": "a prison regime"
+  },
+  {
+    "name": "irregular",
+    "trans": [
+      "不规则的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "not level or flat or symmetrical"
+    ],
+    "speech": "adjective",
+    "sentence": "\"Calves\", \"cacti\", and \"children\" are irregular plurals."
+  },
+  {
+    "name": "regulate",
+    "trans": [
+      "管制， 控制； 调节， 校准； 调整"
+    ],
+    "usphone": "'rɛɡjulet",
+    "ukphone": "'regjʊleɪt",
+    "e_mean": [
+      "bring into conformity with rules, principles, or usage"
+    ],
+    "speech": "verb",
+    "sentence": "to regulate a watch, i.e. adjust its rate of running so that it will keep approximately standard time"
+  },
+  {
+    "name": "government",
+    "trans": [
+      "政府/政体/统治"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the system or form by which a community is ruled"
+    ],
+    "speech": "noun",
+    "sentence": "If the citizens must follow the law, then the government must follow the constitution."
+  },
+  {
+    "name": "govern",
+    "trans": [
+      "统治， 管理； 控制， 支配"
+    ],
+    "usphone": "'ɡʌvɚn",
+    "ukphone": "'gʌvn",
+    "e_mean": [
+      "exercise authority over, as of nations"
+    ],
+    "speech": "verb",
+    "sentence": "The old king governed the land wisely."
+  },
+  {
+    "name": "authority",
+    "trans": [
+      "权力，管辖权；"
+    ],
+    "usphone": "ə'θɔrəti",
+    "ukphone": "ɔː'θɒrəti",
+    "e_mean": [
+      "the power or right to give orders or make decisions"
+    ],
+    "speech": "noun",
+    "sentence": "I have the authority to penalise the staff in my department, but not the authority to sack them."
+  },
+  {
+    "name": "authorise",
+    "trans": [
+      "批准， 认可； 授权"
+    ],
+    "usphone": "'ɔ:θəraiz",
+    "ukphone": "'ɔːθəraɪz",
+    "e_mean": [
+      "grant authorization or clearance for"
+    ],
+    "speech": "verb",
+    "sentence": "The General Assembly authorized the Council to take up the matter."
+  },
+  {
+    "name": "political",
+    "trans": [
+      "政治/政党的。a~party政党"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "involving or characteristic of governing or social power"
+    ],
+    "speech": "adjective",
+    "sentence": "Political principles are rarely absolute, as political logic holds an imperfect result by compromise is better than a theoretically perfect abstention from the political process in the opposition."
+  },
+  {
+    "name": "policy",
+    "trans": [
+      "政策"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a plan of action adopted by an individual or social group"
+    ],
+    "speech": "noun",
+    "sentence": "The Communist Party has a policy of returning power to the workers."
+  },
+  {
+    "name": "politician",
+    "trans": [
+      "政治家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a leader engaged in civil administration"
+    ],
+    "speech": "noun",
+    "sentence": "Politicians should serve the country's interest."
+  },
+  {
+    "name": "dominate",
+    "trans": [
+      "支配， 统治； 耸立于"
+    ],
+    "usphone": "'dɑmɪnet",
+    "ukphone": "'dɒmɪneɪt",
+    "e_mean": [
+      "be in control"
+    ],
+    "speech": "verb",
+    "sentence": "The dominant party controlled the government."
+  },
+  {
+    "name": "domination",
+    "trans": [
+      "控制， 统治， 支配"
+    ],
+    "usphone": ",dɑmə'neʃən",
+    "ukphone": "ˌdɒmɪ'neɪʃn",
+    "e_mean": [
+      "power to defeat"
+    ],
+    "speech": "noun",
+    "sentence": "The soldiers took cover behind a ruined building."
+  },
+  {
+    "name": "power",
+    "trans": [
+      "能/权力comeinto~上台/开始执政"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "possession of the qualities required to do something"
+    ],
+    "speech": "noun",
+    "sentence": "the mechanical powers"
+  },
+  {
+    "name": "influence",
+    "trans": [
+      "影响(力)，作用",
+      "影响，对…起作用"
+    ],
+    "usphone": "'ɪnfluəns",
+    "ukphone": "'ɪnfluəns",
+    "e_mean": [
+      "a power to affect persons or events"
+    ],
+    "speech": "noun",
+    "sentence": "I have absolutely no influence over him."
+  },
+  {
+    "name": "affect",
+    "trans": [
+      "影响； 感染"
+    ],
+    "usphone": "ə'fɛkt",
+    "ukphone": "ə'fekt",
+    "e_mean": [
+      "have an influence upon"
+    ],
+    "speech": "verb",
+    "sentence": "The experience affected me deeply."
+  },
+  {
+    "name": "significance",
+    "trans": [
+      "重要性， 意义"
+    ],
+    "usphone": "sɪɡ'nɪfɪkəns",
+    "ukphone": "sɪg'nɪfɪkəns",
+    "e_mean": [
+      "the quality of being important"
+    ],
+    "speech": "noun",
+    "sentence": "As a juror your opinion is of great significance for the outcome of the trial."
+  },
+  {
+    "name": "associate",
+    "trans": [
+      "使联合； 使有联系； 交往",
+      "副的； 联合的， 合伙的",
+      "伙伴；同事"
+    ],
+    "usphone": "ə'soʃɪet",
+    "ukphone": "ə'səʊʃɪeɪt; -sɪeɪt",
+    "e_mean": [
+      "bring or come into action"
+    ],
+    "speech": "verb",
+    "sentence": "She associates with her coworkers on weekends."
+  },
+  {
+    "name": "community",
+    "trans": [
+      "社会； 社区； 团体； 群落； 共同体"
+    ],
+    "usphone": "kəˈmjunətɪ",
+    "ukphone": "kə'mjuːnəti",
+    "e_mean": [
+      "a group of people living in a particular local area"
+    ],
+    "speech": "noun",
+    "sentence": "a community of goods"
+  },
+  {
+    "name": "league",
+    "trans": [
+      "联赛/联盟/同盟forma~结成联盟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an association of states or individuals for common action"
+    ],
+    "speech": "noun",
+    "sentence": "the League of Nations"
+  },
+  {
+    "name": "institution",
+    "trans": [
+      "协会； 机构； 制度； 习俗； 团体； 设立， 制定"
+    ],
+    "usphone": ",ɪnstɪ'tuʃən",
+    "ukphone": "ˌɪnstɪ'tjuːʃn",
+    "e_mean": [
+      "a custom that has been an important feature of some group"
+    ],
+    "speech": "noun",
+    "sentence": "He's been in an institution since the crash."
+  },
+  {
+    "name": "unite",
+    "trans": [
+      "联合/团结.united联合的."
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "join or combine"
+    ],
+    "speech": "verb",
+    "sentence": "I hope this song can unite people from all different cultures."
+  },
+  {
+    "name": "unique",
+    "trans": [
+      "唯一的， 独一无二的； 极不寻常的， 极好的"
+    ],
+    "usphone": "jʊ'nik",
+    "ukphone": "ju'niːk",
+    "e_mean": [
+      "the single one of its kind"
+    ],
+    "speech": "adjective",
+    "sentence": "Every person has a unique life, therefore every person has a unique journey. ― Gary Cook"
+  },
+  {
+    "name": "vote",
+    "trans": [
+      "选举权/投票;表决.~against投票反对"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a choice made by counting people in favor of alternatives"
+    ],
+    "speech": "noun",
+    "sentence": "One occasion indicative votes were used was in 2003 when MPs were presented with seven different options on how to reform the House of Lords."
+  },
+  {
+    "name": "elect",
+    "trans": [
+      "选举,选择.elective.选任的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "choose by a vote for an office or membership"
+    ],
+    "speech": "verb",
+    "sentence": "He is the President elect."
+  },
+  {
+    "name": "poll",
+    "trans": [
+      "对…进行民意测验； 获得…选票",
+      "民意测验；政治选举，大选"
+    ],
+    "usphone": "pol",
+    "ukphone": "pəul",
+    "e_mean": [
+      "the counting of votes (as in an election)"
+    ],
+    "speech": "noun",
+    "sentence": "The student council had a poll to see what people want served in the cafeteria."
+  },
+  {
+    "name": "conduct",
+    "trans": [
+      "指导； 管理， 实施； 指挥",
+      "举止；指导；管理[kən'dʌkt]"
+    ],
+    "usphone": "kən'dʌkt",
+    "ukphone": "'kɒndʌkt",
+    "e_mean": [
+      "the way a person behaves toward other people"
+    ],
+    "speech": "noun",
+    "sentence": "Good conduct will be rewarded and likewise poor conduct will be punished."
+  },
+  {
+    "name": "ambition",
+    "trans": [
+      "雄心， 抱负； 野心"
+    ],
+    "usphone": "æm'bɪʃən",
+    "ukphone": "æm'bɪʃn",
+    "e_mean": [
+      "a strong drive for success"
+    ],
+    "speech": "noun",
+    "sentence": "My son, John, wants to be a firefighter very much. He has a lot of ambition."
+  },
+  {
+    "name": "nominate",
+    "trans": [
+      "提名/任命.nomination提名"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "propose as a candidate for some honor"
+    ],
+    "speech": "verb",
+    "sentence": "1658: the City of Norwich [...] was enlarged, builded and nominated by the Saxons. — Sir Thomas Browne, Urne-Burial (Penguin 2005, p. 12)"
+  },
+  {
+    "name": "claim",
+    "trans": [
+      "要求；声称，主张；索赔",
+      "要求； 主张， 断言； 索赔"
+    ],
+    "usphone": "klem",
+    "ukphone": "kleɪm",
+    "e_mean": [
+      "assert or affirm strongly"
+    ],
+    "speech": "verb",
+    "sentence": "a claim of ownership"
+  },
+  {
+    "name": "welfare",
+    "trans": [
+      "福利"
+    ],
+    "usphone": "'wɛl'fɛr",
+    "ukphone": "'welfeə(r)",
+    "e_mean": [
+      "something that aids or promotes well-being"
+    ],
+    "speech": "noun",
+    "sentence": "welfaring the poor"
+  },
+  {
+    "name": "harmony",
+    "trans": [
+      "相符， 一致； 和谐， 融洽； 【音】 和声"
+    ],
+    "usphone": "'hɑrməni",
+    "ukphone": "'hɑːməni",
+    "e_mean": [
+      "compatibility in opinion and action"
+    ],
+    "speech": "noun",
+    "sentence": "a harmony of the Gospels"
+  },
+  {
+    "name": "steady",
+    "trans": [
+      "稳步的；稳定的",
+      "稳定， 平稳； 镇定"
+    ],
+    "usphone": "'stɛdi",
+    "ukphone": "'stedi",
+    "e_mean": [
+      "securely in position; not shaky"
+    ],
+    "speech": "adjective",
+    "sentence": "Hold the ladder steady while I go up."
+  },
+  {
+    "name": "flourish",
+    "trans": [
+      "繁荣；茂盛；兴旺；"
+    ],
+    "usphone": "ˈflɜːrɪʃ",
+    "ukphone": "'flʌrɪʃ",
+    "e_mean": [
+      "grow vigorously"
+    ],
+    "speech": "verb",
+    "sentence": "With many flourishes of the captured banner, they marched down the avenue."
+  },
+  {
+    "name": "success",
+    "trans": [
+      "成功.successful.成功的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an event that accomplishes its intended purpose"
+    ],
+    "speech": "noun",
+    "sentence": "His third attempt to pass the entrance exam was a success."
+  },
+  {
+    "name": "succeed",
+    "trans": [
+      "成功； 接着发生"
+    ],
+    "usphone": "sək'sid",
+    "ukphone": "sək'siːd",
+    "e_mean": [
+      "attain success or reach a desired goal"
+    ],
+    "speech": "verb",
+    "sentence": "Autumn succeeds summer."
+  },
+  {
+    "name": "prospective",
+    "trans": [
+      "预期的； 未来的； 可能的"
+    ],
+    "usphone": "prə'spɛktɪv",
+    "ukphone": "prə'spektɪv",
+    "e_mean": [
+      "of or concerned with or related to the future"
+    ],
+    "speech": "adjective",
+    "sentence": "I'm meeting the prospectives at 3."
+  },
+  {
+    "name": "democratic",
+    "trans": [
+      "民主的， 有民主精神的"
+    ],
+    "usphone": "'dɛmə'krætɪk",
+    "ukphone": "ˌdemə'krætɪk",
+    "e_mean": [
+      "based upon the principles of social equality"
+    ],
+    "speech": "adjective",
+    "sentence": "The United States is a democratic country, as the citizens are allowed to choose leaders to represent their interests."
+  },
+  {
+    "name": "bureaucracy",
+    "trans": [
+      "官僚主义； 官僚机构"
+    ],
+    "usphone": "bjʊ'rɑkrəsi",
+    "ukphone": "bjuə'rɒkrəsi",
+    "e_mean": [
+      "a government administered primarily by nonelective officials"
+    ],
+    "speech": "noun",
+    "sentence": "At that time the administration replaced the system of patronage in the civil service with a bureaucracy."
+  },
+  {
+    "name": "material",
+    "trans": [
+      "[məˈtɪəriəl]物质，素材，材料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the substance that goes into the makeup of a physical object"
+    ],
+    "speech": "noun",
+    "sentence": "Asphalt, composed of oil and sand, is a widely used material for roads."
+  },
+  {
+    "name": "revolutionary",
+    "trans": [
+      "革命的；革命者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "markedly new or introducing radical change"
+    ],
+    "speech": "adjective",
+    "sentence": "revolutionary agitators"
+  },
+  {
+    "name": "reform",
+    "trans": [
+      "改革/良.~andopeningup改革开放"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "make changes for improvement to remove abuse and injustices"
+    ],
+    "speech": "verb",
+    "sentence": "A major reform is needed to improve the efficiency in the factory."
+  },
+  {
+    "name": "process",
+    "trans": [
+      "过程；步骤，程序",
+      "加工； 处理； 办理"
+    ],
+    "usphone": "proˈsɛs;(for n.)prɑsɛs",
+    "ukphone": "'prəuses",
+    "e_mean": [
+      "a particular course of action intended to achieve a result"
+    ],
+    "speech": "noun",
+    "sentence": "This product of last month's quality standards committee is quite good, even though the process was flawed."
+  },
+  {
+    "name": "procession",
+    "trans": [
+      "队伍， 行列"
+    ],
+    "usphone": "prə'sɛʃən",
+    "ukphone": "prə'seʃn",
+    "e_mean": [
+      "the act of moving forward, as toward a goal"
+    ],
+    "speech": "noun",
+    "sentence": "a procession of mourners; the Lord Mayor's procession"
+  },
+  {
+    "name": "conservative",
+    "trans": [
+      "保守的；传统的；守旧的",
+      "保守的人"
+    ],
+    "usphone": "kən'sɝvətɪv",
+    "ukphone": "kən'sɜːvətɪv",
+    "e_mean": [
+      "resistant to change"
+    ],
+    "speech": "adjective",
+    "sentence": "The curriculum committee at this university is extremely conservative."
+  },
+  {
+    "name": "meltdown",
+    "trans": [
+      "(核反应堆的)堆芯熔毁，崩溃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping"
+    ],
+    "speech": "noun",
+    "sentence": "Four years have passed since the meltdown at the Chernobyl nuclear plant, but the grim legacy of the Soviet catastrophe is still unfolding. https//web.archive.org/web/20041130094534/http://www.time.com/time/daily/chernobyl/chernobyl.index.html"
+  },
+  {
+    "name": "neutral",
+    "trans": [
+      "中立的； 无明显特性的"
+    ],
+    "usphone": "'nʊtrəl",
+    "ukphone": "'njuːtrəl",
+    "e_mean": [
+      "having no personal preference"
+    ],
+    "speech": "adjective",
+    "sentence": "I am neutral regarding the issue of gay marriage."
+  },
+  {
+    "name": "arena",
+    "trans": [
+      "竞技场/运动场/舞台/活动领域"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a large structure for open-air sports or entertainments"
+    ],
+    "speech": "noun",
+    "sentence": "A large crowd filled the seats of the arena."
+  },
+  {
+    "name": "agreement",
+    "trans": [
+      "协定/契约.abilateral~双边协定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "harmony of people's opinions, actions, or characters"
+    ],
+    "speech": "noun",
+    "sentence": "to enter an agreement; the UK and US negotiators nearing agreement; he nodded his agreement."
+  },
+  {
+    "name": "worldwide",
+    "trans": [
+      "世界范围的，遍及全球的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "spanning or extending throughout the entire world"
+    ],
+    "speech": "adjective",
+    "sentence": "A large meteorite impact would cause worldwide extinction of life."
+  },
+  {
+    "name": "overseas",
+    "trans": [
+      "向国外；在海外，在外国",
+      "来自海外的，外国来的"
+    ],
+    "usphone": ",ovɚ'siz",
+    "ukphone": "ˌəuvə'siːz",
+    "e_mean": [
+      "beyond or across the ocean"
+    ],
+    "speech": "adverb",
+    "sentence": "Overseas branches of the company are doing well."
+  },
+  {
+    "name": "abroad",
+    "trans": [
+      "在/到国外/广为流传"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "to or in a foreign country"
+    ],
+    "speech": "adverb",
+    "sentence": "A tree spreads its branches abroad."
+  },
+  {
+    "name": "civil",
+    "trans": [
+      "国民的； 民用的； 政府的"
+    ],
+    "usphone": "'sɪvl",
+    "ukphone": "'sɪvl",
+    "e_mean": [
+      "of or occurring between or among citizens of the state"
+    ],
+    "speech": "adjective",
+    "sentence": "She went into civil service because she wanted to help the people."
+  },
+  {
+    "name": "reign",
+    "trans": [
+      "君主统治时期/任期；统治/成为最佳"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "royal authority; the dominion of a monarch"
+    ],
+    "speech": "noun",
+    "sentence": "England prospered under Elizabeth I's reign."
+  },
+  {
+    "name": "throne",
+    "trans": [
+      "王位。cometothe~登基"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the chair of state for a monarch, bishop, etc."
+    ],
+    "speech": "noun",
+    "sentence": "He approached the throne reverently."
+  },
+  {
+    "name": "wreath",
+    "trans": [
+      "花环/花冠.alaurel~桂冠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a circular band of flowers or other foliage"
+    ],
+    "speech": "noun",
+    "sentence": "a wreath of smoke; a wreath of clouds"
+  },
+  {
+    "name": "colony",
+    "trans": [
+      "殖民地； 群体"
+    ],
+    "usphone": "'kɑləni",
+    "ukphone": "'kɒləni",
+    "e_mean": [
+      "a group of organisms of the same type living together"
+    ],
+    "speech": "noun",
+    "sentence": "Bermuda is a crown colony of Great Britain."
+  },
+  {
+    "name": "liberty",
+    "trans": [
+      "自由，自由权；许可，准许；"
+    ],
+    "usphone": "'lɪbɚti",
+    "ukphone": "'lɪbəti",
+    "e_mean": [
+      "freedom of choice"
+    ],
+    "speech": "noun",
+    "sentence": "The army is here, your liberty is assured."
+  },
+  {
+    "name": "perspective",
+    "trans": [
+      "角度， 方法； 透视法"
+    ],
+    "usphone": "pɚ'spɛktɪv",
+    "ukphone": "pə'spektɪv",
+    "e_mean": [
+      "a way of regarding situations or topics"
+    ],
+    "speech": "noun",
+    "sentence": "a perspective drawing"
+  },
+  {
+    "name": "standpoint",
+    "trans": [
+      "立场； 观点"
+    ],
+    "usphone": "'stændpɔɪnt",
+    "ukphone": "'stændpɔɪnt",
+    "e_mean": [
+      "a mental position from which things are viewed"
+    ],
+    "speech": "noun",
+    "sentence": "Bathing once a month may save time, but from a cleanliness standpoint, it's not effective."
+  },
+  {
+    "name": "outlook",
+    "trans": [
+      "观点， 见解； 展望， 前景"
+    ],
+    "usphone": "'aʊtlʊk",
+    "ukphone": "'autluk",
+    "e_mean": [
+      "an attitude that determines how you respond to situations"
+    ],
+    "speech": "noun",
+    "sentence": "Perched on the edge of the cliff was a hidden outlook."
+  },
+  {
+    "name": "ethic",
+    "trans": [
+      "行为准则/道德规范.ethical伦理的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the principles of right and wrong for an individual or group"
+    ],
+    "speech": "noun",
+    "sentence": "I think the golden rule is a great ethic."
+  },
+  {
+    "name": "hint",
+    "trans": [
+      "暗/提示.givea~暗示.takea~领会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an indirect suggestion"
+    ],
+    "speech": "noun",
+    "sentence": "I needed a hint to complete the crossword."
+  },
+  {
+    "name": "claim",
+    "trans": [
+      "要求；声称，主张；索赔",
+      "要求； 主张， 断言； 索赔"
+    ],
+    "usphone": "klem",
+    "ukphone": "kleɪm",
+    "e_mean": [
+      "assert or affirm strongly"
+    ],
+    "speech": "verb",
+    "sentence": "a claim of ownership"
+  },
+  {
+    "name": "service",
+    "trans": [
+      "服务，帮助；公共设施，公用事业；维修，保养；行政部门，服务机构",
+      "维修， 保养"
+    ],
+    "usphone": "'sɝvɪs",
+    "ukphone": "'sɜːvɪs",
+    "e_mean": [
+      "an act of help or assistance"
+    ],
+    "speech": "noun",
+    "sentence": "I say I did him a service by ending our relationship – now he can freely pursue his career."
+  },
+  {
+    "name": "bureau",
+    "trans": [
+      "办公室； 机构； 局； 处； 所"
+    ],
+    "usphone": "'bjʊro",
+    "ukphone": "'bjuərəu",
+    "e_mean": [
+      "an administrative unit of government"
+    ],
+    "speech": "noun",
+    "sentence": "a news bureau; a travel bureau; a service bureau; an employment bureau; the Citizens Advice Bureau"
+  },
+  {
+    "name": "harness",
+    "trans": [
+      "控制，利用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an arrangement of leather straps fitted to a draft animal"
+    ],
+    "speech": "noun",
+    "sentence": "They harnessed the horse to the post."
+  },
+  {
+    "name": "administration",
+    "trans": [
+      "管理； 行政"
+    ],
+    "usphone": "əd,mɪnɪ'streʃən",
+    "ukphone": "ədˌmɪnɪ'streɪʃn",
+    "e_mean": [
+      "the act of governing or exercising authority"
+    ],
+    "speech": "noun",
+    "sentence": "Successive US administrations have had similar Middle East policies."
+  },
+  {
+    "name": "independent",
+    "trans": [
+      "独立的，自主的，不受约束的",
+      "中立派， 无党派议员"
+    ],
+    "usphone": "'ɪndɪ'pɛndənt",
+    "ukphone": "ˌɪndɪ'pendənt",
+    "e_mean": [
+      "free from external control and constraint"
+    ],
+    "speech": "adjective",
+    "sentence": "the independent candidate"
+  },
+  {
+    "name": "population",
+    "trans": [
+      "人口"
+    ],
+    "usphone": ",pɑpju'leʃən",
+    "ukphone": "ˌpɒpjʊ'leɪʃn",
+    "e_mean": [
+      "the people who inhabit a territory or state"
+    ],
+    "speech": "noun",
+    "sentence": "The population of New Jersey will not stand for this!"
+  },
+  {
+    "name": "populate",
+    "trans": [
+      "居住于， 生活于"
+    ],
+    "usphone": "'pɑpjulet",
+    "ukphone": "'pɒpjʊleɪt",
+    "e_mean": [
+      "inhabit or live in; be an inhabitant of"
+    ],
+    "speech": "verb",
+    "sentence": "Clicking the refresh button will populate the grid."
+  },
+  {
+    "name": "ordinary",
+    "trans": [
+      "普通的，平常的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "lacking special distinction, rank, or status"
+    ],
+    "speech": "adjective",
+    "sentence": "On an ordinary day I wake up at nine o'clock, work for six hours, and then go to the gym."
+  },
+  {
+    "name": "resident",
+    "trans": [
+      "常驻的， 居住的",
+      "居民，住户"
+    ],
+    "usphone": "'rɛzɪdənt",
+    "ukphone": "'rezɪdənt",
+    "e_mean": [
+      "someone who lives at a particular place for a long period"
+    ],
+    "speech": "noun",
+    "sentence": "The tiger lily is a resident of Asia."
+  },
+  {
+    "name": "residential",
+    "trans": [
+      ".住宅的，适合居住的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or relating to the act of dwelling in a place"
+    ],
+    "speech": "adjective",
+    "sentence": "The youth group organises annual residentials."
+  },
+  {
+    "name": "ethnic",
+    "trans": [
+      "民族/种族的.an~minority少数民族"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "distinctive of the ways of living of a group of people"
+    ],
+    "speech": "adjective",
+    "sentence": "There are many ethnic Indonesians in the Netherlands"
+  },
+  {
+    "name": "franchise",
+    "trans": [
+      ".出售…的特许经营权；特许权"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a statutory right or privilege granted by a government "
+    ],
+    "speech": "noun",
+    "sentence": "McDonalds has exported its franchise."
+  },
+  {
+    "name": "entitle",
+    "trans": [
+      "给…权利； 给题名； 给…以称号"
+    ],
+    "usphone": "ɪn'taɪtl",
+    "ukphone": "ɪn'taɪtl",
+    "e_mean": [
+      "give the right to"
+    ],
+    "speech": "verb",
+    "sentence": "A passport entitles the bearer to travel to other countries."
+  },
+  {
+    "name": "preference",
+    "trans": [
+      "喜爱； 偏爱的事物； 优先"
+    ],
+    "usphone": "'prɛfrəns",
+    "ukphone": "'prefrəns",
+    "e_mean": [
+      "the right or chance to choose"
+    ],
+    "speech": "noun",
+    "sentence": "He has a preference for crisp wines."
+  },
+  {
+    "name": "assist",
+    "trans": [
+      "帮助， 援助， 协助"
+    ],
+    "usphone": "ə'sɪst",
+    "ukphone": "ə'sɪst",
+    "e_mean": [
+      "give help; be of service"
+    ],
+    "speech": "verb",
+    "sentence": "The foundation gave a much needed assist to the shelter."
+  },
+  {
+    "name": "aid",
+    "trans": [
+      "救援物资/救助.liveongovernment~\n靠政府救济生活。first~急救"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the activity of contributing to the fulfillment of a need"
+    ],
+    "speech": "noun",
+    "sentence": "He came to my aid when I was foundering."
+  },
+  {
+    "name": "encourage",
+    "trans": [
+      "鼓励； 促进， 激发"
+    ],
+    "usphone": "ɪn'kɝrɪdʒ",
+    "ukphone": "ɪn'kʌrɪdʒ",
+    "e_mean": [
+      "inspire with confidence"
+    ],
+    "speech": "verb",
+    "sentence": "I encouraged him during his race."
+  },
+  {
+    "name": "implement",
+    "trans": [
+      "使生效，实施；贯彻，执行['ImplImənt]",
+      "工具"
+    ],
+    "usphone": "'ɪmplɪmɛnt",
+    "ukphone": "'ɪmplɪment",
+    "e_mean": [
+      "a piece of equipment or a tool used for a specific purpose"
+    ],
+    "speech": "noun",
+    "sentence": "They carried an assortment of gardening implements in the truck."
+  },
+  {
+    "name": "monitor",
+    "trans": [
+      "班长；监视器",
+      "监视； 监测"
+    ],
+    "usphone": "'mɔnɪtɚ",
+    "ukphone": "'mɒnɪtə(r)",
+    "e_mean": [
+      "someone who observes to ensure fairness or prevent mistakes"
+    ],
+    "speech": "noun",
+    "sentence": "The camp monitors look after the children during the night, when the teachers are asleep."
+  },
+  {
+    "name": "admit",
+    "trans": [
+      "承认； 准许…进入； 准许…加入"
+    ],
+    "usphone": "əd'mɪt",
+    "ukphone": "əd'mit",
+    "e_mean": [
+      "declare to be true or accept the reality of"
+    ],
+    "speech": "verb",
+    "sentence": "A ticket admits one into a playhouse."
+  },
+  {
+    "name": "Greek",
+    "trans": [
+      "希腊的；希腊人/语Greece希腊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or relating to or characteristic of Greece or the Greeks or the Greek language"
+    ],
+    "speech": "adjective",
+    "sentence": "Was Joe a Greek in college?"
+  },
+  {
+    "name": "allocation",
+    "trans": [
+      "配给， 分配， 安置； 配给量"
+    ],
+    "usphone": ",ælə'keʃən",
+    "ukphone": "ˌælə'keɪʃn",
+    "e_mean": [
+      "the act of distributing or apportioning according to a plan"
+    ],
+    "speech": "noun",
+    "sentence": "The allocation of new permits is on a first-come, first-served basis."
+  },
+  {
+    "name": "sector",
+    "trans": [
+      "部分， 部门； 防御地段， 防区； 扇形"
+    ],
+    "usphone": "'sɛktɚ",
+    "ukphone": "'sektə(r)",
+    "e_mean": [
+      "a particular aspect of life or activity"
+    ],
+    "speech": "noun",
+    "sentence": "public sector; private sector"
+  },
+  {
+    "name": "advocate",
+    "trans": [
+      "拥护，支持；提倡['ædvəkət]",
+      "拥护者， 支持者； 提倡者"
+    ],
+    "usphone": "ˈædvəkeɪt；-et",
+    "ukphone": "'ædvəkeɪt",
+    "e_mean": [
+      "a person who pleads for a person, cause, or idea"
+    ],
+    "speech": "noun",
+    "sentence": "Since she started working with her advocate, she has become much more confident."
+  },
+  {
+    "name": "county",
+    "trans": [
+      "郡， 县"
+    ],
+    "usphone": "'kaʊnti",
+    "ukphone": "'kaunti",
+    "e_mean": [
+      "the largest administrative district within a state"
+    ],
+    "speech": "noun",
+    "sentence": "He can't come; he's up in the county for agg assault."
+  },
+  {
+    "name": "applicant",
+    "trans": [
+      "申请人"
+    ],
+    "usphone": "'æplɪkənt",
+    "ukphone": "'æplɪkənt",
+    "e_mean": [
+      "a person who requests or seeks something"
+    ],
+    "speech": "noun",
+    "sentence": "Our job advertisement attracted seven applicants."
+  },
+  {
+    "name": "vernacular",
+    "trans": [
+      "本国语的",
+      "本国话；方言；土语；民间风格"
+    ],
+    "usphone": "vɚ'nækjəlɚ",
+    "ukphone": "və'nækjələ(r)",
+    "e_mean": [
+      "the everyday speech of the people"
+    ],
+    "speech": "noun",
+    "sentence": "A vernacular of the United States is English."
+  },
+  {
+    "name": "personal",
+    "trans": [
+      "个人的， 私人的； 亲自的， 本人的； 身体的， 人身的"
+    ],
+    "usphone": "'pɝsənl",
+    "ukphone": "'pɜːsənl",
+    "e_mean": [
+      "concerning an individual or his or her private life"
+    ],
+    "speech": "adjective",
+    "sentence": "Her song was her personal look at the values of friendship."
+  },
+  {
+    "name": "database",
+    "trans": [
+      "数据库"
+    ],
+    "usphone": "'detəbes",
+    "ukphone": "'deɪtəbeɪs",
+    "e_mean": [
+      "an organized body of related information"
+    ],
+    "speech": "noun",
+    "sentence": "I have a database of all my contacts in my personal organizer."
+  },
+  {
+    "name": "elevate",
+    "trans": [
+      "提升…的职位； 举起； 使更有修养"
+    ],
+    "usphone": "'ɛlɪvet",
+    "ukphone": "'elɪveɪt",
+    "e_mean": [
+      "raise from a lower to a higher position"
+    ],
+    "speech": "verb",
+    "sentence": "The doctor told me elevating my legs would help reduce the swelling."
+  },
+  {
+    "name": "application",
+    "trans": [
+      "请求， 申请； 应用， 运用； 施用， 敷用"
+    ],
+    "usphone": "ˌæpləˈkeʃən",
+    "ukphone": "ˌæplɪ'keɪʃn",
+    "e_mean": [
+      "the action of putting something into operation"
+    ],
+    "speech": "noun",
+    "sentence": "The application of this cream should reduce the swelling."
+  },
+  {
+    "name": "identify",
+    "trans": [
+      "认出， 识别； 辨别； 查明； 确定； 视…为同一事物"
+    ],
+    "usphone": "aɪ'dɛntɪfaɪ",
+    "ukphone": "aɪ'dentɪfaɪ",
+    "e_mean": [
+      "recognize as being"
+    ],
+    "speech": "verb",
+    "sentence": "The Associated Press will not identify the suspect of the crime because he is a juvenile."
+  },
+  {
+    "name": "position",
+    "trans": [
+      "位置，方位；职位，职务；姿势，姿态；见解，立场",
+      "安放， 安置"
+    ],
+    "usphone": "pə'zɪʃən",
+    "ukphone": "pə'zɪʃn",
+    "e_mean": [
+      "the particular part of space occupied by something"
+    ],
+    "speech": "noun",
+    "sentence": "Chief of Staff is the second-highest position in the army."
+  },
+  {
+    "name": "dispense",
+    "trans": [
+      "分发， 分配； 提供"
+    ],
+    "usphone": "dɪ'spɛns",
+    "ukphone": "dɪ'spens",
+    "e_mean": [
+      "administer or bestow, as in small portions"
+    ],
+    "speech": "verb",
+    "sentence": "to dispense justice"
+  },
+  {
+    "name": "verification",
+    "trans": [
+      "确认"
+    ],
+    "usphone": ",vɛrɪfɪ'keʃən",
+    "ukphone": "ˌverɪfɪ'keɪʃn",
+    "e_mean": [
+      "additional proof that something that was believed is correct"
+    ],
+    "speech": "noun",
+    "sentence": "The detective needs verification of your whereabouts last night."
+  },
+  {
+    "name": "delinquent",
+    "trans": [
+      "失职的；违法的；拖欠的",
+      "违法者， 罪犯"
+    ],
+    "usphone": "dɪ'lɪŋkwənt",
+    "ukphone": "dɪ'lɪŋkwənt",
+    "e_mean": [
+      "a young offender"
+    ],
+    "speech": "noun",
+    "sentence": "Fred is delinquent in making his car payment."
+  },
+  {
+    "name": "patronage",
+    "trans": [
+      "赞助； 支持； 光顾； 任免权"
+    ],
+    "usphone": "'pætrənɪdʒ",
+    "ukphone": "'pætrənɪdʒ",
+    "e_mean": [
+      "the business given to an establishment by its customers"
+    ],
+    "speech": "noun",
+    "sentence": "His vigorous patronage of the conservatives got him in trouble with progressives."
+  },
+  {
+    "name": "organize",
+    "trans": [
+      "组织， 使有条理； 成立"
+    ],
+    "usphone": "ɔrɡənˌaɪz",
+    "ukphone": "'ɔːgənaɪz",
+    "e_mean": [
+      "arrange by systematic planning and united effort"
+    ],
+    "speech": "verb",
+    "sentence": "an organized being"
+  },
+  {
+    "name": "embassy",
+    "trans": [
+      "大使馆； 大使馆全体官员"
+    ],
+    "usphone": "'ɛmbəsi",
+    "ukphone": "'embəsi",
+    "e_mean": [
+      "a building where diplomats live or work"
+    ],
+    "speech": "noun",
+    "sentence": "The American embassy to France is located in Paris."
+  },
+  {
+    "name": "exile",
+    "trans": [
+      "放逐，流放，"
+    ],
+    "usphone": "'ɛksaɪl",
+    "ukphone": "'eksaɪl;'egzaɪl",
+    "e_mean": [
+      "the act of expelling a person from their native land"
+    ],
+    "speech": "noun",
+    "sentence": "He lived in exile."
+  },
+  {
+    "name": "link",
+    "trans": [
+      "连接， 联系",
+      "环节；联系，纽带"
+    ],
+    "usphone": "lɪŋk",
+    "ukphone": "lɪŋk",
+    "e_mean": [
+      "connect, fasten, or put together two or more pieces"
+    ],
+    "speech": "verb",
+    "sentence": "Click the hyperlink to go to the next page."
+  },
+  {
+    "name": "distribution",
+    "trans": [
+      "分发， 分配； 配给物； 散布， 分布"
+    ],
+    "usphone": "'dɪstrə'bjʊʃən",
+    "ukphone": "ˌdɪstrɪ'bjuːʃn",
+    "e_mean": [
+      "the act of spreading or apportioning"
+    ],
+    "speech": "noun",
+    "sentence": "The distribution of my little rock magazine is about 3,000."
+  },
+  {
+    "name": "sedentary",
+    "trans": [
+      "需要久坐的； 惯于久坐不动的； 定居的， 不迁徙的； 沉积的"
+    ],
+    "usphone": "'sɛdntɛri",
+    "ukphone": "'s3dntrɪ",
+    "e_mean": [
+      "requiring sitting or little activity"
+    ],
+    "speech": "adjective",
+    "sentence": "The oyster is a sedentary mollusk; the barnacles are sedentary crustaceans."
+  },
+  {
+    "name": "exact",
+    "trans": [
+      "精确的； 准确的"
+    ],
+    "usphone": "ɪɡ'zækt",
+    "ukphone": "ɪg'zækt",
+    "e_mean": [
+      "marked by strict and complete accordance with fact"
+    ],
+    "speech": "adjective",
+    "sentence": "to exact tribute, fees, or obedience from someone"
+  },
+  {
+    "name": "unemployment",
+    "trans": [
+      "失业； 失业人数"
+    ],
+    "usphone": ",ʌnɪm'plɔɪmənt",
+    "ukphone": "ˌʌnɪm'plɔɪmənt",
+    "e_mean": [
+      "the state of not having a job"
+    ],
+    "speech": "noun",
+    "sentence": "Unemployment made Jack depressed."
+  },
+  {
+    "name": "ensure",
+    "trans": [
+      "确保， 保证； 担保； 赋予"
+    ],
+    "usphone": "ɪn'ʃʊr",
+    "ukphone": "ɪn'ʃuə(r)",
+    "e_mean": [
+      "make certain of"
+    ],
+    "speech": "verb",
+    "sentence": "I use an alarm clock to ensure that I get up on time."
+  },
+  {
+    "name": "allowance",
+    "trans": [
+      "津贴； 允许， 容忍"
+    ],
+    "usphone": "ə'laʊəns",
+    "ukphone": "ə'lauəns",
+    "e_mean": [
+      "the act of permitting"
+    ],
+    "speech": "noun",
+    "sentence": "her meagre allowance of food or drink"
+  },
+  {
+    "name": "emeritus",
+    "trans": [
+      "保留头衔而退休的， 荣誉退休的"
+    ],
+    "usphone": "i'meritəs",
+    "ukphone": "i'merɪtəs",
+    "e_mean": [
+      "a professor or minister who is retired from assigned duties"
+    ],
+    "speech": "noun",
+    "sentence": "pontiff emeritus"
+  },
+  {
+    "name": "congress",
+    "trans": [
+      "大会； 国会， 议会"
+    ],
+    "usphone": "'kɑŋɡrəs",
+    "ukphone": "'kɒŋgres",
+    "e_mean": [
+      "a formal meeting, especially of representatives"
+    ],
+    "speech": "noun",
+    "sentence": "The National Congress of American Indians"
+  },
+  {
+    "name": "decade",
+    "trans": [
+      "十年， 十年期"
+    ],
+    "usphone": "'dɛked",
+    "ukphone": "'dekeɪd",
+    "e_mean": [
+      "a period of 10 years"
+    ],
+    "speech": "noun",
+    "sentence": "a decade of soldiers"
+  },
+  {
+    "name": "assumption",
+    "trans": [
+      "假定， 假设； 担任， 承担"
+    ],
+    "usphone": "ə'sʌmpʃən",
+    "ukphone": "ə'sʌmpʃn",
+    "e_mean": [
+      "the act of taking something for granted"
+    ],
+    "speech": "noun",
+    "sentence": "His assumption of secretarial duties was timely."
+  },
+  {
+    "name": "pension",
+    "trans": [
+      "养老金， 抚恤金； 年金"
+    ],
+    "usphone": "'pɛnʃən",
+    "ukphone": "'penʃn",
+    "e_mean": [
+      "regular payment to allow a person to subsist without working"
+    ],
+    "speech": "noun",
+    "sentence": "Many old people depend on their pension to pay the bills."
+  },
+  {
+    "name": "addition",
+    "trans": [
+      "加， 增加"
+    ],
+    "usphone": "ə'dɪʃən",
+    "ukphone": "ə'dɪʃn",
+    "e_mean": [
+      "the arithmetic operation of summing"
+    ],
+    "speech": "noun",
+    "sentence": "The addition of five more items to the agenda will make the meeting unbearably long."
+  },
+  {
+    "name": "surpass",
+    "trans": [
+      "超过， 超越， 优于， 胜过； 超过…的界限， 非…所能办到"
+    ],
+    "usphone": "sə'pæs",
+    "ukphone": "sə'pɑːs",
+    "e_mean": [
+      "be or do something to a greater degree"
+    ],
+    "speech": "verb",
+    "sentence": "The former problem student surpassed his instructor's expectations and scored top marks on his examination."
+  },
+  {
+    "name": "board",
+    "trans": [
+      "板； 委员会"
+    ],
+    "usphone": "bɔrd",
+    "ukphone": "bɔːd",
+    "e_mean": [
+      "a stout length of sawn timber"
+    ],
+    "speech": "noun",
+    "sentence": "Each player starts the game with four counters on the board."
+  },
+  {
+    "name": "bargain",
+    "trans": [
+      "讨价还价",
+      "协议； 交易； 便宜货"
+    ],
+    "usphone": "ˈbɑrɡɪn",
+    "ukphone": "'bɑːgən",
+    "e_mean": [
+      "an agreement between parties fixing obligations of each"
+    ],
+    "speech": "noun",
+    "sentence": "At that price, it's not just a bargain, it's a steal."
+  },
+  {
+    "name": "formulation",
+    "trans": [
+      "公式化， 格式化； 确切的表达"
+    ],
+    "usphone": ",fɔrmjə'leʃən",
+    "ukphone": "ˌfɔːmjʊ'leɪʃn",
+    "e_mean": [
+      "the act of inventing or contriving an idea or explanation"
+    ],
+    "speech": "noun",
+    "sentence": "If you liked our old shampoo, you'll love the new kinder, gentler formulation."
+  },
+  {
+    "name": "define",
+    "trans": [
+      "下定义； 限定"
+    ],
+    "usphone": "dɪ'faɪn",
+    "ukphone": "dɪ'faɪn",
+    "e_mean": [
+      "show the form or outline of"
+    ],
+    "speech": "verb",
+    "sentence": "the defining power of an optical instrument"
+  },
+  {
+    "name": "Marxism",
+    "trans": [
+      "马克思主义"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "theory that capitalism will be superseded by communism"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "socialism",
+    "trans": [
+      "[ˈsəʊʃəlɪzəm]社会主义"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a political theory advocating state ownership of industry"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "socialist",
+    "trans": [
+      "社会主义的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "advocating the state ownership of industry"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "communism",
+    "trans": [
+      "共产主义.common普通的adj."
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a theory favoring collectivism in a classless society"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "communist",
+    "trans": [
+      "共产主义者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "relating to socialism that abolishes private ownership"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "hierarchy",
+    "trans": [
+      "领导层； 层次， 等级"
+    ],
+    "usphone": "'haɪərɑrki",
+    "ukphone": "'haɪərɑːki",
+    "e_mean": [
+      "a series of ordered groupings within a system"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "predominate",
+    "trans": [
+      "统治， 支配； 占优势"
+    ],
+    "usphone": "prɪ'dɑmə'net",
+    "ukphone": "prɪ'dɒmɪneɪt",
+    "e_mean": [
+      "be larger in number, quantity, power, status or importance"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "importance",
+    "trans": [
+      "重要/性realisethe~意识到重要性"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the quality of being significant or worthy of note"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "union",
+    "trans": [
+      "协会， 工会， 同盟； 联合， 合并"
+    ],
+    "usphone": "'junɪən",
+    "ukphone": "'juːniən",
+    "e_mean": [
+      "the state of being joined or united or linked"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "consortium",
+    "trans": [
+      "集团； 财团； 社团， 协会"
+    ],
+    "usphone": "kənˈsɔrʃiəm",
+    "ukphone": "kən'sɔːtɪəm",
+    "e_mean": [
+      "a cooperative association among institutions or companies"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "respondent",
+    "trans": [
+      "回答者， 响应者； 调查对象； 被告"
+    ],
+    "usphone": "rɪ'spɑndənt",
+    "ukphone": "rɪ'spɒndənt",
+    "e_mean": [
+      "replying"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "checklist",
+    "trans": [
+      "清单,选民花名册"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a list of items to be checked or consulted"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "succession",
+    "trans": [
+      "连续； 接替， 继承"
+    ],
+    "usphone": "sək'sɛʃən",
+    "ukphone": "sək'seʃn",
+    "e_mean": [
+      "the action or process of taking over an office or position"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "well-being",
+    "trans": [
+      "安宁； 福利"
+    ],
+    "usphone": ",wɛl'biɪŋ",
+    "ukphone": "ˌwel'biːɪŋ",
+    "e_mean": [
+      "a contented state of happiness, health, and prosperity"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "harmonica",
+    "trans": [
+      "口琴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small rectangular instrument into which air is blown"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "prospect",
+    "trans": [
+      "希望，可能性，风景"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the possibility of future success"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "Indian",
+    "trans": [
+      "印度的；印度人India印度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or relating to or characteristic of India or the East Indies or their peoples or languages or cultures"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "Australia",
+    "trans": [
+      "澳大利亚Australian澳大利亚的;~人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the smallest continent"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "Britain",
+    "trans": [
+      "不列颠.British英国/人的英国人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a monarchy in northwestern Europe occupying most of the British Isles; divided into England and Scotland and Wales and Northern Ireland; `Great Britain' is often used loosely to refer to the United Kingdom"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "France",
+    "trans": [
+      "法国.French法语adj.法国人的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a republic in western Europe"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "Germany",
+    "trans": [
+      "德国.German德国人/语;德国的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a republic in central Europe"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "democracy",
+    "trans": [
+      "民主/制度/民主国家(demo指\npeople)cracy指\"统治(torule)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the orientation of those who favor government by the people"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "democratise",
+    "trans": [
+      "使民主化=democratize"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "become (more) democratic; of nations"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "bureaucratism",
+    "trans": [
+      "官僚主义"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "nonelective government officials"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "egalitarian",
+    "trans": [
+      "[iˌɡælɪˈteəriən]平等主义的；~者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "favoring social equality"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "materialism",
+    "trans": [
+      "[məˈtɪəriəlɪzəm]唯物主义/唯物论"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a desire for wealth and possessions"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "revolution",
+    "trans": [
+      "革命； 巨变， 大变革"
+    ],
+    "usphone": "'rɛvə'lʊʃən",
+    "ukphone": "ˌrevə'luːʃn",
+    "e_mean": [
+      "a single complete turn"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "municipal",
+    "trans": [
+      "市的， 市政的； 地区的； 内政的"
+    ],
+    "usphone": "mju'nɪsɪpl",
+    "ukphone": "mjuː'nɪsɪpl",
+    "e_mean": [
+      "relating to a self-governing district "
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "bilateral",
+    "trans": [
+      "双边的； 双方的"
+    ],
+    "usphone": ",baɪ'lætərəl",
+    "ukphone": "ˌbaɪ'lætərəl",
+    "e_mean": [
+      "having two sides or parts"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "nationality",
+    "trans": [
+      "国籍； 民族"
+    ],
+    "usphone": ",næʃə'næləti",
+    "ukphone": "ˌnæʃə'næləti",
+    "e_mean": [
+      "the status of belonging to a particular country"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "federal",
+    "trans": [
+      "联邦的， 联盟的"
+    ],
+    "usphone": "'fɛdərəl",
+    "ukphone": "'fedərəl",
+    "e_mean": [
+      "of a government with central and regional authorities"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "civilise",
+    "trans": [
+      "使文明/开化=civilize"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "raise from a barbaric to a civilized state"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "emigrate",
+    "trans": [
+      "移居国外.emigration移居国外"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "leave one's country of residence for a new one"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "immigrate",
+    "trans": [
+      "移居/移入.immigration移居"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "come into a new country and change residency"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "immigrant",
+    "trans": [
+      "移民； 侨民"
+    ],
+    "usphone": "'ɪmɪɡrənt",
+    "ukphone": "'ɪmɪgrənt",
+    "e_mean": [
+      "a person who comes to a country in order to settle there"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "puppet",
+    "trans": [
+      "玩偶；傀儡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small figure of a person operated from above with strings by a puppeteer"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "colonial",
+    "trans": [
+      "殖民地居民；殖民地的，殖民的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "relating to a body of people who settle far from home"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "viewpoint",
+    "trans": [
+      "观点， 看法"
+    ],
+    "usphone": "'vjupɔɪnt",
+    "ukphone": "'vjuːpɔɪnt",
+    "e_mean": [
+      "a mental position from which things are considered"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "advisable",
+    "trans": [
+      "可取的， 适当的； 明智的"
+    ],
+    "usphone": "əd'vaɪzəbl",
+    "ukphone": "əd'vaɪzəbl",
+    "e_mean": [
+      "worthy of being recommended or suggested; prudent or wise"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "proposal",
+    "trans": [
+      "提议， 建议； 求婚"
+    ],
+    "usphone": "prə'pozl",
+    "ukphone": "prə'pəuzl",
+    "e_mean": [
+      "the act of making a suggestion"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "declaration",
+    "trans": [
+      "宣布； 宣言， 声明"
+    ],
+    "usphone": ",dɛklə'reʃən",
+    "ukphone": "ˌdeklə'reɪʃn",
+    "e_mean": [
+      "a statement that is emphatic and explicit"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "proclaim",
+    "trans": [
+      "宣告， 宣布， 声明； 显示"
+    ],
+    "usphone": "prə'klem",
+    "ukphone": "prə'kleɪm",
+    "e_mean": [
+      "declare formally"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "announce",
+    "trans": [
+      "宣布； 声称"
+    ],
+    "usphone": "ə'naʊns",
+    "ukphone": "ə'nauns",
+    "e_mean": [
+      "make known"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "premiership",
+    "trans": [
+      "总理(或首相)职位"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the office of premier"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "senate",
+    "trans": [
+      "大学理事会/(美国的)参议院"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "assembly possessing high legislative powers"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "conference",
+    "trans": [
+      "会议"
+    ],
+    "usphone": "'kɑnfərəns",
+    "ukphone": "'kɒnfərəns",
+    "e_mean": [
+      "a prearranged meeting for consultation or discussion "
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "headquarters",
+    "trans": [
+      "总部， 总公司； 大本营； 司令部"
+    ],
+    "usphone": "'hɛdkwɔrtɚz",
+    "ukphone": "ˌhed'kwɔːtəz",
+    "e_mean": [
+      "the main office or administrative center of a business"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "delegation",
+    "trans": [
+      "代表团/委派"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a group of representatives"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "delegate",
+    "trans": [
+      "代表，代表团成员['delɪg3ɪt]",
+      "委派…为代表； 授给…， 把…委托给…"
+    ],
+    "usphone": "ˈdɛləgɪt; (for v.,) ˈdɛləˌgeɪt",
+    "ukphone": "'delɪgət",
+    "e_mean": [
+      "a person appointed or elected to represent others"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "behalf",
+    "trans": [
+      "利益； 代表"
+    ],
+    "usphone": "bɪ'hæf",
+    "ukphone": "bɪ'hɑːf",
+    "e_mean": [
+      "as the agent of or on someone's part"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "statesman",
+    "trans": [
+      "政治家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a man who is a respected leader in national or international affairs"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mayor",
+    "trans": [
+      "市长"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the head of a city government"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "independence",
+    "trans": [
+      "独立， 自主"
+    ],
+    "usphone": ",ɪndɪ'pɛndəns",
+    "ukphone": "ˌɪndɪ'pendəns",
+    "e_mean": [
+      "freedom from control or influence of another or others"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "slum",
+    "trans": [
+      "贫民窟， 贫民区"
+    ],
+    "usphone": "slʌm",
+    "ukphone": "slʌm",
+    "e_mean": [
+      "a district of a city marked by poverty"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "refuge",
+    "trans": [
+      "避难/避难所.seek~寻求庇护"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "something or someone turned to for assistance or security"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "asylum",
+    "trans": [
+      "庇护/精神病院.\nan~seeker寻求庇护的人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a shelter from danger or hardship"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "demographic",
+    "trans": [
+      "人口统计学的； 人口的"
+    ],
+    "usphone": ",dɛmə'ɡræfɪk",
+    "ukphone": "ˌdemə'græfɪk",
+    "e_mean": [
+      "a statistic characterizing human populations"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "demography",
+    "trans": [
+      "人口统计学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the study of the characteristics of human populations"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "racial",
+    "trans": [
+      "种族/人种的.racialequality"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or related to groups of people sharing distinctive traits"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "clan",
+    "trans": [
+      "宗族/帮派.rival~敌对的家族"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "group of people related by blood or marriage"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cation",
+    "trans": [
+      "净化/澄清."
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a particle with a positive electric charge"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "African",
+    "trans": [
+      "非洲的；非洲人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a native or inhabitant of Africa"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "European",
+    "trans": [
+      "欧洲的;欧洲人.Europe欧洲euro欧元"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or relating to or characteristic of Europe"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "Latin",
+    "trans": [
+      "拉丁语/拉丁人的;拉丁语/人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any dialect of the language of ancient Rome"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "Jewish",
+    "trans": [
+      "犹太教的，犹太人的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or relating to Jews or their culture or religion"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "Arabian",
+    "trans": [
+      "阿拉伯的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a member of a Semitic people originally from the Arabian peninsula and surrounding territories who speaks Arabic and who inhabits much of the Middle East and northern Africa"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "Portuguese",
+    "trans": [
+      "葡萄牙的；葡萄牙语/人[ˌpɔːtʃuˈɡiːz]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or relating to or characteristic of Portugal or the people of Portugal or their language"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "Roman",
+    "trans": [
+      "罗马的;古罗马人/罗马市民"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "relating to or characteristic of people of Rome"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "Russian",
+    "trans": [
+      "俄罗斯的；俄罗斯人/俄语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or pertaining to or characteristic of Russia or its people or culture or language"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "Spanish",
+    "trans": [
+      "西班牙的；西班牙语/人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or relating to or characteristic of Spain or the people of Spain"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "Swiss",
+    "trans": [
+      "瑞士的；瑞士人Switzerland瑞士"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or relating to Switzerland or its people or culture"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "Italian",
+    "trans": [
+      "意大利的；意大利人/语Italy意大利"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or pertaining to or characteristic of Italy or its people or culture or language"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "soviet",
+    "trans": [
+      "苏联的；苏维埃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an elected governmental council in a communist country"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "consulate",
+    "trans": [
+      "领事馆； 领事职位， 领事任期"
+    ],
+    "usphone": "'kɑnsələt",
+    "ukphone": "'kɒnsjələt",
+    "e_mean": [
+      "the residence or workplace of a diplomat"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "divisional",
+    "trans": [
+      "部门的"
+    ],
+    "usphone": "də'vɪʒənl",
+    "ukphone": "dɪ'vɪʒənl",
+    "e_mean": [
+      "serving to divide or marking a division"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "appoint",
+    "trans": [
+      "任命， 委任； 指定"
+    ],
+    "usphone": "ə'pɔɪnt",
+    "ukphone": "ə'pɔɪnt",
+    "e_mean": [
+      "assign a duty, responsibility, or obligation to"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "upper",
+    "trans": [
+      "上面的； 地位较高的"
+    ],
+    "usphone": "'ʌpɚ",
+    "ukphone": "'ʌpə(r)",
+    "e_mean": [
+      "higher in place or position"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "visa",
+    "trans": [
+      "签证"
+    ],
+    "usphone": "'vizə",
+    "ukphone": "'viːzə",
+    "e_mean": [
+      "an endorsement that allows the bearer to enter a country"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "documentation",
+    "trans": [
+      "文件证据， 文献资料， 文件"
+    ],
+    "usphone": "'dɑkjəmɛn'teʃən",
+    "ukphone": "ˌdɒkjʊmen'teɪʃn",
+    "e_mean": [
+      "confirmation that some fact or statement is true"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "administrator",
+    "trans": [
+      "管理者， 管理人员； 行政人员"
+    ],
+    "usphone": "əd'mɪnɪstretɚ",
+    "ukphone": "əd'mɪnɪstreɪtə(r)",
+    "e_mean": [
+      "someone who manages a government agency or department"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "postcode",
+    "trans": [
+      "邮政编码"
+    ],
+    "usphone": "'post'kod",
+    "ukphone": "'pəustkəud",
+    "e_mean": [
+      "a code of letters and digits added to a postal address to aid in the sorting of mail"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "leadership",
+    "trans": [
+      "领导， 领导层； 领导能力"
+    ],
+    "usphone": "'lidɚʃɪp",
+    "ukphone": "'liːdəʃɪp",
+    "e_mean": [
+      "the status of being in charge"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "induction",
+    "trans": [
+      "就职； 归纳； 感应"
+    ],
+    "usphone": "ɪn'dʌkʃən",
+    "ukphone": "ɪn'dʌkʃn",
+    "e_mean": [
+      "the act of bringing about something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "subsidise",
+    "trans": [
+      "津贴， 资助"
+    ],
+    "usphone": "'sʌbsidaiz",
+    "ukphone": "'sʌbsɪdaɪz",
+    "e_mean": [
+      "support through subsidies"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "charity",
+    "trans": [
+      "慈善； 施舍； 慈善机构"
+    ],
+    "usphone": "'tʃærəti",
+    "ukphone": "'tʃærəti",
+    "e_mean": [
+      "an institution set up to provide help to the needy"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "compendium",
+    "trans": [
+      "简要， 概略"
+    ],
+    "usphone": "kəm'pɛndɪəm",
+    "ukphone": "kəm'pendiəm",
+    "e_mean": [
+      "a publication containing a variety of works"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "vacancy",
+    "trans": [
+      "空位， 空房间； 空缺， 空职； 无主意， 空虚， 茫然若失"
+    ],
+    "usphone": "'vekənsi",
+    "ukphone": "'veɪkənsi",
+    "e_mean": [
+      "an empty area or space"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "remarkable",
+    "trans": [
+      "引人注目的， 显著的， 值得注意的； 异常的， 非凡的"
+    ],
+    "usphone": "rɪ'mɑrkəbl",
+    "ukphone": "rɪ'mɑːkəbl",
+    "e_mean": [
+      "unusual or striking"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "bolster",
+    "trans": [
+      "支持，支撑；"
+    ],
+    "usphone": "'bolstɚ",
+    "ukphone": "'bəulstə(r)",
+    "e_mean": [
+      "support and strengthen"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "adaptation",
+    "trans": [
+      "适应； 改编； 改制物"
+    ],
+    "usphone": ",ædæp'teʃən",
+    "ukphone": "ˌædæp'teɪʃn",
+    "e_mean": [
+      "the process of adjusting or conforming to new conditions"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "unconquerable",
+    "trans": [
+      "不可征服的"
+    ],
+    "usphone": "ʌn'kɑŋkərəbl",
+    "ukphone": "ˌʌn'kɒŋkərəbl",
+    "e_mean": [
+      "not capable of being conquered or vanquished or overcome"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "formality",
+    "trans": [
+      "认真遵循规范、 礼节等； 例行公事； 正式手续"
+    ],
+    "usphone": "fɔr'mæləti",
+    "ukphone": "fɔː'mæləti",
+    "e_mean": [
+      "a requirement of etiquette or custom"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "immigration",
+    "trans": [
+      "外来的移民； 移居"
+    ],
+    "usphone": ",ɪmɪ'ɡreʃən",
+    "ukphone": "ˌɪmɪ'greɪʃn",
+    "e_mean": [
+      "movement of people into a country or area"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "interrelationship",
+    "trans": [
+      "相互关联， 相互影响"
+    ],
+    "usphone": ",ɪntərɪ'leʃnʃɪp",
+    "ukphone": "ˌɪntərɪ'leɪʃnʃɪp",
+    "e_mean": [
+      "mutual or reciprocal relation or relatedness"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "stagnate",
+    "trans": [
+      "停滞； 不发展"
+    ],
+    "usphone": "stæɡ'net",
+    "ukphone": "stæg'neɪt",
+    "e_mean": [
+      "stand still"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "administrative",
+    "trans": [
+      "管理的， 行政的"
+    ],
+    "usphone": "əd'mɪnɪstretɪv",
+    "ukphone": "əd'mɪnɪstrətɪv",
+    "e_mean": [
+      "responsible for managing the affairs of a group of people"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "sensation",
+    "trans": [
+      "感觉能力； 感觉， 知觉； 轰动， 引起轰动的事件"
+    ],
+    "usphone": "sɛn'seʃən",
+    "ukphone": "sen'seɪʃn",
+    "e_mean": [
+      "an awareness of some type of stimulation"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "refer",
+    "trans": [
+      "参考， 查阅， 查询； 提到， 谈及； 引用； 提交， 上呈"
+    ],
+    "usphone": "rɪ'fɝ",
+    "ukphone": "rɪ'fɜː(r)",
+    "e_mean": [
+      "make a remark that calls attention to"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "departmental",
+    "trans": [
+      "部门的"
+    ],
+    "usphone": ",dipɑrt'mɛntl",
+    "ukphone": "ˌdiːpɑːt'mentl",
+    "e_mean": [
+      "of or relating to a department"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "rehabilitate",
+    "trans": [
+      "改造， 使恢复正常生活； 使恢复原状， 修复； 复职； 恢复…的名誉"
+    ],
+    "usphone": ",riə'bɪlə,tet",
+    "ukphone": "ˌriːə'bɪlɪteɪt",
+    "e_mean": [
+      "help to readapt, as to a former state of health or repute"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "professional",
+    "trans": [
+      "职业的；专业的",
+      "自由职业者； 专业人员"
+    ],
+    "usphone": "prə'fɛʃənl",
+    "ukphone": "prə'feʃənl",
+    "e_mean": [
+      "of or relating to or suitable as an occupation"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "migrant",
+    "trans": [
+      "移居者， 移民； 迁移动物， 候鸟"
+    ],
+    "usphone": "'maɪɡrənt",
+    "ukphone": "'maɪgrənt",
+    "e_mean": [
+      "traveler who moves from one region or country to another"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "engage",
+    "trans": [
+      "吸引； 占用； 使从事于， 使忙于； 雇用， 聘用； 与交战； 啮合， 衔接"
+    ],
+    "usphone": "ɪn'ɡedʒ",
+    "ukphone": "ɪn'geɪdʒ",
+    "e_mean": [
+      "consume all of one's attention or time"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "photocopy",
+    "trans": [
+      "影印，复印",
+      "影印本， 复印件"
+    ],
+    "usphone": "'fotokɑpi",
+    "ukphone": "'fəutəukɒpi",
+    "e_mean": [
+      "a photographic copy of written or printed or graphic work"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "constituent",
+    "trans": [
+      "组成的； 有宪法制定或修改权的",
+      "成分，要素；选区内的选民"
+    ],
+    "usphone": "kən'stɪtʃuənt",
+    "ukphone": "kən'stɪtjuənt",
+    "e_mean": [
+      "one of the individual parts making up a composite entity"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "autonomy",
+    "trans": [
+      "自治， 自治权； 人身自由， 自主权"
+    ],
+    "usphone": "ɔ'tɑnəmi",
+    "ukphone": "ɔː'tɒnəmi",
+    "e_mean": [
+      "political independence"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "constitute",
+    "trans": [
+      "组成； 构成； 设立， 成立"
+    ],
+    "usphone": "'kɑnstətut",
+    "ukphone": "'kɒnstɪtjuːt",
+    "e_mean": [
+      "form or compose"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "legitimacy",
+    "trans": [
+      "合法性； 正统性"
+    ],
+    "usphone": "lɪ'dʒɪtəməsi",
+    "ukphone": "lɪ'dʒɪtɪməsi",
+    "e_mean": [
+      "lawfulness by virtue of being authorized"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "association",
+    "trans": [
+      "协会"
+    ],
+    "usphone": "ə,soʃɪ'eʃən",
+    "ukphone": "əˌsəusi'eɪʃn",
+    "e_mean": [
+      "a formal organization of people or groups of people"
+    ],
+    "speech": "noun"
+  }
+]

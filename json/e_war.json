@@ -1,0 +1,3267 @@
+[
+  {
+    "name": "halt",
+    "trans": [
+      "暂停；踌躇；"
+    ],
+    "usphone": "hɔlt",
+    "ukphone": "hɔːlt",
+    "e_mean": [
+      "cause to stop"
+    ],
+    "speech": "verb",
+    "sentence": "The contract negotiations put a halt to operations."
+  },
+  {
+    "name": "cease",
+    "trans": [
+      "停止， 终止"
+    ],
+    "usphone": "sis",
+    "ukphone": "siːs",
+    "e_mean": [
+      "put an end to a state or an activity"
+    ],
+    "speech": "verb",
+    "sentence": "And with that, his twitching ceased."
+  },
+  {
+    "name": "forbid",
+    "trans": [
+      "禁止,阻止forbidsb.doingsth"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "command against"
+    ],
+    "speech": "verb",
+    "sentence": "Smoking in the restaurant is forbidden."
+  },
+  {
+    "name": "prohibit",
+    "trans": [
+      "禁止， 阻止"
+    ],
+    "usphone": "prə'hɪbɪt",
+    "ukphone": "prə'hɪbɪt",
+    "e_mean": [
+      "command against"
+    ],
+    "speech": "verb",
+    "sentence": "The restaurant prohibits smoking on the patio."
+  },
+  {
+    "name": "prevent",
+    "trans": [
+      "预防,防止,阻止prevention预防"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "keep from happening or arising; make impossible"
+    ],
+    "speech": "verb",
+    "sentence": "I brush my teeth regularly to prevent them from turning yellow."
+  },
+  {
+    "name": "revolt",
+    "trans": [
+      "叛乱，反抗revoltive厌恶的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "rise up against an authority "
+    ],
+    "speech": "verb",
+    "sentence": "The farmers had to revolt against the government to get what they deserved."
+  },
+  {
+    "name": "betray",
+    "trans": [
+      "出卖， 泄露； 辜负； 流露情感"
+    ],
+    "usphone": "bɪ'tre",
+    "ukphone": "bɪ'treɪ",
+    "e_mean": [
+      "deliver to an enemy by treachery"
+    ],
+    "speech": "verb",
+    "sentence": "an officer betrayed the city"
+  },
+  {
+    "name": "bullet",
+    "trans": [
+      "枪弹， 子弹"
+    ],
+    "usphone": "'bʊlɪt",
+    "ukphone": "'bulɪt",
+    "e_mean": [
+      "a projectile that is fired from a gun"
+    ],
+    "speech": "noun",
+    "sentence": "John's not going to any of his top schools; he got a bullet from the last of them yesterday."
+  },
+  {
+    "name": "target",
+    "trans": [
+      "目标；对象，靶子",
+      "对准， 面向"
+    ],
+    "usphone": "'tɑrɡɪt",
+    "ukphone": "'tɑːgɪt",
+    "e_mean": [
+      "a reference point to shoot at"
+    ],
+    "speech": "noun",
+    "sentence": "Take careful aim at the target."
+  },
+  {
+    "name": "deflect",
+    "trans": [
+      "偏斜， 转向"
+    ],
+    "usphone": "dɪ'flɛkt",
+    "ukphone": "dɪ'flekt",
+    "e_mean": [
+      "turn from a straight course or fixed direction"
+    ],
+    "speech": "verb",
+    "sentence": "The Prime Minister deflected some increasingly pointed questions by claiming he had an appointment."
+  },
+  {
+    "name": "flame",
+    "trans": [
+      "发火焰， 燃烧",
+      "火焰；强烈的感情"
+    ],
+    "usphone": "flem",
+    "ukphone": "fleɪm",
+    "e_mean": [
+      "combustion of materials producing heat and light and smoke"
+    ],
+    "speech": "noun",
+    "sentence": "The cello has a two-piece back with a beautiful narrow flame."
+  },
+  {
+    "name": "glitter",
+    "trans": [
+      "闪光"
+    ],
+    "usphone": "'ɡlɪtɚ",
+    "ukphone": "'glɪtə(r)",
+    "e_mean": [
+      "the quality of shining with a bright reflected light"
+    ],
+    "speech": "noun",
+    "sentence": "a glittering sword"
+  },
+  {
+    "name": "compel",
+    "trans": [
+      "强迫"
+    ],
+    "usphone": "kəm'pɛl",
+    "ukphone": "kəm'pel",
+    "e_mean": [
+      "force somebody to do something"
+    ],
+    "speech": "verb",
+    "sentence": "Logic compels the wise, while fools feel compelled by emotions."
+  },
+  {
+    "name": "reinforce",
+    "trans": [
+      "加强； 增援"
+    ],
+    "usphone": ",riɪn'fɔrs",
+    "ukphone": "ˌriːɪn'fɔːs",
+    "e_mean": [
+      "strengthen and support"
+    ],
+    "speech": "verb",
+    "sentence": "He reinforced the handle with a metal rod and a bit of tape."
+  },
+  {
+    "name": "event",
+    "trans": [
+      "事件； 比赛项目"
+    ],
+    "usphone": "ɪ'vɛnt",
+    "ukphone": "ɪ'vent",
+    "e_mean": [
+      "something that happens at a given place and time"
+    ],
+    "speech": "noun",
+    "sentence": "I went to an event in San Francisco last week."
+  },
+  {
+    "name": "foul",
+    "trans": [
+      "发臭的；肮脏的；邪恶的",
+      "犯规"
+    ],
+    "usphone": "faʊl",
+    "ukphone": "faul",
+    "e_mean": [
+      "highly offensive; arousing aversion or disgust"
+    ],
+    "speech": "adjective",
+    "sentence": "A ship's bottom is foul when overgrown with barnacles"
+  },
+  {
+    "name": "evil",
+    "trans": [
+      "邪恶,祸害邪恶的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "morally bad or wrong"
+    ],
+    "speech": "adjective",
+    "sentence": "Evil lacks spirituality, hence its need for mind control."
+  },
+  {
+    "name": "devil",
+    "trans": [
+      ".魔鬼；恶棍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an evil supernatural being"
+    ],
+    "speech": "noun",
+    "sentence": "The devil in me wants to let him suffer."
+  },
+  {
+    "name": "punishment",
+    "trans": [
+      "惩罚，处罚punish惩罚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of imposing a penalty"
+    ],
+    "speech": "noun",
+    "sentence": "a vehicle that can take a lot of punishment"
+  },
+  {
+    "name": "execute",
+    "trans": [
+      "将…处死； 实施， 执行"
+    ],
+    "usphone": "'ɛksɪkjut",
+    "ukphone": "'eksɪkjuːt",
+    "e_mean": [
+      "put in effect"
+    ],
+    "speech": "verb",
+    "sentence": "There are certain states where it is lawful to execute prisoners convicted of certain crimes."
+  },
+  {
+    "name": "hang",
+    "trans": [
+      "悬挂， 吊， 垂下； 吊死， 绞死"
+    ],
+    "usphone": "hæŋ",
+    "ukphone": "hæŋ",
+    "e_mean": [
+      "cause to be hanging or suspended"
+    ],
+    "speech": "verb",
+    "sentence": "This skirt has a nice hang."
+  },
+  {
+    "name": "sacrifice",
+    "trans": [
+      "牺牲， 献祭",
+      "牺牲，牺牲品；献祭，供奉；祭品，供物"
+    ],
+    "usphone": "'sækrɪfaɪs",
+    "ukphone": "'sækrɪfaɪs",
+    "e_mean": [
+      "the act of killing in order to appease a deity"
+    ],
+    "speech": "noun",
+    "sentence": "the sacrifice of one's spare time in order to volunteer"
+  },
+  {
+    "name": "bury",
+    "trans": [
+      "埋葬； 埋藏， 掩藏"
+    ],
+    "usphone": "'bɛri",
+    "ukphone": "'beri",
+    "e_mean": [
+      "place in a grave or tomb"
+    ],
+    "speech": "verb",
+    "sentence": "bury a bone; bury the embers"
+  },
+  {
+    "name": "funeral",
+    "trans": [
+      "葬礼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a ceremony at which a dead person is buried or cremated"
+    ],
+    "speech": "noun",
+    "sentence": "Many mourners turned up at the local artist's funeral to pay homage."
+  },
+  {
+    "name": "grave",
+    "trans": [
+      "坟墓/死亡庄重/严肃的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a place for the burial of a corpse"
+    ],
+    "speech": "noun",
+    "sentence": "to grave an image"
+  },
+  {
+    "name": "maritime",
+    "trans": [
+      "海的， 海事的； 海运的"
+    ],
+    "usphone": "'mærɪtaɪm",
+    "ukphone": "'mærɪtaɪm",
+    "e_mean": [
+      "relating to ships or navigation"
+    ],
+    "speech": "adjective",
+    "sentence": "I enjoy maritime activities such as yachting and deep sea diving."
+  },
+  {
+    "name": "naval",
+    "trans": [
+      "海军的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "connected with an organization of military vessels"
+    ],
+    "speech": "adjective",
+    "sentence": "naval architect"
+  },
+  {
+    "name": "triumph",
+    "trans": [
+      "伟大胜利"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a successful ending of a struggle or contest"
+    ],
+    "speech": "noun",
+    "sentence": "the triumph of knowledge"
+  },
+  {
+    "name": "conquer",
+    "trans": [
+      "征服， 战胜， 占领； 克服， 破除"
+    ],
+    "usphone": "'kɑŋkɚ",
+    "ukphone": "'kɒŋkə(r)",
+    "e_mean": [
+      "take possession of by force, as after an invasion"
+    ],
+    "speech": "verb",
+    "sentence": "In 1453, the Ottoman Empire conquered Istanbul."
+  },
+  {
+    "name": "invasion",
+    "trans": [
+      "入侵， 侵略"
+    ],
+    "usphone": "ɪn'veʒn",
+    "ukphone": "ɪn'veɪʒn",
+    "e_mean": [
+      "any entry into an area not previously occupied"
+    ],
+    "speech": "noun",
+    "sentence": "an invasion of bees"
+  },
+  {
+    "name": "secure",
+    "trans": [
+      "得到某物，获得；防护，保卫",
+      "安全的； 可靠的， 放心的"
+    ],
+    "usphone": "sə'kjʊr",
+    "ukphone": "sɪ'kjuə(r)",
+    "e_mean": [
+      "free from danger or risk"
+    ],
+    "speech": "adjective",
+    "sentence": "to secure a creditor against loss; to secure a debt by a mortgage"
+  },
+  {
+    "name": "given",
+    "trans": [
+      "规定的， 特定的； 假设的"
+    ],
+    "usphone": "'ɡɪvn",
+    "ukphone": "'gɪvn",
+    "e_mean": [
+      "acknowledged as a supposition"
+    ],
+    "speech": "adjective",
+    "sentence": "I give it a 95% chance of success."
+  },
+  {
+    "name": "definite",
+    "trans": [
+      "明确的， 肯定的； 清楚的"
+    ],
+    "usphone": "'dɛfɪnət",
+    "ukphone": "'defɪnət",
+    "e_mean": [
+      "precise; explicit and clearly defined"
+    ],
+    "speech": "adjective",
+    "sentence": "definite dimensions; a definite measure; a definite period or interval"
+  },
+  {
+    "name": "enlist",
+    "trans": [
+      "征募； 从军， 参军； 谋取"
+    ],
+    "usphone": "ɪn'lɪst",
+    "ukphone": "ɪn'lɪst",
+    "e_mean": [
+      "join the military"
+    ],
+    "speech": "verb",
+    "sentence": "The army wants potential soldiers to enlist."
+  },
+  {
+    "name": "chaos",
+    "trans": [
+      "混乱"
+    ],
+    "usphone": "'keɑs",
+    "ukphone": "'keɪɒs",
+    "e_mean": [
+      "formless state of matter before the creation of the cosmos"
+    ],
+    "speech": "noun",
+    "sentence": "After the earthquake, the local hospital was in chaos"
+  },
+  {
+    "name": "insidious",
+    "trans": [
+      "潜伏的， 隐伏的"
+    ],
+    "usphone": "ɪn'sɪdɪəs",
+    "ukphone": "ɪn'sɪdiəs",
+    "e_mean": [
+      "working or spreading in a hidden and usually injurious way"
+    ],
+    "speech": "adjective",
+    "sentence": "Hansel and Gretel were lured by the witch’s insidious gingerbread house."
+  },
+  {
+    "name": "incapacitate",
+    "trans": [
+      "使无能力； 使伤残； 使不适合； 使无资格"
+    ],
+    "usphone": ",ɪnkə'pæsɪtet",
+    "ukphone": "ˌɪnkə'pæsɪteɪt",
+    "e_mean": [
+      "make unable to perform a certain action"
+    ],
+    "speech": "verb",
+    "sentence": "The police officer was incapacitated by a blow to the head."
+  },
+  {
+    "name": "frontier",
+    "trans": [
+      "边境，边界；开发地区的边缘地带；"
+    ],
+    "usphone": "frʌn'tɪr",
+    "ukphone": "'frʌntɪə(r)",
+    "e_mean": [
+      "a wilderness at the edge of a settled area of a country"
+    ],
+    "speech": "noun",
+    "sentence": "the frontier of civilization"
+  },
+  {
+    "name": "relieve",
+    "trans": [
+      "救济； 缓解"
+    ],
+    "usphone": "rɪ'liv",
+    "ukphone": "rɪ'liːv",
+    "e_mean": [
+      "free from a burden, evil, or distress"
+    ],
+    "speech": "verb",
+    "sentence": "I was greatly relieved by the jury's verdict."
+  },
+  {
+    "name": "violence",
+    "trans": [
+      "暴力行为； 激烈， 猛烈"
+    ],
+    "usphone": "'vaɪələns",
+    "ukphone": "'vaɪələns",
+    "e_mean": [
+      "a turbulent state resulting in injuries and destruction"
+    ],
+    "speech": "noun",
+    "sentence": "The violence of the storm, fortunately, was more awesome than destructive."
+  },
+  {
+    "name": "conflict",
+    "trans": [
+      "冲突， 抵触",
+      "冲突[kən'flɪkt]"
+    ],
+    "usphone": "'kɑnflɪkt",
+    "ukphone": "'kɒnflɪkt",
+    "e_mean": [
+      "an open clash between two opposing groups"
+    ],
+    "speech": "noun",
+    "sentence": "The conflict between the government and the rebels began three years ago."
+  },
+  {
+    "name": "raid",
+    "trans": [
+      "突袭,突然搜查.\ncarryouta~实施突然袭击"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a sudden short attack"
+    ],
+    "speech": "noun",
+    "sentence": "a police raid of a narcotics factory"
+  },
+  {
+    "name": "enormity",
+    "trans": [
+      "巨大，滔天大罪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the quality of extreme wickedness"
+    ],
+    "speech": "noun",
+    "sentence": "Not until the war ended and journalists were able to enter Cambodia did the world really become aware of the enormity of Pol Pot’s oppression."
+  },
+  {
+    "name": "campaign",
+    "trans": [
+      "参加活动；"
+    ],
+    "usphone": "kæm'pen",
+    "ukphone": "kæm'peɪn",
+    "e_mean": [
+      "related operations aimed at achieving a particular goal "
+    ],
+    "speech": "noun",
+    "sentence": "The company is targeting children in their latest advertising campaign."
+  },
+  {
+    "name": "battle",
+    "trans": [
+      "战斗，战役；与……战斗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a hostile meeting of opposing military forces"
+    ],
+    "speech": "noun",
+    "sentence": "the battle of life"
+  },
+  {
+    "name": "struggle",
+    "trans": [
+      "挣扎，奋力，奋斗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "strenuous effort"
+    ],
+    "speech": "noun",
+    "sentence": "During the centuries, the people of Ireland struggled constantly to assert their right to govern themselves."
+  },
+  {
+    "name": "explode",
+    "trans": [
+      "爆炸； 爆发； 激增"
+    ],
+    "usphone": "ɪk'splod",
+    "ukphone": "ɪk'spləud",
+    "e_mean": [
+      "burst and release energy as through a violent reaction"
+    ],
+    "speech": "verb",
+    "sentence": "The assassin exploded the car by means of a car bomb."
+  },
+  {
+    "name": "blast",
+    "trans": [
+      "爆破，炸毁",
+      "一阵； 冲击"
+    ],
+    "usphone": "blæst",
+    "ukphone": "blɑːst",
+    "e_mean": [
+      "a sudden very loud noise"
+    ],
+    "speech": "noun",
+    "sentence": "many tons of iron were melted at a blast"
+  },
+  {
+    "name": "burst",
+    "trans": [
+      "爆炸；突然发作；破裂",
+      "爆炸"
+    ],
+    "usphone": "bɝst",
+    "ukphone": "bɜːst",
+    "e_mean": [
+      "come open suddenly and violently"
+    ],
+    "speech": "verb",
+    "sentence": "The bursts of the bombs could be heard miles away."
+  },
+  {
+    "name": "twinkle",
+    "trans": [
+      "闪烁，闪耀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "gleam or glow intermittently"
+    ],
+    "speech": "verb",
+    "sentence": "He was a rotund, jolly man with a twinkle in his eye."
+  },
+  {
+    "name": "cannon",
+    "trans": [
+      "加农炮， 大炮"
+    ],
+    "usphone": "'kænən",
+    "ukphone": "'kænən",
+    "e_mean": [
+      "a large artillery gun that is usually on wheels"
+    ],
+    "speech": "noun",
+    "sentence": "In English billiards, a cannon is when one's cue ball strikes the other player's cue ball and the red ball on the same shot; and it is worth two points."
+  },
+  {
+    "name": "missile",
+    "trans": [
+      "发射物； 导弹， 飞弹"
+    ],
+    "usphone": "'mɪsl",
+    "ukphone": "'mɪsaɪl",
+    "e_mean": [
+      "a weapon that is forcibly thrown or projected at a target"
+    ],
+    "speech": "noun",
+    "sentence": "The Rhodians, who used leaden bullets, were able to project their missiles twice as far as the Persian slingers, who used large stones."
+  },
+  {
+    "name": "weapon",
+    "trans": [
+      "武器， 兵器"
+    ],
+    "usphone": "'wɛpən",
+    "ukphone": "'wepən",
+    "e_mean": [
+      "any instrument used in fighting or hunting"
+    ],
+    "speech": "noun",
+    "sentence": "The club that is now mostly used for golf was once a common weapon."
+  },
+  {
+    "name": "rifle",
+    "trans": [
+      "步枪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a firearm with a long barrel"
+    ],
+    "speech": "noun",
+    "sentence": "She made a mess when she rifled through the stack of papers, looking for the title document."
+  },
+  {
+    "name": "offend",
+    "trans": [
+      "冒犯； 使厌恶； 违犯"
+    ],
+    "usphone": "ə'fɛnd",
+    "ukphone": "ə'fend",
+    "e_mean": [
+      "cause to feel resentment or indignation"
+    ],
+    "speech": "verb",
+    "sentence": "Your accusations offend me deeply."
+  },
+  {
+    "name": "aggressive",
+    "trans": [
+      "侵犯的， 侵略的， 挑衅的； 有进取心的， 有冲劲的"
+    ],
+    "usphone": "ə'ɡrɛsɪv",
+    "ukphone": "ə'gresɪv",
+    "e_mean": [
+      "characteristic of an enemy or one eager to fight"
+    ],
+    "speech": "adjective",
+    "sentence": "an aggressive policy, war, person, nation"
+  },
+  {
+    "name": "assault",
+    "trans": [
+      "攻击，袭击；侵犯人身罪；冲击；"
+    ],
+    "usphone": "ə'sɔlt",
+    "ukphone": "ə'sɔːlt",
+    "e_mean": [
+      "attack someone physically or emotionally"
+    ],
+    "speech": "verb",
+    "sentence": "to make assault upon a man, a house, or a town"
+  },
+  {
+    "name": "challenge",
+    "trans": [
+      "挑战；质疑；艰巨任务，难题",
+      "挑战； 质疑"
+    ],
+    "usphone": "'tʃælɪndʒ",
+    "ukphone": "'tʃælɪndʒ",
+    "e_mean": [
+      "a call to engage in a contest or fight"
+    ],
+    "speech": "noun",
+    "sentence": "We challenged the boys next door to a game of football."
+  },
+  {
+    "name": "surround",
+    "trans": [
+      "围绕； 包围"
+    ],
+    "usphone": "sə'raʊnd",
+    "ukphone": "sə'raund",
+    "e_mean": [
+      "extend on all sides of simultaneously; encircle"
+    ],
+    "speech": "verb",
+    "sentence": "to surround the world"
+  },
+  {
+    "name": "enclose",
+    "trans": [
+      "围住； 附上； 把…装入信封"
+    ],
+    "usphone": "ɪn'kloz",
+    "ukphone": "ɪn'kləuz",
+    "e_mean": [
+      "surround completely"
+    ],
+    "speech": "verb",
+    "sentence": "to enclose lands"
+  },
+  {
+    "name": "pause",
+    "trans": [
+      "暂停，停顿cometoa~暂停"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cease an action temporarily"
+    ],
+    "speech": "verb",
+    "sentence": "Teach the pupil to mind the pauses."
+  },
+  {
+    "name": "oppose",
+    "trans": [
+      "反对， 反抗"
+    ],
+    "usphone": "ə'poz",
+    "ukphone": "ə'pəuz",
+    "e_mean": [
+      "be against"
+    ],
+    "speech": "verb",
+    "sentence": "There is still time to oppose this plan."
+  },
+  {
+    "name": "oppress",
+    "trans": [
+      "压迫，压制,使压抑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "come down on or keep down by unjust use of one's authority"
+    ],
+    "speech": "verb",
+    "sentence": "The rural poor were oppressed by the land-owners."
+  },
+  {
+    "name": "counter",
+    "trans": [
+      "相反地",
+      "柜台"
+    ],
+    "usphone": "'kaʊntɚ",
+    "ukphone": "'kauntə(r)",
+    "e_mean": [
+      "a calculator recording the number of times something happens"
+    ],
+    "speech": "noun",
+    "sentence": "He's only 16 months, but is already a good counter – he can count to 100."
+  },
+  {
+    "name": "mission",
+    "trans": [
+      "使命， 任务； 代表团， 使团； 传教， 布道"
+    ],
+    "usphone": "'mɪʃən",
+    "ukphone": "'mɪʃn",
+    "e_mean": [
+      "an operation that is assigned by a higher headquarters"
+    ],
+    "speech": "noun",
+    "sentence": "Many cities across the Americas grew from Spanish missions."
+  },
+  {
+    "name": "flare",
+    "trans": [
+      "火光，闪光信号灯；(火光)闪耀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a burst of light used to communicate or illuminate"
+    ],
+    "speech": "noun",
+    "sentence": "solar flare"
+  },
+  {
+    "name": "axe",
+    "trans": [
+      "斧子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an edge tool with a heavy bladed head mounted across a handle"
+    ],
+    "speech": "noun",
+    "sentence": "His girlfriend/boss/schoolmaster gave him the axe."
+  },
+  {
+    "name": "hammer",
+    "trans": [
+      "锤,榔头;用锤击hammersth.intosb.\n向某人反复强调某种思想"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a hand tool with a heavy rigid head and a handle"
+    ],
+    "speech": "noun",
+    "sentence": "Bobby used a hammer and nails to fix the two planks together"
+  },
+  {
+    "name": "bow",
+    "trans": [
+      "弓,蝴蝶结"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "something curved in shape"
+    ],
+    "speech": "noun",
+    "sentence": "The musician bowed his violin expertly."
+  },
+  {
+    "name": "arrow",
+    "trans": [
+      "箭,箭头aimanarrowat把箭瞄准"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "projectile with a thin shaft intended to be shot from a bow"
+    ],
+    "speech": "noun",
+    "sentence": "Arrow left until you reach the start of the text you want to delete."
+  },
+  {
+    "name": "spear",
+    "trans": [
+      "矛,标枪;用尖物刺穿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a long pointed rod used as a tool or weapon"
+    ],
+    "speech": "noun",
+    "sentence": "asparagus and broccoli spears"
+  },
+  {
+    "name": "prepare",
+    "trans": [
+      "准备， 预备"
+    ],
+    "usphone": "prɪ'pɛr",
+    "ukphone": "prɪ'peə(r)",
+    "e_mean": [
+      "make ready or suitable or equip in advance"
+    ],
+    "speech": "verb",
+    "sentence": "We prepared the spacecraft for takeoff."
+  },
+  {
+    "name": "provide",
+    "trans": [
+      "供给，提供"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "give something useful or necessary to"
+    ],
+    "speech": "verb",
+    "sentence": "It is difficult to provide for my family working on minimum wage."
+  },
+  {
+    "name": "deploy",
+    "trans": [
+      "部署； 使用， 运用"
+    ],
+    "usphone": "dɪ'plɔɪ",
+    "ukphone": "dɪ'plɔɪ",
+    "e_mean": [
+      "place troops or weapons in battle formation"
+    ],
+    "speech": "verb",
+    "sentence": "\"Deploy two units of infantry along the enemy's flank,\" the general ordered."
+  },
+  {
+    "name": "beat",
+    "trans": [
+      "打,打败,(心脏等)跳动,节拍,击鼓声"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "hit repeatedly"
+    ],
+    "speech": "verb",
+    "sentence": "a beat of the heart; the beat of the pulse"
+  },
+  {
+    "name": "blame",
+    "trans": [
+      "责怪， 责备"
+    ],
+    "usphone": "blem",
+    "ukphone": "bleɪm",
+    "e_mean": [
+      "an accusation that one is responsible for some misdeed"
+    ],
+    "speech": "noun",
+    "sentence": "Blame came from all directions."
+  },
+  {
+    "name": "evidence",
+    "trans": [
+      "根据， 证据； 形迹， 迹象"
+    ],
+    "usphone": "'ɛvɪdəns",
+    "ukphone": "'evɪdəns",
+    "e_mean": [
+      "knowledge on which to base belief"
+    ],
+    "speech": "noun",
+    "sentence": "There is no evidence that anyone was here earlier."
+  },
+  {
+    "name": "proof",
+    "trans": [
+      "能防…的， 耐…的",
+      "证据，证明；校样，样张"
+    ],
+    "usphone": "pruf",
+    "ukphone": "pruːf",
+    "e_mean": [
+      "any evidence that helps to establish the truth of something"
+    ],
+    "speech": "noun",
+    "sentence": "a proof load; a proof charge"
+  },
+  {
+    "name": "terror",
+    "trans": [
+      "恐惧/慌terrorist恐怖分子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an overwhelming feeling of fear and anxiety"
+    ],
+    "speech": "noun",
+    "sentence": "a terror attack; the War on Terror"
+  },
+  {
+    "name": "terrific",
+    "trans": [
+      "极好的,很大的，很强的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "extraordinarily good or great "
+    ],
+    "speech": "adjective",
+    "sentence": "I've got a terrific hangover this morning."
+  },
+  {
+    "name": "alarm",
+    "trans": [
+      "惊恐，恐慌；报警器；闹钟；警报",
+      "使惊恐； 使担心"
+    ],
+    "usphone": "ə'lɑrm",
+    "ukphone": "ə'lɑːm",
+    "e_mean": [
+      "a device signaling the occurrence of some undesirable event"
+    ],
+    "speech": "noun",
+    "sentence": "The clock radio is a friendlier version of the cold alarm by the bedside."
+  },
+  {
+    "name": "dread",
+    "trans": [
+      "极为害怕;恐惧.dreadful可怕的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "fearful expectation or anticipation"
+    ],
+    "speech": "noun",
+    "sentence": "my visit to the doctor is filling me with dread"
+  },
+  {
+    "name": "frighten",
+    "trans": [
+      "使害怕，使惊恐.fright惊骇"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cause fear in"
+    ],
+    "speech": "verb",
+    "sentence": "Avery puts a sheet over her head, pretending to be a ghost to frighten Emily."
+  },
+  {
+    "name": "tension",
+    "trans": [
+      "紧张,拉紧状态.tense绷紧的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the action of stretching something tight"
+    ],
+    "speech": "noun",
+    "sentence": "We tensioned the cable until it snapped."
+  },
+  {
+    "name": "turbulent",
+    "trans": [
+      "动荡/混乱/汹涌的.turbulence骚乱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "characterized by unrest or disorder or insubordination"
+    ],
+    "speech": "adjective",
+    "sentence": "It is dangerous to sail in turbulent seas."
+  },
+  {
+    "name": "occasion",
+    "trans": [
+      "时刻，时候；场合；重大活动，盛会；时机，机会；起因，理由",
+      "引起， 惹起"
+    ],
+    "usphone": "ə'keʒn",
+    "ukphone": "ə'keɪʒn",
+    "e_mean": [
+      "an event that occurs at a critical time"
+    ],
+    "speech": "noun",
+    "sentence": "At this point, she seized the occasion to make her own observation."
+  },
+  {
+    "name": "limit",
+    "trans": [
+      "限度,界限限制/定limited有限的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "as far as something can go"
+    ],
+    "speech": "noun",
+    "sentence": "There are several existing limits to executive power."
+  },
+  {
+    "name": "strike",
+    "trans": [
+      "打；折磨",
+      "罢工"
+    ],
+    "usphone": "straɪk",
+    "ukphone": "straɪk",
+    "e_mean": [
+      "deliver a sharp blow, as with the hand, fist, or weapon"
+    ],
+    "speech": "verb",
+    "sentence": "Thus hand strikes now include single knuckle strikes, knife hand strikes, finger strikes, ridge hand strikes etc., and leg strikes include front kicks, knee strikes, axe kicks, ..."
+  },
+  {
+    "name": "punch",
+    "trans": [
+      "穿孔，打孔；重击，猛击",
+      "猛击； 冲床， 穿孔机； 力量， 效力"
+    ],
+    "usphone": "",
+    "ukphone": "pʌntʃ",
+    "e_mean": [
+      "deliver a quick blow to"
+    ],
+    "speech": "verb",
+    "sentence": "If she punches me, I'm gonna break her nose."
+  },
+  {
+    "name": "chop",
+    "trans": [
+      "切碎(食物),劈(木头)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cut with a hacking tool"
+    ],
+    "speech": "verb",
+    "sentence": "I only like lamb chops with mint jelly."
+  },
+  {
+    "name": "stab",
+    "trans": [
+      "刺， 戳"
+    ],
+    "usphone": "stæb",
+    "ukphone": "stæb",
+    "e_mean": [
+      "poke or thrust abruptly"
+    ],
+    "speech": "verb",
+    "sentence": "a horn stab"
+  },
+  {
+    "name": "pitfall",
+    "trans": [
+      "陷阱,危险，困难"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an unforeseen or unexpected or surprising difficulty"
+    ],
+    "speech": "noun",
+    "sentence": "It's usually a simple task, but you should know the pitfalls before you attempt it yourself."
+  },
+  {
+    "name": "starve",
+    "trans": [
+      "挨饿； 饿死"
+    ],
+    "usphone": "stɑrv",
+    "ukphone": "stɑːv",
+    "e_mean": [
+      "die of food deprivation"
+    ],
+    "speech": "verb",
+    "sentence": "Hey, ma, I'm starving! What's for dinner?"
+  },
+  {
+    "name": "seize",
+    "trans": [
+      "抓住,夺取"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "take hold of; grab"
+    ],
+    "speech": "verb",
+    "sentence": "to seize a ship after libeling"
+  },
+  {
+    "name": "pursue",
+    "trans": [
+      "追赶,追查,追求.pursuit追赶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "follow in an effort to capture"
+    ],
+    "speech": "verb",
+    "sentence": "Her rival pursued a quite different course."
+  },
+  {
+    "name": "invade",
+    "trans": [
+      "侵犯， 侵入， 侵略， 侵袭"
+    ],
+    "usphone": "ɪn'ved",
+    "ukphone": "ɪn'veɪd",
+    "e_mean": [
+      "march aggressively into a territory by military force"
+    ],
+    "speech": "verb",
+    "sentence": "Under some circumstances police are allowed to invade a person's privacy."
+  },
+  {
+    "name": "attack",
+    "trans": [
+      "进攻； 抨击； 突然发作"
+    ],
+    "usphone": "ə'tæk",
+    "ukphone": "ə'tæk",
+    "e_mean": [
+      "an offensive against an enemy"
+    ],
+    "speech": "noun",
+    "sentence": "They claimed the censorship of the article was an attack on free speech."
+  },
+  {
+    "name": "contest",
+    "trans": [
+      "争取赢得,争辩;竞争,比赛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a struggle between rivals"
+    ],
+    "speech": "noun",
+    "sentence": "no contest"
+  },
+  {
+    "name": "contend",
+    "trans": [
+      "竞争,争辩，主张"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "compete for something"
+    ],
+    "speech": "verb",
+    "sentence": "In this paper the author contends that no useful results can be obtained if this method is used."
+  },
+  {
+    "name": "rival",
+    "trans": [
+      "竞争的，对抗的",
+      "竞争者，竞争对手；可与匹敌的人",
+      "与…竞争； 与…匹敌， 比得上； 竞争， 对抗"
+    ],
+    "usphone": "'raɪvl",
+    "ukphone": "'raɪvl",
+    "e_mean": [
+      "the contestant you hope to defeat"
+    ],
+    "speech": "noun",
+    "sentence": "Chris is my biggest rival in the 400-metre race."
+  },
+  {
+    "name": "enemy",
+    "trans": [
+      "敌人,仇敌,敌兵，敌军"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a personal foe"
+    ],
+    "speech": "noun",
+    "sentence": "Crush the enemy!"
+  },
+  {
+    "name": "manoeuvre",
+    "trans": [
+      "移动， 转动； 操纵， 控制",
+      "移动；策略，手段"
+    ],
+    "usphone": "mə'nu:və",
+    "ukphone": "mə'nuːvə(r)",
+    "e_mean": [
+      "a military training exercise"
+    ],
+    "speech": "noun",
+    "sentence": "Joint NATO maneuvers are as much an exercise in diplomacy as in tactics and logistics."
+  },
+  {
+    "name": "blueprint",
+    "trans": [
+      "蓝图； 方案"
+    ],
+    "usphone": "'blʊ'prɪnt",
+    "ukphone": "'bluːprɪnt",
+    "e_mean": [
+      "something intended as a guide for making something else"
+    ],
+    "speech": "noun",
+    "sentence": "The architect blueprinted the renovation plan once the client had signed off."
+  },
+  {
+    "name": "oblige",
+    "trans": [
+      "迫使，帮忙obligation义务"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "force somebody to do something"
+    ],
+    "speech": "verb",
+    "sentence": "I am obliged to report to the police station every week."
+  },
+  {
+    "name": "order",
+    "trans": [
+      "次序,整齐;命令.disorder混乱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "logical arrangement of different elements"
+    ],
+    "speech": "noun",
+    "sentence": "The house is in order; the machinery is out of order."
+  },
+  {
+    "name": "protest",
+    "trans": [
+      "抗议；申明protestor抗议者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a formal and solemn declaration of objection"
+    ],
+    "speech": "noun",
+    "sentence": "They lodged a protest with the authorities."
+  },
+  {
+    "name": "force",
+    "trans": [
+      "强迫"
+    ],
+    "usphone": "fɔrs",
+    "ukphone": "fɔːs",
+    "e_mean": [
+      "influence that results in motion, stress, etc. when applied"
+    ],
+    "speech": "noun",
+    "sentence": "the force of an appeal, an argument, or a contract"
+  },
+  {
+    "name": "comfort",
+    "trans": [
+      "安慰,舒适;安慰.seek~寻求安慰"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a state of being relaxed and feeling no pain"
+    ],
+    "speech": "noun",
+    "sentence": "Sleep in comfort with our new mattress."
+  },
+  {
+    "name": "matter",
+    "trans": [
+      "事情.要紧asa~offact事实上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "that which has mass and occupies space"
+    ],
+    "speech": "noun",
+    "sentence": "What's the matter?; state matters"
+  },
+  {
+    "name": "occur",
+    "trans": [
+      "发生； 存在"
+    ],
+    "usphone": "ə'kɝ",
+    "ukphone": "ə'kɜː(r)",
+    "e_mean": [
+      "come to pass"
+    ],
+    "speech": "verb",
+    "sentence": "The liftoff will occur in exactly twelve seconds."
+  },
+  {
+    "name": "savage",
+    "trans": [
+      "adj野蛮的凶狠地攻击野蛮人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "without civilizing influences"
+    ],
+    "speech": "adjective",
+    "sentence": "No matter how anyone might savage me, I should stay strong."
+  },
+  {
+    "name": "fierce",
+    "trans": [
+      "凶猛的； 强烈的"
+    ],
+    "usphone": "fɪrs",
+    "ukphone": "fɪəs",
+    "e_mean": [
+      "marked by extreme and violent energy"
+    ],
+    "speech": "adjective",
+    "sentence": "A fierce storm battered the coast."
+  },
+  {
+    "name": "capture",
+    "trans": [
+      "捕获，俘获；夺取或赢得",
+      "捕获； 战利品"
+    ],
+    "usphone": "'kæptʃɚ",
+    "ukphone": "'kæptʃə(r)",
+    "e_mean": [
+      "seize as if by hunting, snaring, or trapping"
+    ],
+    "speech": "verb",
+    "sentence": "the capture of a lover's heart"
+  },
+  {
+    "name": "victory",
+    "trans": [
+      "胜利，成功"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a successful ending of a struggle or contest"
+    ],
+    "speech": "noun",
+    "sentence": "It was a great victory on the battlefield."
+  },
+  {
+    "name": "monument",
+    "trans": [
+      "纪念碑,历史遗迹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a structure erected to commemorate persons or events"
+    ],
+    "speech": "noun",
+    "sentence": "There is a monument on the town green to the soldiers who died in World War I."
+  },
+  {
+    "name": "tablet",
+    "trans": [
+      "药片"
+    ],
+    "usphone": "ˈtæblɪt",
+    "ukphone": "'tæblət",
+    "e_mean": [
+      "a small, flat, compressed cake of some substance"
+    ],
+    "speech": "noun",
+    "sentence": "Many people take vitamin tablets as a food supplement."
+  },
+  {
+    "name": "medal",
+    "trans": [
+      "勋章,奖章awardsb.a~授奖章"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an award for winning a championship"
+    ],
+    "speech": "noun",
+    "sentence": "He medalled twice at the Olympics."
+  },
+  {
+    "name": "honour",
+    "trans": [
+      "光荣；尊敬",
+      "向…示敬意； 信守， 执行"
+    ],
+    "usphone": "'ɔnə",
+    "ukphone": "'ɒnə(r)",
+    "e_mean": [
+      "the quality of being honorable and having a good name"
+    ],
+    "speech": "noun",
+    "sentence": "The crowds gave the returning general much honor and praise."
+  },
+  {
+    "name": "glorious",
+    "trans": [
+      "光荣的； 壮丽的"
+    ],
+    "usphone": "'ɡlɔriəs; 'ɡloriəs",
+    "ukphone": "'glɔːriəs",
+    "e_mean": [
+      "having or deserving or conferring high honor"
+    ],
+    "speech": "adjective",
+    "sentence": "glorious deeds"
+  },
+  {
+    "name": "contribute",
+    "trans": [
+      "捐赠， 捐助； 起作用， 影响"
+    ],
+    "usphone": "kən'trɪbjut",
+    "ukphone": "kən'trɪbjuːt;'kɒntrɪbjʊːt",
+    "e_mean": [
+      "give, provide, or supply something"
+    ],
+    "speech": "verb",
+    "sentence": "to contribute articles to a journal"
+  },
+  {
+    "name": "devote",
+    "trans": [
+      "将…奉献给； 致力"
+    ],
+    "usphone": "dɪ'vot",
+    "ukphone": "dɪ'vəut",
+    "e_mean": [
+      "dedicate"
+    ],
+    "speech": "verb",
+    "sentence": "I devoted this afternoon to repainting my study, and nothing will get in my way."
+  },
+  {
+    "name": "patrol",
+    "trans": [
+      "巡逻，巡查"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "moving around an area to monitor and provide security"
+    ],
+    "speech": "noun",
+    "sentence": "a customs patrol"
+  },
+  {
+    "name": "guard",
+    "trans": [
+      "警卫员;看守guardian保卫者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "watch over or shield from danger or harm"
+    ],
+    "speech": "verb",
+    "sentence": "The prison guard unlocked the door of the cell. After completing the repairs, he replaced the sump guard."
+  },
+  {
+    "name": "obstacle",
+    "trans": [
+      "障碍,障碍物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "something that stands in the way and must be surmounted"
+    ],
+    "speech": "noun",
+    "sentence": "A big obstacle to understanding the manual was that it had been poorly translated from the Japanese."
+  },
+  {
+    "name": "burrow",
+    "trans": [
+      "挖掘，钻进；翻寻",
+      "地洞"
+    ],
+    "usphone": "'bɝro",
+    "ukphone": "'bʌrəu",
+    "e_mean": [
+      "a hole made by an animal, usually for shelter"
+    ],
+    "speech": "noun",
+    "sentence": "The young girl burrowed into the bed."
+  },
+  {
+    "name": "spy",
+    "trans": [
+      "间谍/特务;搜集情报"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "(military) a secret agent hired by a state to obtain information about its enemies or by a business to obtain industrial secrets from competitors"
+    ],
+    "speech": "noun",
+    "sentence": "During the Cold War, Russia and America would each spy on each other for recon."
+  },
+  {
+    "name": "scout",
+    "trans": [
+      "侦察； 寻找； 搜索",
+      "侦察员；童子军"
+    ],
+    "usphone": "skaʊt",
+    "ukphone": "skaut",
+    "e_mean": [
+      "explore, often with a goal of finding something or somebody"
+    ],
+    "speech": "verb",
+    "sentence": "to scout an idea or an apology"
+  },
+  {
+    "name": "fleet",
+    "trans": [
+      "快速的，敏捷的",
+      "疾驰， 飞逝， 掠过",
+      "舰队，船队"
+    ],
+    "usphone": "flit",
+    "ukphone": "fliːt",
+    "e_mean": [
+      "group of aircraft operating under the same ownership"
+    ],
+    "speech": "noun",
+    "sentence": "a ship that fleets the gulf"
+  },
+  {
+    "name": "troop",
+    "trans": [
+      "—群，一队,军队结队前行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a group of soldiers"
+    ],
+    "speech": "noun",
+    "sentence": "The children trooped into the room."
+  },
+  {
+    "name": "landing",
+    "trans": [
+      "着陆,登陆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of coming to land after a voyage"
+    ],
+    "speech": "noun",
+    "sentence": "The plane is about to land."
+  },
+  {
+    "name": "hover",
+    "trans": [
+      "翱翔， 盘旋； 逗留在近旁， 徘徊； 彷徨， 犹豫"
+    ],
+    "usphone": "'hʌvɚ",
+    "ukphone": "'hɒvə(r)",
+    "e_mean": [
+      "hang in the air; fly or be suspended above"
+    ],
+    "speech": "verb",
+    "sentence": "The hummingbird hovered by the plant."
+  },
+  {
+    "name": "proceed",
+    "trans": [
+      "进行； 前进； 继续"
+    ],
+    "usphone": "pro'sid",
+    "ukphone": "prə'sɪ:d",
+    "e_mean": [
+      "move ahead; travel onward in time or space"
+    ],
+    "speech": "verb",
+    "sentence": "To proceed on a journey."
+  },
+  {
+    "name": "progress",
+    "trans": [
+      "前进,进步,进程"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of moving forward, as toward a goal"
+    ],
+    "speech": "noun",
+    "sentence": "Testing for the new antidote is currently in progress."
+  },
+  {
+    "name": "military",
+    "trans": [
+      "军事的",
+      "[the ～] 军队"
+    ],
+    "usphone": "'mɪlətɛri",
+    "ukphone": "'mɪlətri",
+    "e_mean": [
+      "the armed forces of a nation"
+    ],
+    "speech": "noun",
+    "sentence": "He spent six years in the military."
+  },
+  {
+    "name": "nuclear",
+    "trans": [
+      "核能的， 原子能的"
+    ],
+    "usphone": "'nuklɪɚ",
+    "ukphone": "'njuːklɪə(r)",
+    "e_mean": [
+      "constituting the core or central part"
+    ],
+    "speech": "adjective",
+    "sentence": "a nuclear reactor"
+  },
+  {
+    "name": "poison",
+    "trans": [
+      "毒，毒药",
+      "毒害"
+    ],
+    "usphone": "'pɔɪzn",
+    "ukphone": "'pɔɪzn",
+    "e_mean": [
+      "any substance that causes injury or illness or death"
+    ],
+    "speech": "noun",
+    "sentence": "We used a poison to kill the weeds."
+  },
+  {
+    "name": "risk",
+    "trans": [
+      "危险，风险冒着的危险"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a source of danger"
+    ],
+    "speech": "noun",
+    "sentence": "2006, Trever Ramsey on BBC News website, Exercise 'cuts skin cancer risk' read at http//news.bbc.co.uk/1/hi/health/4764535.stm on 14 May 2006"
+  },
+  {
+    "name": "adventure",
+    "trans": [
+      "冒险， 冒险活动； 异乎寻常的经历， 奇遇"
+    ],
+    "usphone": "əd'vɛntʃɚ",
+    "ukphone": "əd'ventʃə(r)",
+    "e_mean": [
+      "a wild and exciting undertaking "
+    ],
+    "speech": "noun",
+    "sentence": "A life full of adventures."
+  },
+  {
+    "name": "peril",
+    "trans": [
+      ".重大危险,险情，危险"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a state of danger involving risk"
+    ],
+    "speech": "noun",
+    "sentence": "The perils of the jungle (animals and insects, weather, etc)"
+  },
+  {
+    "name": "collapse",
+    "trans": [
+      "坍塌， 崩溃； 晕倒"
+    ],
+    "usphone": "kə'læps",
+    "ukphone": "kə'læps",
+    "e_mean": [
+      "break down, literally or metaphorically"
+    ],
+    "speech": "verb",
+    "sentence": "She suffered a terrible collapse after slipping on the wet floor."
+  },
+  {
+    "name": "torture",
+    "trans": [
+      "n拷问,痛苦,折磨拷问,使痛苦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "infliction of suffering to punish or obtain information"
+    ],
+    "speech": "noun",
+    "sentence": "In every war there are acts of torture that cause the world to shudder."
+  },
+  {
+    "name": "damage",
+    "trans": [
+      "损害；",
+      "损害"
+    ],
+    "usphone": "'dæmɪdʒ",
+    "ukphone": "'dæmɪdʒ",
+    "e_mean": [
+      "the occurrence of a change for the worse"
+    ],
+    "speech": "noun",
+    "sentence": "The storm did a lot of damage to the area."
+  },
+  {
+    "name": "harmful",
+    "trans": [
+      "有害的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "causing or capable of causing damage"
+    ],
+    "speech": "adjective",
+    "sentence": "Wear a hat to protect your skin from harmful sunlight."
+  },
+  {
+    "name": "mislead",
+    "trans": [
+      "误导，欺骗，使误入歧途"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "take someone in the wrong direction or give wrong directions"
+    ],
+    "speech": "verb",
+    "sentence": "The preacher elaborated Satan's ways to mislead us into sin"
+  },
+  {
+    "name": "general",
+    "trans": [
+      "一般的，普通的；全体的，普遍的；大体的，概括的；首席的",
+      "将军"
+    ],
+    "usphone": "'dʒɛnrəl",
+    "ukphone": "'dʒenrəl",
+    "e_mean": [
+      "applying to all or most members of a category or group"
+    ],
+    "speech": "adjective",
+    "sentence": "We have dealt with the generals; now let us turn to the particulars."
+  },
+  {
+    "name": "disturb",
+    "trans": [
+      "扰乱； 弄乱， 打乱； 打扰， 使烦恼"
+    ],
+    "usphone": "dɪ'stɝb",
+    "ukphone": "dɪ'stɜːb",
+    "e_mean": [
+      "trouble deeply"
+    ],
+    "speech": "verb",
+    "sentence": "A school of fish disturbed the water."
+  },
+  {
+    "name": "interfere",
+    "trans": [
+      "干涉， 干扰， 妨碍"
+    ],
+    "usphone": ",ɪntɚ'fɪr",
+    "ukphone": "ˌɪntə'fɪə(r)",
+    "e_mean": [
+      "get involved, so as to alter or hinder an action"
+    ],
+    "speech": "verb",
+    "sentence": "I always try not to interfere with other people’s personal affairs."
+  },
+  {
+    "name": "interrupt",
+    "trans": [
+      "中断， 中止； 阻碍； 打断， 打扰"
+    ],
+    "usphone": "'ɪntə'rʌpt",
+    "ukphone": "ˌɪntə'rʌpt",
+    "e_mean": [
+      "make a break in"
+    ],
+    "speech": "verb",
+    "sentence": "The interrupt caused the packet handler routine to run."
+  },
+  {
+    "name": "retreat",
+    "trans": [
+      "撤退,退避"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of withdrawing or going backward"
+    ],
+    "speech": "noun",
+    "sentence": "a retreating forehead"
+  },
+  {
+    "name": "shrink",
+    "trans": [
+      "收缩； 萎缩"
+    ],
+    "usphone": "ʃrɪŋk",
+    "ukphone": "ʃrɪŋk",
+    "e_mean": [
+      "wither, as with a loss of moisture"
+    ],
+    "speech": "verb",
+    "sentence": "My shrink said that he was an enabler, bad for me."
+  },
+  {
+    "name": "withdraw",
+    "trans": [
+      "收回； 撤退； 缩回， 退出； 提取"
+    ],
+    "usphone": "wɪð'drɔ",
+    "ukphone": "wɪð'drɔː",
+    "e_mean": [
+      "pull back or move away or backward"
+    ],
+    "speech": "verb",
+    "sentence": "to withdraw false charges"
+  },
+  {
+    "name": "compromise",
+    "trans": [
+      "妥协， 放弃； 危及",
+      "妥协，折中办法"
+    ],
+    "usphone": "'kɑmprəmaɪz",
+    "ukphone": "'kɒmprəmaɪz",
+    "e_mean": [
+      "an accommodation in which both sides make concessions"
+    ],
+    "speech": "noun",
+    "sentence": "a compromise of character or right"
+  },
+  {
+    "name": "surrender",
+    "trans": [
+      "投降,(被迫)放弃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "relinquish possession or control over"
+    ],
+    "speech": "verb",
+    "sentence": "I surrender!"
+  },
+  {
+    "name": "escape",
+    "trans": [
+      "逃跑/逃脱/逃避"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "run away from confinement"
+    ],
+    "speech": "verb",
+    "sentence": "The prisoners made their escape by digging a tunnel."
+  },
+  {
+    "name": "avoid",
+    "trans": [
+      "避免； 躲开"
+    ],
+    "usphone": "ə'vɔɪd",
+    "ukphone": "ə'vɒɪd",
+    "e_mean": [
+      "stay away from"
+    ],
+    "speech": "verb",
+    "sentence": "I try to avoid the company of gamblers."
+  },
+  {
+    "name": "quit",
+    "trans": [
+      "放弃,停止,辞去,离开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "put an end to a state or an activity"
+    ],
+    "speech": "verb",
+    "sentence": "After having to work overtime without being paid, I quit my job."
+  },
+  {
+    "name": "abandon",
+    "trans": [
+      "放弃， 遗弃"
+    ],
+    "usphone": "ə'bændən",
+    "ukphone": "ə'bændən",
+    "e_mean": [
+      "forsake; leave behind"
+    ],
+    "speech": "verb",
+    "sentence": "Many baby girls have been abandoned on the streets of Beijing."
+  },
+  {
+    "name": "forgo",
+    "trans": [
+      "放弃， 抛弃； 作罢"
+    ],
+    "usphone": "fɔr'ɡo",
+    "ukphone": "fɔː'gəu",
+    "e_mean": [
+      "do without or cease to hold or adhere to"
+    ],
+    "speech": "verb",
+    "sentence": "I wouldn't forgo something, unless I'm convinced that it's detrimental in some way or another."
+  },
+  {
+    "name": "rid",
+    "trans": [
+      "摆脱，丢弃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "relieve from"
+    ],
+    "speech": "verb",
+    "sentence": "We're trying to rid the world of poverty."
+  },
+  {
+    "name": "safeguard",
+    "trans": [
+      "保护/保卫;保护措施"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a precautionary measure warding off impending danger"
+    ],
+    "speech": "noun",
+    "sentence": "Getting a flu shot is a good safeguard against illness."
+  },
+  {
+    "name": "defeat",
+    "trans": [
+      "击败； 挫败； 战败"
+    ],
+    "usphone": "dɪ'fit",
+    "ukphone": "dɪ'fiːt",
+    "e_mean": [
+      "an unsuccessful ending to a struggle or contest"
+    ],
+    "speech": "noun",
+    "sentence": "Wellington defeated Napoleon at Waterloo."
+  },
+  {
+    "name": "explosive",
+    "trans": [
+      "adj. 易爆的，可能引起爆炸的；（局势）一触即发的，爆炸性的；暴躁的，易怒的；激增的；强有力的；（声音）轰响的；（浊音）爆发的，破裂的",
+      "n. 炸药，爆炸物"
+    ],
+    "usphone": "ik'spləusiv",
+    "ukphone": "ik'spləusiv",
+    "e_mean": [
+      "a substance that releases great energy when heated or struck"
+    ],
+    "speech": "noun",
+    "sentence": "an explosive device"
+  },
+  {
+    "name": "crusade",
+    "trans": [
+      "加入十字军， 投身正义运动",
+      "十字军；斗争，运动"
+    ],
+    "usphone": "kru'sed",
+    "ukphone": "kruː'seɪd",
+    "e_mean": [
+      "a series of actions tending toward a particular end"
+    ],
+    "speech": "noun",
+    "sentence": "During the crusades, many Muslims and Christians and Jews were slaughtered."
+  },
+  {
+    "name": "infiltrate",
+    "trans": [
+      "悄悄进入， 潜入； 渗入， 渗透"
+    ],
+    "usphone": "ɪn'fɪltret",
+    "ukphone": "'ɪnfɪltreɪt",
+    "e_mean": [
+      "pass through an enemy line in a military conflict"
+    ],
+    "speech": "verb",
+    "sentence": "High-grade tumors often infiltrate surrounding structures."
+  },
+  {
+    "name": "hostile",
+    "trans": [
+      "敌方的； 不友善的； 不利的"
+    ],
+    "usphone": "ˈhɑstl",
+    "ukphone": "'hɒstaɪl",
+    "e_mean": [
+      "characterized by enmity or ill will"
+    ],
+    "speech": "adjective",
+    "sentence": "a hostile country"
+  },
+  {
+    "name": "fuel",
+    "trans": [
+      "给…加燃料",
+      "燃料"
+    ],
+    "usphone": "'fjuəl",
+    "ukphone": "'fjʊːəl",
+    "e_mean": [
+      "a substance that can be consumed to produce energy"
+    ],
+    "speech": "noun",
+    "sentence": "His books were fuel for the revolution."
+  },
+  {
+    "name": "patriotic",
+    "trans": [
+      "爱国的， 有爱国心的； 显示出爱国精神的"
+    ],
+    "usphone": "ˌpetrɪˈɑtɪk",
+    "ukphone": "ˌpætri'ɒtɪk;ˌpeɪtri'ɒtɪk",
+    "e_mean": [
+      "inspired by love for your country"
+    ],
+    "speech": "adjective",
+    "sentence": "a patriotic song"
+  },
+  {
+    "name": "allocate",
+    "trans": [
+      "分配； 分派"
+    ],
+    "usphone": "'æləket",
+    "ukphone": "'æləkeɪt",
+    "e_mean": [
+      "distribute according to a plan or set apart for a purpose"
+    ],
+    "speech": "verb",
+    "sentence": "The bulk of K–12 education funds are allocated to school districts that in turn pay for the cost of operating schools."
+  },
+  {
+    "name": "doom",
+    "trans": [
+      "注定…失败，使…在劫难逃",
+      "毁灭； 厄运， 劫数"
+    ],
+    "usphone": "dʊm",
+    "ukphone": "duːm",
+    "e_mean": [
+      "an unpleasant or disastrous destiny"
+    ],
+    "speech": "noun",
+    "sentence": "They met an untimely doom when the mineshaft caved in."
+  },
+  {
+    "name": "possession",
+    "trans": [
+      "持有， 拥有； 所有权； 所有物， 财产， 财富； 领土"
+    ],
+    "usphone": "pə'zɛʃən",
+    "ukphone": "pə'zeʃn",
+    "e_mean": [
+      "anything owned"
+    ],
+    "speech": "noun",
+    "sentence": "I would gladly give all of my worldly possessions just to be able to do that."
+  },
+  {
+    "name": "corps",
+    "trans": [
+      "部队； 军团"
+    ],
+    "usphone": "kɔrz",
+    "ukphone": "kɔː(r)",
+    "e_mean": [
+      "an army unit usually consisting of two or more divisions"
+    ],
+    "speech": "noun",
+    "sentence": "White House press corps"
+  },
+  {
+    "name": "cohesion",
+    "trans": [
+      "结合， 团结； 凝聚力"
+    ],
+    "usphone": "ko'hiʒən",
+    "ukphone": "kəu'hiːʒn",
+    "e_mean": [
+      "the state of sticking together"
+    ],
+    "speech": "noun",
+    "sentence": "Unit cohesion is important in the military."
+  },
+  {
+    "name": "majority",
+    "trans": [
+      "多数， 大多数"
+    ],
+    "usphone": "mə'dʒɔrəti",
+    "ukphone": "mə'dʒɒrətɪ",
+    "e_mean": [
+      "the main part"
+    ],
+    "speech": "noun",
+    "sentence": "The majority agreed that the new proposal was the best."
+  },
+  {
+    "name": "onslaught",
+    "trans": [
+      "猛攻， 猛袭"
+    ],
+    "usphone": "'ɑnslɔt",
+    "ukphone": "'ɒnslɔːt",
+    "e_mean": [
+      "an offensive against an enemy"
+    ],
+    "speech": "noun",
+    "sentence": "They opened the doors and prepared for the onslaught of holiday shoppers."
+  },
+  {
+    "name": "suppress",
+    "trans": [
+      "压制， 镇压； 禁止发表， 查禁； 抑制， 忍住； 阻止…的生长"
+    ],
+    "usphone": "sə'prɛs",
+    "ukphone": "sə'pres",
+    "e_mean": [
+      "put down by force or authority"
+    ],
+    "speech": "verb",
+    "sentence": "Political dissent was brutally suppressed."
+  },
+  {
+    "name": "atomic",
+    "trans": [
+      "原子的"
+    ],
+    "usphone": "ə'tɑmɪk",
+    "ukphone": "ə'tɒmɪk",
+    "e_mean": [
+      "relating to the smallest component of an element"
+    ],
+    "speech": "adjective",
+    "sentence": "A stream of atomic hydrogen is emitted."
+  },
+  {
+    "name": "telegraph",
+    "trans": [
+      "打电报， 发电报； 泄露， 流露",
+      "电报机；电报"
+    ],
+    "usphone": "'tɛlɪɡræf",
+    "ukphone": "'telɪgrɑːf",
+    "e_mean": [
+      "apparatus used to communicate at a distance over a wire"
+    ],
+    "speech": "noun",
+    "sentence": "Her frown telegraphed her displeasure."
+  },
+  {
+    "name": "federation",
+    "trans": [
+      "联邦； 同盟"
+    ],
+    "usphone": "'fɛdə'reʃən",
+    "ukphone": "ˌfedə'reɪʃn",
+    "e_mean": [
+      "an organization formed by merging several groups or parties"
+    ],
+    "speech": "noun",
+    "sentence": "It is 106 years since federation."
+  },
+  {
+    "name": "binoculars",
+    "trans": [
+      "双筒望远镜"
+    ],
+    "usphone": "bɪ'nɑkjəlɚz",
+    "ukphone": "bɪ'nɒkjələz",
+    "e_mean": [
+      "an optical instrument for simultaneous use by both eyes"
+    ],
+    "speech": "noun",
+    "sentence": "a binocular microscope or telescope"
+  },
+  {
+    "name": "destruction",
+    "trans": [
+      "破坏， 毁灭， 摧毁"
+    ],
+    "usphone": "dɪ'strʌkʃən",
+    "ukphone": "dɪ'strʌkʃn",
+    "e_mean": [
+      "an event that completely ruins something"
+    ],
+    "speech": "noun",
+    "sentence": "The destruction of the condemned building will take place at noon."
+  },
+  {
+    "name": "stiff",
+    "trans": [
+      "极其， 非常",
+      "硬的，僵硬的"
+    ],
+    "usphone": "stɪf",
+    "ukphone": "stɪf",
+    "e_mean": [
+      "incapable of or resistant to bending"
+    ],
+    "speech": "adjective",
+    "sentence": "A Working Stiff's Manifesto: A Memoir of Thirty Jobs I Quit, Nine That Fired Me, and Three I Can't Remember was published in 2003."
+  },
+  {
+    "name": "explosion",
+    "trans": [
+      "爆发，迸发，爆炸，激增"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of bursting"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "bombard",
+    "trans": [
+      "轰炸，连珠炮般的质问"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "throw bombs at or attack with bombs"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "spark",
+    "trans": [
+      "火花"
+    ],
+    "usphone": "spɑrk",
+    "ukphone": "spɑːk",
+    "e_mean": [
+      "a small fragment of a burning substance"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "gunpowder",
+    "trans": [
+      "火药.powder粉末/火药"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a mixture of potassium nitrate, charcoal, and sulfur in a 75:15:10 ratio which is used in gunnery, time fuses, and fireworks"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pistol",
+    "trans": [
+      "手枪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a firearm that is held and fired with one hand"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "siege",
+    "trans": [
+      "包围，围攻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an action of an armed force that surrounds a fortified place"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "traitor",
+    "trans": [
+      "叛徒，卖国贼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person who says one thing and does another"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "patriot",
+    "trans": [
+      "爱国者patriotism爱国主义"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "one who loves and defends his or her country"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sword",
+    "trans": [
+      "刀，剑drawasword拔剑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "helmet",
+    "trans": [
+      "头盔，防护帽"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a protective headgear made of hard material to resist blows"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "shield",
+    "trans": [
+      "盾,防护物;保护"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "armor carried on the arm to intercept blows"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "equip",
+    "trans": [
+      "装备， 配备； 使有能力， 使有准备"
+    ],
+    "usphone": "ɪ'kwɪp",
+    "ukphone": "ɪ'kwɪp",
+    "e_mean": [
+      "provide with, usually for a specific purpose"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "reproach",
+    "trans": [
+      "责备,指责.bring~ononeself"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "express criticism towards"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "horrible",
+    "trans": [
+      "可怕/恐怖的.horror恐怖性"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "shockingly frightful or awful"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "turmoil",
+    "trans": [
+      "混乱，骚乱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a violent disturbance"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "scenario",
+    "trans": [
+      "可能发生的情况,剧情梗概,脚本"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a postulated sequence of possible events"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "occasionally",
+    "trans": [
+      "偶尔，时而"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "now and then or here and there"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "boundary",
+    "trans": [
+      "分界线； 边界"
+    ],
+    "usphone": "'baʊndri",
+    "ukphone": "'baundəri",
+    "e_mean": [
+      "the line indicating the limit or extent of something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "rein",
+    "trans": [
+      "缰绳,控制权;用缰绳勒马,管束"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "one of a pair of long straps used to control a horse"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "compete",
+    "trans": [
+      "竞争，参加"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "engage in a contest or measure oneself against others"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "dilemma",
+    "trans": [
+      "(进退两难的)困境"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "state of uncertainty in a choice between unfavorable options"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "plight",
+    "trans": [
+      "困境,誓约"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a situation from which extrication is difficult"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "conspiracy",
+    "trans": [
+      "阴谋，密谋，合谋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a plot to carry out some harmful or illegal act"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "destitute",
+    "trans": [
+      "赤贫的，一无所有的,缺乏的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "poor enough to need help from others"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "famine",
+    "trans": [
+      "饥荒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a severe shortage of food resulting in starvation and death"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "deprive",
+    "trans": [
+      "剥夺； 使丧失"
+    ],
+    "usphone": "dɪ'praɪv",
+    "ukphone": "dɪ'praɪv",
+    "e_mean": [
+      "take away"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "threat",
+    "trans": [
+      "威胁，恐吓.threaten威胁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "declaration of an intention to inflict harm on another"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "trespass",
+    "trans": [
+      "侵犯； 擅闯； 利用； 冒犯， 触犯"
+    ],
+    "usphone": "'trɛspəs",
+    "ukphone": "'trespəs",
+    "e_mean": [
+      "enter unlawfully on someone's property"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "intrude",
+    "trans": [
+      "闯入，侵入,侵扰"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "enter uninvited"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "violate",
+    "trans": [
+      "违反， 违犯， 违背； 亵渎； 侵犯， 干扰"
+    ],
+    "usphone": "'vaɪəlet",
+    "ukphone": "'vaɪəleɪt",
+    "e_mean": [
+      "fail to agree with; go against"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "competitor",
+    "trans": [
+      "竞争者，对手compete竞争"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the contestant you hope to defeat"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "strategy",
+    "trans": [
+      "战略， 策略"
+    ],
+    "usphone": "'strætədʒi",
+    "ukphone": "'strætədʒi",
+    "e_mean": [
+      "an elaborate and systematic plan of action"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tactic",
+    "trans": [
+      "策略，战术"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a plan for attaining a particular goal"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "refute",
+    "trans": [
+      "反驳，驳斥,否认"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "overthrow by argument, evidence, or proof"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "impair",
+    "trans": [
+      "损害； 削弱"
+    ],
+    "usphone": "ɪm'pɛr",
+    "ukphone": "ɪm'peə(r)",
+    "e_mean": [
+      "make worse or less effective"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "mitigate",
+    "trans": [
+      "减轻，缓和mitigation缓和"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "lessen or to try to lessen the seriousness or extent of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "reckless",
+    "trans": [
+      "鲁莽/不计后果的;be~of不注意"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "marked by defiant disregard for danger or consequences"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "casualty",
+    "trans": [
+      "伤亡， 伤亡者； 损失的东西； 伤亡事故"
+    ],
+    "usphone": "'kæʒuəlti",
+    "ukphone": "'kæʒʊəlti",
+    "e_mean": [
+      "someone injured or killed in an accident"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tomb",
+    "trans": [
+      "坟墓，塚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a place for the burial of a corpse"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "hell",
+    "trans": [
+      "地狱，苦境"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any place of pain and turmoil"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "statue",
+    "trans": [
+      "塑像"
+    ],
+    "usphone": "'stætʃu",
+    "ukphone": "'stætʃuː",
+    "e_mean": [
+      "a sculpture representing a human or animal"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "owe",
+    "trans": [
+      "欠； 把…归功于"
+    ],
+    "usphone": "o",
+    "ukphone": "əu",
+    "e_mean": [
+      "be obliged to pay or repay"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "camouflage",
+    "trans": [
+      "掩饰， 伪装"
+    ],
+    "usphone": "'kæmə'flɑʒ",
+    "ukphone": "'kæməflɑːʒ",
+    "e_mean": [
+      "an outward semblance misrepresenting the nature of something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "devastate",
+    "trans": [
+      "破坏， 毁坏； 使震惊， 使极为悲痛"
+    ],
+    "usphone": "'dɛvəstet",
+    "ukphone": "'devəsteɪt",
+    "e_mean": [
+      "cause extensive destruction or ruin utterly"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "catastrophe",
+    "trans": [
+      "大灾难"
+    ],
+    "usphone": "kə'tæstrəfi",
+    "ukphone": "kə'tæstrəfi",
+    "e_mean": [
+      "a sudden violent change in the earth's surface"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "humiliate",
+    "trans": [
+      "羞辱，使蒙羞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cause to feel shame"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "soldier",
+    "trans": [
+      "战士，士兵"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an enlisted man or woman who serves in an army"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "veteran",
+    "trans": [
+      "老兵,老手"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person who has served in the armed forces"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "withstand",
+    "trans": [
+      "抵挡； 经受住"
+    ],
+    "usphone": "wɪð'stænd",
+    "ukphone": "wɪð'stænd",
+    "e_mean": [
+      "resist or confront with resistance"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "discard",
+    "trans": [
+      "丢弃， 遗弃"
+    ],
+    "usphone": "dɪsˈkɑːrd",
+    "ukphone": "dɪs'kɑːd",
+    "e_mean": [
+      "anything that is cast aside"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "defend",
+    "trans": [
+      "防御，保护,为……辩护"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "protect against a challenge or attack"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "resist",
+    "trans": [
+      "抵抗； 抗； 耐"
+    ],
+    "usphone": "rɪ'zɪst",
+    "ukphone": "rɪ'zɪst",
+    "e_mean": [
+      "withstand the force of something"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "enfranchise",
+    "trans": [
+      "给予…政治权利； 解放"
+    ],
+    "usphone": "ɪn'fræntʃaɪz",
+    "ukphone": "ɪn'fræntʃaɪz",
+    "e_mean": [
+      "grant freedom to, as from slavery or servitude"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "suppression",
+    "trans": [
+      "镇压， 压制， 抑制； 扑灭"
+    ],
+    "usphone": "sə'prɛʃən",
+    "ukphone": "sə'preʃn",
+    "e_mean": [
+      "forceful prevention; putting down by power or authority"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "wretch",
+    "trans": [
+      "不幸的人"
+    ],
+    "usphone": "rɛtʃ",
+    "ukphone": "retʃ",
+    "e_mean": [
+      "someone you feel sorry for"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "petroleum",
+    "trans": [
+      "石油"
+    ],
+    "usphone": "pə'trolɪəm",
+    "ukphone": "pə'trəuliəm",
+    "e_mean": [
+      "a dark oil consisting mainly of hydrocarbons"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "scuffle",
+    "trans": [
+      "扭打， 混战"
+    ],
+    "usphone": "'skʌfl",
+    "ukphone": "'skʌfl",
+    "e_mean": [
+      "fight or struggle in a confused way at close quarters"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "surveillance",
+    "trans": [
+      "监视， 盯梢"
+    ],
+    "usphone": "sɝ'veləns",
+    "ukphone": "sɜː'veɪləns",
+    "e_mean": [
+      "close observation of a person or group"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "stockpile",
+    "trans": [
+      "〔物资的大量〕储备",
+      "贮存，积聚〔物资、武器等〕"
+    ],
+    "usphone": "'stɑkpaɪl",
+    "ukphone": "'stɒkpaɪl",
+    "e_mean": [
+      "something kept back or saved for future use"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "astound",
+    "trans": [
+      "震惊"
+    ],
+    "usphone": "ə'staʊnd",
+    "ukphone": "ə'staund",
+    "e_mean": [
+      "affect with wonder"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "advantageous",
+    "trans": [
+      "有利的"
+    ],
+    "usphone": "'ædvən'tedʒəs",
+    "ukphone": "ˌædvən'teɪdʒəs",
+    "e_mean": [
+      "giving a benefit"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "encroach",
+    "trans": [
+      "侵入， 侵占， 侵犯； 侵蚀， 蚕食"
+    ],
+    "usphone": "ɪn'krotʃ",
+    "ukphone": "ɪn'krəutʃ",
+    "e_mean": [
+      "advance beyond the usual limit"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "finitude",
+    "trans": [
+      "有限； 限定， 界限"
+    ],
+    "usphone": "'fɪnə,tjʊd",
+    "ukphone": "'fɪnɪtjuːd",
+    "e_mean": [
+      "the quality of being finite"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "correspondence",
+    "trans": [
+      "通信， 信件； 符合， 一致； 对应"
+    ],
+    "usphone": ",kɔrə'spɑndəns",
+    "ukphone": "ˌkɒrə'spɒndəns",
+    "e_mean": [
+      "an attribute of a shape or relation"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "motivational",
+    "trans": [
+      "动机的， 有关动机的"
+    ],
+    "usphone": ",motə'veʃənəl",
+    "ukphone": "ˌməutɪ'veɪʃnl",
+    "e_mean": [
+      "of or serving to provide incentive or stimulus to action"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "loyalty",
+    "trans": [
+      "忠诚， 忠心"
+    ],
+    "usphone": "'lɔɪəlti",
+    "ukphone": "'lɔɪəlti",
+    "e_mean": [
+      "the quality of being steadfast in allegiance or duty"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "vicious",
+    "trans": [
+      "罪恶的， 邪恶的； 残酷的， 残忍的； 凶猛的； 恶性的"
+    ],
+    "usphone": "'vɪʃəs",
+    "ukphone": "'vɪʃəs",
+    "e_mean": [
+      "having the nature of evildoing"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "slothful",
+    "trans": [
+      "怠惰的， 懒惰的； 迟钝的"
+    ],
+    "usphone": "'sloθfl",
+    "ukphone": "'sləuθfl",
+    "e_mean": [
+      "disinclined to work or exertion"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "barrage",
+    "trans": [
+      "弹幕射击； 火力网"
+    ],
+    "usphone": "bə'rɑʒ",
+    "ukphone": "'bærɑːʒ",
+    "e_mean": [
+      "the heavy fire of artillery to saturate an area"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "landward",
+    "trans": [
+      "向陆的/地， 近陆的/地"
+    ],
+    "usphone": "'lændwɚd",
+    "ukphone": "'lændwəd",
+    "e_mean": [
+      "toward land"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "flint",
+    "trans": [
+      "火石， 打火石"
+    ],
+    "usphone": "flɪnt",
+    "ukphone": "flɪnt",
+    "e_mean": [
+      "a hard kind of stone"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "alignment",
+    "trans": [
+      "排成直线； 联盟"
+    ],
+    "usphone": "ə'laɪnmənt",
+    "ukphone": "ə'laɪnmənt",
+    "e_mean": [
+      "the spatial property possessed by things in a straight line"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "conquest",
+    "trans": [
+      "征服； 战利品"
+    ],
+    "usphone": "'kɑŋkwɛst",
+    "ukphone": "'kɒŋkwest",
+    "e_mean": [
+      "the act of defeating and taking control of"
+    ],
+    "speech": "noun"
+  }
+]

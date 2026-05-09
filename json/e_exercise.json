@@ -1,0 +1,2710 @@
+[
+  {
+    "name": "rhythm",
+    "trans": [
+      "节奏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an interval during which a recurring sequence occurs"
+    ],
+    "speech": "noun",
+    "sentence": "Dance to the rhythm of the music."
+  },
+  {
+    "name": "rhythm",
+    "trans": [
+      "节奏，韵律"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an interval during which a recurring sequence occurs"
+    ],
+    "speech": "noun",
+    "sentence": "Dance to the rhythm of the music."
+  },
+  {
+    "name": "leap",
+    "trans": [
+      "跳跃；"
+    ],
+    "usphone": "lip",
+    "ukphone": "liːp",
+    "e_mean": [
+      "move forward by bounds"
+    ],
+    "speech": "verb",
+    "sentence": "It's quite a leap to claim that those cloud formations are evidence of UFOs."
+  },
+  {
+    "name": "picnic",
+    "trans": [
+      "野餐goforapicnic去野餐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any informal meal eaten outside or on an excursion"
+    ],
+    "speech": "noun",
+    "sentence": "We went out for a picnic in the forest."
+  },
+  {
+    "name": "hunt",
+    "trans": [
+      "打猎/搜寻;猎取/搜寻.huntfor寻找"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "pursue for food or sport (as of wild animals)"
+    ],
+    "speech": "verb",
+    "sentence": "Her uncle will go out and hunt for deer, now that it is open season."
+  },
+  {
+    "name": "race",
+    "trans": [
+      "赛跑，速度竞赛；人种，种族"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a contest of speed"
+    ],
+    "speech": "noun",
+    "sentence": "The race around the park was won by Johnny, who ran faster than the others."
+  },
+  {
+    "name": "marathon",
+    "trans": [
+      "马拉松赛跑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a foot race of 26 miles and 385 yards"
+    ],
+    "speech": "noun",
+    "sentence": "He had a cleaning marathon the night before his girlfriend came over."
+  },
+  {
+    "name": "pedestrian",
+    "trans": [
+      "徒步的； 缺乏想象力的",
+      "行人"
+    ],
+    "usphone": "pə'dɛstrɪən",
+    "ukphone": "pə'destriən",
+    "e_mean": [
+      "a person who travels by foot"
+    ],
+    "speech": "noun",
+    "sentence": "pedestrian crossing"
+  },
+  {
+    "name": "step",
+    "trans": [
+      "步伐/步骤stepbystep—步一步"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of changing location by raising the foot and setting it down"
+    ],
+    "speech": "noun",
+    "sentence": "He improved step by step, or by steps."
+  },
+  {
+    "name": "footstep",
+    "trans": [
+      "脚步声"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the sound of a step of someone walking"
+    ],
+    "speech": "noun",
+    "sentence": "The child watched as his footsteps in the sand were washed away by the waves."
+  },
+  {
+    "name": "excursion",
+    "trans": [
+      "远足， 短途旅游； 【物】 偏移， 漂移"
+    ],
+    "usphone": "ɪk'skɝʒn",
+    "ukphone": "ɪk'skɜːʃn",
+    "e_mean": [
+      "a journey taken for pleasure"
+    ],
+    "speech": "noun",
+    "sentence": "While driving home I took an excursion and saw some deer."
+  },
+  {
+    "name": "cruise",
+    "trans": [
+      "航游，巡航；缓慢巡行",
+      "航游， 游弋"
+    ],
+    "usphone": "krʊz",
+    "ukphone": "kruːz",
+    "e_mean": [
+      "travel about for pleasure, relaxation, or sightseeing"
+    ],
+    "speech": "verb",
+    "sentence": "Germany cruised to a World Cup victory over the short-handed Australians."
+  },
+  {
+    "name": "trip",
+    "trans": [
+      "绊倒旅行；绊倒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "miss a step and fall or nearly fall"
+    ],
+    "speech": "verb",
+    "sentence": "We made a trip to the beach."
+  },
+  {
+    "name": "hike",
+    "trans": [
+      "徒步旅行；提高",
+      "远足， 徒步旅行； 猛增"
+    ],
+    "usphone": "haɪk",
+    "ukphone": "haɪk",
+    "e_mean": [
+      "walk a long way, as for pleasure or physical exercise"
+    ],
+    "speech": "verb",
+    "sentence": "The tenants were not happy with the rent hike."
+  },
+  {
+    "name": "jog",
+    "trans": [
+      "慢跑。jogging慢跑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "give a slight push to"
+    ],
+    "speech": "verb",
+    "sentence": "jog one's elbow"
+  },
+  {
+    "name": "wander",
+    "trans": [
+      "徘徊， 闲逛， 漫步； 偏离正道； 走神， 恍惚"
+    ],
+    "usphone": "'wɑndɚ",
+    "ukphone": "'wɒndə(r)",
+    "e_mean": [
+      "move or cause to move in a sinuous or circular course"
+    ],
+    "speech": "verb",
+    "sentence": "to go for a wander in the park"
+  },
+  {
+    "name": "limb",
+    "trans": [
+      "肢， 臂； 树枝"
+    ],
+    "usphone": "lɪm",
+    "ukphone": "lɪm",
+    "e_mean": [
+      "one of the jointed appendages of an animal"
+    ],
+    "speech": "noun",
+    "sentence": "They limbed the felled trees before cutting them into logs."
+  },
+  {
+    "name": "pull",
+    "trans": [
+      "拉，拖，扯；划(小船)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "apply force so as to cause motion towards the source of the motion"
+    ],
+    "speech": "verb",
+    "sentence": "He gave the hair a sharp pull and it came out."
+  },
+  {
+    "name": "bend",
+    "trans": [
+      "俯身，弯腰；使弯曲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "form a curve"
+    ],
+    "speech": "verb",
+    "sentence": "There's a sharp bend in the road ahead."
+  },
+  {
+    "name": "relay",
+    "trans": [
+      "接力赛；中继设备['riːleI;ri'leI]",
+      "传送； 转播"
+    ],
+    "usphone": "rɪ'le",
+    "ukphone": "'riːleɪ",
+    "e_mean": [
+      "passing something along from one person or group to another"
+    ],
+    "speech": "noun",
+    "sentence": "Can you relay this message to John?"
+  },
+  {
+    "name": "rumour",
+    "trans": [
+      "谣传， 谣言"
+    ],
+    "usphone": "'ru:mə",
+    "ukphone": "'ruːmə(r)",
+    "e_mean": [
+      "gossip passed around by word of mouth"
+    ],
+    "speech": "noun",
+    "sentence": "There's a rumor going round that he's going to get married."
+  },
+  {
+    "name": "consensus",
+    "trans": [
+      "共识； 一致"
+    ],
+    "usphone": "kən'sɛnsəs",
+    "ukphone": "kən'sensəs",
+    "e_mean": [
+      "agreement in the judgment reached by a group as a whole"
+    ],
+    "speech": "noun",
+    "sentence": "After years of debate over the best wine to serve at Thanksgiving, no real consensus has emerged."
+  },
+  {
+    "name": "feast",
+    "trans": [
+      "盛宴；(宗教)节日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a ceremonial dinner party for many people"
+    ],
+    "speech": "noun",
+    "sentence": "We had a feast to celebrate the harvest."
+  },
+  {
+    "name": "perform",
+    "trans": [
+      "履行， 执行， 完成； 表演， 演出； 运作"
+    ],
+    "usphone": "pɚ'fɔrm",
+    "ukphone": "pə'fɔːm",
+    "e_mean": [
+      "get done"
+    ],
+    "speech": "verb",
+    "sentence": "It took him only twenty minutes to perform the task."
+  },
+  {
+    "name": "simulate",
+    "trans": [
+      "模仿， 模拟； 假装， 伪装； 扮演"
+    ],
+    "usphone": "'sɪmjulet",
+    "ukphone": "'sɪmjuleɪt",
+    "e_mean": [
+      "reproduce someone's behavior or looks"
+    ],
+    "speech": "verb",
+    "sentence": "We will use a smoke machine to simulate the fog you will actually encounter."
+  },
+  {
+    "name": "circus",
+    "trans": [
+      "马戏团； 环形广场"
+    ],
+    "usphone": "'sɝkəs",
+    "ukphone": "'sɜːkəs",
+    "e_mean": [
+      "a travelling company of entertainers"
+    ],
+    "speech": "noun",
+    "sentence": "The circus will be in town next week."
+  },
+  {
+    "name": "concert",
+    "trans": [
+      "音乐会， 演奏会"
+    ],
+    "usphone": "'kɑnsɚt",
+    "ukphone": "'kɒnsət",
+    "e_mean": [
+      "a performance of music by players or singers"
+    ],
+    "speech": "noun",
+    "sentence": "I'm going to the rock concert on Friday."
+  },
+  {
+    "name": "opera",
+    "trans": [
+      "歌剧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a drama set to music"
+    ],
+    "speech": "noun",
+    "sentence": "Beethoven's opus eighteen quartets are considered by many to be the beginning of the Romantic era."
+  },
+  {
+    "name": "comedy",
+    "trans": [
+      "喜剧； 喜剧性"
+    ],
+    "usphone": "'kɑmədi",
+    "ukphone": "'kɒmədi",
+    "e_mean": [
+      "a humorous incident or series of incidents"
+    ],
+    "speech": "noun",
+    "sentence": "Why would you be watching comedy when there are kids starving right now?"
+  },
+  {
+    "name": "animation",
+    "trans": [
+      "动画片，生气[ˌænɪˈmeɪʃn]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "quality of being active or spirited or alive and vigorous"
+    ],
+    "speech": "noun",
+    "sentence": "He recited the story with great animation."
+  },
+  {
+    "name": "craft",
+    "trans": [
+      "工艺， 手艺； 船； 航空器"
+    ],
+    "usphone": "kræft",
+    "ukphone": "krɑːft",
+    "e_mean": [
+      "the skilled practice of a practical occupation"
+    ],
+    "speech": "noun",
+    "sentence": "The craft of writing plays."
+  },
+  {
+    "name": "role",
+    "trans": [
+      "仇角色；作用；职能"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the actions and activities assigned to a person or group"
+    ],
+    "speech": "noun",
+    "sentence": "Her dream was to get a role in a Hollywood movie, no matter how small."
+  },
+  {
+    "name": "scene",
+    "trans": [
+      "景色；现场；(戏剧的)场面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the place where some action occurs"
+    ],
+    "speech": "noun",
+    "sentence": "the scene of the crime"
+  },
+  {
+    "name": "stage",
+    "trans": [
+      "舞台； 戏剧； 阶段"
+    ],
+    "usphone": "stedʒ",
+    "ukphone": "steɪdʒ",
+    "e_mean": [
+      "any distinct time period in a sequence of events"
+    ],
+    "speech": "noun",
+    "sentence": "Completion of an identifiable stage of maintenance such as removing an aircraft engine for repair or storage."
+  },
+  {
+    "name": "gallery",
+    "trans": [
+      "美术馆"
+    ],
+    "usphone": "'gæləri",
+    "ukphone": "'gæləri",
+    "e_mean": [
+      "a porch along the outside of a building"
+    ],
+    "speech": "noun",
+    "sentence": "a clip-art gallery in a wordprocessor"
+  },
+  {
+    "name": "exhibition",
+    "trans": [
+      "展览； 陈列"
+    ],
+    "usphone": "ˌɛksəˈbɪʃən",
+    "ukphone": "ˌeksɪ'bɪʃn",
+    "e_mean": [
+      "the act of displaying or demonstrating"
+    ],
+    "speech": "noun",
+    "sentence": "There was an art exhibition on in the town hall."
+  },
+  {
+    "name": "aesthetic",
+    "trans": [
+      "美学的； 审美的"
+    ],
+    "usphone": "esˈθetɪk; ɛsˈθɛtɪk",
+    "ukphone": "ɪːs'θetɪk",
+    "e_mean": [
+      "characterized by an appreciation of beauty or good taste"
+    ],
+    "speech": "adjective",
+    "sentence": "Her most recent works have this quirky, half-serious 90's teen culture-inspired aesthetic."
+  },
+  {
+    "name": "collect",
+    "trans": [
+      "收集， 搜集； 领取， 接走； 收； 聚集； 积累"
+    ],
+    "usphone": "kə'lɛkt",
+    "ukphone": "kə'lekt",
+    "e_mean": [
+      "gather"
+    ],
+    "speech": "verb",
+    "sentence": "Suzanne collected all the papers she had laid out."
+  },
+  {
+    "name": "select",
+    "trans": [
+      "选择，挑选",
+      "精选的， 优等的"
+    ],
+    "usphone": "sə'lɛkt",
+    "ukphone": "sɪ'lekt",
+    "e_mean": [
+      "pick out or choose from a number of alternatives"
+    ],
+    "speech": "verb",
+    "sentence": "He looked over the menu, and selected the roast beef."
+  },
+  {
+    "name": "opt",
+    "trans": [
+      "选择.option选择optforsth"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "select as an alternative over another"
+    ],
+    "speech": "verb",
+    "sentence": "He opted not to go."
+  },
+  {
+    "name": "draw",
+    "trans": [
+      "画/拉/拔出.drawing图画/素描画"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cause to move by pulling"
+    ],
+    "speech": "verb",
+    "sentence": "The game ended in a draw."
+  },
+  {
+    "name": "sketch",
+    "trans": [
+      "素描/草图;画素描.~out画出…的轮廓"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "preliminary drawing for later elaboration"
+    ],
+    "speech": "noun",
+    "sentence": "to keep sketch"
+  },
+  {
+    "name": "describe",
+    "trans": [
+      "描述， 描写， 形容"
+    ],
+    "usphone": "dɪ'skraɪb",
+    "ukphone": "dɪ'skraɪb",
+    "e_mean": [
+      "give a statement representing something"
+    ],
+    "speech": "verb",
+    "sentence": "The feeling is difficult to describe, but not unpleasant."
+  },
+  {
+    "name": "carve",
+    "trans": [
+      "切； 雕刻"
+    ],
+    "usphone": "kɑrv",
+    "ukphone": "kɑːv",
+    "e_mean": [
+      "engrave or cut by chipping away at a surface"
+    ],
+    "speech": "verb",
+    "sentence": "give that turkey a careful carve"
+  },
+  {
+    "name": "improvise",
+    "trans": [
+      "临时做,即兴创作.improvisation"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "manage in a makeshift way; do with whatever is at hand"
+    ],
+    "speech": "verb",
+    "sentence": "He had no speech prepared, so he improvised."
+  },
+  {
+    "name": "musical",
+    "trans": [
+      "音乐的；悦耳的musician音乐家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "characterized by vocal or instrumental sound"
+    ],
+    "speech": "adjective",
+    "sentence": "musical proportion; musical instruments"
+  },
+  {
+    "name": "lyric",
+    "trans": [
+      "抒情诗;抒情的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or relating to poetry that expresses emotion"
+    ],
+    "speech": "adjective",
+    "sentence": "The lyric in line 3 doesn't rhyme."
+  },
+  {
+    "name": "tone",
+    "trans": [
+      "音色；声调；腔调"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the distinctive property of a complex sound"
+    ],
+    "speech": "noun",
+    "sentence": "Her rousing speech gave an upbeat tone to the rest of the evening."
+  },
+  {
+    "name": "tune",
+    "trans": [
+      "调音；调节，"
+    ],
+    "usphone": "tun",
+    "ukphone": "tjuːn",
+    "e_mean": [
+      "a succession of notes forming a distinctive sequence"
+    ],
+    "speech": "noun",
+    "sentence": "Your engine needs a good tune."
+  },
+  {
+    "name": "disc",
+    "trans": [
+      "光碟；唱片；磁盘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a flat circular plate"
+    ],
+    "speech": "noun",
+    "sentence": "A coin is a disc of metal."
+  },
+  {
+    "name": "violin",
+    "trans": [
+      "小提琴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "bowed stringed instrument in the violin family"
+    ],
+    "speech": "noun",
+    "sentence": "The first violin often plays the lead melody lines in a string quartet."
+  },
+  {
+    "name": "trumpet",
+    "trans": [
+      "喇叭，小号"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a brass musical instrument with a brilliant tone"
+    ],
+    "speech": "noun",
+    "sentence": "The royal herald sounded a trumpet to announce their arrival."
+  },
+  {
+    "name": "competition",
+    "trans": [
+      "竞争； 比赛"
+    ],
+    "usphone": ",kɑmpə'tɪʃən",
+    "ukphone": "ˌkɒmpə'tɪʃn",
+    "e_mean": [
+      "the act of contending with others for rewards or resources"
+    ],
+    "speech": "noun",
+    "sentence": "The competition for this job is strong."
+  },
+  {
+    "name": "sponsor",
+    "trans": [
+      "发起者，赞助人，主办者；主顾",
+      "发起， 主办； 赞助， 资助； 惠顾"
+    ],
+    "usphone": "'spɑnsɚ",
+    "ukphone": "'spɒnsə(r)",
+    "e_mean": [
+      "an advocate who presents a person"
+    ],
+    "speech": "noun",
+    "sentence": "He was my sponsor when I applied to join the club."
+  },
+  {
+    "name": "sponsorship",
+    "trans": [
+      "资助"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of sponsoring (either officially or financially)"
+    ],
+    "speech": "noun",
+    "sentence": "I find that for me, my sponsorship of a child via a charitable NGO provides a sense of great satisfaction."
+  },
+  {
+    "name": "patron",
+    "trans": [
+      "赞助人；顾客，老主顾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "someone who supports or champions something"
+    ],
+    "speech": "noun",
+    "sentence": "This car park is for patrons only."
+  },
+  {
+    "name": "athlete",
+    "trans": [
+      "运动员； 体育家"
+    ],
+    "usphone": "'æθlit",
+    "ukphone": "'æθliːt",
+    "e_mean": [
+      "a person trained to compete in sports"
+    ],
+    "speech": "noun",
+    "sentence": "She's the first athlete in her sport to obtain a corporate sponsor."
+  },
+  {
+    "name": "champion",
+    "trans": [
+      "冠军"
+    ],
+    "usphone": "'tʃæmpɪən",
+    "ukphone": "'tʃæmpiən",
+    "e_mean": [
+      "someone who has won first place in a competition"
+    ],
+    "speech": "noun",
+    "sentence": "The defending champion is expected to defeat his challenger."
+  },
+  {
+    "name": "spectator",
+    "trans": [
+      "观众； 旁观者"
+    ],
+    "usphone": "'spɛktetɚ",
+    "ukphone": "spek'teɪtə(r)",
+    "e_mean": [
+      "a close observer; someone who looks at something"
+    ],
+    "speech": "noun",
+    "sentence": "The cheering spectators watched the fireworks."
+  },
+  {
+    "name": "volunteer",
+    "trans": [
+      "自愿做，"
+    ],
+    "usphone": ",vɑlən'tɪr",
+    "ukphone": "ˌvɒlən'tɪə(r)",
+    "e_mean": [
+      "a person who performs work done by choice"
+    ],
+    "speech": "noun",
+    "sentence": "to volunteer for doing the dishes"
+  },
+  {
+    "name": "energetic",
+    "trans": [
+      "有力的， 精力旺盛的； 积极的"
+    ],
+    "usphone": ",ɛnɚ'dʒɛtɪk",
+    "ukphone": "ˌenə'dʒetɪk",
+    "e_mean": [
+      "possessing or displaying forceful exertion"
+    ],
+    "speech": "adjective",
+    "sentence": "Cosmic rays are energetic particles from outer space."
+  },
+  {
+    "name": "vigorous",
+    "trans": [
+      "朝气蓬勃的； 有力的"
+    ],
+    "usphone": "'vɪɡərəs",
+    "ukphone": "'vɪgərəs",
+    "e_mean": [
+      "characterized by forceful and energetic action or activity"
+    ],
+    "speech": "adjective",
+    "sentence": "a vigorous shrub"
+  },
+  {
+    "name": "exercise",
+    "trans": [
+      "运动；习题，练习锻炼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the activity of exerting muscles to keep fit"
+    ],
+    "speech": "noun",
+    "sentence": "The teacher told us that the next exercise is to write an essay."
+  },
+  {
+    "name": "indoor",
+    "trans": [
+      "室内的.indoorsad在室内"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "located, suited for, or taking place within a building"
+    ],
+    "speech": "adjective",
+    "sentence": "These fireworks are not for indoor use!"
+  },
+  {
+    "name": "motion",
+    "trans": [
+      "做动作，示意"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of changing location from one place to another"
+    ],
+    "speech": "noun",
+    "sentence": "The motion to amend is now open for discussion."
+  },
+  {
+    "name": "mobile",
+    "trans": [
+      "可移动的；流动的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "moving or capable of moving readily"
+    ],
+    "speech": "adjective",
+    "sentence": "there are many business opportunities in mobile"
+  },
+  {
+    "name": "movement",
+    "trans": [
+      "(身体部位的)活动；移动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "change of position that does not entail a change of location"
+    ],
+    "speech": "noun",
+    "sentence": "I saw a movement in that grass on the hill."
+  },
+  {
+    "name": "stretch",
+    "trans": [
+      "伸展；延伸，延续，拉长；使倾注全力，使紧张",
+      "一段； 伸展， 延伸， 延续"
+    ],
+    "usphone": "strɛtʃ",
+    "ukphone": "stretʃ",
+    "e_mean": [
+      "extend one's limbs or muscles, or the entire body"
+    ],
+    "speech": "verb",
+    "sentence": "I was right in the middle of a stretch when the phone rang."
+  },
+  {
+    "name": "strain",
+    "trans": [
+      "拉紧， 绷紧； 扭伤， 拉伤； 过劳， 极度紧张"
+    ],
+    "usphone": "stren",
+    "ukphone": "streɪn",
+    "e_mean": [
+      "exert much effort or energy"
+    ],
+    "speech": "verb",
+    "sentence": "There is a strain of madness in her family."
+  },
+  {
+    "name": "billiards",
+    "trans": [
+      "台球[ˈbɪliədz]snooker斯诺克"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "game in which cue sticks are used to propel balls on a table"
+    ],
+    "speech": "noun",
+    "sentence": "a billiard table; a billiard ball"
+  },
+  {
+    "name": "kick",
+    "trans": [
+      "踢.kickthebucket—命呜呼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "drive or propel with the foot"
+    ],
+    "speech": "verb",
+    "sentence": "A kick to the knee."
+  },
+  {
+    "name": "knock",
+    "trans": [
+      "敲/击/撞.knockatthedoor敲门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "deliver a sharp blow or push :\"He knocked the glass clear across the room\""
+    ],
+    "speech": "verb",
+    "sentence": "I heard a knock on my door."
+  },
+  {
+    "name": "flip",
+    "trans": [
+      "轻抛； 轻弹"
+    ],
+    "usphone": "flɪp",
+    "ukphone": "flɪp",
+    "e_mean": [
+      "turn upside down, or throw so as to reverse"
+    ],
+    "speech": "verb",
+    "sentence": "The diver did a couple of flips before landing in the pool."
+  },
+  {
+    "name": "pitch",
+    "trans": [
+      "投掷；颠簸；为…定音高",
+      "沥青； 场地； 程度； 最高点； 音高"
+    ],
+    "usphone": "pɪtʃ",
+    "ukphone": "pɪtʃ",
+    "e_mean": [
+      "the high or low quality of a sound"
+    ],
+    "speech": "noun",
+    "sentence": "It is hard to get this pitch off my hand."
+  },
+  {
+    "name": "throw",
+    "trans": [
+      "投，掷，抛，扔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "propel through the air"
+    ],
+    "speech": "verb",
+    "sentence": "What a great throw by the quarterback!"
+  },
+  {
+    "name": "toss",
+    "trans": [
+      "扔/掷/颠簸.~andturn辗转反侧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "throw with a light motion"
+    ],
+    "speech": "verb",
+    "sentence": "I couldn't give a toss about her."
+  },
+  {
+    "name": "slide",
+    "trans": [
+      "滑动，下滑；悄悄地移动",
+      "滑动， 下滑； 滑坡， 滑道， 滑面； 幻灯片； 突然崩落"
+    ],
+    "usphone": "slaɪd",
+    "ukphone": "slaɪd",
+    "e_mean": [
+      "move smoothly along a surface"
+    ],
+    "speech": "verb",
+    "sentence": "The long, red slide was great fun for the kids."
+  },
+  {
+    "name": "slip",
+    "trans": [
+      "滑倒，失足；减退；摆脱，闪开；塞入",
+      "差错， 疏漏； 滑倒； 纸片"
+    ],
+    "usphone": "slɪp",
+    "ukphone": "slɪp",
+    "e_mean": [
+      "move obliquely or sideways, usually in an uncontrolled manner"
+    ],
+    "speech": "verb",
+    "sentence": "She couldn't hurt a fly, young slip of a girl that she is."
+  },
+  {
+    "name": "tumble",
+    "trans": [
+      "摔倒，滚下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "fall down, as if collapsing"
+    ],
+    "speech": "verb",
+    "sentence": "I took a tumble down the stairs and broke my tooth."
+  },
+  {
+    "name": "skate",
+    "trans": [
+      "滑冰"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "sports equipment that is worn on the feet to enable the wearer to glide along and to be propelled by the alternate actions of the legs"
+    ],
+    "speech": "noun",
+    "sentence": "There's time for a quick skate before dinner."
+  },
+  {
+    "name": "cycling",
+    "trans": [
+      "骑自行车运动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the sport of traveling on a two-wheeled vehicle"
+    ],
+    "speech": "noun",
+    "sentence": "Avoid cycling the device unnecessarily."
+  },
+  {
+    "name": "dive",
+    "trans": [
+      "跳水；潜水；俯冲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a headlong plunge into water"
+    ],
+    "speech": "noun",
+    "sentence": "the dive of a hawk after prey"
+  },
+  {
+    "name": "drift",
+    "trans": [
+      "飘移，漂流；流浪，漂泊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "be in motion due to some air or water current"
+    ],
+    "speech": "verb",
+    "sentence": "genetic drift"
+  },
+  {
+    "name": "jump",
+    "trans": [
+      "fromthejump从一开始"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "move forward by leaps and bounds"
+    ],
+    "speech": "verb",
+    "sentence": "The boy took a skip and a jump down the lane."
+  },
+  {
+    "name": "plunge",
+    "trans": [
+      "纵身投入/猛跌;跳水/猛跌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "dash violently or with great speed or impetuosity"
+    ],
+    "speech": "verb",
+    "sentence": "A plunge into the sea"
+  },
+  {
+    "name": "spring",
+    "trans": [
+      "跳，跃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "move forward by leaps and bounds"
+    ],
+    "speech": "verb",
+    "sentence": "to sprain one's ankle"
+  },
+  {
+    "name": "hop",
+    "trans": [
+      "跳上(下)/单脚跳行/齐足跳行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "jump lightly"
+    ],
+    "speech": "verb",
+    "sentence": "The frog crossed the brook in three or four hops."
+  },
+  {
+    "name": "bounce",
+    "trans": [
+      "弹起，反弹；上下晃动",
+      "弹跳； 反弹力； 活力， 精力"
+    ],
+    "usphone": "baʊns",
+    "ukphone": "bauns",
+    "e_mean": [
+      "spring back; spring away from an impact"
+    ],
+    "speech": "verb",
+    "sentence": "Them pro-ballers got bounce!"
+  },
+  {
+    "name": "tent",
+    "trans": [
+      "帐篷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a portable shelter"
+    ],
+    "speech": "noun",
+    "sentence": "We were camping in a three-man tent."
+  },
+  {
+    "name": "camp",
+    "trans": [
+      "营地；阵营"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "temporary lodgings in the country for travelers"
+    ],
+    "speech": "noun",
+    "sentence": "a hunter's camp"
+  },
+  {
+    "name": "drag",
+    "trans": [
+      "拖，拉，拽"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "pull, as against a resistance"
+    ],
+    "speech": "verb",
+    "sentence": "When designing cars, manufacturers have to take drag into consideration."
+  },
+  {
+    "name": "bow",
+    "trans": [
+      "低下；弯腰，鞠躬[bəu]",
+      "弓"
+    ],
+    "usphone": "baʊ",
+    "ukphone": "bau",
+    "e_mean": [
+      "something curved in shape"
+    ],
+    "speech": "noun",
+    "sentence": "The musician bowed his violin expertly."
+  },
+  {
+    "name": "take a bow",
+    "trans": [
+      "谢幕"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "acknowledge applause by inclining the head, as of an artist after a performance"
+    ],
+    "speech": "verb",
+    "sentence": "The years we spent together were the worst years of of my life. You can take a bow."
+  },
+  {
+    "name": "muscle",
+    "trans": [
+      "肌肉； 体力； 力量， 实力"
+    ],
+    "usphone": "'mʌsl",
+    "ukphone": "'mʌsl",
+    "e_mean": [
+      "animal tissue consisting predominantly of contractile cells"
+    ],
+    "speech": "noun",
+    "sentence": "Muscle consists largely of actin and myosin filaments."
+  },
+  {
+    "name": "divert",
+    "trans": [
+      "使绕道， 转移； 娱乐， 供消遣"
+    ],
+    "usphone": "dɪˈvɚt",
+    "ukphone": "daɪ'vɜːt",
+    "e_mean": [
+      "turn aside; turn away from"
+    ],
+    "speech": "verb",
+    "sentence": "The workers diverted the stream away from the road."
+  },
+  {
+    "name": "goal",
+    "trans": [
+      "球门； 射门， 进球得分； 目标"
+    ],
+    "usphone": "ɡol",
+    "ukphone": "gəul",
+    "e_mean": [
+      "the state of affairs that a plan is intended to achieve"
+    ],
+    "speech": "noun",
+    "sentence": "My lifelong goal is to get into a Hollywood movie."
+  },
+  {
+    "name": "apportion",
+    "trans": [
+      "分派， 分配"
+    ],
+    "usphone": "ə'pɔrʃən",
+    "ukphone": "ə'pɔːʃn",
+    "e_mean": [
+      "distribute according to a set plan or special purpose"
+    ],
+    "speech": "verb",
+    "sentence": "The controlling party had apportioned the voting districts such that their party would be favored in the next election."
+  },
+  {
+    "name": "acclaim",
+    "trans": [
+      "向…欢呼，为…喝彩",
+      "称赞； 欢迎"
+    ],
+    "usphone": "ə'klem",
+    "ukphone": "ə'kleɪm",
+    "e_mean": [
+      "enthusiastic approval"
+    ],
+    "speech": "noun",
+    "sentence": "a highly-acclaimed novel"
+  },
+  {
+    "name": "swing",
+    "trans": [
+      "摇摆；突然转向",
+      "摇摆； 秋千"
+    ],
+    "usphone": "swɪŋ",
+    "ukphone": "swɪŋ",
+    "e_mean": [
+      "change direction with a swinging motion; turn"
+    ],
+    "speech": "verb",
+    "sentence": "Door swing indicates direction the door opens."
+  },
+  {
+    "name": "repay",
+    "trans": [
+      "归还； 报答"
+    ],
+    "usphone": "ri'pɛi",
+    "ukphone": "ri'peɪ",
+    "e_mean": [
+      "pay back"
+    ],
+    "speech": "verb",
+    "sentence": "I finally repaid my student loans, just before sending my kids to college."
+  },
+  {
+    "name": "performance",
+    "trans": [
+      "演出， 表演； 履行， 执行； 功能， 性能表现"
+    ],
+    "usphone": "pɚ'fɔrməns",
+    "ukphone": "pə'fɔːməns",
+    "e_mean": [
+      "the act of doing something successfully"
+    ],
+    "speech": "noun",
+    "sentence": "the performance of an undertaking or a duty"
+  },
+  {
+    "name": "serial",
+    "trans": [
+      "连续的； 顺序排列的",
+      "连续剧"
+    ],
+    "usphone": "'sɪrɪəl",
+    "ukphone": "'sɪəriəl",
+    "e_mean": [
+      "pertaining to or occurring in or producing a series"
+    ],
+    "speech": "adjective",
+    "sentence": "Go to these sites for serials, cracks and keygens."
+  },
+  {
+    "name": "comic",
+    "trans": [
+      "可笑的，滑稽的；喜剧的",
+      "喜剧演员"
+    ],
+    "usphone": "'kɑmɪk",
+    "ukphone": "'kɒmɪk",
+    "e_mean": [
+      "of or relating to or characteristic of comedy"
+    ],
+    "speech": "adjective",
+    "sentence": "a comic stereotype"
+  },
+  {
+    "name": "exhaustion",
+    "trans": [
+      "精疲力竭； 耗尽"
+    ],
+    "usphone": "ɪg'zɔstʃən",
+    "ukphone": "ɪg'zɔːstʃən",
+    "e_mean": [
+      "extreme fatigue"
+    ],
+    "speech": "noun",
+    "sentence": "We worked the mine to exhaustion, there's nothing left to extract."
+  },
+  {
+    "name": "geometric",
+    "trans": [
+      "几何的， 几何学的"
+    ],
+    "usphone": ",dʒiə'mɛtrɪk",
+    "ukphone": "ˌdʒiːə'metrɪk",
+    "e_mean": [
+      "characterized by simple shapes and patterns"
+    ],
+    "speech": "adjective",
+    "sentence": "The architect used geometric techniques to design her home."
+  },
+  {
+    "name": "scream",
+    "trans": [
+      "尖叫",
+      "尖叫声"
+    ],
+    "usphone": "skrim",
+    "ukphone": "skriːm",
+    "e_mean": [
+      "utter a sudden loud cry"
+    ],
+    "speech": "verb",
+    "sentence": "We had a real scream of a time at the beach."
+  },
+  {
+    "name": "racket",
+    "trans": [
+      "球拍"
+    ],
+    "usphone": "'rækɪt",
+    "ukphone": "'rækɪt",
+    "e_mean": [
+      "a sports implement used to strike a ball in various games"
+    ],
+    "speech": "noun",
+    "sentence": "Power tools work quickly, but they sure make a racket."
+  },
+  {
+    "name": "spectacular",
+    "trans": [
+      "壮观的；令人惊叹的",
+      "壮观的场面； 精彩的表演"
+    ],
+    "usphone": "spɛk'tækjəlɚ",
+    "ukphone": "spek'tækjələ(r)",
+    "e_mean": [
+      "sensational in appearance or thrilling in effect"
+    ],
+    "speech": "adjective",
+    "sentence": "The parachutists were spectacular."
+  },
+  {
+    "name": "hug",
+    "trans": [
+      "拥抱"
+    ],
+    "usphone": "hʌɡ",
+    "ukphone": "hʌg",
+    "e_mean": [
+      "squeeze tightly in your arms, usually with fondness"
+    ],
+    "speech": "verb",
+    "sentence": "Billy hugged Danny until he felt better."
+  },
+  {
+    "name": "hum",
+    "trans": [
+      "哼曲子； 发嗡嗡声",
+      "嗡嗡声，嘈杂声"
+    ],
+    "usphone": "hʌm",
+    "ukphone": "hʌm",
+    "e_mean": [
+      "sing with closed lips"
+    ],
+    "speech": "verb",
+    "sentence": "Hmm... I just can't decide between the two."
+  },
+  {
+    "name": "simulation",
+    "trans": [
+      "假装； 模拟"
+    ],
+    "usphone": "'sɪmjə'leʃən",
+    "ukphone": "ˌsɪmju'leɪʃn",
+    "e_mean": [
+      "the act of imitating the behavior of some situation"
+    ],
+    "speech": "noun",
+    "sentence": "The most reliable simulation predicts that the hurricane will turn north."
+  },
+  {
+    "name": "agile",
+    "trans": [
+      "敏捷的， 灵活的， 机敏的"
+    ],
+    "usphone": "'ædʒl",
+    "ukphone": "'ædʒaɪl",
+    "e_mean": [
+      "moving quickly and lightly"
+    ],
+    "speech": "adjective",
+    "sentence": "an agile creature"
+  },
+  {
+    "name": "bump into",
+    "trans": [
+      "无意中遇到、碰到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "collide violently with an obstacle"
+    ],
+    "speech": "verb",
+    "sentence": "He bumped into the wall. I guess that's a risk you take when you read while walking."
+  },
+  {
+    "name": "distort",
+    "trans": [
+      "扭曲； 曲解； 变形"
+    ],
+    "usphone": "dɪ'stɔrt",
+    "ukphone": "dɪs'tɔːt",
+    "e_mean": [
+      "twist and press out of shape"
+    ],
+    "speech": "verb",
+    "sentence": "In their articles, journalists sometimes distort the truth."
+  },
+  {
+    "name": "venture",
+    "trans": [
+      "敢于去；拿…冒险，"
+    ],
+    "usphone": "'vɛntʃɚ",
+    "ukphone": "'ventʃə(r)",
+    "e_mean": [
+      "an undertaking with an uncertain outcome"
+    ],
+    "speech": "noun",
+    "sentence": "Nothing ventured, nothing gained."
+  },
+  {
+    "name": "tramp",
+    "trans": [
+      "跋涉；踩踏",
+      "长途跋涉"
+    ],
+    "usphone": "træmp",
+    "ukphone": "træmp",
+    "e_mean": [
+      "travel on foot, especially on a walking expedition"
+    ],
+    "speech": "verb",
+    "sentence": "\"Claudia is such a tramp; making out with all those men when she has a boyfriend.\""
+  },
+  {
+    "name": "swivel",
+    "trans": [
+      "旋转",
+      "转环， 转节"
+    ],
+    "usphone": "'swɪvl",
+    "ukphone": "'swɪvl",
+    "e_mean": [
+      "turn on a pivot"
+    ],
+    "speech": "verb",
+    "sentence": "Bob ain't got no swivel."
+  },
+  {
+    "name": "sustain",
+    "trans": [
+      "支撑， 撑住， 承受住； 维持， 保持； 经受， 遭受， 忍耐"
+    ],
+    "usphone": "sə'sten",
+    "ukphone": "sə'steɪn",
+    "e_mean": [
+      "lengthen or extend in duration or space"
+    ],
+    "speech": "verb",
+    "sentence": "The city came under sustained attack by enemy forces."
+  },
+  {
+    "name": "distortion",
+    "trans": [
+      "扭曲， 变形； 曲解， 歪曲"
+    ],
+    "usphone": "dɪs'tɔrʃən",
+    "ukphone": "dɪ'stɔːʃn",
+    "e_mean": [
+      "a shape resulting from being deformed"
+    ],
+    "speech": "noun",
+    "sentence": "The story he told was a bit of a distortion."
+  },
+  {
+    "name": "disenchantment",
+    "trans": [
+      "失望， 不抱幻想"
+    ],
+    "usphone": ",dɪsɪn'tʃæntmənt",
+    "ukphone": "ˌdɪsɪn'tʃɑːntmənt",
+    "e_mean": [
+      "freedom from false belief or illusions"
+    ],
+    "speech": "noun",
+    "sentence": "Disenchantment with the religion led to a sharp fall in church attendance."
+  },
+  {
+    "name": "livelihood",
+    "trans": [
+      "生活， 生计"
+    ],
+    "usphone": "'laɪvlɪhʊd",
+    "ukphone": "'laɪvlihud",
+    "e_mean": [
+      "the financial means whereby one supports oneself"
+    ],
+    "speech": "noun",
+    "sentence": "an independent livelihood; to make / earn / gain a good livelihood"
+  },
+  {
+    "name": "reunion",
+    "trans": [
+      "重聚， 团聚； 聚会， 联谊活动"
+    ],
+    "usphone": "",
+    "ukphone": "riː'juːniən",
+    "e_mean": [
+      "the act of coming together again"
+    ],
+    "speech": "noun",
+    "sentence": "It was a tearful and heartfelt reunion as the trapped miners finally saw their dear loved ones again."
+  },
+  {
+    "name": "fantastic",
+    "trans": [
+      "极好的； 荒诞的， 奇异的； 不切实际的"
+    ],
+    "usphone": "fæn'tæstɪk",
+    "ukphone": "fæn'tæstɪk",
+    "e_mean": [
+      "extravagantly fanciful in design, construction, appearance"
+    ],
+    "speech": "adjective",
+    "sentence": "He told fantastic stories of dragons and goblins."
+  },
+  {
+    "name": "triumphant",
+    "trans": [
+      "得胜的； 得意洋洋的； 狂欢的"
+    ],
+    "usphone": "traɪ'ʌmfənt",
+    "ukphone": "traɪ'ʌmfənt",
+    "e_mean": [
+      "experiencing victory"
+    ],
+    "speech": "adjective",
+    "sentence": "Athena, war's triumphant maid..."
+  },
+  {
+    "name": "procrastinate",
+    "trans": [
+      "耽搁， 拖延"
+    ],
+    "usphone": "pro'kræstɪnet",
+    "ukphone": "prəu'kræstɪneɪt",
+    "e_mean": [
+      "postpone doing what one should be doing"
+    ],
+    "speech": "verb",
+    "sentence": "He procrastinated until the last minute and had to stay up all night to finish."
+  },
+  {
+    "name": "combat",
+    "trans": [
+      "战斗，搏斗",
+      "战斗， 与…搏斗； 防止"
+    ],
+    "usphone": "'kɑmbæt",
+    "ukphone": "'kɒmbæt",
+    "e_mean": [
+      "the act of fighting; any contest or struggle"
+    ],
+    "speech": "noun",
+    "sentence": "It has proven very difficult to combat drug addiction."
+  },
+  {
+    "name": "bump",
+    "trans": [
+      "碰，撞；颠簸着前进",
+      "碰撞； 隆起物"
+    ],
+    "usphone": "bʌmp",
+    "ukphone": "bʌmp",
+    "e_mean": [
+      "an impact (as from a collision)"
+    ],
+    "speech": "noun",
+    "sentence": "the bump of veneration; the bump of acquisitiveness"
+  },
+  {
+    "name": "fatal",
+    "trans": [
+      "致命的； 重大的； 命中注定的； 灾难性的"
+    ],
+    "usphone": "'fetl",
+    "ukphone": "'feɪtl",
+    "e_mean": [
+      "bringing death"
+    ],
+    "speech": "adjective",
+    "sentence": "a fatal wound; a fatal disease; that fatal day; a fatal mistake"
+  },
+  {
+    "name": "sharpen",
+    "trans": [
+      "削尖， 磨快； 使敏锐， 使敏捷"
+    ],
+    "usphone": "'ʃɑrpən",
+    "ukphone": "'ʃɑːpən",
+    "e_mean": [
+      "make sharp or sharper"
+    ],
+    "speech": "verb",
+    "sentence": "to sharpen a pencil or a knife or a musical note"
+  },
+  {
+    "name": "subtle",
+    "trans": [
+      "细微的， 微妙的， 难以捉摸的； 隐约的； 精巧的， 巧妙的； 诡秘的， 狡诈的"
+    ],
+    "usphone": "'sʌtl",
+    "ukphone": "'sʌtl",
+    "e_mean": [
+      "difficult to detect or grasp by the mind or analyze"
+    ],
+    "speech": "adjective",
+    "sentence": "The difference is subtle, but you can hear it if you listen carefully."
+  },
+  {
+    "name": "fieldwork",
+    "trans": [
+      "实地调查， 野外考察"
+    ],
+    "usphone": "'fild'wɝk",
+    "ukphone": "'fiːldwɜːk",
+    "e_mean": [
+      "a temporary fortification built by troops in the field"
+    ],
+    "speech": "noun",
+    "sentence": "That well Bob set up last weekend was some good fieldwork."
+  },
+  {
+    "name": "overwhelm",
+    "trans": [
+      "征服； 淹没"
+    ],
+    "usphone": "ovɚˈhwɛlm",
+    "ukphone": "ˌəuvə'welm",
+    "e_mean": [
+      "overcome, as with emotions or perceptual stimuli"
+    ],
+    "speech": "verb",
+    "sentence": "The dinghy was overwhelmed by the great wave."
+  },
+  {
+    "name": "audition",
+    "trans": [
+      "试演； 试听， 试音"
+    ],
+    "usphone": "ɔ'dɪʃən",
+    "ukphone": "ɔː'dɪʃn",
+    "e_mean": [
+      "perform in order to get a role"
+    ],
+    "speech": "verb",
+    "sentence": "I've been to five auditions this week."
+  },
+  {
+    "name": "chorus",
+    "trans": [
+      "齐声说",
+      "合唱，合唱曲；合唱队；副歌，叠句；齐声，齐声说的话"
+    ],
+    "usphone": "'kɔrəs",
+    "ukphone": "'kɔːrəs",
+    "e_mean": [
+      "actors who comment on the action in a classical Greek play"
+    ],
+    "speech": "noun",
+    "sentence": "The performance of the chorus was awe-inspiring and exhilarating."
+  },
+  {
+    "name": "susceptible",
+    "trans": [
+      "易受影响的， 易受伤害的； 易受感染的； 敏感的， 易动感情的； 能经受…的， 容许…的"
+    ],
+    "usphone": "sə'sɛptəbl",
+    "ukphone": "sə'septəbl",
+    "e_mean": [
+      "yielding readily to or capable of"
+    ],
+    "speech": "adjective",
+    "sentence": "He was susceptible to minor ailments."
+  },
+  {
+    "name": "comb",
+    "trans": [
+      "梳理； 搜寻， 彻底搜查",
+      "梳子；蜂巢；肉冠，冠状物"
+    ],
+    "usphone": "kom",
+    "ukphone": "kəum",
+    "e_mean": [
+      "a flat device with narrow pointed teeth on one edge"
+    ],
+    "speech": "noun",
+    "sentence": "I need to comb my hair before we leave the house"
+  },
+  {
+    "name": "instrumental",
+    "trans": [
+      "有帮助的， 起作用的； 用乐器演奏的"
+    ],
+    "usphone": ",ɪnstrə'mɛntl",
+    "ukphone": "ˌɪnstrə'mentl",
+    "e_mean": [
+      "serving or acting as a means or aid"
+    ],
+    "speech": "adjective",
+    "sentence": "He was instrumental in conducting the business."
+  },
+  {
+    "name": "willing",
+    "trans": [
+      "愿意的， 乐意的"
+    ],
+    "usphone": "'wɪlɪŋ",
+    "ukphone": "'wɪlɪŋ",
+    "e_mean": [
+      "the act of making a choice"
+    ],
+    "speech": "noun",
+    "sentence": "All the fans were willing their team to win the game."
+  },
+  {
+    "name": "haphazard",
+    "trans": [
+      "无秩序的， 无计划的， 组织混乱的"
+    ],
+    "usphone": "'hæphæzəd",
+    "ukphone": "hæp'hæzəd",
+    "e_mean": [
+      "dependent upon or characterized by chance"
+    ],
+    "speech": "adjective",
+    "sentence": "Do not make such haphazard changes to the settings; instead, adjust the knobs carefully, a bit at a time."
+  },
+  {
+    "name": "ambiguity",
+    "trans": [
+      "模棱两可； 不明确"
+    ],
+    "usphone": ",æmbɪ'ɡjuəti",
+    "ukphone": "ˌæmbɪ'gjuːəti",
+    "e_mean": [
+      "unclearness by virtue of having more than one meaning"
+    ],
+    "speech": "noun",
+    "sentence": "His speech was made with such great ambiguity that neither supporter nor opponent could be certain of his true position."
+  },
+  {
+    "name": "caution",
+    "trans": [
+      "提醒， 警告",
+      "谨慎，小心"
+    ],
+    "usphone": "'kɔʃən",
+    "ukphone": "'kɔːʃn",
+    "e_mean": [
+      "judiciousness in avoiding harm or danger"
+    ],
+    "speech": "noun",
+    "sentence": "The guideline expressed caution against excessive radiographic imaging."
+  },
+  {
+    "name": "apart",
+    "trans": [
+      "相间隔；分离；除去",
+      "分离的"
+    ],
+    "usphone": "ə'pɑrt",
+    "ukphone": "ə'pɑːt",
+    "e_mean": [
+      "separated or at a distance in place or position or time"
+    ],
+    "speech": "adverb",
+    "sentence": "a world apart"
+  },
+  {
+    "name": "convenience",
+    "trans": [
+      "方便； 便利设施"
+    ],
+    "usphone": "kən'vinɪəns",
+    "ukphone": "kən'viːnɪəns",
+    "e_mean": [
+      "the quality of being useful"
+    ],
+    "speech": "noun",
+    "sentence": "Fast food is popular because of its cost and convenience."
+  },
+  {
+    "name": "ability",
+    "trans": [
+      "能力； 本领； 才能"
+    ],
+    "usphone": "əˈbɪlətɪ",
+    "ukphone": "ə'bɪləti",
+    "e_mean": [
+      "the quality of having the means or skills to do something"
+    ],
+    "speech": "noun",
+    "sentence": "This phone has the ability to have its software upgraded wirelessly."
+  },
+  {
+    "name": "surf",
+    "trans": [
+      "冲浪"
+    ],
+    "usphone": "sɝf",
+    "ukphone": "sɜːf",
+    "e_mean": [
+      "waves breaking on the shore"
+    ],
+    "speech": "noun",
+    "sentence": "We went of a surf this morning."
+  },
+  {
+    "name": "optimism",
+    "trans": [
+      "乐观， 乐观主义"
+    ],
+    "usphone": "'ɑptɪmɪzəm",
+    "ukphone": "'ɒptɪmɪzəm",
+    "e_mean": [
+      "the hopeful feeling that all is going to turn out well"
+    ],
+    "speech": "noun",
+    "sentence": "I love her youth, her beauty and above all her optimism that everything will turn out fine."
+  },
+  {
+    "name": "disrupt",
+    "trans": [
+      "使中断； 扰乱"
+    ],
+    "usphone": "dɪs'rʌpt",
+    "ukphone": "dɪs'rʌpt",
+    "e_mean": [
+      "make a break in"
+    ],
+    "speech": "verb",
+    "sentence": "Hecklers disrupted the man's speech."
+  },
+  {
+    "name": "rehearsal",
+    "trans": [
+      "排练"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a practice session in preparation for a public performance"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "imitate",
+    "trans": [
+      "模仿， 模拟； 仿效"
+    ],
+    "usphone": "'ɪmɪtet",
+    "ukphone": "'ɪmɪteɪt",
+    "e_mean": [
+      "reproduce someone's behavior or looks"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "mimic",
+    "trans": [
+      "模仿；戏仿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "imitate, especially for satirical effect"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "drama",
+    "trans": [
+      "戏，剧；戏剧艺术"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a work intended for performance by actors on a stage"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "dramatic",
+    "trans": [
+      "戏剧性的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "characteristic of a stage performance"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "symphony",
+    "trans": [
+      "交响乐"
+    ],
+    "usphone": "'sɪmfəni",
+    "ukphone": "'sɪmfəni",
+    "e_mean": [
+      "a long and complex sonata for an orchestra"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "orchestra",
+    "trans": [
+      "管弦乐队"
+    ],
+    "usphone": "'ɔrkɪstrə",
+    "ukphone": "'ɔːkɪstrə",
+    "e_mean": [
+      "a musical organization consisting of instrumentalists"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "ballet",
+    "trans": [
+      "芭蕾舞；芭蕾舞剧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a theatrical performance of a story by trained dancers"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tragedy",
+    "trans": [
+      "悲剧；悲惨的事"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an event resulting in great loss and misfortune"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "artistic",
+    "trans": [
+      "艺术的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "relating to the products of human creativity"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "craftsman",
+    "trans": [
+      "工匠，工艺师[ˈkraːftsmən]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a skilled worker who practices some trade or handicraft"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sculpture",
+    "trans": [
+      "雕塑品"
+    ],
+    "usphone": "'skʌlptʃɚ",
+    "ukphone": "'skʌlptʃə(r)",
+    "e_mean": [
+      "a three-dimensional work of art"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "depict",
+    "trans": [
+      "描绘， 描述"
+    ],
+    "usphone": "dɪ'pɪkt",
+    "ukphone": "dɪ'pɪkt",
+    "e_mean": [
+      "give a description of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "solo",
+    "trans": [
+      ".独奏/独唱;单独的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any activity that is performed alone without assistance"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "rhythmical",
+    "trans": [
+      "有节奏的，有韵律的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "recurring with measured regularity"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "cello",
+    "trans": [
+      "大提琴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a large stringed instrument"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "harmonica",
+    "trans": [
+      "口琴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small rectangular instrument into which air is blown"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "flute",
+    "trans": [
+      "长笛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a high-pitched woodwind instrument"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "compete",
+    "trans": [
+      "竞争； 比赛"
+    ],
+    "usphone": "kəm'pit",
+    "ukphone": "kəm'piːt",
+    "e_mean": [
+      "engage in a contest or measure oneself against others"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "tournament",
+    "trans": [
+      "锦标赛，联赛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a competition in which contestants play a series of games"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "fame",
+    "trans": [
+      "名声"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the state or quality of being widely honored and acclaimed"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "well-known",
+    "trans": [
+      "众所周知的，出名的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "widely or fully known"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "stadium",
+    "trans": [
+      "体育场，运动场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a large structure for open-air sports or entertainments"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "outdoor",
+    "trans": [
+      "户外的.outdoorsad在室外"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "pertaining to or concerning the outdoors or outdoor activities"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "sprawl",
+    "trans": [
+      "伸开四肢坐、 卧或倒下； 杂乱无序地延伸",
+      "四肢伸开的姿势或动作；无计划发展"
+    ],
+    "usphone": "sprɔl",
+    "ukphone": "sprɔːl",
+    "e_mean": [
+      "sit or lie with one's limbs spread out"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "chess",
+    "trans": [
+      "国际象棋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a board game for two players who move their 16 pieces according to specific rules; the object is to checkmate the opponent's king"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "badminton",
+    "trans": [
+      "羽毛球"
+    ],
+    "usphone": "'bædmɪntən",
+    "ukphone": "'bædmɪntən",
+    "e_mean": [
+      "a game played on a court with light long-handled rackets"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "soccer",
+    "trans": [
+      "英式足球"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a football game in which two teams of 11 players try to kick or head a ball into the opponents' goal"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tennis",
+    "trans": [
+      "网球"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a game played with rackets by two or four players who hit a ball back and forth over a net that divides the court"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "volleyball",
+    "trans": [
+      "排球"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a game in which two teams hit an inflated ball over a high net using their hands"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "hockey",
+    "trans": [
+      "曲棍球； 冰球"
+    ],
+    "usphone": "'hɑki",
+    "ukphone": "'hɒki",
+    "e_mean": [
+      "a game played on an ice rink by two opposing teams of six skaters each who try to knock a flat round puck into the opponents' goal with angled sticks"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "glide",
+    "trans": [
+      "滑行， 滑翔"
+    ],
+    "usphone": "ɡlaɪd",
+    "ukphone": "glaɪd",
+    "e_mean": [
+      "move smoothly and effortlessly"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "ski",
+    "trans": [
+      "滑雪滑雪板"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "narrow wood or metal or plastic runners used in pairs for gliding over snow"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cyclist",
+    "trans": [
+      "骑自行车的人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person who rides a bike"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "bicycle",
+    "trans": [
+      "自行车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a vehicle that has two wheels and is moved by foot pedals"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pace",
+    "trans": [
+      "步速/调节奏;来回踱步\nsetthe~确立标准"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the relative speed of progress or change"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "vocation",
+    "trans": [
+      "职业.休假休假；假期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the particular occupation for which you are trained"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "stride",
+    "trans": [
+      "大步走，阔步行走"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "walk with long steps"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "linger",
+    "trans": [
+      "继续逗留； 缓慢消失"
+    ],
+    "usphone": "'lɪŋɡɚ",
+    "ukphone": "'lɪŋgə(r)",
+    "e_mean": [
+      "remain present although waning or gradually dying"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "lag",
+    "trans": [
+      "走得慢；落后",
+      "间隔； 滞后"
+    ],
+    "usphone": "læɡ",
+    "ukphone": "læg",
+    "e_mean": [
+      "hang or fall in movement, progress, development, etc."
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "excitement",
+    "trans": [
+      "激动； 兴奋； 令人兴奋的事"
+    ],
+    "usphone": "ɪk'saɪtmənt",
+    "ukphone": "ɪk'saɪtmənt",
+    "e_mean": [
+      "the state of being emotionally worked up"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "finale",
+    "trans": [
+      "终曲； 终场"
+    ],
+    "usphone": "fɪ'næli",
+    "ukphone": "fɪ'nɑːli",
+    "e_mean": [
+      "the closing section of a musical composition"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pulley",
+    "trans": [
+      "滑轮； 滑车"
+    ],
+    "usphone": "'pʊli",
+    "ukphone": "'puli",
+    "e_mean": [
+      "a wheel with a groove in which a rope can run"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "currently",
+    "trans": [
+      "当前， 现时， 目前"
+    ],
+    "usphone": "'kɝrəntlɪ",
+    "ukphone": "'kʌrəntli",
+    "e_mean": [
+      "at this time or period"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "troupe",
+    "trans": [
+      "班子， 团， 队； 马戏团， 芭蕾舞团"
+    ],
+    "usphone": "trʊp",
+    "ukphone": "truːp",
+    "e_mean": [
+      "an organization of performers and associated personnel"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "explorer",
+    "trans": [
+      "勘探者， 探险者"
+    ],
+    "usphone": "ɪk'splɔrɚ",
+    "ukphone": "ɪk'splɔːrə(r)",
+    "e_mean": [
+      "someone who travels to unknown regions to make discoveries"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sinew",
+    "trans": [
+      "肌腱； 力量的来源"
+    ],
+    "usphone": "'sɪnju",
+    "ukphone": "'sɪnjuː",
+    "e_mean": [
+      "a band of tissue connecting a muscle to its bony attachment"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "adventurous",
+    "trans": [
+      "喜欢冒险的， 敢作敢为的； 充满危险和刺激的， 惊险的"
+    ],
+    "usphone": "əd'vɛntʃərəs",
+    "ukphone": "əd'ventʃərəs",
+    "e_mean": [
+      "willing to undertake new and daring enterprises"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "recreational",
+    "trans": [
+      "消遣的， 娱乐的； 游戏的"
+    ],
+    "usphone": ",rɛkri'eʃənəl",
+    "ukphone": "ˌrekri'eɪʃənl",
+    "e_mean": [
+      "of or relating to an activity that diverts or amuses"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "enthusiasm",
+    "trans": [
+      "热情， 热心， 积极性； 热衷的事物"
+    ],
+    "usphone": "ɪn'θuzɪæzəm",
+    "ukphone": "ɪn'θjuːziæzəm",
+    "e_mean": [
+      "a feeling of excitement"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "extrovert",
+    "trans": [
+      "性格外向的人； 爱交际的人"
+    ],
+    "usphone": ",ɛkstrə'vɝt",
+    "ukphone": "'ekstrəvɜːt",
+    "e_mean": [
+      "a person directed toward others as opposed to the self"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "emulate",
+    "trans": [
+      "与…竞争， 赶上； 仿真， 模仿"
+    ],
+    "usphone": "'ɛmjulet",
+    "ukphone": "'emjuleɪt",
+    "e_mean": [
+      "strive to equal or match, especially by imitating"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "embankment",
+    "trans": [
+      "筑堤； 堤岸， 路基"
+    ],
+    "usphone": "ɪm'bæŋkmənt",
+    "ukphone": "ɪm'bæŋkmənt",
+    "e_mean": [
+      "a long artificial mound of stone or earth"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "wrestle",
+    "trans": [
+      "摔跤； 全力对付； 用力移动"
+    ],
+    "usphone": "'rɛsl",
+    "ukphone": "'resl",
+    "e_mean": [
+      "the act of engaging in close hand-to-hand combat"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "objectify",
+    "trans": [
+      "使客观化； 使具体化； 物化"
+    ],
+    "usphone": "əb'dʒɛktɪfaɪ",
+    "ukphone": "əb'dʒektɪfaɪ",
+    "e_mean": [
+      "treat or regard as a thing, rather than as a person"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "mastery",
+    "trans": [
+      "精通， 熟练； 控制"
+    ],
+    "usphone": "'mæstəri",
+    "ukphone": "'mɑːstəri",
+    "e_mean": [
+      "great skillfulness and knowledge of some subject or activity"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "innovative",
+    "trans": [
+      "革新的， 创新的， 新颖的； 富有革新精神的"
+    ],
+    "usphone": "'ɪnəvetɪv",
+    "ukphone": "'ɪnəveɪtɪv",
+    "e_mean": [
+      "introducing new ideas or creative methods"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "undisguised",
+    "trans": [
+      "无伪装的； 坦率的"
+    ],
+    "usphone": ",ʌndɪs'ɡaɪzd",
+    "ukphone": "ˌʌndɪs'gaɪzd",
+    "e_mean": [
+      "plain to see"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "insight",
+    "trans": [
+      "洞察力， 深刻的了解； 顿悟"
+    ],
+    "usphone": "'ɪn'saɪt",
+    "ukphone": "'ɪnsaɪt",
+    "e_mean": [
+      "clear or deep perception of a situation"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "passionate",
+    "trans": [
+      "充满激情的， 热切的， 狂热的"
+    ],
+    "usphone": "'pæʃənət",
+    "ukphone": "'pæʃənət",
+    "e_mean": [
+      "having or expressing strong emotions"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "crossword",
+    "trans": [
+      "纵横填字游戏"
+    ],
+    "usphone": "'krɔs,wə:d",
+    "ukphone": "'krɒswɜːd",
+    "e_mean": [
+      "a puzzle in which words corresponding to numbered clues are to be found and written in to squares in the puzzle"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "enigma",
+    "trans": [
+      "谜， 谜一样的人或事"
+    ],
+    "usphone": "ɪ'nɪgmə",
+    "ukphone": "ɪ'nɪgmə",
+    "e_mean": [
+      "something that baffles understanding and cannot be explained"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "uphill",
+    "trans": [
+      "向上， 往上； 上坡； 艰难地"
+    ],
+    "usphone": ",ʌp'hɪl",
+    "ukphone": "ˌʌp'hɪl",
+    "e_mean": [
+      "upward on a hill or incline"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "aerobics",
+    "trans": [
+      "有氧运动"
+    ],
+    "usphone": "ɛ'robɪks",
+    "ukphone": "eə'rəubɪks",
+    "e_mean": [
+      "exercise that increases the need for oxygen"
+    ],
+    "speech": "noun"
+  }
+]

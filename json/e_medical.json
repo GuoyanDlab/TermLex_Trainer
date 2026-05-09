@@ -1,0 +1,2586 @@
+[
+  {
+    "name": "antidote",
+    "trans": [
+      "解毒药； 矫正方法"
+    ],
+    "usphone": "'æntɪdot",
+    "ukphone": "'æntidəut",
+    "e_mean": [
+      "a remedy that stops or controls the effects of a poison"
+    ],
+    "speech": "noun",
+    "sentence": "She reached the hospital in time to receive the antidote for the snake venom."
+  },
+  {
+    "name": "foetus",
+    "trans": [
+      "胎儿； 胚胎"
+    ],
+    "usphone": "'fitəs",
+    "ukphone": "'fiːtəs",
+    "e_mean": [
+      "an unborn or unhatched vertebrate in the later stages of development showing the main recognizable features of the mature animal"
+    ],
+    "speech": "noun",
+    "sentence": "The sequence is: molecules in reproductive systems, then gametes, zygotes, morulas, blastocysts, and then fetuses."
+  },
+  {
+    "name": "miserable",
+    "trans": [
+      "悲惨的， 痛苦的； 令人难受的"
+    ],
+    "usphone": "'mɪzrəbl",
+    "ukphone": "'mɪzrəbl",
+    "e_mean": [
+      "very unhappy"
+    ],
+    "speech": "adjective",
+    "sentence": "He's good at some sports, like tennis, but he's just miserable at football."
+  },
+  {
+    "name": "reputable",
+    "trans": [
+      "名声好的， 高尚的； 受尊敬的； 值得信赖的"
+    ],
+    "usphone": "'rɛpjətəbl",
+    "ukphone": "'repjətəbl",
+    "e_mean": [
+      "held in high esteem and honor"
+    ],
+    "speech": "adjective",
+    "sentence": "He was a reputable businessman."
+  },
+  {
+    "name": "hinder",
+    "trans": [
+      "阻碍， 妨碍"
+    ],
+    "usphone": "'hɪndɚ",
+    "ukphone": "'hɪndə (r)",
+    "e_mean": [
+      "be an obstacle to"
+    ],
+    "speech": "verb",
+    "sentence": "A drought hinders the growth of plants."
+  },
+  {
+    "name": "acknowledge",
+    "trans": [
+      "承认， 确认； 致意； 感谢"
+    ],
+    "usphone": "ək'nɑlɪdʒ",
+    "ukphone": "ək'nɒlɪdʒ",
+    "e_mean": [
+      "declare to be true or admit the existence or reality of"
+    ],
+    "speech": "verb",
+    "sentence": "to acknowledge the being of a god"
+  },
+  {
+    "name": "facial",
+    "trans": [
+      "面部的； 面部用的"
+    ],
+    "usphone": "'feʃl",
+    "ukphone": "'feɪʃl",
+    "e_mean": [
+      "of or concerning the front of the head"
+    ],
+    "speech": "adjective",
+    "sentence": "He gave his wife a creamy facial."
+  },
+  {
+    "name": "diffuse",
+    "trans": [
+      "散布， 传播； 漫射； 扩散， 弥漫",
+      "扩散的， 漫射的； 冗长的， 难解的"
+    ],
+    "usphone": "dɪ'fjus",
+    "ukphone": "dɪ'fjuːz",
+    "e_mean": [
+      "spread out; not concentrated in one place"
+    ],
+    "speech": "adjective",
+    "sentence": "Food coloring diffuses in water."
+  },
+  {
+    "name": "decouple",
+    "trans": [
+      "减弱， 减少"
+    ],
+    "usphone": "di'kʌpl",
+    "ukphone": "diː'kʌpl",
+    "e_mean": [
+      "disconnect or separate"
+    ],
+    "speech": "verb",
+    "sentence": "radiation decoupled from matter"
+  },
+  {
+    "name": "abhorrent",
+    "trans": [
+      "可恶的， 可恨的"
+    ],
+    "usphone": "əb'hɔrənt",
+    "ukphone": "əb'hɒrənt",
+    "e_mean": [
+      "offensive to the mind"
+    ],
+    "speech": "adjective",
+    "sentence": "abhorrent thoughts"
+  },
+  {
+    "name": "urgent",
+    "trans": [
+      "紧急的， 紧迫的； 催促的， 急切的"
+    ],
+    "usphone": "'ɝdʒənt",
+    "ukphone": "'ɜːdʒənt",
+    "e_mean": [
+      "compelling immediate action"
+    ],
+    "speech": "adjective",
+    "sentence": "An urgent appeal was sent out for assistance."
+  },
+  {
+    "name": "inactive",
+    "trans": [
+      "不活动的； 懒散的"
+    ],
+    "usphone": "ɪn'æktɪv",
+    "ukphone": "ɪn'æktɪv",
+    "e_mean": [
+      "not engaged physically or mentally"
+    ],
+    "speech": "adjective",
+    "sentence": "An inactive boy, he rarely exercised and preferred to stay indoors."
+  },
+  {
+    "name": "robust",
+    "trans": [
+      "健壮的， 强壮的； 坚定的"
+    ],
+    "usphone": "ro'bʌst",
+    "ukphone": "rəu'bʌst",
+    "e_mean": [
+      "sturdy and strong in form, constitution, or construction"
+    ],
+    "speech": "adjective",
+    "sentence": "A robust wall was put up."
+  },
+  {
+    "name": "complaint",
+    "trans": [
+      "抱怨； 投诉； 控告； 疾病"
+    ],
+    "usphone": "kəm'plent",
+    "ukphone": "kəm'pleɪnt",
+    "e_mean": [
+      "an expression of grievance or resentment"
+    ],
+    "speech": "noun",
+    "sentence": "I have no complaints about the quality of his work, but I don't enjoy his company."
+  },
+  {
+    "name": "inject",
+    "trans": [
+      "注射； 注入， 灌输"
+    ],
+    "usphone": "ɪn'dʒɛkt",
+    "ukphone": "ɪn'dʒekt",
+    "e_mean": [
+      "force or drive (a fluid or gas) into by piercing"
+    ],
+    "speech": "verb",
+    "sentence": "The nurse injected a painkilling drug into the veins of my forearm."
+  },
+  {
+    "name": "interface",
+    "trans": [
+      "界面； 接口； 接合点"
+    ],
+    "usphone": "'ɪntɚ'fes",
+    "ukphone": "'ɪntəfeɪs",
+    "e_mean": [
+      "a surface forming a common boundary between two things"
+    ],
+    "speech": "noun",
+    "sentence": "Public relations firms often serve as the interface between a company and the press."
+  },
+  {
+    "name": "hiccup",
+    "trans": [
+      "打嗝",
+      "嗝，呃逆；暂时困难"
+    ],
+    "usphone": "'hɪkəp",
+    "ukphone": "'hɪkʌp",
+    "e_mean": [
+      "a spasm of the diaphragm that produces a sound"
+    ],
+    "speech": "noun",
+    "sentence": "There was a loud hiccup from the back of the room and the class erupted in laughter."
+  },
+  {
+    "name": "stammer",
+    "trans": [
+      "结巴，"
+    ],
+    "usphone": "'stæmɚ",
+    "ukphone": "'stæmə(r)",
+    "e_mean": [
+      "speak haltingly"
+    ],
+    "speech": "verb",
+    "sentence": "He blushed, and stammered a few words of apology."
+  },
+  {
+    "name": "vibrant",
+    "trans": [
+      "振动的； 活泼的， 充满生气的； 兴奋的"
+    ],
+    "usphone": "'vaɪbrənt",
+    "ukphone": "'vaɪbrənt",
+    "e_mean": [
+      "vigorous and animated"
+    ],
+    "speech": "adjective",
+    "sentence": "He has a vibrant personality."
+  },
+  {
+    "name": "medical",
+    "trans": [
+      "医学的， 医疗的； 内科的"
+    ],
+    "usphone": "'mɛdɪkl",
+    "ukphone": "'medɪkl",
+    "e_mean": [
+      "relating to the study or practice of medicine"
+    ],
+    "speech": "adjective",
+    "sentence": "You'll have to get a medical before you apply for that job."
+  },
+  {
+    "name": "paralysis",
+    "trans": [
+      "瘫痪， 麻痹， 中风"
+    ],
+    "usphone": "pə'ræləsɪs",
+    "ukphone": "pə'ræləsɪs",
+    "e_mean": [
+      "loss of the ability to move a body part"
+    ],
+    "speech": "noun",
+    "sentence": "The government has been in a paralysis since it lost its majority in the parliament."
+  },
+  {
+    "name": "exhaust",
+    "trans": [
+      "使非常疲倦， 使疲惫不堪； 用尽， 耗尽",
+      "废气， 蒸汽"
+    ],
+    "usphone": "ɪɡ'zɔst",
+    "ukphone": "ɪg'zɔːst",
+    "e_mean": [
+      "wear out completely"
+    ],
+    "speech": "verb",
+    "sentence": "Moisture of the earth is exhausted by evaporation."
+  },
+  {
+    "name": "assimilate",
+    "trans": [
+      "吸收； 使同化"
+    ],
+    "usphone": "ə'sɪməlet",
+    "ukphone": "ə'sɪməleɪt",
+    "e_mean": [
+      "make alike"
+    ],
+    "speech": "verb",
+    "sentence": "Food is assimilated and converted into organic tissue."
+  },
+  {
+    "name": "prescription",
+    "trans": [
+      "处方， 药方； 开处方， 开药方"
+    ],
+    "usphone": "prɪ'skrɪpʃən",
+    "ukphone": "prɪ'skrɪpʃn",
+    "e_mean": [
+      "the action of issuing authoritative rules or directions"
+    ],
+    "speech": "noun",
+    "sentence": "\"Jurisdiction to prescribe\" is a state's authority to make its laws applicable to certain persons or activities. -- Richard G. Alexander, Iran and Libya Sanctions Act of 1996: Congress exceeds its jurisdiction to prescribe law. Washington and Lee Law Review, 1997."
+  },
+  {
+    "name": "flush",
+    "trans": [
+      "冲洗，清除；发红；脸红；奔流",
+      "齐平的， 同高的",
+      "脸红，红光"
+    ],
+    "usphone": "flʌʃ",
+    "ukphone": "flʌʃ",
+    "e_mean": [
+      "rinse, clean, or empty with a liquid"
+    ],
+    "speech": "verb",
+    "sentence": "The hunters flushed the tiger from the canebrake."
+  },
+  {
+    "name": "striking",
+    "trans": [
+      "显著的， 惹人注目的"
+    ],
+    "usphone": "'straɪkɪŋ",
+    "ukphone": "'straɪkɪŋ",
+    "e_mean": [
+      "having a quality that thrusts itself into attention"
+    ],
+    "speech": "adjective",
+    "sentence": "Please strike the last sentence."
+  },
+  {
+    "name": "bit",
+    "trans": [
+      "少许； 小片； 小块"
+    ],
+    "usphone": "bɪt",
+    "ukphone": "bɪt",
+    "e_mean": [
+      "a small piece or quantity of something"
+    ],
+    "speech": "noun",
+    "sentence": "A horse hates having a bit put in its mouth."
+  },
+  {
+    "name": "however",
+    "trans": [
+      "不管用什么方法，"
+    ],
+    "usphone": "haʊ'ɛvɚ",
+    "ukphone": "hau'evə(r)",
+    "e_mean": [
+      "in whatever way or manner"
+    ],
+    "speech": "adverb",
+    "sentence": "He told me not to do it. I, however, did it anyway. / I did it anyway, however. / (sometimes proscribed:) However, I did it anyway."
+  },
+  {
+    "name": "suicidal",
+    "trans": [
+      "自杀的； 有自杀倾向的"
+    ],
+    "usphone": "'sʊə'saɪdl",
+    "ukphone": "sʊːɪ'saɪdl",
+    "e_mean": [
+      "dangerous to yourself or your interests"
+    ],
+    "speech": "adjective",
+    "sentence": "He is an authority on the precursors of suicidal behavior."
+  },
+  {
+    "name": "colossal",
+    "trans": [
+      "巨大的， 庞大的"
+    ],
+    "usphone": "kə'lɑsl",
+    "ukphone": "kə'lɒsl",
+    "e_mean": [
+      "so great in size or force or extent as to elicit awe"
+    ],
+    "speech": "adjective",
+    "sentence": "A single puppy can make a colossal mess."
+  },
+  {
+    "name": "alleviate",
+    "trans": [
+      "减轻， 缓解， 缓和"
+    ],
+    "usphone": "ə'livɪ'et",
+    "ukphone": "ə'liːvieɪt",
+    "e_mean": [
+      "provide physical relief, as from pain"
+    ],
+    "speech": "verb",
+    "sentence": "Alcohol is often a cheap tool to alleviate the stress of a hard day."
+  },
+  {
+    "name": "disorder",
+    "trans": [
+      "混乱； 失调， 紊乱， 疾病"
+    ],
+    "usphone": "dɪs'ɔrdɚ",
+    "ukphone": "dɪs'ɔːdə(r)",
+    "e_mean": [
+      "a condition in which things are not in their expected places"
+    ],
+    "speech": "noun",
+    "sentence": "After playing the children left the room in disorder."
+  },
+  {
+    "name": "heighten",
+    "trans": [
+      "增强， 加剧"
+    ],
+    "usphone": "'haɪtn",
+    "ukphone": "'haɪtn",
+    "e_mean": [
+      "make more extreme; raise in quantity, degree, or intensity"
+    ],
+    "speech": "verb",
+    "sentence": "to heighten a flavor or a tint"
+  },
+  {
+    "name": "invasive",
+    "trans": [
+      "侵略的， 入侵的； 侵袭的， 扩散的； 切入的， 开刀的"
+    ],
+    "usphone": "ɪn'vesɪv",
+    "ukphone": "ɪn'veɪsɪv",
+    "e_mean": [
+      "gradually intrusive without right or permission"
+    ],
+    "speech": "adjective",
+    "sentence": "an invasive species"
+  },
+  {
+    "name": "gene",
+    "trans": [
+      "基因"
+    ],
+    "usphone": "dʒin",
+    "ukphone": "dʒiːn",
+    "e_mean": [
+      "part of DNA controlling physical characteristics and growth"
+    ],
+    "speech": "noun",
+    "sentence": "A change in a gene is reflected in the protein or RNA molecule that it codes for."
+  },
+  {
+    "name": "sticky",
+    "trans": [
+      "黏性的； 湿热的"
+    ],
+    "usphone": "'stɪki",
+    "ukphone": "'stɪki",
+    "e_mean": [
+      "having the sticky properties of an adhesive"
+    ],
+    "speech": "adjective",
+    "sentence": "Her desk is covered with yellow stickies."
+  },
+  {
+    "name": "wrinkle",
+    "trans": [
+      "起皱纹",
+      "皱纹"
+    ],
+    "usphone": "'rɪŋkl",
+    "ukphone": "'rɪŋkl",
+    "e_mean": [
+      "a slight depression in the smoothness of a surface"
+    ],
+    "speech": "noun",
+    "sentence": "Spending time out in the sun may cause you to develop wrinkles sooner."
+  },
+  {
+    "name": "calm",
+    "trans": [
+      "镇静的；平静的",
+      "平静； 镇静"
+    ],
+    "usphone": "kɑm",
+    "ukphone": "kɑːm",
+    "e_mean": [
+      "not agitated; without losing self-possession"
+    ],
+    "speech": "adjective",
+    "sentence": "to calm a crying baby"
+  },
+  {
+    "name": "weakness",
+    "trans": [
+      "虚弱； 缺点； 偏好， 嗜好"
+    ],
+    "usphone": "'wiknəs",
+    "ukphone": "'wiːknəs",
+    "e_mean": [
+      "a flaw"
+    ],
+    "speech": "noun",
+    "sentence": "In a small number of horses, muscle weakness may progress to paralysis."
+  },
+  {
+    "name": "contemporary",
+    "trans": [
+      "当代的；同时代的",
+      "同代人"
+    ],
+    "usphone": "kən'tɛmpərɛri",
+    "ukphone": "kən'tempərəri",
+    "e_mean": [
+      "occurring in the same period of time"
+    ],
+    "speech": "adjective",
+    "sentence": "Cervantes was a contemporary of Shakespeare."
+  },
+  {
+    "name": "quiver",
+    "trans": [
+      "颤抖， 抖动"
+    ],
+    "usphone": "'kwɪvɚ",
+    "ukphone": "'kwɪvə(r)",
+    "e_mean": [
+      "shake with fast, tremulous movements"
+    ],
+    "speech": "verb",
+    "sentence": "He's got lots of sales pitches in his quiver."
+  },
+  {
+    "name": "pregnant",
+    "trans": [
+      "怀孕的， 妊娠的； 充满的"
+    ],
+    "usphone": "'prɛɡnənt",
+    "ukphone": "'pregnənt",
+    "e_mean": [
+      "carrying a developing baby within the body"
+    ],
+    "speech": "adjective",
+    "sentence": "I went to the doctor and, guess what, I'm pregnant!"
+  },
+  {
+    "name": "dubious",
+    "trans": [
+      "怀疑的； 靠不住的， 不确定的"
+    ],
+    "usphone": "'dubɪəs",
+    "ukphone": "'djuːbɪəs",
+    "e_mean": [
+      "fraught with uncertainty or doubt"
+    ],
+    "speech": "adjective",
+    "sentence": "After he made some dubious claims about the company, fewer people trusted him."
+  },
+  {
+    "name": "world-wide",
+    "trans": [
+      "遍及全球的/地"
+    ],
+    "usphone": "",
+    "ukphone": "'wɜːldwaɪd",
+    "e_mean": [
+      "involving the entire earth"
+    ],
+    "speech": "adjective",
+    "sentence": "A large meteorite impact would cause worldwide extinction of life."
+  },
+  {
+    "name": "finite",
+    "trans": [
+      "有限的； 限定的"
+    ],
+    "usphone": "'faɪnaɪt",
+    "ukphone": "'faɪnaɪt",
+    "e_mean": [
+      "bounded in magnitude or spatial or temporal extent"
+    ],
+    "speech": "adjective",
+    "sentence": "The \"goes\" in \"he goes\" is a finite form of a verb"
+  },
+  {
+    "name": "collateral",
+    "trans": [
+      "并行的； 间接的， 附带的"
+    ],
+    "usphone": "kə'lætərəl",
+    "ukphone": "kɒ'lætərəl",
+    "e_mean": [
+      "accompanying; following as a consequence"
+    ],
+    "speech": "adjective",
+    "sentence": "Besides the arteries blood streams through numerous veins we call collaterals."
+  },
+  {
+    "name": "spit",
+    "trans": [
+      "吐唾沫；喷出",
+      "唾液， 唾沫"
+    ],
+    "usphone": "spɪt",
+    "ukphone": "spɪt",
+    "e_mean": [
+      "the act of spitting (forcefully expelling saliva)"
+    ],
+    "speech": "noun",
+    "sentence": "to spit a loin of veal"
+  },
+  {
+    "name": "probation",
+    "trans": [
+      "缓刑； 试用； 试用期"
+    ],
+    "usphone": "pro'beʃən",
+    "ukphone": "prə'beɪʃn",
+    "e_mean": [
+      "a trial period during which one's abilities are tested"
+    ],
+    "speech": "noun",
+    "sentence": "You'll be on probation for first six months. After that, if you work out, they'll hire you permanently."
+  },
+  {
+    "name": "corrode",
+    "trans": [
+      "腐蚀； 侵蚀"
+    ],
+    "usphone": "kə'rod",
+    "ukphone": "kə'rəud",
+    "e_mean": [
+      "cause to deteriorate due to water, air, or an acid"
+    ],
+    "speech": "verb",
+    "sentence": "My morale is being corroded day by day."
+  },
+  {
+    "name": "vital",
+    "trans": [
+      "adj. 至关重要的，必不可少的；生机勃勃的，充满活力的；生命的，维持生命所必需的",
+      "n. 身体的重要内脏，维持生命的重要器官（vitals）"
+    ],
+    "usphone": "'vaɪtl",
+    "ukphone": "'vaɪtl",
+    "e_mean": [
+      "performing an essential function in the living body"
+    ],
+    "speech": "adjective",
+    "sentence": "vital energies; vital functions; vital actions"
+  },
+  {
+    "name": "adverse",
+    "trans": [
+      "不利的， 有害的"
+    ],
+    "usphone": "ædˈvɚs, ˈædˌvɚs",
+    "ukphone": "'ædvɜːs",
+    "e_mean": [
+      "in an opposing direction"
+    ],
+    "speech": "adjective",
+    "sentence": "adverse criticism"
+  },
+  {
+    "name": "impulse",
+    "trans": [
+      "冲动， 突如其来的念头； 刺激， 驱使； 脉冲"
+    ],
+    "usphone": "'ɪmpʌls",
+    "ukphone": "'ɪmpʌls",
+    "e_mean": [
+      "an impelling force or strength"
+    ],
+    "speech": "noun",
+    "sentence": "The impulse to learn drove me to study night and day."
+  },
+  {
+    "name": "conventional",
+    "trans": [
+      "普通的， 习惯的； 常规的， 因循守旧的， 传统的"
+    ],
+    "usphone": "kən'vɛnʃənl",
+    "ukphone": "kən'venʃənl",
+    "e_mean": [
+      "following accepted customs and proprieties"
+    ],
+    "speech": "adjective",
+    "sentence": "They wear conventional clothes, eat conventional food, and keep conventional hours."
+  },
+  {
+    "name": "complicate",
+    "trans": [
+      "使变复杂"
+    ],
+    "usphone": "'kɑmplɪket",
+    "ukphone": "'kɒmplɪkeɪt",
+    "e_mean": [
+      "make less simple"
+    ],
+    "speech": "verb",
+    "sentence": "Don't complicate yourself in issues that are beyond the scope of your understanding."
+  },
+  {
+    "name": "cervical",
+    "trans": [
+      "子宫颈的； 颈部的"
+    ],
+    "usphone": "'sɝvɪkl",
+    "ukphone": "'sɜːvɪkl",
+    "e_mean": [
+      "relating to or associated with the neck"
+    ],
+    "speech": "adjective",
+    "sentence": "cervical pain"
+  },
+  {
+    "name": "sore",
+    "trans": [
+      "痛的；恼火的；剧烈的",
+      "疮"
+    ],
+    "usphone": "sɔr",
+    "ukphone": "sɔː(r)",
+    "e_mean": [
+      "causing misery or pain or distress"
+    ],
+    "speech": "adjective",
+    "sentence": "They put ointment and a bandage on the sore."
+  },
+  {
+    "name": "convenient",
+    "trans": [
+      "方便的， 便利的； 适宜的"
+    ],
+    "usphone": "kənˈvinjənt",
+    "ukphone": "kən'viːniənt",
+    "e_mean": [
+      "suited to your comfort or purpose or needs"
+    ],
+    "speech": "adjective",
+    "sentence": "Fast food might be convenient, but it's also very unhealthy."
+  },
+  {
+    "name": "digestive",
+    "trans": [
+      "消化的； 和消化有关的"
+    ],
+    "usphone": "daɪ'dʒɛstɪv",
+    "ukphone": "daɪ'dʒestɪv; dɪ'dʒestɪv",
+    "e_mean": [
+      "a substance that aids the process of breaking down food"
+    ],
+    "speech": "noun",
+    "sentence": "I bought a packet of chocolate digestives."
+  },
+  {
+    "name": "emotional",
+    "trans": [
+      "感情的， 情绪的； 引起情感的， 表示情感的； 情绪激动的， 易动感情的"
+    ],
+    "usphone": "ɪ'moʃənl",
+    "ukphone": "ɪ'məuʃənl",
+    "e_mean": [
+      "of or pertaining to feelings"
+    ],
+    "speech": "adjective",
+    "sentence": "emotional crisis"
+  },
+  {
+    "name": "typical",
+    "trans": [
+      "典型的"
+    ],
+    "usphone": "'tɪpɪkl",
+    "ukphone": "'tɪpɪkl",
+    "e_mean": [
+      "exhibiting the qualities that identify a group or kind"
+    ],
+    "speech": "adjective",
+    "sentence": "Among the moths, typicals were more common than melanics."
+  },
+  {
+    "name": "refresh",
+    "trans": [
+      "复原， 更新； 精神振作， 精力恢复"
+    ],
+    "usphone": "ri'frɛʃ",
+    "ukphone": "rɪ'freʃ",
+    "e_mean": [
+      "make fresh again"
+    ],
+    "speech": "verb",
+    "sentence": "Sleep refreshes the body and the mind."
+  },
+  {
+    "name": "grieve",
+    "trans": [
+      "伤心"
+    ],
+    "usphone": "griv",
+    "ukphone": "griːv",
+    "e_mean": [
+      "feel intense sorrow, especially due to a loss"
+    ],
+    "speech": "verb",
+    "sentence": "to grieve one's fate"
+  },
+  {
+    "name": "groan",
+    "trans": [
+      "呻吟；叹息",
+      "呻吟声， 叹息声"
+    ],
+    "usphone": "ɡron",
+    "ukphone": "grəun",
+    "e_mean": [
+      "an utterance expressing pain or disapproval"
+    ],
+    "speech": "noun",
+    "sentence": "The wooden table groaned under the weight of the banquet."
+  },
+  {
+    "name": "basis",
+    "trans": [
+      "基础； 根据； 原则"
+    ],
+    "usphone": "'besɪs",
+    "ukphone": "'beɪsɪs",
+    "e_mean": [
+      "the fundamental assumptions from which something is begun"
+    ],
+    "speech": "noun",
+    "sentence": "Cars must be checked on a yearly basis."
+  },
+  {
+    "name": "clinical",
+    "trans": [
+      "临床的； 冷静客观的； 简朴的， 不装饰的"
+    ],
+    "usphone": "'klɪnɪkl",
+    "ukphone": "'klɪnɪkl",
+    "e_mean": [
+      "relating to or based on direct observation of patients"
+    ],
+    "speech": "adjective",
+    "sentence": "Medicine is now more often practiced in a clinical setting than in the home."
+  },
+  {
+    "name": "disfigure",
+    "trans": [
+      "使毁容， 使变丑"
+    ],
+    "usphone": "dɪs'fɪɡjɚ",
+    "ukphone": "dɪs'fɪgə(r)",
+    "e_mean": [
+      "mar or spoil the appearance of"
+    ],
+    "speech": "verb",
+    "sentence": "The burnings disfigured his face."
+  },
+  {
+    "name": "amorphous",
+    "trans": [
+      "无固定形状的； 无组织的"
+    ],
+    "usphone": "ə'mɔrfəs",
+    "ukphone": "ə'mɔːfəs",
+    "e_mean": [
+      "having no definite form or distinct shape"
+    ],
+    "speech": "adjective",
+    "sentence": "The enormous pile of spaghetti landed on the floor in an amorphous heap."
+  },
+  {
+    "name": "underlying",
+    "trans": [
+      "表面下的， 下层的， 在下面的； 根本的； 潜在的， 隐含的"
+    ],
+    "usphone": ",ʌndɚ'laɪɪŋ",
+    "ukphone": "ˌʌndə'laɪɪŋ",
+    "e_mean": [
+      "in the nature of something though not readily apparent"
+    ],
+    "speech": "adjective",
+    "sentence": "A stratum of clay underlies the surface gravel."
+  },
+  {
+    "name": "healing",
+    "trans": [
+      "有治疗作用的",
+      "康复，复原"
+    ],
+    "usphone": "'hilɪŋ",
+    "ukphone": "'hiːlɪŋ",
+    "e_mean": [
+      "the natural process by which the body repairs itself"
+    ],
+    "speech": "noun",
+    "sentence": "This bandage will heal your cut."
+  },
+  {
+    "name": "torment",
+    "trans": [
+      "痛苦，折磨；令人痛苦的东西[tɔː'ment]",
+      "折磨， 使痛苦， 烦扰； 纠缠； 戏弄， 捉弄"
+    ],
+    "usphone": "'tɔrmɛnt",
+    "ukphone": "'tɔːment",
+    "e_mean": [
+      "intense feelings of suffering; acute mental or physical pain"
+    ],
+    "speech": "noun",
+    "sentence": "He was bitter from the torments of the divorce system."
+  },
+  {
+    "name": "saline",
+    "trans": [
+      "含盐的，咸的",
+      "【医】 盐水"
+    ],
+    "usphone": "'selin",
+    "ukphone": "'seɪlaɪn",
+    "e_mean": [
+      "containing salt"
+    ],
+    "speech": "adjective",
+    "sentence": "a saline taste"
+  },
+  {
+    "name": "heal",
+    "trans": [
+      "治愈， 康复； 调停"
+    ],
+    "usphone": "hil",
+    "ukphone": "hiːl",
+    "e_mean": [
+      "recover"
+    ],
+    "speech": "verb",
+    "sentence": "This bandage will heal your cut."
+  },
+  {
+    "name": "sympathy",
+    "trans": [
+      "同情； 赞同， 支持"
+    ],
+    "usphone": "'sɪmpəθi",
+    "ukphone": "'sɪmpəθi",
+    "e_mean": [
+      "sharing the feelings of others, especially sorrow or anguish"
+    ],
+    "speech": "noun",
+    "sentence": "Many people in Hollywood were blacklisted merely because they were suspected of Communist sympathies."
+  },
+  {
+    "name": "illusion",
+    "trans": [
+      "幻想中的事物， 错误的观念； 错觉， 幻觉， 假象"
+    ],
+    "usphone": "ɪ'luʒn",
+    "ukphone": "ɪ'luːʒn",
+    "e_mean": [
+      "an erroneous mental representation"
+    ],
+    "speech": "noun",
+    "sentence": "Using artificial additives, scientists can create the illusion of fruit flavours in food."
+  },
+  {
+    "name": "code",
+    "trans": [
+      "密码；代码",
+      "把…编码"
+    ],
+    "usphone": "kod",
+    "ukphone": "kəud",
+    "e_mean": [
+      "a set of rules or principles or laws"
+    ],
+    "speech": "noun",
+    "sentence": "This flavour of soup has been assigned the code WRT-9."
+  },
+  {
+    "name": "chronic",
+    "trans": [
+      "慢性的； 积习难改的"
+    ],
+    "usphone": "'krɑnɪk",
+    "ukphone": "'krɒnɪk",
+    "e_mean": [
+      "long-lasting or characterized by long suffering"
+    ],
+    "speech": "adjective",
+    "sentence": "chronic unemployment; chronic poverty; chronic anger; chronic life"
+  },
+  {
+    "name": "traditional",
+    "trans": [
+      "传统的， 惯例的； 口传的， 传说的"
+    ],
+    "usphone": "trə'dɪʃənl",
+    "ukphone": "trə'dɪʃənl",
+    "e_mean": [
+      "consisting of or derived from a practice of long standing"
+    ],
+    "speech": "adjective",
+    "sentence": "I think her traditional values are antiquated."
+  },
+  {
+    "name": "distraction",
+    "trans": [
+      "分散注意力的事； 使人分心的事； 娱乐， 消遣"
+    ],
+    "usphone": "dɪ'strækʃən",
+    "ukphone": "dɪ'strækʃn",
+    "e_mean": [
+      "drawing someone's attention away from something"
+    ],
+    "speech": "noun",
+    "sentence": "Poking one's eye is a good distraction from a hurting toe."
+  },
+  {
+    "name": "malleable",
+    "trans": [
+      "可塑的； 易改变的"
+    ],
+    "usphone": "'mælɪəbl",
+    "ukphone": "'mæliəbl",
+    "e_mean": [
+      "capable of being shaped or bent"
+    ],
+    "speech": "adjective",
+    "sentence": "My opinion on the subject is malleable."
+  },
+  {
+    "name": "leukaemia",
+    "trans": [
+      "白血病"
+    ],
+    "usphone": "lju'ki:miə",
+    "ukphone": "luː'kiːmiə",
+    "e_mean": [
+      "malignant neoplasm of blood-forming tissues"
+    ],
+    "speech": "noun",
+    "sentence": "The subjects suffered from lymphoblastic and myeloid leukemias."
+  },
+  {
+    "name": "collate",
+    "trans": [
+      "对照； 核对； 整理"
+    ],
+    "usphone": "kə'let",
+    "ukphone": "kə'leɪt",
+    "e_mean": [
+      "assemble in proper sequence"
+    ],
+    "speech": "verb",
+    "sentence": "The young attorneys were set the task of collating the contract submitted by the other side with the previous copy."
+  },
+  {
+    "name": "scare",
+    "trans": [
+      "吓， 使害怕； 受惊吓， 感到害怕",
+      "惊恐，恐慌"
+    ],
+    "usphone": "skɛr",
+    "ukphone": "skeə(r)",
+    "e_mean": [
+      "cause fear in"
+    ],
+    "speech": "verb",
+    "sentence": "Johnny had a bad scare last night."
+  },
+  {
+    "name": "meaningful",
+    "trans": [
+      "有目的的； 有意义的"
+    ],
+    "usphone": "'minɪŋfl",
+    "ukphone": "'miːnɪŋfl",
+    "e_mean": [
+      "having a purpose"
+    ],
+    "speech": "adjective",
+    "sentence": "I think we made a meaningful contribution to this project today."
+  },
+  {
+    "name": "exacerbate",
+    "trans": [
+      "恶化， 加剧"
+    ],
+    "usphone": "ɪɡ'zæsɚbet",
+    "ukphone": "ɪg'zæsəbeɪt",
+    "e_mean": [
+      "make worse"
+    ],
+    "speech": "verb",
+    "sentence": "The proposed shutdown would exacerbate unemployment problems."
+  },
+  {
+    "name": "consequently",
+    "trans": [
+      "因此， 因而"
+    ],
+    "usphone": "'kɑnsəkwɛntli",
+    "ukphone": "'kɒnsɪkwəntli",
+    "e_mean": [
+      "as a result"
+    ],
+    "speech": "adverb",
+    "sentence": "He didn't wake up early. Consequently, he was late to work."
+  },
+  {
+    "name": "weigh",
+    "trans": [
+      "称重； 认真考虑， 权衡"
+    ],
+    "usphone": "weɪ",
+    "ukphone": "weɪ",
+    "e_mean": [
+      "have a certain heft"
+    ],
+    "speech": "verb",
+    "sentence": "He weighed out two kilos of oranges for a client."
+  },
+  {
+    "name": "acute",
+    "trans": [
+      "灵敏的； 剧烈的， 猛烈的"
+    ],
+    "usphone": "ə'kjut",
+    "ukphone": "ə'kjuːt",
+    "e_mean": [
+      "ending in a sharp point"
+    ],
+    "speech": "adjective",
+    "sentence": "The word ‘cafe’ often has an acute over the ‘e’."
+  },
+  {
+    "name": "pathology",
+    "trans": [
+      "病理学； 病变"
+    ],
+    "usphone": "pə'θɑlədʒi",
+    "ukphone": "pə'θɒlədʒi",
+    "e_mean": [
+      "the branch of medical science that studies diseases"
+    ],
+    "speech": "noun",
+    "sentence": "The surgeon sent a specimen of the cyst to the pathology department for staining and analysis to determine its histologic subtype."
+  },
+  {
+    "name": "indifferent",
+    "trans": [
+      "冷漠的， 不关心的"
+    ],
+    "usphone": "ɪn'dɪfrənt",
+    "ukphone": "ɪn'dɪfrənt",
+    "e_mean": [
+      "marked by a lack of interest"
+    ],
+    "speech": "adjective",
+    "sentence": "He was indifferent to the proposal, since it didn’t affect him, either way."
+  },
+  {
+    "name": "marker",
+    "trans": [
+      "标记， 标志"
+    ],
+    "usphone": "'mɑrkɚ",
+    "ukphone": "'mɑːkə(r)",
+    "e_mean": [
+      "a writing implement for making a mark"
+    ],
+    "speech": "noun",
+    "sentence": "Susie used a marker to write her name on the wall."
+  },
+  {
+    "name": "effect",
+    "trans": [
+      "作用，影响；结果；效果",
+      "使产生， 招致； 实现"
+    ],
+    "usphone": "ɪ'fɛkt",
+    "ukphone": "ɪ'fekt",
+    "e_mean": [
+      "a phenomenon that is caused by some previous phenomenon"
+    ],
+    "speech": "noun",
+    "sentence": "The effect of the hurricane was a devastated landscape."
+  },
+  {
+    "name": "grip",
+    "trans": [
+      "握紧，抓牢；吸引住…的注意力",
+      "紧握， 抓牢； 掌握， 控制"
+    ],
+    "usphone": "ɡrɪp",
+    "ukphone": "grɪp",
+    "e_mean": [
+      "hold fast or firmly"
+    ],
+    "speech": "verb",
+    "sentence": "After a few slips, the tires gripped the pavement."
+  },
+  {
+    "name": "tragic",
+    "trans": [
+      "悲惨的； 悲剧的"
+    ],
+    "usphone": "'trædʒɪk",
+    "ukphone": "'trædʒɪk",
+    "e_mean": [
+      "very sad, especially involving grief or death or destruction"
+    ],
+    "speech": "adjective",
+    "sentence": "2008, Search for tragic Madeleine McCann over (in The Daily Telegraph of Australia, 14 February 2008) http//www.dailytelegraph.com.au/news/search-for-maddie-over/story-e6freuy9-1111115550129"
+  },
+  {
+    "name": "amass",
+    "trans": [
+      "积聚"
+    ],
+    "usphone": "ə'mæs",
+    "ukphone": "ə'mæs",
+    "e_mean": [
+      "collect or gather"
+    ],
+    "speech": "verb",
+    "sentence": "to amass a treasure or a fortune"
+  },
+  {
+    "name": "grin",
+    "trans": [
+      "咧嘴笑"
+    ],
+    "usphone": "ɡrɪn",
+    "ukphone": "grɪn",
+    "e_mean": [
+      "to draw back the lips and reveal the teeth, in a smile, grimace, or snarl"
+    ],
+    "speech": "verb",
+    "sentence": "Why do you grin? Did I say something funny?"
+  },
+  {
+    "name": "intensify",
+    "trans": [
+      "使增强； 使加剧"
+    ],
+    "usphone": "ɪn'tɛnsɪfaɪ",
+    "ukphone": "ɪn'tensɪfaɪ",
+    "e_mean": [
+      "increase in extent or strength"
+    ],
+    "speech": "verb",
+    "sentence": "to intensify a photographic negative"
+  },
+  {
+    "name": "delivery",
+    "trans": [
+      "投递， 交付； 分娩"
+    ],
+    "usphone": "dɪ'lɪvəri",
+    "ukphone": "dɪ'lɪvəri",
+    "e_mean": [
+      "voluntary transfer of something from one party to another"
+    ],
+    "speech": "noun",
+    "sentence": "The delivery was completed by four."
+  },
+  {
+    "name": "continuity",
+    "trans": [
+      "连续； 持续"
+    ],
+    "usphone": "'kɑntə'nʊəti",
+    "ukphone": "ˌkɒntɪ'njuːəti",
+    "e_mean": [
+      "uninterrupted connection or union"
+    ],
+    "speech": "noun",
+    "sentence": "Considerable continuity of attention is needed to read German philosophy."
+  },
+  {
+    "name": "flutter",
+    "trans": [
+      "振， 拍打； 飘动， 晃动； 跳动"
+    ],
+    "usphone": "'flʌtɚ",
+    "ukphone": "'flʌtə(r)",
+    "e_mean": [
+      "flap the wings rapidly or fly with flapping movements"
+    ],
+    "speech": "verb",
+    "sentence": "the flutter of a fan"
+  },
+  {
+    "name": "ripe",
+    "trans": [
+      "成熟的； 时机成熟的"
+    ],
+    "usphone": "raɪp",
+    "ukphone": "raɪp",
+    "e_mean": [
+      "fully developed or matured and ready to be eaten or used"
+    ],
+    "speech": "adjective",
+    "sentence": "ripe apples"
+  },
+  {
+    "name": "insane",
+    "trans": [
+      "蠢极的， 荒唐的； 精神病的， 精神失常的， 疯狂的"
+    ],
+    "usphone": "ɪn'sen",
+    "ukphone": "ɪn'seɪn",
+    "e_mean": [
+      "afflicted with or characteristic of mental derangement"
+    ],
+    "speech": "adjective",
+    "sentence": "an insane asylum"
+  },
+  {
+    "name": "genetic",
+    "trans": [
+      "遗传的",
+      "[-s] 遗传学"
+    ],
+    "usphone": "dʒə'nɛtɪk",
+    "ukphone": "dʒə'netɪk",
+    "e_mean": [
+      "relating to the study of heredity and variation in organisms"
+    ],
+    "speech": "adjective",
+    "sentence": "Chinese has borrowed several words from English, but it does not have a genetic relationship to English."
+  },
+  {
+    "name": "horror",
+    "trans": [
+      "害怕， 恐怖"
+    ],
+    "usphone": "'hɔrɚ",
+    "ukphone": "'hɒrə(r)",
+    "e_mean": [
+      "intense and profound fear"
+    ],
+    "speech": "noun",
+    "sentence": "I saw many horrors during the war."
+  },
+  {
+    "name": "naked",
+    "trans": [
+      "裸体的， 无遮蔽的"
+    ],
+    "usphone": "'nekɪd",
+    "ukphone": "'neɪkɪd",
+    "e_mean": [
+      "completely unclothed"
+    ],
+    "speech": "adjective",
+    "sentence": "She was as naked as the day she was born."
+  },
+  {
+    "name": "swell",
+    "trans": [
+      "膨胀； 增长， 增强"
+    ],
+    "usphone": "swɛl",
+    "ukphone": "swel",
+    "e_mean": [
+      "increase in size, magnitude, number, or intensity"
+    ],
+    "speech": "verb",
+    "sentence": "Rains and dissolving snow swell the rivers in spring."
+  },
+  {
+    "name": "slacken",
+    "trans": [
+      "松弛， 放松； 放慢； 萧条"
+    ],
+    "usphone": "'slækən",
+    "ukphone": "'slækən",
+    "e_mean": [
+      "become slow or slower"
+    ],
+    "speech": "verb",
+    "sentence": "The pace slackened."
+  },
+  {
+    "name": "responsible",
+    "trans": [
+      "有责任感的； 可靠的"
+    ],
+    "usphone": "rɪ'spɑnsəbl",
+    "ukphone": "rɪ'spɒnsəbl",
+    "e_mean": [
+      "worthy of or requiring trust; held accountable"
+    ],
+    "speech": "adjective",
+    "sentence": "Parents are responsible for their child's behaviour."
+  },
+  {
+    "name": "utility",
+    "trans": [
+      "功用，效用；"
+    ],
+    "usphone": "ju'tɪləti",
+    "ukphone": "juː'tɪləti",
+    "e_mean": [
+      "the quality of being of practical use"
+    ],
+    "speech": "noun",
+    "sentence": "I've bought a new disk utility that can recover deleted files."
+  },
+  {
+    "name": "immediately",
+    "trans": [
+      "立即， 马上； 紧接地； 直接地"
+    ],
+    "usphone": "ɪ'midɪətli",
+    "ukphone": "ɪ'miːdiətli",
+    "e_mean": [
+      "without delay or hesitation; with no time intervening"
+    ],
+    "speech": "adverb",
+    "sentence": "I hope we can begin immediately."
+  },
+  {
+    "name": "optimistic",
+    "trans": [
+      "乐观的， 乐观主义的"
+    ],
+    "usphone": ",ɑptɪ'mɪstɪk",
+    "ukphone": "ˌɒptɪ'mɪstɪk",
+    "e_mean": [
+      "hopeful that the best will happen in the future"
+    ],
+    "speech": "adjective",
+    "sentence": "in an optimistic mood"
+  },
+  {
+    "name": "slash",
+    "trans": [
+      "砍； 大幅度削减",
+      "砍痕，伤痕；斜线号"
+    ],
+    "usphone": "slæʃ",
+    "ukphone": "slæʃ",
+    "e_mean": [
+      "cut with sweeping strokes; as with an ax or machete"
+    ],
+    "speech": "verb",
+    "sentence": "Slash generated during logging may constitute a fire hazard."
+  },
+  {
+    "name": "vet",
+    "trans": [
+      "审查，仔细检查",
+      "兽医"
+    ],
+    "usphone": "vɛt",
+    "ukphone": "vet",
+    "e_mean": [
+      "a doctor who practices veterinary medicine"
+    ],
+    "speech": "noun",
+    "sentence": "The FBI vets all nominees to the Federal bench."
+  },
+  {
+    "name": "registration",
+    "trans": [
+      "登记， 注册； 挂号； 登记或注册的项目"
+    ],
+    "usphone": "'rɛdʒɪ'streʃən",
+    "ukphone": "ˌredʒɪ'streɪʃn",
+    "e_mean": [
+      "the act of enrolling"
+    ],
+    "speech": "noun",
+    "sentence": "Complete the registration process."
+  },
+  {
+    "name": "cholesterol",
+    "trans": [
+      "胆固醇"
+    ],
+    "usphone": "kə'lɛstərɔl",
+    "ukphone": "kə'lestərɒl",
+    "e_mean": [
+      "a substance in the blood that can cause heart disease"
+    ],
+    "speech": "noun",
+    "sentence": "improve your cholesterol; lower your cholesterol"
+  },
+  {
+    "name": "sorrow",
+    "trans": [
+      "悲哀； 伤心事"
+    ],
+    "usphone": "sɑro",
+    "ukphone": "'sɒrəu",
+    "e_mean": [
+      "an emotion of great sadness associated with loss"
+    ],
+    "speech": "noun",
+    "sentence": "Parting is such sweet sorrow."
+  },
+  {
+    "name": "autoimmune",
+    "trans": [
+      "自身免疫的"
+    ],
+    "usphone": ",ɔtoɪ'mjʊn",
+    "ukphone": "ˌɔːtəuɪ'mjuːn",
+    "e_mean": [
+      "of a condition in which a body attacks its own cells"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "influenza",
+    "trans": [
+      "流行性感冒"
+    ],
+    "usphone": ",ɪnflu'ɛnzə",
+    "ukphone": "ˌɪnflu'enzə",
+    "e_mean": [
+      "an acute febrile highly contagious viral disease"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "wean",
+    "trans": [
+      "断奶， 戒掉"
+    ],
+    "usphone": "win",
+    "ukphone": "wiːn",
+    "e_mean": [
+      "gradually deprive of mother's milk"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "wheelchair",
+    "trans": [
+      "轮椅"
+    ],
+    "usphone": "'wiltʃɛr",
+    "ukphone": "'wiːltʃeə(r)",
+    "e_mean": [
+      "a movable chair mounted on large wheels"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mortality",
+    "trans": [
+      "死亡率"
+    ],
+    "usphone": "mɔr'tæləti",
+    "ukphone": "mɔː'tæləti",
+    "e_mean": [
+      "the quality or state of being subject to death"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "asthma",
+    "trans": [
+      "哮喘症"
+    ],
+    "usphone": "'æzmə",
+    "ukphone": "'æsmə",
+    "e_mean": [
+      "respiratory disorder characterized by wheezing"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "medication",
+    "trans": [
+      "药； 药物"
+    ],
+    "usphone": "'mɛdɪ'keʃən",
+    "ukphone": "ˌmedɪ'keɪʃn",
+    "e_mean": [
+      "something that treats or prevents the symptoms of disease"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sift",
+    "trans": [
+      "细查； 筛； 过滤"
+    ],
+    "usphone": "sɪft",
+    "ukphone": "sɪft",
+    "e_mean": [
+      "move as if through a sieve"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "ruthless",
+    "trans": [
+      "无情的， 冷酷的， 残忍的"
+    ],
+    "usphone": "'rʊθləs",
+    "ukphone": "'ruːθləs",
+    "e_mean": [
+      "without mercy or pity"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "optic",
+    "trans": [
+      "眼的，视觉的；光学的",
+      "光学仪器"
+    ],
+    "usphone": "'ɑptɪk",
+    "ukphone": "'ɒptɪk",
+    "e_mean": [
+      "of or relating to or resembling the eye"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "fatigue",
+    "trans": [
+      "疲劳",
+      "疲劳，劳累"
+    ],
+    "usphone": "fə'tig",
+    "ukphone": "fə'tiːg",
+    "e_mean": [
+      "temporary loss of strength and energy from hard work"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "clinic",
+    "trans": [
+      "门诊部， 诊所"
+    ],
+    "usphone": "'klɪnɪk",
+    "ukphone": "'klɪnɪk",
+    "e_mean": [
+      "a medical establishment run by a group of specialists"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "generative",
+    "trans": [
+      "生殖的， 生产的； 有生产能力的"
+    ],
+    "usphone": "'dʒɛnərətɪv",
+    "ukphone": "'dʒenərətɪv",
+    "e_mean": [
+      "having the ability to produce or originate"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "overlie",
+    "trans": [
+      "躺在…上面； 置于…上面"
+    ],
+    "usphone": "'ovɚ'lai",
+    "ukphone": "ˌəuvə'laɪ",
+    "e_mean": [
+      "lie upon; lie on top of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "obscurity",
+    "trans": [
+      "模糊； 费解； 不出名"
+    ],
+    "usphone": "əb'skjʊrəti",
+    "ukphone": "əb'skjuərəti",
+    "e_mean": [
+      "the state of being indistinct due to lack of light"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "dizziness",
+    "trans": [
+      "头昏眼花， 眩晕"
+    ],
+    "usphone": "'dɪzənɪs",
+    "ukphone": "'dɪzinəs",
+    "e_mean": [
+      "a reeling sensation; a feeling that you are about to fall"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pregnancy",
+    "trans": [
+      "怀孕； 怀孕期"
+    ],
+    "usphone": "'prɛgnənsi",
+    "ukphone": "'pregnənsi",
+    "e_mean": [
+      "the state of being pregnant"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "encase",
+    "trans": [
+      "装入， 包住"
+    ],
+    "usphone": "ɪn'kes",
+    "ukphone": "ɪn'keɪs",
+    "e_mean": [
+      "cover or enclose with or as if with an outer covering"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "internship",
+    "trans": [
+      "实习生身份； 实习医师"
+    ],
+    "usphone": "'ɪntɝnʃɪp",
+    "ukphone": "'ɪntɜːnʃɪp",
+    "e_mean": [
+      "the position of working for an expert to learn a profession"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "remedy",
+    "trans": [
+      "药品；治疗法；补救",
+      "治疗； 补救"
+    ],
+    "usphone": "'rɛmədi",
+    "ukphone": "'remədi",
+    "e_mean": [
+      "a medicine or therapy that cures disease or relieves pain"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "congestion",
+    "trans": [
+      "拥挤， 充塞； 充血"
+    ],
+    "usphone": "kən'dʒɛstʃən",
+    "ukphone": "kən'dʒestʃən",
+    "e_mean": [
+      "excessive crowding"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "arthritis",
+    "trans": [
+      "关节炎"
+    ],
+    "usphone": "ɑr'θraɪtɪs",
+    "ukphone": "ɑː'θraɪtɪs",
+    "e_mean": [
+      "inflammation of a joint or joints"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "isolated",
+    "trans": [
+      "隔离的， 分离的； 与世隔绝的， 偏僻的； 孤立的， 孤独的； 个别的"
+    ],
+    "usphone": "'aɪsəletɪd",
+    "ukphone": "'aɪsəleɪtɪd",
+    "e_mean": [
+      "remote and separate physically or socially"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "preparation",
+    "trans": [
+      "准备， 预备； 制剂"
+    ],
+    "usphone": ",prɛpə'reʃən",
+    "ukphone": "ˌprepə'reɪʃn",
+    "e_mean": [
+      "setting in order in advance some act or purpose"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "spine",
+    "trans": [
+      "脊椎， 脊柱； 刺， 刺毛； 书脊； 〈喻〉中心"
+    ],
+    "usphone": "spaɪn",
+    "ukphone": "spaɪn",
+    "e_mean": [
+      "the series of vertebrae forming the backbone"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "vomit",
+    "trans": [
+      "呕吐， 恶心； 喷出",
+      "呕吐，呕吐物；催吐剂"
+    ],
+    "usphone": "'vɑmɪt",
+    "ukphone": "'vɒmɪt",
+    "e_mean": [
+      "the reflex act of ejecting the contents of the stomach through the mouth"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "symptom",
+    "trans": [
+      "症状； 征候， 征兆"
+    ],
+    "usphone": "'sɪmptəm",
+    "ukphone": "'sɪmptəm",
+    "e_mean": [
+      "a sensation associated with a particular disease"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sensory",
+    "trans": [
+      "感觉的， 感官的"
+    ],
+    "usphone": "'sɛnsəri",
+    "ukphone": "'sensəri",
+    "e_mean": [
+      "relating to or concerned in sensation"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "mere",
+    "trans": [
+      "仅仅的； 纯粹的"
+    ],
+    "usphone": "mɪr",
+    "ukphone": "mɪə(r)",
+    "e_mean": [
+      "being nothing more than specified"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "adolescent",
+    "trans": [
+      "青春期的； 青少年的",
+      "青少年"
+    ],
+    "usphone": ",ædə'lɛsnt",
+    "ukphone": "ˌædə'lesnt",
+    "e_mean": [
+      "a person who is older than 12 but younger than 20"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "hose",
+    "trans": [
+      "软管",
+      "用软管淋"
+    ],
+    "usphone": "hoz",
+    "ukphone": "həuz",
+    "e_mean": [
+      "a flexible pipe for conveying a liquid or gas"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "post-mortem",
+    "trans": [
+      "验尸，尸体解剖"
+    ],
+    "usphone": "ˌpoʊst ˈmɔrtəm",
+    "ukphone": "ˌpəust'mɔːtəm",
+    "e_mean": [
+      "an examination and dissection of a dead body to determine cause of death or the changes produced by disease"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "iris",
+    "trans": [
+      "虹； 虹膜"
+    ],
+    "usphone": "'aɪrɪs",
+    "ukphone": "'aɪərɪs",
+    "e_mean": [
+      "colored part of the eye that controls the size of the pupil"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "prescribe",
+    "trans": [
+      "开处方， 开药； 规定， 指示"
+    ],
+    "usphone": "prɪ'skraɪb",
+    "ukphone": "prɪ'skraɪb",
+    "e_mean": [
+      "issue commands or orders for"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "lounge",
+    "trans": [
+      "懒洋洋地站",
+      "等候室； 休息室"
+    ],
+    "usphone": "laʊndʒ",
+    "ukphone": "laundʒ",
+    "e_mean": [
+      "sit or recline comfortably"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "sanitation",
+    "trans": [
+      "卫生， 卫生设施"
+    ],
+    "usphone": ",sænɪ'teʃən",
+    "ukphone": "ˌsænɪ'teɪʃn",
+    "e_mean": [
+      "the state of being clean and conducive to health"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "muddle",
+    "trans": [
+      "一团糟， 凌乱， 混乱； 糊涂， 困惑",
+      "将…弄成一团糟； 使困惑， 使糊涂； 混淆"
+    ],
+    "usphone": "'mʌdl",
+    "ukphone": "'mʌdl",
+    "e_mean": [
+      "make clouded as with sediment"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "infection",
+    "trans": [
+      "传染， 感染， 侵染， 传播； 传染病"
+    ],
+    "usphone": "ɪn'fɛkʃən",
+    "ukphone": "ɪn'fekʃn",
+    "e_mean": [
+      "the invasion of the body by pathogenic microorganisms"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "seclude",
+    "trans": [
+      "使隔离， 使孤立"
+    ],
+    "usphone": "sɪ'klud",
+    "ukphone": "sɪ'kluːd",
+    "e_mean": [
+      "keep away from others"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "aggravation",
+    "trans": [
+      "加重； 恶化； 愤怒， 恼怒"
+    ],
+    "usphone": ",ægrə'veʃən",
+    "ukphone": "ˌægrə'veɪʃn",
+    "e_mean": [
+      "action that makes a problem or a disease worse"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "inhibit",
+    "trans": [
+      "抑制， 约束； 起抑制作用"
+    ],
+    "usphone": "ɪn'hɪbɪt",
+    "ukphone": "ɪn'hɪbɪt",
+    "e_mean": [
+      "limit the range or extent of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "scrutiny",
+    "trans": [
+      "详细检查， 细看； 监视"
+    ],
+    "usphone": "'skrutəni",
+    "ukphone": "'skruːtəni",
+    "e_mean": [
+      "the act of examining something closely, as for mistakes"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "apparatus",
+    "trans": [
+      "器械， 器具， 仪器； 机构， 组织"
+    ],
+    "usphone": "ˌæpəˈrætəs",
+    "ukphone": "ˌæpə'reɪtəs",
+    "e_mean": [
+      "equipment designed to serve a specific function"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "fracture",
+    "trans": [
+      "断裂，折断；"
+    ],
+    "usphone": "'fræktʃɚ",
+    "ukphone": "'fræktʃə(r)",
+    "e_mean": [
+      "breaking of hard tissue such as bone"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "disintegrate",
+    "trans": [
+      "碎裂， 瓦解， 解体"
+    ],
+    "usphone": "dɪs'ɪntɪɡret",
+    "ukphone": "dɪs'ɪntɪgreɪt",
+    "e_mean": [
+      "break into parts or components or lose cohesion or unity"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "despite",
+    "trans": [
+      "不管， 尽管"
+    ],
+    "usphone": "dɪ'spaɪt",
+    "ukphone": "dɪ'spaɪt",
+    "e_mean": [
+      "contemptuous disregard"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "consecutive",
+    "trans": [
+      "连续不断的， 连贯的"
+    ],
+    "usphone": "kən'sɛkjətɪv",
+    "ukphone": "kən'sekjətɪv",
+    "e_mean": [
+      "one after the other"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "assimilation",
+    "trans": [
+      "吸收； 吸收和同化的过程"
+    ],
+    "usphone": "əˌsɪməˈleʃən",
+    "ukphone": "əˌsɪmə'leɪʃn",
+    "e_mean": [
+      "the process of absorbing one cultural group into another"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "decibel",
+    "trans": [
+      "分贝"
+    ],
+    "usphone": "'dɛsɪbɛl",
+    "ukphone": "'desɪbel",
+    "e_mean": [
+      "a unit of sound intensity"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "depletion",
+    "trans": [
+      "削减； 消耗"
+    ],
+    "usphone": "dɪ'pliʃən",
+    "ukphone": "dɪ'pliːʃn",
+    "e_mean": [
+      "the state of being used up"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "conduce",
+    "trans": [
+      "有益于， 有助于； 导致"
+    ],
+    "usphone": "kən'dju:s",
+    "ukphone": "kən'djuːs",
+    "e_mean": [
+      "be conducive to"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "exhilaration",
+    "trans": [
+      "高兴； 兴奋"
+    ],
+    "usphone": "ɪg,zɪlə'reʃən",
+    "ukphone": "ɪgˌzɪlə'reɪʃn",
+    "e_mean": [
+      "the feeling of lively and cheerful joy"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "acupuncture",
+    "trans": [
+      "针刺疗法， 针灸"
+    ],
+    "usphone": "'ækjupʌŋktʃɚ",
+    "ukphone": "'ækjʊpʌŋktʃə(r)",
+    "e_mean": [
+      "treatment of illness by inserting thin needles in the skin"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "audacious",
+    "trans": [
+      "大胆的； 有冒险精神的； 鲁莽的； 厚颜无耻的"
+    ],
+    "usphone": "ɔ'deʃəs",
+    "ukphone": "ɔː'deɪʃəs",
+    "e_mean": [
+      "disposed to venture or take risks"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "dispiriting",
+    "trans": [
+      "令人沮丧的， 使人气馁的"
+    ],
+    "usphone": "dɪ'spɪrɪtɪŋ",
+    "ukphone": "dɪ'spɪrɪtɪŋ",
+    "e_mean": [
+      "destructive of morale and self-reliance"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "afflict",
+    "trans": [
+      "使苦恼； 折磨"
+    ],
+    "usphone": "ə'flɪkt",
+    "ukphone": "ə'flɪkt",
+    "e_mean": [
+      "cause physical pain or suffering in"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "pamper",
+    "trans": [
+      "纵容， 娇惯； 精心护理"
+    ],
+    "usphone": "'pæmpɚ",
+    "ukphone": "'pæmpə(r)",
+    "e_mean": [
+      "treat with excessive indulgence"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "antibiotic",
+    "trans": [
+      "抗菌的",
+      "抗生素，抗菌素"
+    ],
+    "usphone": ",æntɪbaɪ'ɑtɪk; ˌæntaɪ-",
+    "ukphone": "ˌæntibaɪ'ɒtɪk",
+    "e_mean": [
+      "a substance used to kill microorganisms and cure infections"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "frustration",
+    "trans": [
+      "沮丧， 不满"
+    ],
+    "usphone": "frʌ'streʃən",
+    "ukphone": "frʌ'streɪʃn",
+    "e_mean": [
+      "an act of hindering someone's plans or efforts"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "toxin",
+    "trans": [
+      "毒素， 毒质"
+    ],
+    "usphone": "'tɑksɪn",
+    "ukphone": "'tɒksɪn",
+    "e_mean": [
+      "a poisonous substance produced organically"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "prediction",
+    "trans": [
+      "预言， 预料， 预报"
+    ],
+    "usphone": "prɪ'dɪkʃən",
+    "ukphone": "prɪ'dɪkʃn",
+    "e_mean": [
+      "a statement made about the future"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "devastating",
+    "trans": [
+      "毁灭性的； 强有力的"
+    ],
+    "usphone": "'devəsteitiŋ",
+    "ukphone": "'devəsteɪtɪŋ",
+    "e_mean": [
+      "wreaking or capable of wreaking complete destruction"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "internist",
+    "trans": [
+      "内科医师"
+    ],
+    "usphone": "ɪn'tɝnɪst",
+    "ukphone": "ɪn'tɜːnɪst",
+    "e_mean": [
+      "a specialist in internal medicine"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "relentless",
+    "trans": [
+      "无情的， 残酷的"
+    ],
+    "usphone": "rɪ'lɛntləs",
+    "ukphone": "rɪ'lentləs",
+    "e_mean": [
+      "never-ceasing"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "widespread",
+    "trans": [
+      "分布广的； 普遍的"
+    ],
+    "usphone": "ˈwʌɪdsprɛd",
+    "ukphone": "'waɪdspred",
+    "e_mean": [
+      "widely circulated or diffused"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "nutritious",
+    "trans": [
+      "有营养的， 营养丰富的"
+    ],
+    "usphone": "nʊ'trɪʃəs",
+    "ukphone": "nju'trɪʃəs",
+    "e_mean": [
+      "of or providing nourishment"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "excreta",
+    "trans": [
+      "排泄物"
+    ],
+    "usphone": "ɪk'skritə",
+    "ukphone": "ɪk'skriːtə",
+    "e_mean": [
+      "waste matter discharged from the body"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "murky",
+    "trans": [
+      "浑浊的； 黑暗的； 朦胧的； 隐晦的"
+    ],
+    "usphone": "'mɝki",
+    "ukphone": "'mɜːki",
+    "e_mean": [
+      "cloudy, dirty, and difficult to see through"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "recourse",
+    "trans": [
+      "依靠； 求助， 求援"
+    ],
+    "usphone": "'rikɔrs",
+    "ukphone": "rɪ'kɔːs",
+    "e_mean": [
+      "act of turning to for assistance"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "kindergarten",
+    "trans": [
+      "幼儿园"
+    ],
+    "usphone": "'kɪndɚɡɑrtn",
+    "ukphone": "'kɪndəgɑːtn",
+    "e_mean": [
+      "a preschool for children to prepare them for primary school"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "solemn",
+    "trans": [
+      "庄严的， 隆重的； 严肃的， 认真的"
+    ],
+    "usphone": "'sɑləm",
+    "ukphone": "'sɒləm",
+    "e_mean": [
+      "dignified and somber in manner or character"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "inhale",
+    "trans": [
+      "吸， 吸气"
+    ],
+    "usphone": "ɪn'hel",
+    "ukphone": "ɪn'heɪl",
+    "e_mean": [
+      "draw deep into the lungs by breathing"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "physician",
+    "trans": [
+      "内科医生， 医师"
+    ],
+    "usphone": "fɪ'zɪʃən",
+    "ukphone": "fɪ'zɪʃn",
+    "e_mean": [
+      "a licensed medical practitioner"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "portion",
+    "trans": [
+      "部分；一份",
+      "划分， 分配"
+    ],
+    "usphone": "'pɔrʃən",
+    "ukphone": "'pɔːʃn",
+    "e_mean": [
+      "something determined in relation to a thing that includes it"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "moribund",
+    "trans": [
+      "垂死的， 即将灭亡的； 即将结束的"
+    ],
+    "usphone": "'mɔrɪbʌnd",
+    "ukphone": "'mɒrɪbʌnd",
+    "e_mean": [
+      "being on the point of death"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "melatonin",
+    "trans": [
+      "褪黑激素"
+    ],
+    "usphone": ",mɛlə'tonɪn",
+    "ukphone": "ˌmelə'təunɪn",
+    "e_mean": [
+      "sleep-regulating hormone secreted by the pineal gland"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "slumber",
+    "trans": [
+      "睡眠，安睡"
+    ],
+    "usphone": "'slʌmbɚ",
+    "ukphone": "'slʌmbə(r)",
+    "e_mean": [
+      "be asleep"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "inculcate",
+    "trans": [
+      "谆谆教诲， 反复灌输"
+    ],
+    "usphone": "ɪn'kʌlket",
+    "ukphone": "'ɪnkʌlkeɪt",
+    "e_mean": [
+      "teach and impress by frequent repetitions or admonitions"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "activate",
+    "trans": [
+      "激活； 使活动， 使活化"
+    ],
+    "usphone": "'æktə'vet",
+    "ukphone": "'æktɪveɪt",
+    "e_mean": [
+      "put in motion"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "psychiatric",
+    "trans": [
+      "精神病的； 治疗精神病的"
+    ],
+    "usphone": ",saɪkɪ'ætrɪk",
+    "ukphone": "ˌsaɪki'ætrɪk",
+    "e_mean": [
+      "relating to the diagnosis and treatment of mental disorders"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "memorise",
+    "trans": [
+      "记住， 熟记"
+    ],
+    "usphone": "'meməraɪz",
+    "ukphone": "'meməraɪz",
+    "e_mean": [
+      "commit to memory; learn by heart"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "irritate",
+    "trans": [
+      "使烦躁； 使疼痛； 刺激"
+    ],
+    "usphone": "'ɪrɪtet",
+    "ukphone": "'ɪrɪteɪt",
+    "e_mean": [
+      "cause annoyance in"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "fitness",
+    "trans": [
+      "健康； 适合"
+    ],
+    "usphone": "ˈfɪtnɪs",
+    "ukphone": "'fɪtnəs",
+    "e_mean": [
+      "the quality of being suitable"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "hypnotic",
+    "trans": [
+      "催眠的",
+      "催眠药"
+    ],
+    "usphone": "hɪp'nɑtɪk",
+    "ukphone": "hɪp'nɒtɪk",
+    "e_mean": [
+      "of or relating to a state that resembles sleep"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "ailment",
+    "trans": [
+      "疾病"
+    ],
+    "usphone": "'elmənt",
+    "ukphone": "'eɪlmənt",
+    "e_mean": [
+      "an often persistent bodily disorder or disease"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "propellant",
+    "trans": [
+      "喷射剂； 推进物， 推进剂"
+    ],
+    "usphone": "prə'pɛlənt",
+    "ukphone": "prə'pelənt",
+    "e_mean": [
+      "any substance that moves forward with force"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "imperil",
+    "trans": [
+      "使陷于危险， 危及"
+    ],
+    "usphone": "ɪm'pɛrəl",
+    "ukphone": "ɪm'perəl",
+    "e_mean": [
+      "pose a threat to; present a danger to"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "cardiovascular",
+    "trans": [
+      "心血管的"
+    ],
+    "usphone": ",kɑrdɪo'væskjəlɚ",
+    "ukphone": "ˌkɑːdiəu'væskjələ(r)",
+    "e_mean": [
+      "of or pertaining to or involving the heart and blood vessels"
+    ],
+    "speech": "adjective"
+  }
+]

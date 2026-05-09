@@ -1,0 +1,3788 @@
+[
+  {
+    "name": "particular",
+    "trans": [
+      "特殊的，特别的；特定的，个别的；详细的",
+      "详情， 细目， 细节"
+    ],
+    "usphone": "pɚ'tɪkjəlɚ",
+    "ukphone": "pə'tɪkjələ(r)",
+    "e_mean": [
+      "unique or specific to a person or thing or category"
+    ],
+    "speech": "adjective",
+    "sentence": "I couldn't find the particular model you asked for, but I hope this one will do."
+  },
+  {
+    "name": "crisp",
+    "trans": [
+      "脆的；利落的"
+    ],
+    "usphone": "krɪsp",
+    "ukphone": "krɪsp",
+    "e_mean": [
+      "tender and brittle"
+    ],
+    "speech": "adjective",
+    "sentence": "kale crisps"
+  },
+  {
+    "name": "influential",
+    "trans": [
+      "有影响力的； 有权势的"
+    ],
+    "usphone": ",ɪnflu'ɛnʃl",
+    "ukphone": "ˌɪnflu'enʃl",
+    "e_mean": [
+      "having or exercising power"
+    ],
+    "speech": "adjective",
+    "sentence": "Jane was very influential in getting the motion passed."
+  },
+  {
+    "name": "grateful",
+    "trans": [
+      "感激的， 感谢的"
+    ],
+    "usphone": "'ɡretfl",
+    "ukphone": "'greɪtfl",
+    "e_mean": [
+      "feeling or showing thankfulness"
+    ],
+    "speech": "adjective",
+    "sentence": "I'm grateful that you helped me out."
+  },
+  {
+    "name": "requisite",
+    "trans": [
+      "需要的；必要的",
+      "必需品； 要素"
+    ],
+    "usphone": "'rɛkwəzɪt",
+    "ukphone": "'rekwɪzɪt",
+    "e_mean": [
+      "necessary for relief or supply"
+    ],
+    "speech": "adjective",
+    "sentence": "Please submit the requisite papers before the end of the financial year."
+  },
+  {
+    "name": "soluble",
+    "trans": [
+      "可溶的； 可解决的"
+    ],
+    "usphone": "'sɑljəbl",
+    "ukphone": "'sɒljəbl",
+    "e_mean": [
+      "capable of being dissolved in some solvent"
+    ],
+    "speech": "adjective",
+    "sentence": "Sugar is soluble in water."
+  },
+  {
+    "name": "pretentious",
+    "trans": [
+      "自命不凡的， 自负的； 炫耀的； 做作的"
+    ],
+    "usphone": "prɪ'tɛnʃəs",
+    "ukphone": "prɪ'tenʃəs",
+    "e_mean": [
+      "creating an appearance of importance or distinction"
+    ],
+    "speech": "adjective",
+    "sentence": "Her dress was obviously more pretentious than comfortable."
+  },
+  {
+    "name": "duration",
+    "trans": [
+      "持续， 持续的时间， 期间"
+    ],
+    "usphone": "du'reʃən",
+    "ukphone": "dju'reɪʃn",
+    "e_mean": [
+      "the period of time during which something continues"
+    ],
+    "speech": "noun",
+    "sentence": "Rationing will last at least for the duration."
+  },
+  {
+    "name": "ignore",
+    "trans": [
+      "不顾， 不理， 忽视"
+    ],
+    "usphone": "ɪɡ'nɔr",
+    "ukphone": "ɪg'nɔː(r)",
+    "e_mean": [
+      "refuse to acknowledge"
+    ],
+    "speech": "verb",
+    "sentence": "A problem ignored is a problem doubled."
+  },
+  {
+    "name": "permeate",
+    "trans": [
+      "扩散， 弥漫； 渗透， 渗入"
+    ],
+    "usphone": "'pɝmɪet",
+    "ukphone": "'pɜːmieɪt",
+    "e_mean": [
+      "spread or diffuse through"
+    ],
+    "speech": "verb",
+    "sentence": "water permeates sand"
+  },
+  {
+    "name": "virtuous",
+    "trans": [
+      "有道德的， 品性好的， 品德高的； 自命清高的； 贞洁的"
+    ],
+    "usphone": "'vɝtʃuəs",
+    "ukphone": "'vɜːtʃuəs",
+    "e_mean": [
+      "morally excellent"
+    ],
+    "speech": "adjective",
+    "sentence": "Successful communities need strong, selfless leaders and a virtuous people."
+  },
+  {
+    "name": "subsequent",
+    "trans": [
+      "继…之后的， 随后的"
+    ],
+    "usphone": "'sʌbsɪkwənt",
+    "ukphone": "'sʌbsɪkwənt",
+    "e_mean": [
+      "following in time or order"
+    ],
+    "speech": "adjective",
+    "sentence": "Growth was dampened by a softening of the global economy in 2001, but picked up in the subsequent years due to strong growth in China."
+  },
+  {
+    "name": "sensational",
+    "trans": [
+      "轰动性的， 引起哗然的； 耸人听闻的； 极好的； 绝妙的"
+    ],
+    "usphone": "sɛn'seʃənl",
+    "ukphone": "sen'seɪʃənl",
+    "e_mean": [
+      "relating to elementary awareness of stimulation"
+    ],
+    "speech": "adjective",
+    "sentence": "sensational nerves"
+  },
+  {
+    "name": "original",
+    "trans": [
+      "最初的，原始的；新颖的，有独创性的",
+      "原物， 原作"
+    ],
+    "usphone": "ə'rɪdʒənl",
+    "ukphone": "ə'rɪdʒənl",
+    "e_mean": [
+      "preceding all others in time"
+    ],
+    "speech": "adjective",
+    "sentence": "This manuscript is the original."
+  },
+  {
+    "name": "stuffy",
+    "trans": [
+      "不透气的， 不新鲜的， 不通风的； 乏味的"
+    ],
+    "usphone": "'stʌfi",
+    "ukphone": "'stʌfi",
+    "e_mean": [
+      "lacking fresh air"
+    ],
+    "speech": "adjective",
+    "sentence": "I can’t smell very well today – I have a stuffy nose."
+  },
+  {
+    "name": "erroneous",
+    "trans": [
+      "错误的， 不正确的"
+    ],
+    "usphone": "ɪ'ronɪəs",
+    "ukphone": "ɪ'rəunəs",
+    "e_mean": [
+      "containing or characterized by mistakes"
+    ],
+    "speech": "adjective",
+    "sentence": "His answer to the sum was erroneous."
+  },
+  {
+    "name": "shatter",
+    "trans": [
+      "破碎， 碎裂； 给予极大打击"
+    ],
+    "usphone": "'ʃætɚ",
+    "ukphone": "'ʃætə(r)",
+    "e_mean": [
+      "break into many pieces"
+    ],
+    "speech": "verb",
+    "sentence": "to break a glass into shatters"
+  },
+  {
+    "name": "bleak",
+    "trans": [
+      "寒冷的， 阴沉的； 阴郁的， 暗淡的； 没有希望的， 不乐观的； 荒凉的； 索然无味的"
+    ],
+    "usphone": "blik",
+    "ukphone": "bliːk",
+    "e_mean": [
+      "unpleasantly cold and damp"
+    ],
+    "speech": "adjective",
+    "sentence": "A bleak and bare rock."
+  },
+  {
+    "name": "smother",
+    "trans": [
+      "厚厚地覆盖； 窒息； 把闷熄"
+    ],
+    "usphone": "'smʌðɚ",
+    "ukphone": "'smʌðə(r)",
+    "e_mean": [
+      "deprive of oxygen and prevent from breathing"
+    ],
+    "speech": "verb",
+    "sentence": "to smother a fire with ashes"
+  },
+  {
+    "name": "harsh",
+    "trans": [
+      "严厉的， 严酷的； 粗糙的， 毛糙的； 刻薄的； 恶劣的； 刺耳的， 刺目的"
+    ],
+    "usphone": "hɑrʃ",
+    "ukphone": "hɑːʃ",
+    "e_mean": [
+      "disagreeable to the senses"
+    ],
+    "speech": "adjective",
+    "sentence": "Quit harshing me already, I said that I was sorry!"
+  },
+  {
+    "name": "excessive",
+    "trans": [
+      "过多的， 极度的， 过分的"
+    ],
+    "usphone": "ɪkˈsɛsɪv",
+    "ukphone": "ɪk'sesɪv",
+    "e_mean": [
+      "beyond normal limits"
+    ],
+    "speech": "adjective",
+    "sentence": "Putting a wide vibrato on a single 16th triplet note at 160 beats per minute seems rather excessive."
+  },
+  {
+    "name": "anxious",
+    "trans": [
+      "渴望的； 忧虑的"
+    ],
+    "usphone": "'æŋkʃəs",
+    "ukphone": "'æŋkʃəs",
+    "e_mean": [
+      "causing or fraught with or showing nervousness"
+    ],
+    "speech": "adjective",
+    "sentence": "I could tell she was anxious as she was biting her nails."
+  },
+  {
+    "name": "cautious",
+    "trans": [
+      "十分小心的， 谨慎的"
+    ],
+    "usphone": "'kɔʃəs",
+    "ukphone": "'kɔːʃəs",
+    "e_mean": [
+      "showing careful forethought"
+    ],
+    "speech": "adjective",
+    "sentence": "He took a few cautious steps toward the cave."
+  },
+  {
+    "name": "negative",
+    "trans": [
+      "否定的，反面的；消极的；负的，阴性的",
+      "负数； 底片"
+    ],
+    "usphone": "'nɛɡətɪv",
+    "ukphone": "'negətɪv",
+    "e_mean": [
+      "characterized by denial or opposition or resistance"
+    ],
+    "speech": "adjective",
+    "sentence": "Customers didn’t like it: feedback was mostly negative."
+  },
+  {
+    "name": "hence",
+    "trans": [
+      "因此， 所以； 今后， 从此"
+    ],
+    "usphone": "hɛns",
+    "ukphone": "hens",
+    "e_mean": [
+      "from that fact or reason or as a result"
+    ],
+    "speech": "adverb",
+    "sentence": "Get thee hence, Satan!"
+  },
+  {
+    "name": "bold",
+    "trans": [
+      "粗体的； 大胆的， 鲁莽的， 勇敢的； 醒目的"
+    ],
+    "usphone": "bold",
+    "ukphone": "bəuld",
+    "e_mean": [
+      "fearless and daring"
+    ],
+    "speech": "adjective",
+    "sentence": "Bold deeds win admiration and, sometimes, medals."
+  },
+  {
+    "name": "distance",
+    "trans": [
+      "距离； 远方； 一长段时间"
+    ],
+    "usphone": "'dɪstəns",
+    "ukphone": "'dɪstəns",
+    "e_mean": [
+      "the property created by the space between two objects"
+    ],
+    "speech": "noun",
+    "sentence": "From Moscow, the distance is relatively short to Saint Petersburg, relatively long to Novosibirsk, but even greater to Vladivostok."
+  },
+  {
+    "name": "significant",
+    "trans": [
+      "有意义的； 重大的， 重要的"
+    ],
+    "usphone": "sɪɡ'nɪfɪkənt",
+    "ukphone": "sɪg'nɪfɪkənt",
+    "e_mean": [
+      "rich in implication"
+    ],
+    "speech": "adjective",
+    "sentence": "a significant word or sound; a significant look"
+  },
+  {
+    "name": "inalienable",
+    "trans": [
+      "不可剥夺的， 不可分割的"
+    ],
+    "usphone": "ɪn'elɪənəbl",
+    "ukphone": "ɪn'eɪlɪənəbl",
+    "e_mean": [
+      "incapable of being repudiated or transferred to another"
+    ],
+    "speech": "adjective",
+    "sentence": "inalienable right a right that cannot be given away"
+  },
+  {
+    "name": "incompatible",
+    "trans": [
+      "不兼容的， 不能和谐共存的， 不协调的， 合不来的"
+    ],
+    "usphone": ",ɪnkəm'pætəbl",
+    "ukphone": "ˌɪnkəm'pætəbl",
+    "e_mean": [
+      "not in harmonious or agreeable combination"
+    ],
+    "speech": "adjective",
+    "sentence": "the incompatibles of iron"
+  },
+  {
+    "name": "vulgar",
+    "trans": [
+      "庸俗的， 粗俗的， 下流的， 缺乏教养的； 大众的， 通俗的"
+    ],
+    "usphone": "'vʌlɡɚ",
+    "ukphone": "'vʌlgə(r)",
+    "e_mean": [
+      "of or associated with the great masses of people"
+    ],
+    "speech": "adjective",
+    "sentence": "The construction worker made a vulgar suggestion to the girls walking down the street."
+  },
+  {
+    "name": "forthcoming",
+    "trans": [
+      "即将到来的"
+    ],
+    "usphone": ",fɔrθ'kʌmɪŋ",
+    "ukphone": "ˌfɔːθ'kʌmɪŋ",
+    "e_mean": [
+      "easygoing and open when speaking or sharing information"
+    ],
+    "speech": "adjective",
+    "sentence": "I shall vote in the forthcoming election."
+  },
+  {
+    "name": "scrupulous",
+    "trans": [
+      "多顾虑的， 谨慎的； 一丝不苟的， 严谨的"
+    ],
+    "usphone": "'skrupjələs",
+    "ukphone": "'skruːpjələs",
+    "e_mean": [
+      "characterized by extreme care and great effort"
+    ],
+    "speech": "adjective",
+    "sentence": "He is scrupulous in his finances."
+  },
+  {
+    "name": "paramount",
+    "trans": [
+      "最重要的，决定性的",
+      "最高统治者"
+    ],
+    "usphone": "'pærəmaʊnt",
+    "ukphone": "'pærəmaunt",
+    "e_mean": [
+      "more important than anything else; supreme"
+    ],
+    "speech": "adjective",
+    "sentence": "Getting those credit cards paid off is paramount."
+  },
+  {
+    "name": "acceptable",
+    "trans": [
+      "可接受的"
+    ],
+    "usphone": "ək'sɛptəbl",
+    "ukphone": "ək'septəbl",
+    "e_mean": [
+      "worthy of approval or satisfactory"
+    ],
+    "speech": "adjective",
+    "sentence": "We need to find an acceptable present for Jeff."
+  },
+  {
+    "name": "optional",
+    "trans": [
+      "可选择的， 非强制的， 随意的"
+    ],
+    "usphone": "'ɑpʃənl",
+    "ukphone": "'ɒpʃənl",
+    "e_mean": [
+      "possible but not necessary; left to personal choice"
+    ],
+    "speech": "adjective",
+    "sentence": "On that beach clothing is entirely optional."
+  },
+  {
+    "name": "feeble",
+    "trans": [
+      "虚弱的； 无效的"
+    ],
+    "usphone": "'fibl",
+    "ukphone": "'fiːbl",
+    "e_mean": [
+      "pathetically lacking in force or effectiveness"
+    ],
+    "speech": "adjective",
+    "sentence": "Though she appeared old and feeble, she could still throw a ball."
+  },
+  {
+    "name": "criminal",
+    "trans": [
+      "犯罪的；刑事的",
+      "罪犯"
+    ],
+    "usphone": "'krɪmɪnl",
+    "ukphone": "'krɪmɪnl",
+    "e_mean": [
+      "someone who has committed a punishable act"
+    ],
+    "speech": "noun",
+    "sentence": "His long criminal record suggests that he is a dangerous man."
+  },
+  {
+    "name": "curious",
+    "trans": [
+      "好奇的； 奇怪的"
+    ],
+    "usphone": "'kjʊrɪəs",
+    "ukphone": "'kjuəriəs",
+    "e_mean": [
+      "eager to investigate and learn or learn more"
+    ],
+    "speech": "adjective",
+    "sentence": "Young children are naturally curious about the world and everything in it."
+  },
+  {
+    "name": "realistic",
+    "trans": [
+      "现实的， 实际的； 恰如其分的； 逼真的"
+    ],
+    "usphone": ",riə'lɪstɪk",
+    "ukphone": "ˌrɪə'lɪstɪk;ˌriːə'lɪstɪk",
+    "e_mean": [
+      "aware or expressing awareness of things as they are"
+    ],
+    "speech": "adjective",
+    "sentence": "A realistic appraisal of the situation."
+  },
+  {
+    "name": "magic",
+    "trans": [
+      "有魔力的， 神奇的",
+      "魔法，法术；魅力，魔力"
+    ],
+    "usphone": "'mædʒɪk",
+    "ukphone": "'mædʒɪk",
+    "e_mean": [
+      "any art that invokes supernatural powers"
+    ],
+    "speech": "noun",
+    "sentence": "a magic moment"
+  },
+  {
+    "name": "ulterior",
+    "trans": [
+      "较远的； 不可告人的， 隐秘的， 秘密的"
+    ],
+    "usphone": "ʌl'tɪrɪɚ",
+    "ukphone": "ʌl'tɪəriə(r)",
+    "e_mean": [
+      "lying beyond what is openly revealed or avowed"
+    ],
+    "speech": "adjective",
+    "sentence": "an ulterior action"
+  },
+  {
+    "name": "industrious",
+    "trans": [
+      "勤奋的， 勤勉的， 勤劳的"
+    ],
+    "usphone": "ɪn'dʌstrɪəs",
+    "ukphone": "ɪn'dʌstriəs",
+    "e_mean": [
+      "characterized by hard work and perseverance"
+    ],
+    "speech": "adjective",
+    "sentence": "I was very industrious in my effort to learn unicycle riding."
+  },
+  {
+    "name": "emphasize",
+    "trans": [
+      "强调， 着重"
+    ],
+    "usphone": "'ɛmfəsaɪz",
+    "ukphone": "'emfəsaɪz",
+    "e_mean": [
+      "stress or single out as important"
+    ],
+    "speech": "verb",
+    "sentence": "His two-fingered gesture emphasized what he had told his boss to do with his job."
+  },
+  {
+    "name": "brief",
+    "trans": [
+      "短时间的，短暂的；简短的，"
+    ],
+    "usphone": "brif",
+    "ukphone": "briːf",
+    "e_mean": [
+      "of short duration or distance"
+    ],
+    "speech": "adjective",
+    "sentence": "We got a news brief."
+  },
+  {
+    "name": "conceptual",
+    "trans": [
+      "观念的， 概念的"
+    ],
+    "usphone": "kən'sɛptʃʊəl",
+    "ukphone": "kən'septʃʊəl",
+    "e_mean": [
+      "being or characterized by ideas or their formation"
+    ],
+    "speech": "adjective",
+    "sentence": "We defined a conceptual model before designing the real thing."
+  },
+  {
+    "name": "eternal",
+    "trans": [
+      "永恒的"
+    ],
+    "usphone": "ɪ'tɝnl",
+    "ukphone": "ɪ'tɜːnl",
+    "e_mean": [
+      "continuing forever or indefinitely"
+    ],
+    "speech": "adjective",
+    "sentence": "some eternal villain"
+  },
+  {
+    "name": "barely",
+    "trans": [
+      "仅仅， 几乎不； 赤裸裸地， 无遮蔽地"
+    ],
+    "usphone": "'bɛrli",
+    "ukphone": "'beəli",
+    "e_mean": [
+      "in a sparse or scanty way"
+    ],
+    "speech": "adverb",
+    "sentence": "The plane is so far away now I can barely see it."
+  },
+  {
+    "name": "compact",
+    "trans": [
+      "紧密的，结实的；简明的；紧凑的",
+      "使紧凑， 压缩"
+    ],
+    "usphone": "'kɑmpækt",
+    "ukphone": "kəm'pækt",
+    "e_mean": [
+      "closely and firmly united or packed together"
+    ],
+    "speech": "adjective",
+    "sentence": "a compact laptop computer"
+  },
+  {
+    "name": "formal",
+    "trans": [
+      "正式的； 正规的"
+    ],
+    "usphone": "'fɔrml",
+    "ukphone": "'fɔːml",
+    "e_mean": [
+      "in accord with established conventions and requirements "
+    ],
+    "speech": "adjective",
+    "sentence": "Jenny took Sam to her Year 12 formal."
+  },
+  {
+    "name": "critical",
+    "trans": [
+      "批评的， 评论的； 危急的， 紧要的； 临界的； 挑剔的"
+    ],
+    "usphone": "'krɪtɪkl",
+    "ukphone": "'krɪtɪkl",
+    "e_mean": [
+      "of a serious examination and judgment of something"
+    ],
+    "speech": "adjective",
+    "sentence": "A good teacher is fair but critical."
+  },
+  {
+    "name": "herbal",
+    "trans": [
+      "草本植物的；药草的",
+      "草本植物志； 药草书"
+    ],
+    "usphone": "'ɝbl",
+    "ukphone": "'hɜːbəl",
+    "e_mean": [
+      "of or relating to herbs"
+    ],
+    "speech": "adjective",
+    "sentence": "Herbal tea has a nice aroma and is good for a stuffy head."
+  },
+  {
+    "name": "ambiguous",
+    "trans": [
+      "含糊其辞的； 不明确的， 模棱两可的"
+    ],
+    "usphone": "æm'bɪɡjuəs",
+    "ukphone": "æm'bɪgjʊəs",
+    "e_mean": [
+      "having more than one possible meaning"
+    ],
+    "speech": "adjective",
+    "sentence": "The politician was criticized for his ambiguous statements and lack of precision."
+  },
+  {
+    "name": "distinctive",
+    "trans": [
+      "出众的； 有特色的"
+    ],
+    "usphone": "dɪ'stɪŋktɪv",
+    "ukphone": "dɪ'stɪŋktɪv",
+    "e_mean": [
+      "of a feature that helps to identify a person or thing"
+    ],
+    "speech": "adjective",
+    "sentence": "a product in distinctive packaging"
+  },
+  {
+    "name": "relax",
+    "trans": [
+      "放松"
+    ],
+    "usphone": "rɪ'læks",
+    "ukphone": "rɪ'læks",
+    "e_mean": [
+      "make less taut"
+    ],
+    "speech": "verb",
+    "sentence": "to relax a rope or cord"
+  },
+  {
+    "name": "invalid",
+    "trans": [
+      "无效的，作废的；无可靠根据的，站不住脚的；有病的，伤残的['ɪnvælɪd]",
+      "病弱者， 残疾者"
+    ],
+    "usphone": "ˈɪnvəlɪd；ɪnˈvælɪd",
+    "ukphone": "ɪn'vælɪd",
+    "e_mean": [
+      "no longer legally acceptable"
+    ],
+    "speech": "adjective",
+    "sentence": "This invalid contract cannot be legally enforced."
+  },
+  {
+    "name": "synchronise",
+    "trans": [
+      "同步发生， 同速进行"
+    ],
+    "usphone": "'sɪŋkrəˌnaɪz",
+    "ukphone": "'sɪŋkrənaɪz",
+    "e_mean": [
+      "happen at the same time"
+    ],
+    "speech": "verb",
+    "sentence": "We synchronized our watches and agreed to meet at four o'clock precisely."
+  },
+  {
+    "name": "marvellous",
+    "trans": [
+      "令人惊奇的； 奇特的， 非凡的； 奇迹般的， 不可思议的； 绝妙的"
+    ],
+    "usphone": "'mɑrvələs",
+    "ukphone": "'mɑːvələs",
+    "e_mean": [
+      "extraordinarily good or great "
+    ],
+    "speech": "adjective",
+    "sentence": "I went to a marvellous party last week."
+  },
+  {
+    "name": "comparable",
+    "trans": [
+      "可比较的， 类似的； 比得上的"
+    ],
+    "usphone": "'kɑmpərəbl",
+    "ukphone": "'kɒmpərəbl",
+    "e_mean": [
+      "able to be described as similar"
+    ],
+    "speech": "adjective",
+    "sentence": "An elephant is comparable in size to a double-decker bus."
+  },
+  {
+    "name": "continuous",
+    "trans": [
+      "连续的， 不断的"
+    ],
+    "usphone": "kən'tɪnjʊəs",
+    "ukphone": "kən'tɪnjuəs",
+    "e_mean": [
+      "moving in time or space without interruption"
+    ],
+    "speech": "adjective",
+    "sentence": "a continuous current of electricity"
+  },
+  {
+    "name": "ideal",
+    "trans": [
+      "理想的，完美的；理想主义的；空想的；唯心的",
+      "理想； 理想的东西"
+    ],
+    "usphone": "aɪ'diəl",
+    "ukphone": "aɪ'diːəl",
+    "e_mean": [
+      "a principle or value that one hopes to attain or conform to"
+    ],
+    "speech": "noun",
+    "sentence": "the ideal theory or philosophy"
+  },
+  {
+    "name": "authentic",
+    "trans": [
+      "真品的， 真迹的； 真正的， 真实的， 逼真的"
+    ],
+    "usphone": "ɔ'θɛntɪk",
+    "ukphone": "ɔː'θentɪk",
+    "e_mean": [
+      "not counterfeit or copied"
+    ],
+    "speech": "adjective",
+    "sentence": "The experts confirmed it was an authentic signature."
+  },
+  {
+    "name": "limited",
+    "trans": [
+      "有限的"
+    ],
+    "usphone": "'lɪmɪtɪd",
+    "ukphone": "'lɪmɪtɪd",
+    "e_mean": [
+      "subject to restrictions or constraints"
+    ],
+    "speech": "adjective",
+    "sentence": "I'm limiting myself to two drinks tonight."
+  },
+  {
+    "name": "aware",
+    "trans": [
+      "知道的； 意识到的"
+    ],
+    "usphone": "ə'wɛr",
+    "ukphone": "ə'weə(r)",
+    "e_mean": [
+      " having or showing knowledge or understanding or realization"
+    ],
+    "speech": "adjective",
+    "sentence": "Stay aware! Don't let your guard down."
+  },
+  {
+    "name": "stout",
+    "trans": [
+      "发胖的， 肥胖的， 强壮的； 结实的， 牢固的； 顽强的， 坚毅的"
+    ],
+    "usphone": "staʊt",
+    "ukphone": "staut",
+    "e_mean": [
+      "having rugged physical strength"
+    ],
+    "speech": "adjective",
+    "sentence": "Stout is darker, stronger and sweeter than porter beer."
+  },
+  {
+    "name": "furious",
+    "trans": [
+      "狂怒的； 激烈的"
+    ],
+    "usphone": "'fjʊrɪəs",
+    "ukphone": "'fjuəriəs",
+    "e_mean": [
+      "marked by extreme anger"
+    ],
+    "speech": "adjective",
+    "sentence": "a furious animal; parent furious at their child's behaviour"
+  },
+  {
+    "name": "tremendous",
+    "trans": [
+      "极大的， 巨大的； 非常的， 惊人的"
+    ],
+    "usphone": "trə'mɛndəs",
+    "ukphone": "trə'mendəs",
+    "e_mean": [
+      "extraordinarily large in extent or amount or power"
+    ],
+    "speech": "adjective",
+    "sentence": "Van Beethoven's ninth symphony is a tremendous piece of music."
+  },
+  {
+    "name": "brazen",
+    "trans": [
+      "黄铜制的， 黄铜色的； 厚颜无耻的"
+    ],
+    "usphone": "ˈbreɪzən",
+    "ukphone": "'breɪzn",
+    "e_mean": [
+      "unrestrained by convention or propriety"
+    ],
+    "speech": "adjective",
+    "sentence": "She was brazen enough to deny stealing the handbag even though she was caught on closed-circuit television doing so."
+  },
+  {
+    "name": "irrational",
+    "trans": [
+      "不合理的，不合逻辑的，荒谬的",
+      "无理数"
+    ],
+    "usphone": "ɪ'ræʃənl",
+    "ukphone": "ɪ'ræʃənl",
+    "e_mean": [
+      "not consistent with or using reason"
+    ],
+    "speech": "adjective",
+    "sentence": "an irrational decision"
+  },
+  {
+    "name": "picturesque",
+    "trans": [
+      "美丽如画的； 生动的"
+    ],
+    "usphone": ",pɪktʃə'rɛsk",
+    "ukphone": "ˌpɪktʃə'resk",
+    "e_mean": [
+      "suggesting or suitable for an artistic composition"
+    ],
+    "speech": "adjective",
+    "sentence": "picturesque language"
+  },
+  {
+    "name": "glacial",
+    "trans": [
+      "冰期的； 冰川的； 寒冷的， 冰冷的； 冷若冰霜的"
+    ],
+    "usphone": "'ɡleʃl",
+    "ukphone": "'gleɪʃl",
+    "e_mean": [
+      "relating to or derived from a slowly moving mass of ice"
+    ],
+    "speech": "adjective",
+    "sentence": "Wang Shijin is a glacier expert and director of the Yulong Snow Mountain Glacial and Environmental Observation Research Station."
+  },
+  {
+    "name": "spasmodic",
+    "trans": [
+      "痉挛的； 间歇性的"
+    ],
+    "usphone": "spæz'mɑdɪk",
+    "ukphone": "spæz'mɒdɪk",
+    "e_mean": [
+      "occurring in spells and often abruptly"
+    ],
+    "speech": "adjective",
+    "sentence": "spasmodic asthma"
+  },
+  {
+    "name": "sympathetic",
+    "trans": [
+      "同情的， 体谅的； 赞同的， 支持的； 和谐的"
+    ],
+    "usphone": ",sɪmpə'θɛtɪk",
+    "ukphone": "ˌsɪmpə'θetɪk",
+    "e_mean": [
+      "expressing compassion or friendly fellow feelings"
+    ],
+    "speech": "adjective",
+    "sentence": "John looked very upset. I gave him a sympathetic look."
+  },
+  {
+    "name": "insignificant",
+    "trans": [
+      "无关紧要的， 无意义的"
+    ],
+    "usphone": ",ɪnsɪɡ'nɪfɪkənt",
+    "ukphone": "ˌɪnsɪg'nɪfɪkənt",
+    "e_mean": [
+      "conveying nothing"
+    ],
+    "speech": "adjective",
+    "sentence": "Such things are insignificant details compared to the main goal."
+  },
+  {
+    "name": "pervasive",
+    "trans": [
+      "遍布的， 弥漫的"
+    ],
+    "usphone": "pɚ'vesɪv",
+    "ukphone": ",pə'veɪsɪv",
+    "e_mean": [
+      "spreading or spread throughout"
+    ],
+    "speech": "adjective",
+    "sentence": "The medication had a pervasive effect on the patient's health."
+  },
+  {
+    "name": "intact",
+    "trans": [
+      "完整无缺的； 完好无损的"
+    ],
+    "usphone": "ɪn'tækt",
+    "ukphone": "ɪn'tækt",
+    "e_mean": [
+      "undamaged in any way"
+    ],
+    "speech": "adjective",
+    "sentence": "I packed my belongings carefully so that they would survive the move intact."
+  },
+  {
+    "name": "comparative",
+    "trans": [
+      "比较的； 相当的"
+    ],
+    "usphone": "kəm'pærətɪv",
+    "ukphone": "kəm'pærətɪv",
+    "e_mean": [
+      "involving the examination of similarities and differences"
+    ],
+    "speech": "adjective",
+    "sentence": "comparative anatomy"
+  },
+  {
+    "name": "normal",
+    "trans": [
+      "正常的， 平常的； 标准的， 规范的， 正规的"
+    ],
+    "usphone": "'nɔrml",
+    "ukphone": "'nɔːml",
+    "e_mean": [
+      "being approximately average or within certain limits"
+    ],
+    "speech": "adjective",
+    "sentence": "Heavy workload is the new normal."
+  },
+  {
+    "name": "extreme",
+    "trans": [
+      "极度的；最后的",
+      "极端， 过分"
+    ],
+    "usphone": "ɪk'strim",
+    "ukphone": "ɪk'striːm",
+    "e_mean": [
+      "of the greatest possible degree, extent, or intensity"
+    ],
+    "speech": "adjective",
+    "sentence": "extremes of temperature"
+  },
+  {
+    "name": "dynamic",
+    "trans": [
+      "动力的； 活跃的， 充满活力的， 精力充沛的"
+    ],
+    "usphone": "daɪ'næmɪk",
+    "ukphone": "daɪ'næmɪk",
+    "e_mean": [
+      "an efficient incentive"
+    ],
+    "speech": "noun",
+    "sentence": "Watch the dynamic between the husband and wife when they disagree."
+  },
+  {
+    "name": "vast",
+    "trans": [
+      "巨大的； 大量的"
+    ],
+    "usphone": "væst",
+    "ukphone": "vɑːst",
+    "e_mean": [
+      "unusually great in size or amount or extent or scope"
+    ],
+    "speech": "adjective",
+    "sentence": "The Sahara desert is vast."
+  },
+  {
+    "name": "neoclassical",
+    "trans": [
+      "新古典主义的"
+    ],
+    "usphone": ",nio'klæsɪkl",
+    "ukphone": "ˌniːəu'klæsɪkl",
+    "e_mean": [
+      "relating to a revival of ancient Greek and Roman styles"
+    ],
+    "speech": "adjective",
+    "sentence": "The English word \"psychopathy\" is a neoclassical compound from Ancient Greek roots."
+  },
+  {
+    "name": "discerning",
+    "trans": [
+      "有识别力的， 眼光敏锐的"
+    ],
+    "usphone": "dɪ'sɝnɪŋ",
+    "ukphone": "dɪ'sɜːnɪŋ",
+    "e_mean": [
+      "having or revealing keen insight and good judgment"
+    ],
+    "speech": "adjective",
+    "sentence": "He was too young to discern right from wrong."
+  },
+  {
+    "name": "sizeable",
+    "trans": [
+      "相当大的"
+    ],
+    "usphone": "'saɪzəbl",
+    "ukphone": "'saɪzəbl",
+    "e_mean": [
+      "fairly large"
+    ],
+    "speech": "adjective",
+    "sentence": "He gave a sizable cash donation, sizable enough that the IRS wondered where all that money came from."
+  },
+  {
+    "name": "offensive",
+    "trans": [
+      "冒犯的；使人不快的；无礼的；攻击性的，进攻性的",
+      "进攻， 攻击； 攻势"
+    ],
+    "usphone": "ə'fɛnsɪv",
+    "ukphone": "ə'fensɪv",
+    "e_mean": [
+      "unpleasant or disgusting especially to the senses"
+    ],
+    "speech": "adjective",
+    "sentence": "The Marines today launched a major offensive."
+  },
+  {
+    "name": "primitive",
+    "trans": [
+      "原始的，上古的；简单的，粗糙的",
+      "原始人； 原始事物"
+    ],
+    "usphone": "'prɪmətɪv",
+    "ukphone": "'prɪmətɪv",
+    "e_mean": [
+      "characteristic of an earlier ancestral type"
+    ],
+    "speech": "adjective",
+    "sentence": "primitive innocence; the primitive church"
+  },
+  {
+    "name": "altruistic",
+    "trans": [
+      "无私的， 为他人着想的"
+    ],
+    "usphone": ",æltrʊ'ɪstɪk",
+    "ukphone": "ˌæltru'ɪstɪk",
+    "e_mean": [
+      "showing unselfish concern for the welfare of others"
+    ],
+    "speech": "adjective",
+    "sentence": "His helping the old woman with her shopping was deemed highly altruistic by everyone, especially since her home was a mile away."
+  },
+  {
+    "name": "animate",
+    "trans": [
+      "活的， 有生命的",
+      "赋予生命； 使生机勃勃"
+    ],
+    "usphone": "'ænɪmet",
+    "ukphone": "'ænɪmeɪt",
+    "e_mean": [
+      "make lively"
+    ],
+    "speech": "verb",
+    "sentence": "If we animate the model, we can see the complexity of the action."
+  },
+  {
+    "name": "worthwhile",
+    "trans": [
+      "值得花费时间的， 值得做的"
+    ],
+    "usphone": "'wɝθ'waɪl",
+    "ukphone": "ˌwɜːθ'waɪl",
+    "e_mean": [
+      "sufficiently valuable to justify the investment of time"
+    ],
+    "speech": "adjective",
+    "sentence": "Doing volunteer work to help others is truly worthwhile."
+  },
+  {
+    "name": "level",
+    "trans": [
+      "平的，水平的；同高度的，同等程度的；平稳的；冷静的",
+      "变平坦",
+      "水平面，水平线；高度，水平；等级"
+    ],
+    "usphone": "'lɛvl",
+    "ukphone": "'levl",
+    "e_mean": [
+      "a relative position or degree of value in a graded group"
+    ],
+    "speech": "noun",
+    "sentence": "Hand me the level so I can tell if this is correctly installed."
+  },
+  {
+    "name": "relevant",
+    "trans": [
+      "有关的， 相应的； 适当的， 中肯的； 有重大意义的"
+    ],
+    "usphone": "'rɛləvənt",
+    "ukphone": "'reləvənt",
+    "e_mean": [
+      "having a bearing on or connection with the subject at issue"
+    ],
+    "speech": "adjective",
+    "sentence": "His mother provided some relevant background information concerning his medical condition."
+  },
+  {
+    "name": "incoming",
+    "trans": [
+      "进来的"
+    ],
+    "usphone": "'ɪnkʌmɪŋ",
+    "ukphone": "'ɪnkʌmɪŋ",
+    "e_mean": [
+      "arriving at a place or position"
+    ],
+    "speech": "adjective",
+    "sentence": "Incoming tides cause a tidal bore in many rivers."
+  },
+  {
+    "name": "discretion",
+    "trans": [
+      "判断力； 谨慎， 审慎； 明智"
+    ],
+    "usphone": "dɪ'skrɛʃən",
+    "ukphone": "dɪ'skreʃn",
+    "e_mean": [
+      "power of making choices unconstrained by external agencies"
+    ],
+    "speech": "noun",
+    "sentence": "Bob showed great discretion despite his knowledge of the affair."
+  },
+  {
+    "name": "constant",
+    "trans": [
+      "经常的，不断的；坚定的，永恒的，忠实的；持续的，不变的",
+      "常数， 恒量"
+    ],
+    "usphone": "'kɑnstənt",
+    "ukphone": "'kɒnstənt",
+    "e_mean": [
+      "uninterrupted in time and indefinitely long continuing"
+    ],
+    "speech": "adjective",
+    "sentence": "constant time constant space"
+  },
+  {
+    "name": "corporate",
+    "trans": [
+      "团体的， 共同的； 法人的， 公司的"
+    ],
+    "usphone": "ˈkɔːrpərət",
+    "ukphone": "'kɔːpərət",
+    "e_mean": [
+      "of or belonging to a business firm"
+    ],
+    "speech": "adjective",
+    "sentence": "McDonald's corporate issued a new policy today."
+  },
+  {
+    "name": "stereo",
+    "trans": [
+      "立体声的",
+      "立体声"
+    ],
+    "usphone": "'stɛrɪo",
+    "ukphone": "'steriəu",
+    "e_mean": [
+      "reproducer in which two microphones feed two or more loudspeakers to give a three-dimensional effect to the sound"
+    ],
+    "speech": "noun",
+    "sentence": "He liked to listen to classical music on his stereo."
+  },
+  {
+    "name": "mechanical",
+    "trans": [
+      "机械的， 机械制造的； 呆板的； 习惯性的； 体力的"
+    ],
+    "usphone": "mɪ'kænɪkəl",
+    "ukphone": "mə'kænɪkl",
+    "e_mean": [
+      "using tools or devices"
+    ],
+    "speech": "adjective",
+    "sentence": "mechanical engineering"
+  },
+  {
+    "name": "elusive",
+    "trans": [
+      "难懂的， 难捉摸的； 易忘的"
+    ],
+    "usphone": "ɪ'lusɪv",
+    "ukphone": "i'luːsɪv",
+    "e_mean": [
+      "skillful at evading capture"
+    ],
+    "speech": "adjective",
+    "sentence": "The elusive criminal was arrested"
+  },
+  {
+    "name": "comprehensive",
+    "trans": [
+      "全面的， 广泛的； 综合的； 包容的"
+    ],
+    "usphone": "ˌkɑːmprɪˈhensɪv",
+    "ukphone": "ˌkɒmprɪ'hensɪv",
+    "e_mean": [
+      "including all or everything"
+    ],
+    "speech": "adjective",
+    "sentence": "When there are diametrically opposing views on a big issue that concerns millions of people, doing comprehensive research just makes sense."
+  },
+  {
+    "name": "elaborate",
+    "trans": [
+      "详尽的；复杂的；精心制作的[ɪ'læbəreIt]",
+      "详述； 详细制定"
+    ],
+    "usphone": "ɪ'læbəret",
+    "ukphone": "ɪ'læbərət",
+    "e_mean": [
+      "marked by complexity and richness of detail"
+    ],
+    "speech": "adjective",
+    "sentence": "Could you elaborate on the plot for your novel for me?"
+  },
+  {
+    "name": "historic",
+    "trans": [
+      "有历史意义的； 历史的， 历史性的"
+    ],
+    "usphone": "hɪ'stɔrɪk",
+    "ukphone": "hɪ'stɒrɪk",
+    "e_mean": [
+      "belonging to the past"
+    ],
+    "speech": "adjective",
+    "sentence": "A historic opportunity"
+  },
+  {
+    "name": "humane",
+    "trans": [
+      "善良的， 人道的， 仁慈的， 慈悲的； 促进文明或教化的， 人文的"
+    ],
+    "usphone": "hju'men",
+    "ukphone": "hjuː'meɪn",
+    "e_mean": [
+      "marked by concern with the alleviation of suffering"
+    ],
+    "speech": "adjective",
+    "sentence": "To err is human; to forgive, divine."
+  },
+  {
+    "name": "disruptive",
+    "trans": [
+      "制造混乱的； 分裂性的； 破坏性的"
+    ],
+    "usphone": "dɪs'rʌptɪv",
+    "ukphone": "dɪs'rʌptɪv",
+    "e_mean": [
+      "characterized by unrest or disorder or insubordination"
+    ],
+    "speech": "adjective",
+    "sentence": "Children who exhibit disruptive behaviour may be expelled from school."
+  },
+  {
+    "name": "greatly",
+    "trans": [
+      "非常； 很； 极大地"
+    ],
+    "usphone": "'ɡretli",
+    "ukphone": "'greɪtli",
+    "e_mean": [
+      "to an extraordinary extent or degree"
+    ],
+    "speech": "adverb",
+    "sentence": "Expenses greatly exceeded revenues this year."
+  },
+  {
+    "name": "transient",
+    "trans": [
+      "短暂的，转瞬即逝的",
+      "在某地短暂停留或工作的人"
+    ],
+    "usphone": "ˈtrænʃnt; trænʃənt",
+    "ukphone": "'trænziənt",
+    "e_mean": [
+      "lasting a very short time"
+    ],
+    "speech": "adjective",
+    "sentence": "a transient pleasure"
+  },
+  {
+    "name": "perpetual",
+    "trans": [
+      "连续不断的； 长期的； 永久的"
+    ],
+    "usphone": "pɚ'pɛtʃuəl",
+    "ukphone": "pə'petʃʊəl",
+    "e_mean": [
+      "continuing forever or indefinitely"
+    ],
+    "speech": "adjective",
+    "sentence": "By means of artificial hybridization, practised for a series of years, he has succeeded in producing a race of carnations which are perpetual bloomers."
+  },
+  {
+    "name": "loath",
+    "trans": [
+      "不情愿的， 勉强的"
+    ],
+    "usphone": "loθ",
+    "ukphone": "ləuθ",
+    "e_mean": [
+      "strongly opposed"
+    ],
+    "speech": "adjective",
+    "sentence": "I was loath to return to the office without the Henderson file."
+  },
+  {
+    "name": "equivalent",
+    "trans": [
+      "相等的，等量的",
+      "相等物， 等价物"
+    ],
+    "usphone": "ɪ'kwɪvələnt",
+    "ukphone": "ɪ'kwɪvələnt",
+    "e_mean": [
+      "being essentially comparable to something"
+    ],
+    "speech": "adjective",
+    "sentence": "To burn calories, a thirty-minute jog is equivalent to a couple of hamburgers."
+  },
+  {
+    "name": "occasional",
+    "trans": [
+      "偶尔的， 间或发生的"
+    ],
+    "usphone": "ə'keʒənl",
+    "ukphone": "ə'keɪʒənl",
+    "e_mean": [
+      "occurring from time to time"
+    ],
+    "speech": "adjective",
+    "sentence": "He took an occasional glass of wine."
+  },
+  {
+    "name": "thoughtful",
+    "trans": [
+      "沉思的； 体贴的"
+    ],
+    "usphone": "'θɔtfl",
+    "ukphone": "'θɔːtfl",
+    "e_mean": [
+      "exhibiting or characterized by careful consideration"
+    ],
+    "speech": "adjective",
+    "sentence": "Most thoughtful people eventually solve the puzzle."
+  },
+  {
+    "name": "inspiring",
+    "trans": [
+      "鼓舞人心的； 启发灵感的"
+    ],
+    "usphone": "ɪn'spaɪərɪŋ",
+    "ukphone": "ɪn'spaɪərɪŋ",
+    "e_mean": [
+      "stimulating or exalting to the spirit"
+    ],
+    "speech": "adjective",
+    "sentence": "Elders should inspire children with sentiments of virtue."
+  },
+  {
+    "name": "notion",
+    "trans": [
+      "概念， 观念； 想法"
+    ],
+    "usphone": "'noʃən",
+    "ukphone": "'nəuʃn",
+    "e_mean": [
+      "a general inclusive concept"
+    ],
+    "speech": "noun",
+    "sentence": "Yankee notions"
+  },
+  {
+    "name": "dull",
+    "trans": [
+      "乏味的； 阴沉的"
+    ],
+    "usphone": "dʌl",
+    "ukphone": "dʌl",
+    "e_mean": [
+      "so lacking in interest as to cause mental weariness"
+    ],
+    "speech": "adjective",
+    "sentence": "Years of misuse have dulled the tools."
+  },
+  {
+    "name": "blunt",
+    "trans": [
+      "钝的；率直的",
+      "把…弄钝； 使减弱"
+    ],
+    "usphone": "blʌnt",
+    "ukphone": "blʌnt",
+    "e_mean": [
+      "not sharp (used of a knife or other blade)"
+    ],
+    "speech": "adjective",
+    "sentence": "2005: to make his point, lead rapper B-Real fired up a blunt in front of the cameras and several hundred thousand people and announced, “I'm taking a hit for every one of y'all!” — Martin Torgoff, Can't Find My Way Home (Simon & Schuster 2005, p. 461)"
+  },
+  {
+    "name": "turbid",
+    "trans": [
+      "混浊的； 紊乱的"
+    ],
+    "usphone": "'tɝbɪd",
+    "ukphone": "'tɜːbɪd",
+    "e_mean": [
+      "clouded as with sediment"
+    ],
+    "speech": "adjective",
+    "sentence": "turbid water"
+  },
+  {
+    "name": "tender",
+    "trans": [
+      "嫩的； 脆弱的； 温柔的"
+    ],
+    "usphone": "'tɛndɚ",
+    "ukphone": "'tendə(r)",
+    "e_mean": [
+      "easy to cut or chew"
+    ],
+    "speech": "adjective",
+    "sentence": "tender plants; tender flesh; tender fruit"
+  },
+  {
+    "name": "partial",
+    "trans": [
+      "部分的， 不完全的； 偏爱的， 癖好的； 偏向一方的， 偏心的"
+    ],
+    "usphone": "'pɑrʃəl",
+    "ukphone": "'pɑːʃl",
+    "e_mean": [
+      "being or affecting only a segment"
+    ],
+    "speech": "adjective",
+    "sentence": "So far, I have only pieced together a partial account of the incident."
+  },
+  {
+    "name": "likelihood",
+    "trans": [
+      "可能； 可能性"
+    ],
+    "usphone": "'laɪklɪhʊd",
+    "ukphone": "'laɪklihud",
+    "e_mean": [
+      "the probability of a specified outcome"
+    ],
+    "speech": "noun",
+    "sentence": "In all likelihood the meeting will be cancelled."
+  },
+  {
+    "name": "casual",
+    "trans": [
+      "偶然的， 碰巧的， 不经意的； 临时的， 非正式的"
+    ],
+    "usphone": "'kæʒʊəl",
+    "ukphone": "'kæʒʊəl",
+    "e_mean": [
+      "without or seeming to be without plan or method; offhand"
+    ],
+    "speech": "adjective",
+    "sentence": "The devs dumbed the game down so the casuals could enjoy it."
+  },
+  {
+    "name": "incongruous",
+    "trans": [
+      "不协调的， 不一致的； 不适宜的"
+    ],
+    "usphone": "ɪn'kɑŋɡruəs",
+    "ukphone": "ɪn'kɒŋgrʊəs",
+    "e_mean": [
+      "lacking in harmony or compatibility or appropriateness"
+    ],
+    "speech": "adjective",
+    "sentence": "20 and 25 are incongruous with respect to 4."
+  },
+  {
+    "name": "faulty",
+    "trans": [
+      "有错误的， 有缺点的； 不完美的"
+    ],
+    "usphone": "'fɔlti",
+    "ukphone": "'fɔːlti",
+    "e_mean": [
+      "having a defect"
+    ],
+    "speech": "adjective",
+    "sentence": "I don't think you can infer that from the premise. It's a faulty argument."
+  },
+  {
+    "name": "slouch",
+    "trans": [
+      "懒散地站； 低头垂肩地站"
+    ],
+    "usphone": "slaʊtʃ",
+    "ukphone": "slautʃ",
+    "e_mean": [
+      "assume a drooping posture or carriage"
+    ],
+    "speech": "verb",
+    "sentence": "He sat with an unenthusiastic slouch."
+  },
+  {
+    "name": "incendiary",
+    "trans": [
+      "放火的， 能引起燃烧的； 煽动性的"
+    ],
+    "usphone": "ɪn'sɛndɪɛri",
+    "ukphone": "ɪn'sendɪəri",
+    "e_mean": [
+      "capable of causing fires or catching fire spontaneously"
+    ],
+    "speech": "adjective",
+    "sentence": "The military used incendiaries to destroy the building. Fortunately, the fire didn't spread."
+  },
+  {
+    "name": "insecure",
+    "trans": [
+      "不安全的， 不可靠的"
+    ],
+    "usphone": ",ɪnsɪ'kjʊr",
+    "ukphone": "ˌɪnsɪ'kjuə(r)",
+    "e_mean": [
+      "lacking in safety"
+    ],
+    "speech": "adjective",
+    "sentence": "He's a nice guy and all, but seems to be rather insecure around other people."
+  },
+  {
+    "name": "unanimous",
+    "trans": [
+      "一致同意的； 一致通过的"
+    ],
+    "usphone": "jʊ'nænəməs",
+    "ukphone": "ju'nænɪməs",
+    "e_mean": [
+      "in complete agreement"
+    ],
+    "speech": "adjective",
+    "sentence": "The debate went on for hours, but in the end the decision was unanimous."
+  },
+  {
+    "name": "virtually",
+    "trans": [
+      "几乎， 差不多； 实际上， 事实上"
+    ],
+    "usphone": "ˈvɜrtʃuəli",
+    "ukphone": "'vɜːtʃʊəli",
+    "e_mean": [
+      "in essence or in effect but not in fact"
+    ],
+    "speech": "adverb",
+    "sentence": "With our medicare supplemental insurance plan, there are virtually no claim forms to fill out. (Advertisement)"
+  },
+  {
+    "name": "stringent",
+    "trans": [
+      "严格的， 苛刻的； 紧缩的， 短缺的， 银根紧的； 迫切的"
+    ],
+    "usphone": "'strɪndʒənt",
+    "ukphone": "'strɪndʒənt",
+    "e_mean": [
+      "demanding strict attention to rules and procedures"
+    ],
+    "speech": "adjective",
+    "sentence": "They have stringent quality requirements outlining what is acceptable."
+  },
+  {
+    "name": "compatible",
+    "trans": [
+      "兼容的； 合得来的"
+    ],
+    "usphone": "kəm'pætəbl",
+    "ukphone": "kəm'pætəbl",
+    "e_mean": [
+      "able to exist and perform in harmonious combination"
+    ],
+    "speech": "adjective",
+    "sentence": "a computer company that sells IBM compatibles"
+  },
+  {
+    "name": "desirable",
+    "trans": [
+      "值得拥有的； 合意的； 可取的， 有利的"
+    ],
+    "usphone": "dɪ'zaɪərəbl",
+    "ukphone": "dɪ'zaɪərəbl",
+    "e_mean": [
+      "worth having or seeking or achieving"
+    ],
+    "speech": "adjective",
+    "sentence": "There are plenty of desirables on display in the window."
+  },
+  {
+    "name": "habitual",
+    "trans": [
+      "惯常的， 通常的"
+    ],
+    "usphone": "hə'bɪtʃuəl",
+    "ukphone": "hə'bɪtʃʊəl",
+    "e_mean": [
+      "commonly used or practiced"
+    ],
+    "speech": "adjective",
+    "sentence": "Her habitual lying was the reason for my mistrust."
+  },
+  {
+    "name": "excess",
+    "trans": [
+      "过量的， 额外的",
+      "超越；过量['ekses]"
+    ],
+    "usphone": "'ɛk'sɛs",
+    "ukphone": "ɪk'ses",
+    "e_mean": [
+      "the state of being more than full"
+    ],
+    "speech": "noun",
+    "sentence": "The excess of heavy water was given away to the neighbouring country."
+  },
+  {
+    "name": "retaliate",
+    "trans": [
+      "报复， 反击； 复仇"
+    ],
+    "usphone": "rɪ'tælɪ'et",
+    "ukphone": "rɪ'tælieɪt",
+    "e_mean": [
+      "make a counterattack and return like for like"
+    ],
+    "speech": "verb",
+    "sentence": "John insulted Peter to retaliate for Peter's acid remark earlier."
+  },
+  {
+    "name": "except",
+    "trans": [
+      "除…外",
+      "将…除外"
+    ],
+    "usphone": "ɪk'sɛpt",
+    "ukphone": "ɪk'sept",
+    "e_mean": [
+      "prevent from being included or considered or accepted"
+    ],
+    "speech": "verb",
+    "sentence": "to except to a witness or his testimony"
+  },
+  {
+    "name": "rude",
+    "trans": [
+      "粗鲁的； 粗糙的"
+    ],
+    "usphone": "rud",
+    "ukphone": "ruːd",
+    "e_mean": [
+      "belonging to an early stage of technical development"
+    ],
+    "speech": "adjective",
+    "sentence": "Karen broke up with Fred because he was often rude to her."
+  },
+  {
+    "name": "enthusiastic",
+    "trans": [
+      "热情的； 热心的"
+    ],
+    "usphone": "ɪn,θuzɪ'æstɪk",
+    "ukphone": "ɪnˌθjuːzi'æstɪk",
+    "e_mean": [
+      "having or showing great excitement and interest"
+    ],
+    "speech": "adjective",
+    "sentence": "an enthusiastic lover of art"
+  },
+  {
+    "name": "ignorant",
+    "trans": [
+      "无知的； 愚昧的"
+    ],
+    "usphone": "'ɪɡnərənt",
+    "ukphone": "'ɪgnərənt",
+    "e_mean": [
+      "uneducated in general; lacking knowledge or sophistication"
+    ],
+    "speech": "adjective",
+    "sentence": "His manner was at best off-hand, at worst totally ignorant."
+  },
+  {
+    "name": "regardless",
+    "trans": [
+      "不顾后果地； 无论如何"
+    ],
+    "usphone": "rɪ'ɡɑrdləs",
+    "ukphone": "rɪ'gɑːdləs",
+    "e_mean": [
+      "in spite of everything"
+    ],
+    "speech": "adverb",
+    "sentence": "Tatiana knew the meat had passed its expiry date, but she ate it regardless."
+  },
+  {
+    "name": "practically",
+    "trans": [
+      "几乎， 简直； 实际上"
+    ],
+    "usphone": "'præktɪkli",
+    "ukphone": "'præktɪkli",
+    "e_mean": [
+      "in a manner concerned with actual use"
+    ],
+    "speech": "adverb",
+    "sentence": "He was practically uneducated, barely able to read and write a simple sentence."
+  },
+  {
+    "name": "greasy",
+    "trans": [
+      "多脂的； 油滑的"
+    ],
+    "usphone": "'grisi",
+    "ukphone": "'griːsi;'griːzi",
+    "e_mean": [
+      "containing an unusual amount of fat or oil"
+    ],
+    "speech": "adjective",
+    "sentence": "a greasy mineral"
+  },
+  {
+    "name": "heartless",
+    "trans": [
+      "无情的， 狠心的； 无生气的， 没精打采的"
+    ],
+    "usphone": "'hɑrtləs",
+    "ukphone": "'hɑːtləs",
+    "e_mean": [
+      "lacking in feeling, pity, or kindness"
+    ],
+    "speech": "adjective",
+    "sentence": "His heartless actions and cold manner left her saddened and feeling alone."
+  },
+  {
+    "name": "prior",
+    "trans": [
+      "在前的， 优先的"
+    ],
+    "usphone": "'praɪɚ",
+    "ukphone": "'praɪə(r)",
+    "e_mean": [
+      "earlier in time"
+    ],
+    "speech": "adjective",
+    "sentence": "I had no prior knowledge you were coming."
+  },
+  {
+    "name": "bulge",
+    "trans": [
+      "膨胀； 凸出； 塞满"
+    ],
+    "usphone": "bʌldʒ",
+    "ukphone": "bʌldʒ",
+    "e_mean": [
+      "swell or protrude outwards"
+    ],
+    "speech": "verb",
+    "sentence": "a bulge in a wall"
+  },
+  {
+    "name": "integral",
+    "trans": [
+      "不可或缺的， 构成整体所必需的； 完整的， 完备的"
+    ],
+    "usphone": "'ɪntɪɡrəl",
+    "ukphone": "'ɪntɪgrəl",
+    "e_mean": [
+      "existing as an essential constituent or characteristic"
+    ],
+    "speech": "adjective",
+    "sentence": "The integral of x\\mapsto x^2 on [0,1] is \\frac{1}{3}."
+  },
+  {
+    "name": "prime",
+    "trans": [
+      "首要的； 最好的"
+    ],
+    "usphone": "praɪm",
+    "ukphone": "praɪm",
+    "e_mean": [
+      "of or relating to the first or originating agent"
+    ],
+    "speech": "adjective",
+    "sentence": "3 is a prime."
+  },
+  {
+    "name": "predictable",
+    "trans": [
+      "可预言的， 可预报的； 按老一套办事的， 墨守成规的"
+    ],
+    "usphone": "prɪ'dɪktəbl",
+    "ukphone": "prɪ'dɪktəbl",
+    "e_mean": [
+      "capable of being foretold"
+    ],
+    "speech": "adjective",
+    "sentence": "a boring film with a predictable ending"
+  },
+  {
+    "name": "alternative",
+    "trans": [
+      "可供替代的；非传统的，"
+    ],
+    "usphone": "ɔl'tɝnətɪv",
+    "ukphone": "ɔːl'tɜːnətɪv",
+    "e_mean": [
+      "one of a number of things from which only one can be chosen"
+    ],
+    "speech": "noun",
+    "sentence": "an alternative proposition"
+  },
+  {
+    "name": "emphasis",
+    "trans": [
+      "强调； 重要性"
+    ],
+    "usphone": "'ɛmfəsɪs",
+    "ukphone": "'emfəsɪs",
+    "e_mean": [
+      "intensity or forcefulness of expression"
+    ],
+    "speech": "noun",
+    "sentence": "He paused for emphasis before saying who had won."
+  },
+  {
+    "name": "feasible",
+    "trans": [
+      "可行的， 可能的； 可做的， 可实行的"
+    ],
+    "usphone": "'fizəbl",
+    "ukphone": "'fiːzəbl",
+    "e_mean": [
+      "capable of being done with means at hand"
+    ],
+    "speech": "adjective",
+    "sentence": "His plan to rid Trafalgar Square of pigeons by bringing in peregrine falcons to eat them was dismissed as not feasible."
+  },
+  {
+    "name": "corporal",
+    "trans": [
+      "肉体的，身体的",
+      "下士"
+    ],
+    "usphone": "'kɔrpərəl",
+    "ukphone": "'kɔːpərəl",
+    "e_mean": [
+      "affecting the body as opposed to the mind or spirit"
+    ],
+    "speech": "adjective",
+    "sentence": "corporal punishment"
+  },
+  {
+    "name": "apparently",
+    "trans": [
+      "显然； 看来， 似乎"
+    ],
+    "usphone": "ə'pærəntli",
+    "ukphone": "ə'pærəntli",
+    "e_mean": [
+      "seemingly; as far as one can tell"
+    ],
+    "speech": "adverb",
+    "sentence": "A man may be apparently friendly, yet malicious in heart."
+  },
+  {
+    "name": "redevelopment",
+    "trans": [
+      "重新规划； 重新建设"
+    ],
+    "usphone": ",ridɪ'vɛləpmənt",
+    "ukphone": "ˌriːdɪ'veləpmənt",
+    "e_mean": [
+      "the act of improving by renewing and restoring"
+    ],
+    "speech": "noun",
+    "sentence": "the redevelopment of the hero's character in a comic book"
+  },
+  {
+    "name": "generic",
+    "trans": [
+      "一般的， 普通的， 通用的； 种的， 属的"
+    ],
+    "usphone": "dʒə'nɛrɪk",
+    "ukphone": "dʒə'nerɪk",
+    "e_mean": [
+      "relating to or applicable to an entire class or group"
+    ],
+    "speech": "adjective",
+    "sentence": "\"Shrimp\" is the generic name for a number of species of sea creature."
+  },
+  {
+    "name": "disposable",
+    "trans": [
+      "一次性的； 可动用的"
+    ],
+    "usphone": "dɪ'spozəbl",
+    "ukphone": "dɪ'spəuzəbl",
+    "e_mean": [
+      "an item that can be thrown away after it has been used"
+    ],
+    "speech": "noun",
+    "sentence": "Rather than purchase an expensive razor he bought a packet of cheap disposable ones."
+  },
+  {
+    "name": "courageous",
+    "trans": [
+      "勇敢的， 有胆量的"
+    ],
+    "usphone": "kə'redʒəs",
+    "ukphone": "kə'reɪdʒəs",
+    "e_mean": [
+      "able to face and deal with danger or fear without flinching"
+    ],
+    "speech": "adjective",
+    "sentence": "the most courageous person I have ever met"
+  },
+  {
+    "name": "venomous",
+    "trans": [
+      "有毒的； 分泌毒液的； 恶意的， 狠毒的"
+    ],
+    "usphone": "'vɛnəməs",
+    "ukphone": "'venəməs",
+    "e_mean": [
+      "extremely poisonous or injurious"
+    ],
+    "speech": "adjective",
+    "sentence": "The villain tricked him into drinking the venomous concoction."
+  },
+  {
+    "name": "insufficient",
+    "trans": [
+      "不足的， 不够的"
+    ],
+    "usphone": ",ɪnsə'fɪʃnt",
+    "ukphone": "ˌɪnsə'fɪʃnt",
+    "e_mean": [
+      "of a quantity not able to fulfill a need or requirement"
+    ],
+    "speech": "adjective",
+    "sentence": "Insufficient time is available to reflect on the problem"
+  },
+  {
+    "name": "intrinsic",
+    "trans": [
+      "固有的， 内在的； 本质的"
+    ],
+    "usphone": "ɪn'trɪnsɪk",
+    "ukphone": "ɪn'trɪnsɪk",
+    "e_mean": [
+      "belonging to a thing by its very nature"
+    ],
+    "speech": "adjective",
+    "sentence": "You can acquire the fire-resistance intrinsic by eating dragon meat."
+  },
+  {
+    "name": "guilty",
+    "trans": [
+      "内疚的； 有罪的"
+    ],
+    "usphone": "'ɡɪlti",
+    "ukphone": "'gɪlti",
+    "e_mean": [
+      "responsible for or chargeable with wrongdoing"
+    ],
+    "speech": "adjective",
+    "sentence": "He was guilty of cheating at cards."
+  },
+  {
+    "name": "proximity",
+    "trans": [
+      "接近， 邻近； 亲近"
+    ],
+    "usphone": "prɑk'sɪməti",
+    "ukphone": "prɒk'sɪməti",
+    "e_mean": [
+      "the property of being close together"
+    ],
+    "speech": "noun",
+    "sentence": "The proximity of the heat source allowed it to be detected by the sensor."
+  },
+  {
+    "name": "extra",
+    "trans": [
+      "额外地， 另外； 特别地",
+      "额外的；特别的"
+    ],
+    "usphone": "'ɛkstrə",
+    "ukphone": "'ekstrə",
+    "e_mean": [
+      "more than is needed, desired, or required"
+    ],
+    "speech": "adjective",
+    "sentence": "Extra, extra! Read all about it!"
+  },
+  {
+    "name": "onwards",
+    "trans": [
+      "向前地， 前进地"
+    ],
+    "usphone": "'ɑnwɚdz",
+    "ukphone": "'ɒnwədz",
+    "e_mean": [
+      "in a forward direction"
+    ],
+    "speech": "adverb",
+    "sentence": "There was an onward rush as the gates opened."
+  },
+  {
+    "name": "sensible",
+    "trans": [
+      "明智的； 合情理的； 能觉察到的"
+    ],
+    "usphone": "'sɛnsəbl",
+    "ukphone": "'sensəbl",
+    "e_mean": [
+      "able to feel or perceive"
+    ],
+    "speech": "adjective",
+    "sentence": "a sensible thermometer"
+  },
+  {
+    "name": "overweight",
+    "trans": [
+      "超重的，过重的",
+      "超重，过重",
+      "使负担过重"
+    ],
+    "usphone": "'ovə'wet",
+    "ukphone": "ˌəuvə'weɪt",
+    "e_mean": [
+      "usually describes a large person who is fat but has a large frame to carry it"
+    ],
+    "speech": "adjective",
+    "sentence": "Apple common stock is one of our overweights."
+  },
+  {
+    "name": "previous",
+    "trans": [
+      "以前的； 在…之前的； 早先的， 稍前的"
+    ],
+    "usphone": "'privɪəs",
+    "ukphone": "'priːviəs",
+    "e_mean": [
+      "just preceding something else in time or order"
+    ],
+    "speech": "adjective",
+    "sentence": "It turned out the shoplifter had a lot of previous."
+  },
+  {
+    "name": "reluctant",
+    "trans": [
+      "不情愿的， 勉强的； 难得到的， 难处理的"
+    ],
+    "usphone": "rɪ'lʌktənt",
+    "ukphone": "rɪ'lʌktənt",
+    "e_mean": [
+      "not eager"
+    ],
+    "speech": "adjective",
+    "sentence": "She was reluctant to lend him the money"
+  },
+  {
+    "name": "complete",
+    "trans": [
+      "彻底的；完成的；绝对的",
+      "完成； 结束"
+    ],
+    "usphone": "kəm'plit",
+    "ukphone": "kəm'pliːt",
+    "e_mean": [
+      "having all necessary qualities"
+    ],
+    "speech": "adjective",
+    "sentence": "He completed the assignment on time."
+  },
+  {
+    "name": "exuberant",
+    "trans": [
+      "繁茂的， 丰富的； 非凡的； 华而不实的"
+    ],
+    "usphone": "iɡ'zju:bərənt",
+    "ukphone": "ɪg'zjuːbərənt",
+    "e_mean": [
+      "joyously unrestrained"
+    ],
+    "speech": "adjective",
+    "sentence": "exuberant feeling"
+  },
+  {
+    "name": "brittle",
+    "trans": [
+      "易碎的， 易损坏的； 靠不住的； 冷淡的， 不友好的； 尖利的"
+    ],
+    "usphone": "'brɪtl",
+    "ukphone": "'brɪtl",
+    "e_mean": [
+      "having little elasticity"
+    ],
+    "speech": "adjective",
+    "sentence": "As a child, my favorite candy was peanut brittle."
+  },
+  {
+    "name": "unaware",
+    "trans": [
+      "未意识到的"
+    ],
+    "usphone": ",ʌnə'wɛr",
+    "ukphone": "ˌʌnə'weə(r)",
+    "e_mean": [
+      "not having or showing knowledge or understanding "
+    ],
+    "speech": "adjective",
+    "sentence": "I'm unaware of the answer to that question."
+  },
+  {
+    "name": "contrary",
+    "trans": [
+      "相反的",
+      "相反"
+    ],
+    "usphone": "'kɑntrɛri",
+    "ukphone": "'kɒntrəri",
+    "e_mean": [
+      "exact opposition"
+    ],
+    "speech": "noun",
+    "sentence": "contrary winds"
+  },
+  {
+    "name": "essential",
+    "trans": [
+      "本质的，基本的；必要的，必不可少的；极其重要的",
+      "要素； 实质， 本质； 要点"
+    ],
+    "usphone": "ɪ'sɛnʃl",
+    "ukphone": "ɪ'senʃl",
+    "e_mean": [
+      "basic and fundamental"
+    ],
+    "speech": "adjective",
+    "sentence": "Don’t mind him being grumpy. That’s the essential Fred."
+  },
+  {
+    "name": "apace",
+    "trans": [
+      "快速地， 急速地"
+    ],
+    "usphone": "ə'pes",
+    "ukphone": "ə'peɪs",
+    "e_mean": [
+      "rapidly; in a speedy manner"
+    ],
+    "speech": "adverb",
+    "sentence": "Construction of the new offices is proceeding apace."
+  },
+  {
+    "name": "intermediate",
+    "trans": [
+      "中间的， 中级的"
+    ],
+    "usphone": ",ɪntɚ'midɪət",
+    "ukphone": "ˌɪntə'miːdiət",
+    "e_mean": [
+      "lying between two extremes in time, space, or state"
+    ],
+    "speech": "adjective",
+    "sentence": "Central banks need to regulate the entities that intermediate monetary transactions."
+  },
+  {
+    "name": "consideration",
+    "trans": [
+      "考虑； 思考； 体谅"
+    ],
+    "usphone": "kən,sɪdə'reʃən",
+    "ukphone": "kənˌsɪdə'reɪʃn",
+    "e_mean": [
+      "the process of giving careful thought to something"
+    ],
+    "speech": "noun",
+    "sentence": "After much consideration, I have decided to stay."
+  },
+  {
+    "name": "inversion",
+    "trans": [
+      "倒置， 颠倒"
+    ],
+    "usphone": "ɪn'vɝʃən",
+    "ukphone": "ɪn'vɜːʃn",
+    "e_mean": [
+      "the act of turning inside out"
+    ],
+    "speech": "noun",
+    "sentence": "Inversion takes place in the sentence 'Is she here?' — 'is', the predicate, is before 'she', the subject."
+  },
+  {
+    "name": "necessarily",
+    "trans": [
+      "必要地； 必然地"
+    ],
+    "usphone": ",nɛsə'sɛrəli",
+    "ukphone": "'nesəsərəli; ˌnesə'serəli",
+    "e_mean": [
+      "in such a manner as could not be otherwise"
+    ],
+    "speech": "adverb",
+    "sentence": "It is not necessarily true that children get their morals from their parents."
+  },
+  {
+    "name": "keen",
+    "trans": [
+      "热衷的， 热心的， 渴望的； 敏锐的， 敏捷的； 激烈的， 紧张的； 锋利的"
+    ],
+    "usphone": "kin",
+    "ukphone": "kiːn",
+    "e_mean": [
+      "intense or sharp"
+    ],
+    "speech": "adjective",
+    "sentence": "I’m keen on computers."
+  },
+  {
+    "name": "probability",
+    "trans": [
+      "可能性； 概率"
+    ],
+    "usphone": "'prɑbə'bɪləti",
+    "ukphone": "ˌprɒbə'bɪləti",
+    "e_mean": [
+      "a measure of how likely it is that some event will occur"
+    ],
+    "speech": "noun",
+    "sentence": "The probability of an event A occurring is denoted P(A)."
+  },
+  {
+    "name": "superb",
+    "trans": [
+      "极好的； 高质量的"
+    ],
+    "usphone": "/suːˈpɜːrb/",
+    "ukphone": "sʊː'pɜːb",
+    "e_mean": [
+      "surpassingly good"
+    ],
+    "speech": "adjective",
+    "sentence": "This champagne is superb."
+  },
+  {
+    "name": "absolute",
+    "trans": [
+      "完全的， 绝对的， 纯粹的"
+    ],
+    "usphone": "'æbsəlut",
+    "ukphone": "'æbsəluːt",
+    "e_mean": [
+      "perfect or complete or pure"
+    ],
+    "speech": "adjective",
+    "sentence": "moral absolutes"
+  },
+  {
+    "name": "clumsy",
+    "trans": [
+      "笨拙的； 不得体的"
+    ],
+    "usphone": "'klʌmzi",
+    "ukphone": "'klʌmzi",
+    "e_mean": [
+      "lacking grace in movement or posture"
+    ],
+    "speech": "adjective",
+    "sentence": "He's very clumsy. I wouldn't trust him with carrying the dishes."
+  },
+  {
+    "name": "supportive",
+    "trans": [
+      "支持的， 支援的； 赞助的； 鼓励的； 同情的"
+    ],
+    "usphone": "sə'pɔrtɪv",
+    "ukphone": "sə'pɔːtɪv",
+    "e_mean": [
+      "furnishing assistance"
+    ],
+    "speech": "adjective",
+    "sentence": "I had a very supportive coach who helped me."
+  },
+  {
+    "name": "nasty",
+    "trans": [
+      "令人讨厌的； 不友好的， 恶意的， 下流的； 恶劣的"
+    ],
+    "usphone": "'næsti",
+    "ukphone": "'nɑːstɪ",
+    "e_mean": [
+      "offensive or even (of persons) malicious"
+    ],
+    "speech": "adjective",
+    "sentence": "Processed foods are full of aspartame and other nasties."
+  },
+  {
+    "name": "intense",
+    "trans": [
+      "强烈的， 剧烈的； 紧张的； 热情的， 热切的"
+    ],
+    "usphone": "ɪn'tɛns",
+    "ukphone": "ɪn'tens",
+    "e_mean": [
+      "possessing a distinctive feature to a heightened degree"
+    ],
+    "speech": "adjective",
+    "sentence": "intense study; intense thought"
+  },
+  {
+    "name": "thrifty",
+    "trans": [
+      "节俭的， 节约的"
+    ],
+    "usphone": "'θrɪfti",
+    "ukphone": "'θrɪfti",
+    "e_mean": [
+      "mindful of the future in spending money"
+    ],
+    "speech": "adjective",
+    "sentence": "a thrifty person"
+  },
+  {
+    "name": "desperate",
+    "trans": [
+      "绝望的； 拼命的， 不顾一切的； 极度渴望的； 危急的"
+    ],
+    "usphone": "'dɛspərət",
+    "ukphone": "'despərət",
+    "e_mean": [
+      "a person who is frightened and in need of help"
+    ],
+    "speech": "noun",
+    "sentence": "I hadn't eaten in two days and was desperate for food."
+  },
+  {
+    "name": "awful",
+    "trans": [
+      "糟糕的"
+    ],
+    "usphone": "'ɔfl",
+    "ukphone": "'ɔːfl",
+    "e_mean": [
+      "exceptionally bad or displeasing"
+    ],
+    "speech": "adjective",
+    "sentence": "My socks smell awful."
+  },
+  {
+    "name": "handy",
+    "trans": [
+      "方便的； 手边的； 手巧的"
+    ],
+    "usphone": "'hændi",
+    "ukphone": "'hændi",
+    "e_mean": [
+      "skillful at making things or doing manual tasks"
+    ],
+    "speech": "adjective",
+    "sentence": "Some people regard duct tape as a handy fix-all."
+  },
+  {
+    "name": "coarse",
+    "trans": [
+      "粗的； 粗糙的； 粗劣的"
+    ],
+    "usphone": "kɔrs",
+    "ukphone": "kɔːs",
+    "e_mean": [
+      "rough to the touch"
+    ],
+    "speech": "adjective",
+    "sentence": "coarse language"
+  },
+  {
+    "name": "hasty",
+    "trans": [
+      "草率的， 匆忙的"
+    ],
+    "usphone": "'hesti",
+    "ukphone": "'heɪsti",
+    "e_mean": [
+      "excessively quick"
+    ],
+    "speech": "adjective",
+    "sentence": "Without much thinking about it they made a hasty decision to buy it."
+  },
+  {
+    "name": "degenerate",
+    "trans": [
+      "退化[dɪ'dʒ3nərət]",
+      "退化的"
+    ],
+    "usphone": "dɪ'dʒɛnəret",
+    "ukphone": "dɪ'dʒ3nər3ɪt",
+    "e_mean": [
+      "a person whose behavior deviates from what is acceptable"
+    ],
+    "speech": "noun",
+    "sentence": "In the cult of degenerates, acts of decency, kindness and modesty could be seen as acts of apostasy."
+  },
+  {
+    "name": "preliminary",
+    "trans": [
+      "开端的，预备的，初步的"
+    ],
+    "usphone": "prɪ'lɪmɪnɛri",
+    "ukphone": "prɪ'lɪmɪnəri",
+    "e_mean": [
+      "preceding or in preparation for something more important"
+    ],
+    "speech": "adjective",
+    "sentence": "These are just the preliminary results."
+  },
+  {
+    "name": "dizzy",
+    "trans": [
+      "头晕目眩的， 眩晕的； 人头晕的"
+    ],
+    "usphone": "'dɪzi",
+    "ukphone": "'dɪzi",
+    "e_mean": [
+      "having or causing a whirling sensation; liable to falling"
+    ],
+    "speech": "adjective",
+    "sentence": "I stood up too fast and felt dizzy."
+  },
+  {
+    "name": "bare",
+    "trans": [
+      "赤裸的， 光秃的"
+    ],
+    "usphone": "bɛr",
+    "ukphone": "beə(r)",
+    "e_mean": [
+      "lacking its natural or customary covering"
+    ],
+    "speech": "adjective",
+    "sentence": "a bare majority"
+  },
+  {
+    "name": "formidable",
+    "trans": [
+      "可怕的； 难以应付的， 难以克服的"
+    ],
+    "usphone": "'fɔrmɪdəbl",
+    "ukphone": "'fɔːmɪdəbl",
+    "e_mean": [
+      "extremely impressive in strength or excellence"
+    ],
+    "speech": "adjective",
+    "sentence": "a formidable opponent"
+  },
+  {
+    "name": "lateral",
+    "trans": [
+      "侧面的， 旁边的"
+    ],
+    "usphone": "'lætərəl",
+    "ukphone": "'lætərəl",
+    "e_mean": [
+      "situated at or extending to the side"
+    ],
+    "speech": "adjective",
+    "sentence": "Instead of a promotion, I opted for a lateral move to a similar position in the marketing department."
+  },
+  {
+    "name": "identifiable",
+    "trans": [
+      "可辨认的， 可识别的； 可确定的， 可证明是同一的"
+    ],
+    "usphone": "aɪ,dɛntɪ'faɪəbl",
+    "ukphone": "aɪ'dentɪ'faɪəbl",
+    "e_mean": [
+      "capable of being recognized"
+    ],
+    "speech": "adjective",
+    "sentence": "I don't know where he was from because he had no identifiable accent."
+  },
+  {
+    "name": "sincere",
+    "trans": [
+      "真挚的， 诚挚的， 真诚的， 诚恳的"
+    ],
+    "usphone": "sɪn'sɪr",
+    "ukphone": "sɪn'sɪə(r)",
+    "e_mean": [
+      "open and genuine; not deceitful"
+    ],
+    "speech": "adjective",
+    "sentence": "I believe he is sincere in his offer to help."
+  },
+  {
+    "name": "substantial",
+    "trans": [
+      "可观的， 大量的； 坚固的， 结实的； 实质的； 大体上的"
+    ],
+    "usphone": "səbˈstænʃəl",
+    "ukphone": "səb'stænʃl",
+    "e_mean": [
+      "real; having a material or factual existence"
+    ],
+    "speech": "adjective",
+    "sentence": "substantial life"
+  },
+  {
+    "name": "precarious",
+    "trans": [
+      "不安全的， 充满危险的； 不牢靠的， 不稳固的"
+    ],
+    "usphone": "prɪˈkɛrɪəs",
+    "ukphone": "prɪ'keəriəs",
+    "e_mean": [
+      "not secure; beset with difficulties"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "prevalent",
+    "trans": [
+      "流行的， 普遍的"
+    ],
+    "usphone": "'prɛvələnt",
+    "ukphone": "'prevələnt",
+    "e_mean": [
+      "most frequent or common"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "invaluable",
+    "trans": [
+      "无价的"
+    ],
+    "usphone": "ɪn'væljʊəbl",
+    "ukphone": "ɪn'væljʊəbl",
+    "e_mean": [
+      "having incalculable monetary or intellectual worth"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "grassy",
+    "trans": [
+      "草绿色的； 似草的"
+    ],
+    "usphone": "'ɡræsi",
+    "ukphone": "'grɑːsi",
+    "e_mean": [
+      "abounding in grass"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "sporadically",
+    "trans": [
+      "偶发地； 零星地"
+    ],
+    "usphone": "spə'rædɪkli",
+    "ukphone": "spə'rædɪkli",
+    "e_mean": [
+      "in an irregular or unpredictable manner"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "colour-blind",
+    "trans": [
+      "色盲的"
+    ],
+    "usphone": "'kʌlə'blaind",
+    "ukphone": "'kʌləblaɪnd",
+    "e_mean": [
+      "unable to distinguish one or more chromatic colors"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "rigid",
+    "trans": [
+      "严格的， 死板的； 刚硬的， 僵硬的"
+    ],
+    "usphone": "'rɪdʒɪd",
+    "ukphone": "'rɪdʒɪd",
+    "e_mean": [
+      "incapable of or resistant to bending"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "operational",
+    "trans": [
+      "运转的； 操作的； 运营的， 业务的"
+    ],
+    "usphone": "'ɑpə'reʃənl",
+    "ukphone": "ˌɒpə'reɪʃənl",
+    "e_mean": [
+      "pertaining to a series of actions for achieving a result"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "large-scale",
+    "trans": [
+      "大规模的， 大范围的"
+    ],
+    "usphone": "'lɑrdʒskel",
+    "ukphone": "'lɑːdʒ'skeɪl",
+    "e_mean": [
+      "unusually large in scope"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "undetected",
+    "trans": [
+      "未被发现的"
+    ],
+    "usphone": "'ʌndɪ'tɛktɪd",
+    "ukphone": "ˌʌndɪ'tektɪd",
+    "e_mean": [
+      "not perceived or discerned"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "trustworthy",
+    "trans": [
+      "值得信赖的， 可靠的"
+    ],
+    "usphone": "'trʌstwɝði",
+    "ukphone": "'trʌstwɜːði",
+    "e_mean": [
+      "worthy of trust or belief"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "literacy",
+    "trans": [
+      "有文化； 有教养； 读写能力"
+    ],
+    "usphone": "'lɪtərəsi",
+    "ukphone": "'lɪtərəsi",
+    "e_mean": [
+      "the ability to read and write"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "gigantic",
+    "trans": [
+      "巨大的， 庞大的"
+    ],
+    "usphone": "dʒaɪ'ɡæntɪk",
+    "ukphone": "dʒaɪ'gæntɪk",
+    "e_mean": [
+      "exceedingly large or extensive"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "scarce",
+    "trans": [
+      "缺乏的， 不足的； 稀少的， 罕见的"
+    ],
+    "usphone": "skɛrs",
+    "ukphone": "skeəs",
+    "e_mean": [
+      "deficient in quantity or number compared with the demand"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "disrespectful",
+    "trans": [
+      "失礼的， 无礼的"
+    ],
+    "usphone": "disri,spektful",
+    "ukphone": "ˌdɪsrɪ'spektfl",
+    "e_mean": [
+      "exhibiting lack of regard; rude and discourteous"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "dreadful",
+    "trans": [
+      "可怕的； 令人不快的"
+    ],
+    "usphone": "'drɛdfəl",
+    "ukphone": "'dredfl",
+    "e_mean": [
+      "exceptionally bad or displeasing"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "punctual",
+    "trans": [
+      "守时的； 准时的"
+    ],
+    "usphone": "'pʌŋtʃʊəl",
+    "ukphone": "'pʌŋktʃuəl",
+    "e_mean": [
+      "acting or arriving exactly at the time appointed"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "vivid",
+    "trans": [
+      "鲜艳的； 生动的"
+    ],
+    "usphone": "'vɪvɪd",
+    "ukphone": "'vɪvɪd",
+    "e_mean": [
+      "having striking color"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "anecdotal",
+    "trans": [
+      "轶话的， 轶闻趣事的"
+    ],
+    "usphone": ",ænɪk'dotl",
+    "ukphone": "ˌænɪk'dəutl",
+    "e_mean": [
+      "based on stories rather than data or scientific observation"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "coherent",
+    "trans": [
+      "条理清楚的， 连贯的； 一致的， 协调的"
+    ],
+    "usphone": "ko'hɪrənt",
+    "ukphone": "kəu'hɪərənt",
+    "e_mean": [
+      "marked by an orderly and consistent relation of parts"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "inviolable",
+    "trans": [
+      "不可侵犯的， 不容亵渎的， 不容破坏的"
+    ],
+    "usphone": "ɪn'vaɪələbl",
+    "ukphone": "ɪn'vaɪələbl",
+    "e_mean": [
+      "incapable of being transgressed or dishonored"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "decrepit",
+    "trans": [
+      "破旧的； 衰老的"
+    ],
+    "usphone": "dɪ'krɛpɪt",
+    "ukphone": "dɪ'krepɪt",
+    "e_mean": [
+      "worn and broken down by hard use"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "viable",
+    "trans": [
+      "可行的， 可实施的； 【生】 能自行生长发育的"
+    ],
+    "usphone": "",
+    "ukphone": "'vaɪəbl",
+    "e_mean": [
+      "capable of life or normal growth and development"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "predominant",
+    "trans": [
+      "卓越的， 突出的； 支配的， 主要的； 盛行的"
+    ],
+    "usphone": "prɪ'dɑmənənt",
+    "ukphone": "prɪ'dɒmɪnənt",
+    "e_mean": [
+      "having superior power or influence"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "irrevocable",
+    "trans": [
+      "无法取消的， 不能改变的"
+    ],
+    "usphone": "ɪ'rɛvəkəbl",
+    "ukphone": "ɪ'revəkəbl",
+    "e_mean": [
+      "incapable of being retracted"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "systematic",
+    "trans": [
+      "系统的， 体系的"
+    ],
+    "usphone": "'sɪstə'mætɪk",
+    "ukphone": "ˌsɪstə'mætɪk",
+    "e_mean": [
+      "characterized by order and planning"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "biometrics",
+    "trans": [
+      "生物测定学"
+    ],
+    "usphone": ",baɪə'mɛtrɪks",
+    "ukphone": "ˌbaɪəu'metrɪks",
+    "e_mean": [
+      "a branch of biology that studies biological phenomena and observations by means of statistical analysis"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "exclusively",
+    "trans": [
+      "专有地， 专门地"
+    ],
+    "usphone": "ɪk'sklʊsɪvli",
+    "ukphone": "ɪk'skluːsɪvlɪ",
+    "e_mean": [
+      "without any others being included or involved"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "congested",
+    "trans": [
+      "拥挤不堪的； 充塞的"
+    ],
+    "usphone": "kən'dʒɛstɪd",
+    "ukphone": "kən'dʒestɪd",
+    "e_mean": [
+      "overfull as with blood"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "isolate",
+    "trans": [
+      "使隔离， 使孤立"
+    ],
+    "usphone": "aɪslˌet",
+    "ukphone": "'aɪsəleɪt",
+    "e_mean": [
+      "place or set apart"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "interdependent",
+    "trans": [
+      "互相依赖的， 互助的"
+    ],
+    "usphone": ",ɪntɚdɪ'pɛndənt",
+    "ukphone": "ˌɪntədɪ'pendənt",
+    "e_mean": [
+      "mutually reliant"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "climatic",
+    "trans": [
+      "气候的"
+    ],
+    "usphone": "klaɪ'mætɪk",
+    "ukphone": "klaɪ'mætɪk",
+    "e_mean": [
+      "of or relating to weather in some location over time"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "factual",
+    "trans": [
+      "事实的； 真实的， 确凿的"
+    ],
+    "usphone": "'fæktʃuəl",
+    "ukphone": "'fæktʃʊəl",
+    "e_mean": [
+      "existing in reality"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "acrobatic",
+    "trans": [
+      "杂技的； 杂技般的； 杂技演员的"
+    ],
+    "usphone": ",ækrə'bætɪk",
+    "ukphone": "ˌækrə'bætɪk",
+    "e_mean": [
+      "involving athletic feats that require balance and agility"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "grimy",
+    "trans": [
+      "积满污垢的， 肮脏的"
+    ],
+    "usphone": "'ɡraɪmi",
+    "ukphone": "'graɪmi",
+    "e_mean": [
+      "thickly covered with ingrained dirt"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "analogous",
+    "trans": [
+      "类似的"
+    ],
+    "usphone": "ə'næləɡəs",
+    "ukphone": "ə'næləgəs",
+    "e_mean": [
+      "similar or equivalent in some respects"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "truce",
+    "trans": [
+      "休战"
+    ],
+    "usphone": "tru:s",
+    "ukphone": "truːs",
+    "e_mean": [
+      "a state of peace agreed to between opponents"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "astray",
+    "trans": [
+      "迷路地； 误入歧途地"
+    ],
+    "usphone": "ə'stre",
+    "ukphone": "ə'streɪ",
+    "e_mean": [
+      "away from the right path or direction"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "fabulous",
+    "trans": [
+      "寓言式的； 极为巨大的； 极好的"
+    ],
+    "usphone": "'fæbjələs",
+    "ukphone": "'fæbjələs",
+    "e_mean": [
+      "extremely pleasing"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "curly",
+    "trans": [
+      "卷曲的， 波浪式的"
+    ],
+    "usphone": "'kɝli",
+    "ukphone": "'kɜːli",
+    "e_mean": [
+      "(of hair) having curls or waves"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "materialistic",
+    "trans": [
+      "唯物主义的； 物质享乐主义的， 贪图享乐的"
+    ],
+    "usphone": "mə'tɪrɪə'lɪstɪk",
+    "ukphone": "məˌtɪəriə'lɪstɪk",
+    "e_mean": [
+      "marked by a desire for wealth and possessions"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "outweigh",
+    "trans": [
+      "比…重； 比…更重要； 胜过， 强于"
+    ],
+    "usphone": "'aʊt'we",
+    "ukphone": "ˌaut'weɪ",
+    "e_mean": [
+      "be more important or signficant than"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "reinvigorate",
+    "trans": [
+      "使重新振作； 使恢复活力"
+    ],
+    "usphone": ",riɪn'vɪɡəret",
+    "ukphone": "ˌriːɪn'vɪgəreɪt",
+    "e_mean": [
+      "impart new strength, vitality, or energy"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "subjective",
+    "trans": [
+      "主观的"
+    ],
+    "usphone": "səb'dʒɛktɪv",
+    "ukphone": "səb'dʒektɪv",
+    "e_mean": [
+      "taking place within the mind and modified by individual bias"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "unobtrusive",
+    "trans": [
+      "不显著的， 不引人注目的； 不张扬的"
+    ],
+    "usphone": "'ʌnəb'trʊsɪv",
+    "ukphone": "ˌʌnəb'truːsɪv",
+    "e_mean": [
+      "not undesirably noticeable"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "exhaustible",
+    "trans": [
+      "可耗尽的， 会枯竭的"
+    ],
+    "usphone": "ɪg'zɔstəbl",
+    "ukphone": "ɪg'zɔːstəbl",
+    "e_mean": [
+      "capable of being used up; capable of being exhausted"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "holistic",
+    "trans": [
+      "整体的， 全面的； 功能整体性的"
+    ],
+    "usphone": "ho'lɪstɪk",
+    "ukphone": "həu'lɪstɪk",
+    "e_mean": [
+      "emphasizing the organic relation between parts and the whole"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "uncertainty",
+    "trans": [
+      "犹豫， 迟疑； 不确定； 无把握"
+    ],
+    "usphone": "ʌn'sɝtnti",
+    "ukphone": "ʌn'sɜːtnti",
+    "e_mean": [
+      "the state of being unsure of something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "incongruity",
+    "trans": [
+      "不和谐， 不相称； 不协调或不一致的事物"
+    ],
+    "usphone": ",ɪnkɑŋ'grʊəti",
+    "ukphone": "ˌɪnkɒŋ'gruːəti",
+    "e_mean": [
+      "the quality of disagreeing"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "preferable",
+    "trans": [
+      "更可取的， 更好的， 更合意的"
+    ],
+    "usphone": "'prɛfrəbl",
+    "ukphone": "'prefrəbl",
+    "e_mean": [
+      "more desirable than another"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "humanistic",
+    "trans": [
+      "人文主义的， 人性的"
+    ],
+    "usphone": ",hjʊmən'ɪstɪk",
+    "ukphone": "ˌhjuːmə'nɪstɪk",
+    "e_mean": [
+      "marked by devotion to the welfare of people"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "subliminal",
+    "trans": [
+      "下意识的， 潜意识的"
+    ],
+    "usphone": ",sʌb'lɪmɪnl",
+    "ukphone": "ˌsʌb'lɪmɪnl",
+    "e_mean": [
+      "below the threshold of conscious perception"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "mainly",
+    "trans": [
+      "大体上， 主要地"
+    ],
+    "usphone": "'menli",
+    "ukphone": "'meɪnli",
+    "e_mean": [
+      "for the most part"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "concur",
+    "trans": [
+      "同时发生； 意见相同， 一致"
+    ],
+    "usphone": "kən'kɝ",
+    "ukphone": "kən'kɜː(r)",
+    "e_mean": [
+      "happen simultaneously"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "nevertheless",
+    "trans": [
+      "仍然；然而",
+      "然而， 不过"
+    ],
+    "usphone": ",nɛvɚðə'lɛs",
+    "ukphone": "ˌnevəðə'les",
+    "e_mean": [
+      "despite anything to the contrary"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "understandable",
+    "trans": [
+      "可以理解的， 能懂的； 可同情的"
+    ],
+    "usphone": "'ʌndɚ'stændəbl",
+    "ukphone": "ˌʌndə'stændəbl",
+    "e_mean": [
+      "capable of being apprehended"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "thereby",
+    "trans": [
+      "因此， 从而"
+    ],
+    "usphone": ",ðɛr'baɪ",
+    "ukphone": "ˌðeə'baɪ",
+    "e_mean": [
+      "by that means or because of that"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "supplementary",
+    "trans": [
+      "增补的， 补充的"
+    ],
+    "usphone": ",sʌplɪ'mɛntri",
+    "ukphone": "ˌsʌplɪ'mentri",
+    "e_mean": [
+      "functioning in a supporting capacity"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "at random",
+    "trans": [
+      "胡乱地；随便地；任意地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "in a random manner"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "robotic",
+    "trans": [
+      "机器人的； 像机器人的， 呆板而机械的"
+    ],
+    "usphone": "ro'bɑtɪk",
+    "ukphone": "rəu'bɒtɪk",
+    "e_mean": [
+      "functioning or behaving like a machine"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "inborn",
+    "trans": [
+      "天生的， 先天的， 天赋的"
+    ],
+    "usphone": ",ɪn'bɔrn",
+    "ukphone": "ˌɪn'bɔːn",
+    "e_mean": [
+      "normally existing at birth"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "qualitative",
+    "trans": [
+      "性质的， 质量的； 定性的"
+    ],
+    "usphone": "'kwɑlətetɪv",
+    "ukphone": "'kwɒlɪtətɪv",
+    "e_mean": [
+      "involving distinguishing attributes"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "viscous",
+    "trans": [
+      "黏滞的， 黏性的"
+    ],
+    "usphone": "'vɪskəs",
+    "ukphone": "'vɪskəs",
+    "e_mean": [
+      "having a relatively high resistance to flow"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "latent",
+    "trans": [
+      "潜在的， 潜伏的， 不易察觉的"
+    ],
+    "usphone": "'letnt",
+    "ukphone": "'leɪtnt",
+    "e_mean": [
+      "potentially existing but not presently evident or realized"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "and so forth",
+    "trans": [
+      "等等"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "continuing in the same way"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "perplex",
+    "trans": [
+      "使困惑； 使复杂化"
+    ],
+    "usphone": "pɚ'plɛks",
+    "ukphone": "pə'pleks",
+    "e_mean": [
+      "be a mystery or bewildering to"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "enormous",
+    "trans": [
+      "巨大的， 庞大的， 极大的"
+    ],
+    "usphone": "ɪ'nɔrməs",
+    "ukphone": "ɪ'nɔːməs",
+    "e_mean": [
+      "extraordinarily large in size or extent or degree"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "recalcitrant",
+    "trans": [
+      "顽抗的， 反抗的"
+    ],
+    "usphone": "rɪ'kælsɪtrənt",
+    "ukphone": "rɪ'kælsɪtrənt",
+    "e_mean": [
+      "stubbornly resistant to authority or control"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "discourteous",
+    "trans": [
+      "无礼的， 粗鲁的"
+    ],
+    "usphone": "dɪs'kɝtɪəs",
+    "ukphone": "dɪs'kɜːtɪəs",
+    "e_mean": [
+      "showing no politeness"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "hospitable",
+    "trans": [
+      "好客的， 殷勤的， 热情友好的； 宜人的； 易接受的， 开通的"
+    ],
+    "usphone": "hɑ'spɪtəbl",
+    "ukphone": "hɒ'spɪtəbl",
+    "e_mean": [
+      "disposed to treat guests and strangers with generosity"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "unyielding",
+    "trans": [
+      "顽强的； 坚硬的； 不能弯曲的， 坚固的"
+    ],
+    "usphone": "ʌn'jildɪŋ",
+    "ukphone": "ʌn'jiːldɪŋ",
+    "e_mean": [
+      "stubbornly unwilling to give in"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "theoretical",
+    "trans": [
+      "理论的"
+    ],
+    "usphone": ",θiə'rɛtɪkəl",
+    "ukphone": "ˌθɪə'retɪkl",
+    "e_mean": [
+      "concerned with hypotheses and not practical considerations"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "unregistered",
+    "trans": [
+      "未注册的"
+    ],
+    "usphone": "ʌn'rɛdʒɪstɚd",
+    "ukphone": "ʌn'redʒɪstəd",
+    "e_mean": [
+      "not registered"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "trivial",
+    "trans": [
+      "无价值的， 琐屑的； 平庸的， 普通的"
+    ],
+    "usphone": "'trɪvɪəl",
+    "ukphone": "'trɪviəl",
+    "e_mean": [
+      "(informal) small and of little importance"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "at least",
+    "trans": [
+      "至少"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "not less than"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "divine",
+    "trans": [
+      "神的； 神授的， 天赐的"
+    ],
+    "usphone": "dɪ'vaɪn",
+    "ukphone": "dɪ'vaɪn",
+    "e_mean": [
+      "a clergyman or other person in religious orders"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "memorable",
+    "trans": [
+      "容易记住的； 难忘的"
+    ],
+    "usphone": "'mɛmərəbl",
+    "ukphone": "'memərəbl",
+    "e_mean": [
+      "worth remembering"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "attainable",
+    "trans": [
+      "可获得的， 可达到的， 可实现的"
+    ],
+    "usphone": "ə'tenəbl",
+    "ukphone": "ə'teɪnəbl",
+    "e_mean": [
+      "capable of being accomplished"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "sentient",
+    "trans": [
+      "有感觉能力的， 有知觉力的； 知悉的"
+    ],
+    "usphone": "'sɛntɪənt",
+    "ukphone": "'senʃnt;'sentɪənt",
+    "e_mean": [
+      "endowed with feeling and unstructured consciousness"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "hurl",
+    "trans": [
+      "猛投， 猛摔； 大声叫骂"
+    ],
+    "usphone": "hɝl",
+    "ukphone": "hɜːl",
+    "e_mean": [
+      "throw forcefully"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "presuppose",
+    "trans": [
+      "预先假定…属实； 认为， 假设； 以…为先决条件， 以…为前提"
+    ],
+    "usphone": ",prisə'poz",
+    "ukphone": "ˌpriːsə'pəuz",
+    "e_mean": [
+      "take for granted or as a given"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "conversely",
+    "trans": [
+      "相反地， 颠倒地"
+    ],
+    "usphone": "'kɑnvɝsli",
+    "ukphone": "'kɒnvɜːsli",
+    "e_mean": [
+      "with the terms of the relation reversed"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "sluttish",
+    "trans": [
+      "懒惰的， 邋遢的； 放荡的"
+    ],
+    "usphone": "",
+    "ukphone": "'slʌtɪʃ",
+    "e_mean": [
+      "casual and unrestrained in sexual behavior"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "futile",
+    "trans": [
+      "无效的， 无用的， 无意义的； 没出息的； 琐细的"
+    ],
+    "usphone": "'fjʊtaɪl",
+    "ukphone": "'fjuːtaɪl",
+    "e_mean": [
+      "producing no result or effect"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "tranquility",
+    "trans": [
+      "宁静， 安静"
+    ],
+    "usphone": "",
+    "ukphone": "træŋ'kwɪləti",
+    "e_mean": [
+      "an untroubled state that is free from disturbances"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "consequential",
+    "trans": [
+      "结果的， 随之发生的"
+    ],
+    "usphone": "'kɑnsə'kwɛnʃəl",
+    "ukphone": "ˌkɒnsɪ'kwenʃl",
+    "e_mean": [
+      "having important effects or results"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "optimum",
+    "trans": [
+      "最好的； 最有利的"
+    ],
+    "usphone": "'ɑptəməm",
+    "ukphone": "'ɒptɪməm",
+    "e_mean": [
+      "most desirable possible under a restriction"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "simultaneous",
+    "trans": [
+      "同时的， 同时发生的， 同时存在的； 同步的"
+    ],
+    "usphone": ",saɪml'tenɪəs",
+    "ukphone": "ˌsɪml'teɪniəs",
+    "e_mean": [
+      "occurring or operating at the same time"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "long-term",
+    "trans": [
+      "长期的"
+    ],
+    "usphone": "'lɔŋtɝm",
+    "ukphone": "'lɒŋtɜːm",
+    "e_mean": [
+      "relating to or extending over a relatively long time"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "unbeatable",
+    "trans": [
+      "无敌的， 不可战胜的"
+    ],
+    "usphone": "ʌn'bitəbl",
+    "ukphone": "ʌn'biːtəbl",
+    "e_mean": [
+      "hard to defeat"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "cumulative",
+    "trans": [
+      "积累的， 渐增的"
+    ],
+    "usphone": "'kjumjəletɪv",
+    "ukphone": "'kjuːmjələtɪv",
+    "e_mean": [
+      "increasing by successive addition"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "lethal",
+    "trans": [
+      "致命的， 破坏性的， 毁灭性的； 有害的"
+    ],
+    "usphone": "'liθl",
+    "ukphone": "'liːθl",
+    "e_mean": [
+      "of an instrument of certain death"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "temporary",
+    "trans": [
+      "临时的， 暂时的"
+    ],
+    "usphone": "ˈtempəreri",
+    "ukphone": "'temprəri",
+    "e_mean": [
+      "not permanent; not lasting"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "fickle",
+    "trans": [
+      "易变的， 无常的"
+    ],
+    "usphone": "'fɪkl",
+    "ukphone": "'fɪkl",
+    "e_mean": [
+      "liable to sudden unpredictable change"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "simplistic",
+    "trans": [
+      "过分单纯化的， 过分简单化的"
+    ],
+    "usphone": "sɪm'plɪstɪk",
+    "ukphone": "sɪm'plɪstɪk",
+    "e_mean": [
+      "characterized by extreme and misleading lack of complexity"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "poisonous",
+    "trans": [
+      "有毒的， 有害的； 恶毒的， 邪恶的"
+    ],
+    "usphone": "'pɔɪzənəs",
+    "ukphone": "'pɔɪzənəs",
+    "e_mean": [
+      "having the qualities of a substance that causes death"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "inferential",
+    "trans": [
+      "可推断的， 推理的"
+    ],
+    "usphone": ",ɪnfə'rɛnʃəl",
+    "ukphone": "ˌɪnfə'renʃl",
+    "e_mean": [
+      "relating to or having the nature of illation or inference"
+    ],
+    "speech": "adjective"
+  }
+]

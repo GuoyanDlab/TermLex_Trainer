@@ -1,0 +1,2021 @@
+[
+  {
+    "name": "advance",
+    "trans": [
+      "预先的；",
+      "前进， 前移； 增长， 提高； 预付"
+    ],
+    "usphone": "əd'væns",
+    "ukphone": "əd'vɑːns",
+    "e_mean": [
+      "move forward"
+    ],
+    "speech": "verb",
+    "sentence": "an advance in health or knowledge"
+  },
+  {
+    "name": "patent",
+    "trans": [
+      "显而易见的； 有专利的， 受专利保护的"
+    ],
+    "usphone": "'pætnt",
+    "ukphone": "'pætnt; 'p3ɪtnt",
+    "e_mean": [
+      "a document granting an inventor sole rights to an invention"
+    ],
+    "speech": "noun",
+    "sentence": "That is a patent ductus arteriosus."
+  },
+  {
+    "name": "devise",
+    "trans": [
+      "设计， 发明"
+    ],
+    "usphone": "dɪ'vaɪz",
+    "ukphone": "dɪ'vaɪz",
+    "e_mean": [
+      "arrange by systematic planning and united effort"
+    ],
+    "speech": "verb",
+    "sentence": "to devise an argument; to devise a machine, or a new system of writing"
+  },
+  {
+    "name": "invent",
+    "trans": [
+      "发明/创造inventioninventor"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "come up with after a mental effort"
+    ],
+    "speech": "verb",
+    "sentence": "After weeks of hard work, I invented a new way to alphabetize matchbooks."
+  },
+  {
+    "name": "discover",
+    "trans": [
+      "发现， 找到； 发觉"
+    ],
+    "usphone": "dɪ'skʌvɚ",
+    "ukphone": "dɪ'skʌvə(r)",
+    "e_mean": [
+      "determine the existence, presence, or fact of"
+    ],
+    "speech": "verb",
+    "sentence": "Turning the corner, I discovered a lovely little shop. I discovered that they sold widgets."
+  },
+  {
+    "name": "reveal",
+    "trans": [
+      "揭露； 泄露； 展现"
+    ],
+    "usphone": "rɪ'vil",
+    "ukphone": "rɪ'viːl",
+    "e_mean": [
+      "make visible"
+    ],
+    "speech": "verb",
+    "sentence": "The comedian had been telling us about his sleep being disturbed by noise. Then came the reveal: he was sleeping on a bed in a department store."
+  },
+  {
+    "name": "uncover",
+    "trans": [
+      "揭露，发现"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "make visible"
+    ],
+    "speech": "verb",
+    "sentence": "The model railway was uncovered."
+  },
+  {
+    "name": "field",
+    "trans": [
+      "领域"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "extensive tract of level open land"
+    ],
+    "speech": "noun",
+    "sentence": "There are several species of wild flowers growing in this field."
+  },
+  {
+    "name": "network",
+    "trans": [
+      ".网络；广播网，电视网"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an open fabric woven together at regular intervals"
+    ],
+    "speech": "noun",
+    "sentence": "A network of roads crisscrossed the country."
+  },
+  {
+    "name": "apply",
+    "trans": [
+      "适应"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "employ for a particular purpose"
+    ],
+    "speech": "verb",
+    "sentence": "to apply cream to a rash"
+  },
+  {
+    "name": "clash",
+    "trans": [
+      "发生冲突；不协调；砰地相撞，发出刺耳的撞击声",
+      "冲突； 不协调； 刺耳的撞击声"
+    ],
+    "usphone": "klæʃ",
+    "ukphone": "klæʃ",
+    "e_mean": [
+      "crash together with violent impact"
+    ],
+    "speech": "verb",
+    "sentence": "I heard a clash from the kitchen, and rushed in to find the cat had knocked over some pots and pans."
+  },
+  {
+    "name": "random",
+    "trans": [
+      "任意的，随机的，随意的",
+      "随机， 随意"
+    ],
+    "usphone": "'rændəm",
+    "ukphone": "'rændəm",
+    "e_mean": [
+      "lacking any definite plan or order or purpose"
+    ],
+    "speech": "adjective",
+    "sentence": "The party was boring. It was full of randoms."
+  },
+  {
+    "name": "alert",
+    "trans": [
+      "警惕的",
+      "警戒；警报",
+      "警告"
+    ],
+    "usphone": "ə'lɝt",
+    "ukphone": "ə'lɜːt",
+    "e_mean": [
+      "warn or arouse to a sense of danger"
+    ],
+    "speech": "verb",
+    "sentence": "an airborne alert; ground alert"
+  },
+  {
+    "name": "technical",
+    "trans": [
+      "技术的， 工艺的"
+    ],
+    "usphone": "'tɛknɪkl",
+    "ukphone": "'teknɪkl",
+    "e_mean": [
+      "of or relating to aptitude in a practical skill"
+    ],
+    "speech": "adjective",
+    "sentence": "The performance showed technical virtuosity, but lacked inspiration."
+  },
+  {
+    "name": "mechanic",
+    "trans": [
+      "机修工； [-s] 力学， 机械学"
+    ],
+    "usphone": "mə'kænɪk",
+    "ukphone": "mə'kænɪk",
+    "e_mean": [
+      "a person who operates devices made to perform tasks"
+    ],
+    "speech": "noun",
+    "sentence": "This game has a mechanic where if you run toward a ledge you automatically jump off rather than just falling."
+  },
+  {
+    "name": "innovate",
+    "trans": [
+      "创新/改革.innovation创新"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "bring something new to an environment"
+    ],
+    "speech": "verb",
+    "sentence": "to innovate a word or an act"
+  },
+  {
+    "name": "breakthrough",
+    "trans": [
+      "突破； 重大进展"
+    ],
+    "usphone": "'brek'θrʊ",
+    "ukphone": "'breɪkθruː",
+    "e_mean": [
+      "the act of making an important discovery"
+    ],
+    "speech": "noun",
+    "sentence": "Albert Einstein is credited with making some of the greatest breakthroughs in modern physics."
+  },
+  {
+    "name": "domain",
+    "trans": [
+      "领域；领土，领地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a particular environment or walk of life"
+    ],
+    "speech": "noun",
+    "sentence": "The king ruled his domain harshly."
+  },
+  {
+    "name": "dial",
+    "trans": [
+      ".拨(电话号码)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the circular graduated indicator on various measuring instruments"
+    ],
+    "speech": "noun",
+    "sentence": "President Trump has recently dialled down the rhetoric."
+  },
+  {
+    "name": "keyboard",
+    "trans": [
+      "键盘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "set of levers that can be pressed, as on a piano or computer"
+    ],
+    "speech": "noun",
+    "sentence": "Keyboarding is the part of this job I hate the most."
+  },
+  {
+    "name": "screen",
+    "trans": [
+      "屏幕， 银幕； 遮蔽； 屏风， 帘； 筛子",
+      "掩蔽， 遮蔽； 包庇； 筛选； 放映， 播放"
+    ],
+    "usphone": "skrin",
+    "ukphone": "skrɪːn",
+    "e_mean": [
+      "partition consisting of a decorative frame or panel that serves to divide a space"
+    ],
+    "speech": "noun",
+    "sentence": "a fire screen"
+  },
+  {
+    "name": "tape",
+    "trans": [
+      "磁带，录音带；胶带"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a long thin piece of cloth or paper as used for binding or fastening"
+    ],
+    "speech": "noun",
+    "sentence": "Hand me some tape. I need to fix a tear in this paper."
+  },
+  {
+    "name": "binary",
+    "trans": [
+      "二进制，二元的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or pertaining to a number system having 2 as its base"
+    ],
+    "speech": "adjective",
+    "sentence": "Binary states are often represented as 1 and 0 in computer science."
+  },
+  {
+    "name": "digital",
+    "trans": [
+      "数码的， 数字的"
+    ],
+    "usphone": "'dɪdʒɪtl",
+    "ukphone": "'dɪdʒɪtl",
+    "e_mean": [
+      "relating to or performed with the fingers"
+    ],
+    "speech": "adjective",
+    "sentence": "He moved to digital for the first time, using a Sony camera."
+  },
+  {
+    "name": "wireless",
+    "trans": [
+      "无线的.WIFI=(~fidelity)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "medium for communication"
+    ],
+    "speech": "noun",
+    "sentence": "Only about a hundred years ago, wireless was a new technology."
+  },
+  {
+    "name": "vision",
+    "trans": [
+      "想象力； 视力， 视觉； 梦幻， 幻觉"
+    ],
+    "usphone": "'vɪʒən",
+    "ukphone": "'vɪʒn",
+    "e_mean": [
+      "the ability to see"
+    ],
+    "speech": "noun",
+    "sentence": "He tried drinking from the pool of water, but realized it was only a vision."
+  },
+  {
+    "name": "foundation",
+    "trans": [
+      "基础； 地基； 创立"
+    ],
+    "usphone": "faʊn'deʃən",
+    "ukphone": "faun'deɪʃn",
+    "e_mean": [
+      "the basis on which something is grounded"
+    ],
+    "speech": "noun",
+    "sentence": "The foundation of his institute has been wrought with difficulty."
+  },
+  {
+    "name": "absorb",
+    "trans": [
+      "理解；掌握.sorb吸收"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "take in a liquid"
+    ],
+    "speech": "verb",
+    "sentence": "Heat, light, and electricity are absorbed in the substances into which they pass."
+  },
+  {
+    "name": "concentrate",
+    "trans": [
+      "全神贯注，全力以赴；集中，聚集；浓缩",
+      "浓缩物， 浓缩液"
+    ],
+    "usphone": "'kɑnsn'tret",
+    "ukphone": "'kɒnsntreɪt",
+    "e_mean": [
+      "make denser, stronger, or purer"
+    ],
+    "speech": "verb",
+    "sentence": "to concentrate rays of light into a focus"
+  },
+  {
+    "name": "focus",
+    "trans": [
+      "聚焦，集中",
+      "焦点， 焦距； 中心"
+    ],
+    "usphone": "'fokəs",
+    "ukphone": "'fəukəs",
+    "e_mean": [
+      "the concentration of attention or energy on something"
+    ],
+    "speech": "noun",
+    "sentence": "The heat of sunlight at the focus of a magnifying glass can easily set dry leaves on fire."
+  },
+  {
+    "name": "device",
+    "trans": [
+      "装置， 设备， 仪表； 方法； 设计； 手段， 策略"
+    ],
+    "usphone": "dɪ'vaɪs",
+    "ukphone": "dɪ'vaɪs",
+    "e_mean": [
+      "an instrumentality invented for a particular purpose"
+    ],
+    "speech": "noun",
+    "sentence": "There are a number of household devices in a kitchen such as a dishwasher, a garbage disposal, or an electric can opener."
+  },
+  {
+    "name": "facility",
+    "trans": [
+      "设施；设备；容易；灵巧"
+    ],
+    "usphone": "fə'sɪləti",
+    "ukphone": "fə'sɪləti",
+    "e_mean": [
+      "a building or place that provides a particular service"
+    ],
+    "speech": "noun",
+    "sentence": "The facility she shows in playing the violin is unrivalled."
+  },
+  {
+    "name": "instrument",
+    "trans": [
+      "仪器； 手段； 工具； 乐器"
+    ],
+    "usphone": "'ɪnstrəmənt",
+    "ukphone": "'ɪnstrəmənt",
+    "e_mean": [
+      "the means whereby some act is accomplished"
+    ],
+    "speech": "noun",
+    "sentence": "The violinist was a master of her instrument."
+  },
+  {
+    "name": "tool",
+    "trans": [
+      "工具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an implement used to perform a task or job"
+    ],
+    "speech": "noun",
+    "sentence": "Hand me that tool, would you? I don't have the right tools to start fiddling around with the engine."
+  },
+  {
+    "name": "gauge",
+    "trans": [
+      "测量仪表；规格，标准；计量器",
+      "测量， 度量"
+    ],
+    "usphone": "gedʒ",
+    "ukphone": "geɪdʒ",
+    "e_mean": [
+      "an instrument for measuring and indicating a quantity"
+    ],
+    "speech": "noun",
+    "sentence": "A vessel has the weather gauge of another when on the windward side of it, and the lee gauge when on the lee side of it."
+  },
+  {
+    "name": "measure",
+    "trans": [
+      "衡量/措施测量measurement测量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "determine the dimensions of something or somebody"
+    ],
+    "speech": "verb",
+    "sentence": "We measured the temperature with a thermometer. You should measure the angle with a spirit level."
+  },
+  {
+    "name": "calculate",
+    "trans": [
+      "计算， 推算； 估计， 推测； 计划， 打算"
+    ],
+    "usphone": "'kælkjulet",
+    "ukphone": "'kælkjʊleɪt",
+    "e_mean": [
+      "make a mathematical computation"
+    ],
+    "speech": "verb",
+    "sentence": "Calculate the square root of 3 to 10 decimal places."
+  },
+  {
+    "name": "compute",
+    "trans": [
+      ".计算；估计"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "make a mathematical calculation"
+    ],
+    "speech": "verb",
+    "sentence": "Can anyone here compute the square root of 10201?"
+  },
+  {
+    "name": "count",
+    "trans": [
+      "计算"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "determine the number or amount of"
+    ],
+    "speech": "verb",
+    "sentence": "Give the chairs a quick count to check if we have enough."
+  },
+  {
+    "name": "assess",
+    "trans": [
+      "评定； 估价"
+    ],
+    "usphone": "ə'sɛs",
+    "ukphone": "ə'ses",
+    "e_mean": [
+      "estimate the nature, quality, ability or significance of"
+    ],
+    "speech": "verb",
+    "sentence": "He assessed the situation."
+  },
+  {
+    "name": "evaluate",
+    "trans": [
+      "评价， 估价"
+    ],
+    "usphone": "ɪ'væljʊ'et",
+    "ukphone": "ɪ'væljʊeɪt",
+    "e_mean": [
+      "estimate the nature, quality, ability or significance of"
+    ],
+    "speech": "verb",
+    "sentence": "It will take several years to evaluate the material gathered in the survey."
+  },
+  {
+    "name": "accessory",
+    "trans": [
+      "附件，零件；"
+    ],
+    "usphone": "ək'sɛsəri",
+    "ukphone": "ək'sesəri",
+    "e_mean": [
+      "a supplementary component that improves capability"
+    ],
+    "speech": "noun",
+    "sentence": "She was accessory to the riot."
+  },
+  {
+    "name": "byproduct",
+    "trans": [
+      "副产品.bypass旁路"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a secondary and sometimes unexpected consequence"
+    ],
+    "speech": "noun",
+    "sentence": "The many Indian restaurants all over Britain are a by-product of the large waves of immigration from the subcontinent."
+  },
+  {
+    "name": "auxiliary",
+    "trans": [
+      "辅助的，协助的；备用的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "furnishing added support"
+    ],
+    "speech": "adjective",
+    "sentence": "auxiliary troops"
+  },
+  {
+    "name": "versatile",
+    "trans": [
+      "多才多艺的， 多面手的； 多用途的， 通用的"
+    ],
+    "usphone": "'vɝsətl",
+    "ukphone": "'vɜːsətaɪl",
+    "e_mean": [
+      "having great diversity or variety"
+    ],
+    "speech": "adjective",
+    "sentence": "2004, \"queenchaser1158\", Horny Versatile TV/TS Wanted in Phoenix (on newsgroup alt.personals.gay)"
+  },
+  {
+    "name": "add",
+    "trans": [
+      ".添加；附加"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "join or combine or unite with others"
+    ],
+    "speech": "verb",
+    "sentence": "When the player has fought the boss for one minute, two adds will arrive from the back and must be dealt with."
+  },
+  {
+    "name": "accumulate",
+    "trans": [
+      "积累； 堆积"
+    ],
+    "usphone": "ə'kjumjəlet",
+    "ukphone": "ə'kjuːmjəleɪt",
+    "e_mean": [
+      "get or gather together"
+    ],
+    "speech": "verb",
+    "sentence": "He wishes to accumulate a sum of money."
+  },
+  {
+    "name": "assemble",
+    "trans": [
+      "集合； 装配"
+    ],
+    "usphone": "ə'sɛmbl",
+    "ukphone": "ə'sembl",
+    "e_mean": [
+      "create by putting components or members together"
+    ],
+    "speech": "verb",
+    "sentence": "He assembled the model ship."
+  },
+  {
+    "name": "gather",
+    "trans": [
+      "聚集， 集合， 聚拢； 收集， 采集； 逐渐增加； 猜想， 推测"
+    ],
+    "usphone": "'ɡæðɚ",
+    "ukphone": "'gæðə(r)",
+    "e_mean": [
+      "assemble or get together"
+    ],
+    "speech": "verb",
+    "sentence": "I've been gathering ideas from the people I work with."
+  },
+  {
+    "name": "attach",
+    "trans": [
+      "系， 贴； 认为有重要性； 使附属， 附加"
+    ],
+    "usphone": "ə'tætʃ",
+    "ukphone": "ə'tætʃ",
+    "e_mean": [
+      "be in contact with"
+    ],
+    "speech": "verb",
+    "sentence": "An officer is attached to a certain regiment, company, or ship."
+  },
+  {
+    "name": "belong",
+    "trans": [
+      "应在(某处)；适合(某种情形)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "be owned by; be in the possession of"
+    ],
+    "speech": "verb",
+    "sentence": "Where does this document belong?"
+  },
+  {
+    "name": "optics",
+    "trans": [
+      "光学.microbe微生物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the branch of physics that studies the physical properties of light"
+    ],
+    "speech": "noun",
+    "sentence": "The optics of this telescope are particularly good."
+  },
+  {
+    "name": "radar",
+    "trans": [
+      ".雷达"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "measuring instrument using pulses of microwave radiation"
+    ],
+    "speech": "noun",
+    "sentence": "His sensitive radar for hidden alliances keeps him out of trouble."
+  },
+  {
+    "name": "echo",
+    "trans": [
+      "回声发回声；模仿；重复"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the repetition of a sound from reflection of the sound waves"
+    ],
+    "speech": "noun",
+    "sentence": "Sid echoed his father's point of view."
+  },
+  {
+    "name": "pump",
+    "trans": [
+      "用泵抽；涌出，奔流",
+      "泵， 抽水机"
+    ],
+    "usphone": "pʌmp",
+    "ukphone": "pʌmp",
+    "e_mean": [
+      "a device that moves fluid or gas by pressure or suction"
+    ],
+    "speech": "noun",
+    "sentence": "This pump can deliver 100 gallons of water per minute."
+  },
+  {
+    "name": "gear",
+    "trans": [
+      "齿轮，传动装置，挡；用具、设备、衣服等",
+      "调节， 调整， 使适应"
+    ],
+    "usphone": "ɡɪr",
+    "ukphone": "gɪə(r)",
+    "e_mean": [
+      "a toothed wheel that engages another toothed mechanism"
+    ],
+    "speech": "noun",
+    "sentence": "They have geared the hotel mainly at tourists."
+  },
+  {
+    "name": "hydraulic",
+    "trans": [
+      "水力的，液压的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "moved or operated or effected by liquid"
+    ],
+    "speech": "adjective",
+    "sentence": "A hydraulic press is operated by the differential pressure of water on pistons of different dimensions."
+  },
+  {
+    "name": "compress",
+    "trans": [
+      "压紧；压缩['kɒmpres]",
+      "敷布， 压布"
+    ],
+    "usphone": "kəm'prɛs",
+    "ukphone": "kəm'pres",
+    "e_mean": [
+      "squeeze or push together"
+    ],
+    "speech": "verb",
+    "sentence": "The force required to compress a spring varies linearly with the displacement."
+  },
+  {
+    "name": "condense",
+    "trans": [
+      "压缩， 精简； 凝结"
+    ],
+    "usphone": "kən'dɛns",
+    "ukphone": "kən'dens",
+    "e_mean": [
+      "cause a gas or vapor to change into a liquid"
+    ],
+    "speech": "verb",
+    "sentence": "An abridged dictionary can be further condensed to pocket size."
+  },
+  {
+    "name": "refine",
+    "trans": [
+      "精炼/提纯.refineon对…精微改进"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "reduce to a pure state"
+    ],
+    "speech": "verb",
+    "sentence": "to refine gold"
+  },
+  {
+    "name": "filter",
+    "trans": [
+      "过滤； 走漏",
+      "过滤器"
+    ],
+    "usphone": "'fɪltɚ",
+    "ukphone": "'fɪltə(r)",
+    "e_mean": [
+      "device that removes something from what passes through it"
+    ],
+    "speech": "noun",
+    "sentence": "He runs an email filter to catch the junk mail."
+  },
+  {
+    "name": "distil",
+    "trans": [
+      ".蒸憾；提取……的精华"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "undergo condensation"
+    ],
+    "speech": "verb",
+    "sentence": "Firs distil resin."
+  },
+  {
+    "name": "mode",
+    "trans": [
+      "模式；方式.modify改变"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "how something is done or how it happens"
+    ],
+    "speech": "noun",
+    "sentence": "What was the mode of entry?"
+  },
+  {
+    "name": "mould",
+    "trans": [
+      "浇铸；塑造模子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the distinctive form in which a thing is made"
+    ],
+    "speech": "noun",
+    "sentence": "the oval mold of her face"
+  },
+  {
+    "name": "prototype",
+    "trans": [
+      "原型， 蓝本"
+    ],
+    "usphone": "'protə'taɪp",
+    "ukphone": "'prəutətaɪp",
+    "e_mean": [
+      "a standard or typical example"
+    ],
+    "speech": "noun",
+    "sentence": "The prototype had loose wires and rough edges, but it worked."
+  },
+  {
+    "name": "framework",
+    "trans": [
+      "框架，结构；体系"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the underlying structure"
+    ],
+    "speech": "noun",
+    "sentence": "These ‘three principles of connexion’ compose the framework of principles in Hume's account of the association of ideas."
+  },
+  {
+    "name": "aspect",
+    "trans": [
+      "方面； 朝向， 方向； 外貌， 外观样子"
+    ],
+    "usphone": "'æspɛkt",
+    "ukphone": "'æspekt",
+    "e_mean": [
+      "a characteristic to be considered"
+    ],
+    "speech": "noun",
+    "sentence": "Japan's aging population is an important aspect of its economy."
+  },
+  {
+    "name": "operate",
+    "trans": [
+      "运转； 动手术； 起作用； 操作； 经营"
+    ],
+    "usphone": "'ɑpə'ret",
+    "ukphone": "'ɒpəreɪt",
+    "e_mean": [
+      "perform as expected when applied"
+    ],
+    "speech": "verb",
+    "sentence": "to operate a machine"
+  },
+  {
+    "name": "transform",
+    "trans": [
+      "使改观， 改革， 改善； 变换， 把…转换成"
+    ],
+    "usphone": "træns'fɔrm",
+    "ukphone": "træns'fɔːm",
+    "e_mean": [
+      "change or alter in appearance or nature"
+    ],
+    "speech": "verb",
+    "sentence": "The alchemists sought to transform lead into gold."
+  },
+  {
+    "name": "convert",
+    "trans": [
+      "改变信仰， 皈依； 转变， 转化； 改装"
+    ],
+    "usphone": "kən'vɝt",
+    "ukphone": "kən'vɜːt",
+    "e_mean": [
+      "change the nature, purpose, or function of something"
+    ],
+    "speech": "verb",
+    "sentence": "They were all converts to Islam."
+  },
+  {
+    "name": "shift",
+    "trans": [
+      "移动，转移；改变，转变",
+      "转换， 转变； 轮班"
+    ],
+    "usphone": "ʃɪft",
+    "ukphone": "ʃɪft",
+    "e_mean": [
+      "move very slightly"
+    ],
+    "speech": "verb",
+    "sentence": "Just last week she bought a new shift at the market."
+  },
+  {
+    "name": "turn",
+    "trans": [
+      "转；翻.turning旋转；转弯处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "move around an axis or a center"
+    ],
+    "speech": "verb",
+    "sentence": "They say they can turn the parts in two days."
+  },
+  {
+    "name": "adapt",
+    "trans": [
+      "使适合； 改编； 适应"
+    ],
+    "usphone": "ə'dæpt",
+    "ukphone": "ə'dæpt",
+    "e_mean": [
+      "make fit for, or change to suit a new purpose"
+    ],
+    "speech": "verb",
+    "sentence": "to adapt a story for the stage"
+  },
+  {
+    "name": "adjust",
+    "trans": [
+      "校准； 调节； 使…适应"
+    ],
+    "usphone": "ə'dʒʌst",
+    "ukphone": "ə'dʒʌst",
+    "e_mean": [
+      "alter or regulate so as to conform to a standard"
+    ],
+    "speech": "verb",
+    "sentence": "Morimoto's recipes are adjusted to suit the American palate."
+  },
+  {
+    "name": "pinpoint",
+    "trans": [
+      "精确指明…的位置针尖/极小的事物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the sharp point of a pin"
+    ],
+    "speech": "noun",
+    "sentence": "The investigators tried to pinpoint the source of the flames."
+  },
+  {
+    "name": "accurate",
+    "trans": [
+      "正确无误的； 精确的"
+    ],
+    "usphone": "'ækjərət",
+    "ukphone": "'ækjərət",
+    "e_mean": [
+      "characterized by perfect conformity to fact or truth "
+    ],
+    "speech": "adjective",
+    "sentence": "accurate knowledge"
+  },
+  {
+    "name": "correct",
+    "trans": [
+      "正确的.correction改正\nincorrect错误的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "free from error; especially conforming to fact or truth"
+    ],
+    "speech": "adjective",
+    "sentence": "The navigator corrected the course of the ship."
+  },
+  {
+    "name": "error",
+    "trans": [
+      "错误，过失"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a wrong action attributable to bad judgment or ignorance"
+    ],
+    "speech": "noun",
+    "sentence": "Remove that line of code and the script should stop erroring there."
+  },
+  {
+    "name": "flaw",
+    "trans": [
+      "缺点； 瑕疵"
+    ],
+    "usphone": "flɔ",
+    "ukphone": "flɔː",
+    "e_mean": [
+      "an imperfection in an object or machine"
+    ],
+    "speech": "noun",
+    "sentence": "That vase has a flaw."
+  },
+  {
+    "name": "fault",
+    "trans": [
+      "缺点， 瑕疵， 毛病"
+    ],
+    "usphone": "fɔlt",
+    "ukphone": "fɔːlt",
+    "e_mean": [
+      "an imperfection in an object or machine"
+    ],
+    "speech": "noun",
+    "sentence": "No! This is my fault, not yours."
+  },
+  {
+    "name": "stumble",
+    "trans": [
+      "犯错误/绊脚.~over在…绊了一下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "miss a step and fall or nearly fall"
+    ],
+    "speech": "verb",
+    "sentence": "He stumbled over a rock."
+  },
+  {
+    "name": "graphic",
+    "trans": [
+      "文字的； 生动的， 形象的； 绘画的， 图表的"
+    ],
+    "usphone": "'græfɪk",
+    "ukphone": "'græfɪk",
+    "e_mean": [
+      "written or drawn or engraved"
+    ],
+    "speech": "adjective",
+    "sentence": "I've just played this new computer game: the graphics are amazing."
+  },
+  {
+    "name": "creative",
+    "trans": [
+      "创造性的； 创作的"
+    ],
+    "usphone": "krɪ'etɪv",
+    "ukphone": "kri'eɪtɪv",
+    "e_mean": [
+      "having the ability or power to invent or make something"
+    ],
+    "speech": "adjective",
+    "sentence": "He is a visionary creative."
+  },
+  {
+    "name": "inventive",
+    "trans": [
+      "发明的， 创造的； 善于发明创造的"
+    ],
+    "usphone": "ɪn'vɛntɪv",
+    "ukphone": "ɪn'ventɪv",
+    "e_mean": [
+      "marked by independence and creativity in thought or action"
+    ],
+    "speech": "adjective",
+    "sentence": "an inventive pursuit"
+  },
+  {
+    "name": "conductive",
+    "trans": [
+      "能传导电的， 导电的"
+    ],
+    "usphone": "kən'dʌktɪv",
+    "ukphone": "kən'dʌktɪv",
+    "e_mean": [
+      "having the quality or power of conducting heat or electricity or sound; exhibiting conductivity"
+    ],
+    "speech": "adjective",
+    "sentence": "Distilled water is very slightly electrically conductive."
+  },
+  {
+    "name": "presumably",
+    "trans": [
+      "推测起来， 大概"
+    ],
+    "usphone": "prɪ'zuməbli",
+    "ukphone": "prɪ'zjuːməbli",
+    "e_mean": [
+      "by reasonable assumption"
+    ],
+    "speech": "adverb",
+    "sentence": "Presumably, he will attend the opening."
+  },
+  {
+    "name": "efficiency",
+    "trans": [
+      "效率； 功效， 效能"
+    ],
+    "usphone": "ɪˈfɪʃənsɪ",
+    "ukphone": "ɪ'fɪʃnsi",
+    "e_mean": [
+      "skillfulness in avoiding wasted time and effort"
+    ],
+    "speech": "noun",
+    "sentence": "The efficiency of the planning department is deplorable."
+  },
+  {
+    "name": "regularity",
+    "trans": [
+      "规律性， 规则性； 整齐， 匀称"
+    ],
+    "usphone": "ˌrɛɡjəˈlærətɪ",
+    "ukphone": "ˌregju'lærəti",
+    "e_mean": [
+      "the quality of being characterized by a fixed rate"
+    ],
+    "speech": "noun",
+    "sentence": "I have been watching that show with regularity."
+  },
+  {
+    "name": "bin",
+    "trans": [
+      "大箱子； 仓"
+    ],
+    "usphone": "bɪn",
+    "ukphone": "bɪn",
+    "e_mean": [
+      "a container; usually has a lid"
+    ],
+    "speech": "noun",
+    "sentence": "a corn bin; a wine bin; a coal bin"
+  },
+  {
+    "name": "deplete",
+    "trans": [
+      "倒空； 枯竭； 消耗"
+    ],
+    "usphone": "dɪ'plit",
+    "ukphone": "dɪ'pliːt",
+    "e_mean": [
+      "use up, as resources or materials"
+    ],
+    "speech": "verb",
+    "sentence": "Certain medications can deplete vitamin D."
+  },
+  {
+    "name": "particulate",
+    "trans": [
+      "粒子状的，微粒的，颗粒的",
+      "粒子， 微粒状物质"
+    ],
+    "usphone": "pɚ'tɪkjə,let",
+    "ukphone": "pə'tɪkjəl3ɪt",
+    "e_mean": [
+      "composed of distinct particles"
+    ],
+    "speech": "adjective",
+    "sentence": "Particulates in engine oil can abrade moving parts."
+  },
+  {
+    "name": "arousal",
+    "trans": [
+      "唤起， 激起"
+    ],
+    "usphone": "ə'raʊzl",
+    "ukphone": "ə'rauzl",
+    "e_mean": [
+      "a state of heightened physiological activity"
+    ],
+    "speech": "noun",
+    "sentence": "bodily arousal"
+  },
+  {
+    "name": "create",
+    "trans": [
+      "创造， 创作；  产生"
+    ],
+    "usphone": "krɪ'et",
+    "ukphone": "kri'eɪt",
+    "e_mean": [
+      "bring into existence"
+    ],
+    "speech": "verb",
+    "sentence": "You can create the color orange by mixing yellow and red."
+  },
+  {
+    "name": "renew",
+    "trans": [
+      "重新开始； 恢复； 更换， 更新； 续借"
+    ],
+    "usphone": "rɪ'nʊ",
+    "ukphone": "rɪ'njuː",
+    "e_mean": [
+      "reestablish on an improved basis"
+    ],
+    "speech": "verb",
+    "sentence": "I'd like to renew these three books. Did you know that you can renew online?"
+  },
+  {
+    "name": "conserve",
+    "trans": [
+      "保护； 保存， 储存； 节约"
+    ],
+    "usphone": "kən'sɝv",
+    "ukphone": "kən'sɜːv",
+    "e_mean": [
+      "keep in safety and protect from harm, loss, or destruction"
+    ],
+    "speech": "verb",
+    "sentence": "to conserve fruits with sugar"
+  },
+  {
+    "name": "technology",
+    "trans": [
+      "技术.advanced~先进的技术"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the practical application of science to commerce or industry"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "technique",
+    "trans": [
+      "技巧， 技艺； 技术， 技能"
+    ],
+    "usphone": "tɛk'nik",
+    "ukphone": "tek'niːk",
+    "e_mean": [
+      "a practical method or art applied to some particular task"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "polytechnic",
+    "trans": [
+      "有关多种工艺的理工学院"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a technical school offering instruction in many industrial arts and applied sciences"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "engineer",
+    "trans": [
+      "工程师，技师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person who uses scientific knowledge to solve problems"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "gizmo",
+    "trans": [
+      "小装置"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small mechanical device or gadget"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "disclose",
+    "trans": [
+      "揭露； 透露； 公开"
+    ],
+    "usphone": "dɪs'kloz",
+    "ukphone": "dɪs'kləuz",
+    "e_mean": [
+      "expose to view as by removing a cover"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "expose",
+    "trans": [
+      "使暴露， 揭露"
+    ],
+    "usphone": "ɪk'spoz；ek-",
+    "ukphone": "ɪk'spəuz",
+    "e_mean": [
+      "show; make visible or apparent"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "realm",
+    "trans": [
+      "界， 领域， 范围； 王国， 国度"
+    ],
+    "usphone": "rɛlm",
+    "ukphone": "relm",
+    "e_mean": [
+      "a domain in which something is dominant"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "browser",
+    "trans": [
+      "浏览器"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a viewer who looks around casually without seeking anything"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "microcomputer",
+    "trans": [
+      "微型计算机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small digital computer based on a microprocessor and designed to be used by one person at a time"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "laptop",
+    "trans": [
+      ".笔记本电脑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a portable computer"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "software",
+    "trans": [
+      "软件.hardware硬件,五金器具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "written programs operating on a computer system "
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "loudspeaker",
+    "trans": [
+      "扬声器，喇叭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "electro-acoustic transducer that converts electrical signals into sounds loud enough to be heard at a distance"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "microphone",
+    "trans": [
+      "话筒，麦克风"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "device for converting sound waves into electrical energy"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cassette",
+    "trans": [
+      "盒式录音带"
+    ],
+    "usphone": "kə'sɛt",
+    "ukphone": "kə'set",
+    "e_mean": [
+      "a flat case holding magnetic tape for playing sound or video"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "audio",
+    "trans": [
+      "听觉的； 声音的"
+    ],
+    "usphone": "'ɔdɪo",
+    "ukphone": "'ɔːdiəu",
+    "e_mean": [
+      "a transmitted signal you can hear"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "fantasy",
+    "trans": [
+      "想象"
+    ],
+    "usphone": "'fæntəsi",
+    "ukphone": "'fæntəsi",
+    "e_mean": [
+      "imagination unrestricted by reality"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "specialise",
+    "trans": [
+      "专门研究， 专攻； 专用于， 使适应特殊目的"
+    ],
+    "usphone": "'speʃəlaiz",
+    "ukphone": "'speʃəlaɪz",
+    "e_mean": [
+      "devote oneself to a special area of work"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "utilise",
+    "trans": [
+      "利用， 运用"
+    ],
+    "usphone": "'ju:tilaiz",
+    "ukphone": "'juːtəlaɪz",
+    "e_mean": [
+      "put into service"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "usage",
+    "trans": [
+      "使用，用法"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of employing"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "appliance",
+    "trans": [
+      "用具， 器具"
+    ],
+    "usphone": "ə'plaɪəns",
+    "ukphone": "ə'plaɪəns",
+    "e_mean": [
+      "a small mechanical device or gadget"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "equipment",
+    "trans": [
+      "设备， 装备"
+    ],
+    "usphone": "ɪ'kwɪpmənt",
+    "ukphone": "ɪ'kwɪpmənt",
+    "e_mean": [
+      "an instrumentality needed for an undertaking"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "estimate",
+    "trans": [
+      "估计，估量；估价；评价['estImət]",
+      "估计， 估量； 估价； 评价"
+    ],
+    "usphone": "'ɛstə,met",
+    "ukphone": "'estɪmeɪt",
+    "e_mean": [
+      "judge tentatively"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "microscope",
+    "trans": [
+      "显微镜"
+    ],
+    "usphone": "'maɪkrəskop",
+    "ukphone": "'maɪkrəskəup",
+    "e_mean": [
+      "magnifier of the image of small objects"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "lens",
+    "trans": [
+      "透镜； 镜片； 镜头"
+    ],
+    "usphone": "lɛnz",
+    "ukphone": "lenz",
+    "e_mean": [
+      "a transparent optical device used to form images"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sensor",
+    "trans": [
+      "传感器.sensitivity敏感.sensory感觉的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a device that responds to a signal or stimulus"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "multimedia",
+    "trans": [
+      "多媒体"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the use of many types of communication simultaneously"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "generator",
+    "trans": [
+      ".发电.generate产生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "someone who originates, causes, or initiates something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pivot",
+    "trans": [
+      "枢轴，支点；中心，重点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "axis consisting of a shaft supporting something that turns"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "drainage",
+    "trans": [
+      "排水系统.improvethe~改善排水系统"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "emptying something accomplished by allowing liquid to run out of it"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sewage",
+    "trans": [
+      "污水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "waste matter carried away in drains"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "ventilation",
+    "trans": [
+      "空气流通； 通风设备， 通风方法"
+    ],
+    "usphone": ",vɛntl'eʃən",
+    "ukphone": "ˌventɪ'leɪʃn",
+    "e_mean": [
+      "the act of supplying fresh air and getting rid of foul air"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "simplify",
+    "trans": [
+      "使简化"
+    ],
+    "usphone": "'sɪmplɪfaɪ",
+    "ukphone": "'sɪmplɪfaɪ",
+    "e_mean": [
+      "make easier or reduce in complexity or extent"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "purify",
+    "trans": [
+      "使洁净， 使纯洁， 净化； 提纯， 精炼"
+    ],
+    "usphone": "'pjʊrɪfaɪ",
+    "ukphone": "'pjuərɪfaɪ",
+    "e_mean": [
+      "distill or remove contaminants from"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "phase",
+    "trans": [
+      "阶段，时期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any distinct time period in a sequence of events"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "facilitate",
+    "trans": [
+      "使便利， 使容易； 推动， 帮助"
+    ],
+    "usphone": "fə'sɪlə'tet",
+    "ukphone": "fə'sɪlɪteɪt",
+    "e_mean": [
+      "make easier"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "alter",
+    "trans": [
+      "改变； 变动"
+    ],
+    "usphone": "'ɔltɚ",
+    "ukphone": "'ɔːltə(r)",
+    "e_mean": [
+      "cause to change; make different"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "precise",
+    "trans": [
+      "精确的， 准确的； 严谨的"
+    ],
+    "usphone": "prɪ'saɪs",
+    "ukphone": "prɪ'saɪs",
+    "e_mean": [
+      "sharply exact or accurate or delimited"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "contingency",
+    "trans": [
+      "偶然性， 可能性； 意外事件； 附带事件"
+    ],
+    "usphone": "kən'tɪndʒənsi",
+    "ukphone": "kən'tɪndʒənsi",
+    "e_mean": [
+      "the state of being dependent on something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "circumstance",
+    "trans": [
+      "环境；"
+    ],
+    "usphone": "ˈsɝ​kəmˌstəns",
+    "ukphone": "'sɜːkəmstəns",
+    "e_mean": [
+      "the set of facts that surround a situation or event"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "shuttle",
+    "trans": [
+      "航天飞机"
+    ],
+    "usphone": "'ʃʌtl",
+    "ukphone": "'ʃʌtl",
+    "e_mean": [
+      "bobbin that passes the weft thread between the warp threads"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cinematography",
+    "trans": [
+      "电影摄影术"
+    ],
+    "usphone": "'sɪnəmə'tɑgrəfi",
+    "ukphone": "ˌsɪnəmə'tɒgrəfi",
+    "e_mean": [
+      "the art of filming a movie"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "diversify",
+    "trans": [
+      "多样化"
+    ],
+    "usphone": "daɪˈvɜrsəˌfaɪ",
+    "ukphone": "daɪ'vɜːsɪfaɪ",
+    "e_mean": [
+      "vary in order to spread risk or to expand"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "newsletter",
+    "trans": [
+      "时事通讯， 业务通讯"
+    ],
+    "usphone": "'nuzlɛtɚ",
+    "ukphone": "'njuːzletə(r)",
+    "e_mean": [
+      "report or open letter giving informal or confidential news of interest to a special group"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "electrical",
+    "trans": [
+      "电的， 电学的， 有关电的"
+    ],
+    "usphone": "ɪ'lɛktrɪkl",
+    "ukphone": "ɪ'lektrɪkl",
+    "e_mean": [
+      "relating to or concerned with electricity"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "dimensional",
+    "trans": [
+      "…度空间的， …维的"
+    ],
+    "usphone": "dɪ'menʃənəl",
+    "ukphone": "daɪ'menʃnl",
+    "e_mean": [
+      "relating to coordinates that determine a position in space"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "asymmetry",
+    "trans": [
+      "不对称"
+    ],
+    "usphone": "e'sɪmɪtri",
+    "ukphone": "ˌ3ɪ'sɪmətri",
+    "e_mean": [
+      "a lack of balance or proportion among the parts of something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "aeronautics",
+    "trans": [
+      "航空学"
+    ],
+    "usphone": ",ɛrə'nɔtɪks",
+    "ukphone": "ˌeərə'nɔːtɪks",
+    "e_mean": [
+      "the theory and practice of navigation through air or space"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "precision",
+    "trans": [
+      "准确， 精确； 精确度"
+    ],
+    "usphone": "prɪ'sɪʒn",
+    "ukphone": "prɪ'sɪʒn",
+    "e_mean": [
+      "the quality of being exact"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "synthesis",
+    "trans": [
+      "综合， 合成； 综合体"
+    ],
+    "usphone": "'sɪnθəsɪs",
+    "ukphone": "'sɪnθəsɪs",
+    "e_mean": [
+      "the combination of ideas into a complex whole"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "maximise",
+    "trans": [
+      "使增加到最大限度， 最佳化； 充分利用"
+    ],
+    "usphone": "'mæksimaiz",
+    "ukphone": "'mæksɪmaɪz",
+    "e_mean": [
+      "make as big or large as possible"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "precedent",
+    "trans": [
+      "先例， 范例； 惯例"
+    ],
+    "usphone": "'prɛsɪdənt",
+    "ukphone": "'presɪdənt",
+    "e_mean": [
+      "an example that is used to justify similar occurrences"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "aerospace",
+    "trans": [
+      "宇宙空间； 航空航天技术"
+    ],
+    "usphone": "'ɛrospes",
+    "ukphone": "'eərəuspeɪs",
+    "e_mean": [
+      "the atmosphere and outer space considered as a whole"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "episodic",
+    "trans": [
+      "偶然发生的， 不定期的； 由许多片段组成的， 松散的"
+    ],
+    "usphone": ",ɛpɪ'sɑdɪk",
+    "ukphone": "ˌepɪ'sɒdɪk",
+    "e_mean": [
+      "divided into or composed of distinct scenes or events"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "accuracy",
+    "trans": [
+      "准确， 精确"
+    ],
+    "usphone": "'ækjərəsi",
+    "ukphone": "'ækjərəsi",
+    "e_mean": [
+      "the quality of being near to the true value"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "setting",
+    "trans": [
+      "环境； 背景； 安置"
+    ],
+    "usphone": "'sɛtɪŋ",
+    "ukphone": "'setɪŋ",
+    "e_mean": [
+      "the physical position of something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "inductive reasoning",
+    "trans": [
+      "[计][数] 归纳推理；归纳法"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "reasoning from detailed facts to general principles"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "contrive",
+    "trans": [
+      "计划， 图谋； 设计； 发明"
+    ],
+    "usphone": "kən'traɪv",
+    "ukphone": "kən'traɪv",
+    "e_mean": [
+      "make or work out a plan for; devise"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "mingle",
+    "trans": [
+      "混合， 联结； 相往来； 混杂其中"
+    ],
+    "usphone": "'mɪŋɡl",
+    "ukphone": "'mɪŋgl",
+    "e_mean": [
+      "bring or combine together or with something else"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "origin",
+    "trans": [
+      "起源；"
+    ],
+    "usphone": "'ɔrɪdʒɪn",
+    "ukphone": "'ɒrɪdʒɪn",
+    "e_mean": [
+      "the place where something begins"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "terminology",
+    "trans": [
+      "专门用语， 术语"
+    ],
+    "usphone": ",tɝmə'nɑlədʒi",
+    "ukphone": "ˌtɜːmɪ'nɒlədʒi",
+    "e_mean": [
+      "a system of words used to name things in a discipline"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "condensation",
+    "trans": [
+      "浓缩， 凝结"
+    ],
+    "usphone": ",kɑndɛn'seʃən",
+    "ukphone": "ˌkɒnden'seɪʃn",
+    "e_mean": [
+      "process of changing from a gas to a liquid or solid state"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "perception",
+    "trans": [
+      "看法； 感觉； 洞察力"
+    ],
+    "usphone": "pɚ'sɛpʃən",
+    "ukphone": "pə'sepʃn",
+    "e_mean": [
+      "the process of becoming aware through the senses"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "epitomise",
+    "trans": [
+      "集中体现； 概括"
+    ],
+    "usphone": "i'pitəmaiz",
+    "ukphone": "ɪ'pɪtəmaɪz",
+    "e_mean": [
+      "embody the essential characteristics of or be a typical example of"
+    ],
+    "speech": "verb"
+  }
+]

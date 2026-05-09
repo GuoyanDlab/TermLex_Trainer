@@ -1,0 +1,1902 @@
+[
+  {
+    "name": "luxurious",
+    "trans": [
+      "奢侈的，豪华的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "furnishing gratification to the senses"
+    ],
+    "speech": "adjective",
+    "sentence": "a luxurious hotel suite"
+  },
+  {
+    "name": "extravagant",
+    "trans": [
+      "奢侈的， 铺张的； 无节制的， 过分的， 放肆的"
+    ],
+    "usphone": "ɪk'strævəgənt",
+    "ukphone": "ɪk'strævəgənt",
+    "e_mean": [
+      "recklessly wasteful"
+    ],
+    "speech": "adjective",
+    "sentence": "extravagant acts, praise, or abuse"
+  },
+  {
+    "name": "clasp",
+    "trans": [
+      "搭扣扣住"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "hold firmly and tightly"
+    ],
+    "speech": "verb",
+    "sentence": "I always have a hard time working the clasp on this necklace!"
+  },
+  {
+    "name": "glove",
+    "trans": [
+      "手套"
+    ],
+    "usphone": "ɡlʌv",
+    "ukphone": "glʌv",
+    "e_mean": [
+      "handwear: covers the hand and wrist"
+    ],
+    "speech": "noun",
+    "sentence": "I wore gloves to keep my hands warm."
+  },
+  {
+    "name": "brim",
+    "trans": [
+      "边缘；帽檐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the top edge of a vessel or other container"
+    ],
+    "speech": "noun",
+    "sentence": "The toy box was filled to the brim with stuffed animals."
+  },
+  {
+    "name": "scarf",
+    "trans": [
+      ".围巾，头巾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a garment worn around the head or neck"
+    ],
+    "speech": "noun",
+    "sentence": "You sure scarfed that pizza."
+  },
+  {
+    "name": "wallet",
+    "trans": [
+      "钱包，皮夹子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a pocket-size case for holding papers and paper money"
+    ],
+    "speech": "noun",
+    "sentence": "The thief stole all the money and credit cards out of the old man's wallet."
+  },
+  {
+    "name": "vest",
+    "trans": [
+      "汗衫；[美]西装背心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a sleeveless garment worn underneath a coat"
+    ],
+    "speech": "noun",
+    "sentence": "to vest a court with power to try cases of life and death"
+  },
+  {
+    "name": "wrap",
+    "trans": [
+      "裹； 包； 缠绕"
+    ],
+    "usphone": "ræp",
+    "ukphone": "ræp",
+    "e_mean": [
+      "cloak that is folded or wrapped around a person"
+    ],
+    "speech": "noun",
+    "sentence": "A snake wraps itself around its prey."
+  },
+  {
+    "name": "cloak",
+    "trans": [
+      "斗篷；覆盖物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a loose outer garment"
+    ],
+    "speech": "noun",
+    "sentence": "Night hid her movements with its cloak of darkness."
+  },
+  {
+    "name": "collar",
+    "trans": [
+      "衣领，项圈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a band that fits around the neck and is usually folded over"
+    ],
+    "speech": "noun",
+    "sentence": "a collar of brawn"
+  },
+  {
+    "name": "chain",
+    "trans": [
+      "链，链条；一连串，一系列；",
+      "用链条拴住"
+    ],
+    "usphone": "tʃen",
+    "ukphone": "tʃeɪn",
+    "e_mean": [
+      "a series of (usually metal) rings or links fitted into one another to make a flexible ligament"
+    ],
+    "speech": "noun",
+    "sentence": "He wore a gold chain around the neck."
+  },
+  {
+    "name": "display",
+    "trans": [
+      "陈列， 展览； 显示， 表现"
+    ],
+    "usphone": "dɪ'sple",
+    "ukphone": "dɪs'pleɪ",
+    "e_mean": [
+      "something intended to communicate a particular impression"
+    ],
+    "speech": "noun",
+    "sentence": "The trapeze artist put on an amazing acrobatic display."
+  },
+  {
+    "name": "ornamental",
+    "trans": [
+      "装饰性的， 装饰的"
+    ],
+    "usphone": ",ɔrnə'mɛntl",
+    "ukphone": "ˌɔːnə'mentl",
+    "e_mean": [
+      "serving an esthetic rather than a useful purpose"
+    ],
+    "speech": "adjective",
+    "sentence": "Some think it most ornamental to wear their bracelets on their wrists; others, about their ankles."
+  },
+  {
+    "name": "enjoyable",
+    "trans": [
+      "令人愉快的， 使人快乐的"
+    ],
+    "usphone": "ɪn'dʒɔɪəbl",
+    "ukphone": "ɪn'dʒɔɪəbl",
+    "e_mean": [
+      "affording satisfaction or pleasure"
+    ],
+    "speech": "adjective",
+    "sentence": "That was an enjoyable day; I had a lot of fun."
+  },
+  {
+    "name": "discrepancy",
+    "trans": [
+      "不同； 矛盾"
+    ],
+    "usphone": "dɪs'krɛpənsi",
+    "ukphone": "dɪs'krepənsi",
+    "e_mean": [
+      "a difference between conflicting facts or claims or opinions"
+    ],
+    "speech": "noun",
+    "sentence": "They found a discrepancy between the first set of test results and the second, and they're still trying to figure out why."
+  },
+  {
+    "name": "imagination",
+    "trans": [
+      "想象； 想象出来的事物"
+    ],
+    "usphone": "ɪ,mædʒɪ'neʃən",
+    "ukphone": "ɪˌmædʒɪ'neɪʃn",
+    "e_mean": [
+      "the ability to form mental pictures of things or events"
+    ],
+    "speech": "noun",
+    "sentence": "Imagination is one of the most advanced human faculties."
+  },
+  {
+    "name": "amateur",
+    "trans": [
+      "业余的",
+      "外行；业余爱好者"
+    ],
+    "usphone": "ˈæmətər",
+    "ukphone": "'æmətə(r)",
+    "e_mean": [
+      "someone who pursues a study or sport as a pastime"
+    ],
+    "speech": "noun",
+    "sentence": "The contest is only open to amateurs."
+  },
+  {
+    "name": "household",
+    "trans": [
+      "家庭的， 家用的， 普通的； 家喻户晓的",
+      "家庭，户，全家人"
+    ],
+    "usphone": "'haʊshold",
+    "ukphone": "'haushəuld",
+    "e_mean": [
+      "a social unit living together in a residence"
+    ],
+    "speech": "noun",
+    "sentence": "a household word; a household name"
+  },
+  {
+    "name": "bent",
+    "trans": [
+      "被弄弯的，弯曲的",
+      "爱好， 天赋"
+    ],
+    "usphone": "bɛnt",
+    "ukphone": "bent",
+    "e_mean": [
+      "stooped (used of the back and knees)"
+    ],
+    "speech": "adjective",
+    "sentence": "Don’t bend your knees."
+  },
+  {
+    "name": "allege",
+    "trans": [
+      "断言， 宣称"
+    ],
+    "usphone": "ə'lɛdʒ",
+    "ukphone": "ə'ledʒ",
+    "e_mean": [
+      "report or maintain"
+    ],
+    "speech": "verb",
+    "sentence": "The agency alleged my credit history had problems."
+  },
+  {
+    "name": "positive",
+    "trans": [
+      "明确的； 肯定的； 积极的"
+    ],
+    "usphone": "'pɑzətɪv",
+    "ukphone": "'pɒzətɪv",
+    "e_mean": [
+      "characterized by or displaying affirmation or acceptance"
+    ],
+    "speech": "adjective",
+    "sentence": "I’m absolutely positive you've spelt that wrong."
+  },
+  {
+    "name": "favourite",
+    "trans": [
+      "特别喜欢的，宠爱的",
+      "特别喜欢的人或物； 亲信"
+    ],
+    "usphone": "'fevərɪt",
+    "ukphone": "'feɪvərɪt",
+    "e_mean": [
+      "something regarded with special favor or liking"
+    ],
+    "speech": "noun",
+    "sentence": "The teacher's favourite always went first."
+  },
+  {
+    "name": "impression",
+    "trans": [
+      "印象， 感想； 印记， 压痕"
+    ],
+    "usphone": "ɪm'prɛʃən",
+    "ukphone": "ɪm'preʃn",
+    "e_mean": [
+      "a vague idea in which some confidence is placed"
+    ],
+    "speech": "noun",
+    "sentence": "His head made an impression on the pillow."
+  },
+  {
+    "name": "mainstream",
+    "trans": [
+      "主流的",
+      "主要倾向，主要趋势，主流；主流派爵士乐"
+    ],
+    "usphone": "'menstrim",
+    "ukphone": "'meɪnstriːm",
+    "e_mean": [
+      "the prevailing current of thought"
+    ],
+    "speech": "noun",
+    "sentence": "His ideas were well outside the mainstream, but he presented them intelligently, and we were impressed if not convinced."
+  },
+  {
+    "name": "trinket",
+    "trans": [
+      "小装饰品； 不值钱的珠宝"
+    ],
+    "usphone": "'trɪŋkɪt",
+    "ukphone": "'trɪŋkɪt",
+    "e_mean": [
+      "a small cheap ornament, knickknack, or piece of jewelry"
+    ],
+    "speech": "noun",
+    "sentence": "That little trinket around her neck must have cost a bundle."
+  },
+  {
+    "name": "smart",
+    "trans": [
+      "漂亮的， 时髦的； 高明的"
+    ],
+    "usphone": "smɑrt",
+    "ukphone": "smɑːt",
+    "e_mean": [
+      "characterized by quickness and ease in learning"
+    ],
+    "speech": "adjective",
+    "sentence": "After being hit with a pitch, the batter exclaimed \"Ouch, my arm smarts!\""
+  },
+  {
+    "name": "gleam",
+    "trans": [
+      "闪烁；流露",
+      "闪光"
+    ],
+    "usphone": "ɡlim",
+    "ukphone": "gliːm",
+    "e_mean": [
+      "a flash of light"
+    ],
+    "speech": "noun",
+    "sentence": "The rescue workers preserved a gleam of optimism that they might still survive."
+  },
+  {
+    "name": "pearl",
+    "trans": [
+      "珍珠"
+    ],
+    "usphone": "pɝl",
+    "ukphone": "pɜːl",
+    "e_mean": [
+      "a smooth round structure in the shell of a clam or oyster"
+    ],
+    "speech": "noun",
+    "sentence": "to pearl barley"
+  },
+  {
+    "name": "fashion",
+    "trans": [
+      "方式； 流行款式； 时装"
+    ],
+    "usphone": "'fæʃən",
+    "ukphone": "'fæʃn",
+    "e_mean": [
+      "the latest and most admired style in clothes or behavior"
+    ],
+    "speech": "noun",
+    "sentence": "Check out the latest in fashion."
+  },
+  {
+    "name": "available",
+    "trans": [
+      "可获得的， 可得到的； 可用的； 有空的"
+    ],
+    "usphone": "ə'veləbl",
+    "ukphone": "ə'veɪləbl",
+    "e_mean": [
+      "obtainable or accessible and ready for use or service"
+    ],
+    "speech": "adjective",
+    "sentence": "We have an available candidate."
+  },
+  {
+    "name": "fashionable",
+    "trans": [
+      "流行的.comeintofashion流行起来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "being or in accordance with current social trends"
+    ],
+    "speech": "adjective",
+    "sentence": "a fashionable dress; a fashionable man"
+  },
+  {
+    "name": "trend",
+    "trans": [
+      "伸向； 倾向",
+      "倾向；趋势；流行，时尚"
+    ],
+    "usphone": "trɛnd",
+    "ukphone": "trend",
+    "e_mean": [
+      "a general tendency to change, as of opinion"
+    ],
+    "speech": "noun",
+    "sentence": "the trend of a coastline"
+  },
+  {
+    "name": "tendency",
+    "trans": [
+      "倾向， 趋向"
+    ],
+    "usphone": "'tɛndənsi",
+    "ukphone": "'tendənsi",
+    "e_mean": [
+      "an inclination to do something"
+    ],
+    "speech": "noun",
+    "sentence": "Denim has a tendency to fade."
+  },
+  {
+    "name": "tend",
+    "trans": [
+      "倾向于， 趋于； 照料； 招待"
+    ],
+    "usphone": "tɛnd",
+    "ukphone": "tend",
+    "e_mean": [
+      "have a disposition to do or be something; be inclined"
+    ],
+    "speech": "verb",
+    "sentence": "It tends to snow here in winter."
+  },
+  {
+    "name": "current",
+    "trans": [
+      "流通的；流动的；现行的，"
+    ],
+    "usphone": "kɝ​ənt",
+    "ukphone": "'kʌrənt",
+    "e_mean": [
+      "occurring in or belonging to the present time"
+    ],
+    "speech": "adjective",
+    "sentence": "current events; current leaders; current negotiations"
+  },
+  {
+    "name": "popularity",
+    "trans": [
+      "普及， 流行"
+    ],
+    "usphone": ",pɑpju'lærəti",
+    "ukphone": "ˌpɒpjʊ'lærəti",
+    "e_mean": [
+      "the quality of being widely admired or sought after"
+    ],
+    "speech": "noun",
+    "sentence": "Politicians are rarely known for their popularity."
+  },
+  {
+    "name": "vogue",
+    "trans": [
+      "流行。invogue流行的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a current state of general acceptance and use"
+    ],
+    "speech": "noun",
+    "sentence": "Miniskirts were the vogue in the '60s."
+  },
+  {
+    "name": "prevail",
+    "trans": [
+      "流行， 盛行； 占优势， 战胜"
+    ],
+    "usphone": "pri'vel",
+    "ukphone": "prɪ'veɪl",
+    "e_mean": [
+      "be larger in number, quantity, power, status or importance"
+    ],
+    "speech": "verb",
+    "sentence": "Red colour prevails in the Canadian flag."
+  },
+  {
+    "name": "prevailing",
+    "trans": [
+      "盛行的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "most frequent or common"
+    ],
+    "speech": "adjective",
+    "sentence": "Red colour prevails in the Canadian flag."
+  },
+  {
+    "name": "model",
+    "trans": [
+      "模型/范/模特儿;使模仿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a representation of something, often on a smaller scale"
+    ],
+    "speech": "noun",
+    "sentence": "The beautiful model had her face on the cover of almost every fashion magazine imaginable."
+  },
+  {
+    "name": "icon",
+    "trans": [
+      "偶像；图标"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a visual representation produced on a surface"
+    ],
+    "speech": "noun",
+    "sentence": "That man is an icon in the business; he personifies loyalty and good business sense."
+  },
+  {
+    "name": "jewellery",
+    "trans": [
+      "珠宝，首饰=jewelry"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an adornment made of precious metals and set with gems"
+    ],
+    "speech": "noun",
+    "sentence": "She had more jewellery ornamented about her than any three ladies needed."
+  },
+  {
+    "name": "button",
+    "trans": [
+      "纽扣；按钮扣上……的纽扣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a round fastener sewn to shirts and coats"
+    ],
+    "speech": "noun",
+    "sentence": "April fastened the buttons of her overcoat to keep out the wind."
+  },
+  {
+    "name": "slipper",
+    "trans": [
+      "拖鞋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "low footwear that can be slipped on and off easily"
+    ],
+    "speech": "noun",
+    "sentence": "Get out of bed, put on your slippers, and come downstairs."
+  },
+  {
+    "name": "boot",
+    "trans": [
+      "靴子； 行李箱； [the ～] 解雇"
+    ],
+    "usphone": "but",
+    "ukphone": "buːt",
+    "e_mean": [
+      "footwear that covers the whole foot and lower leg"
+    ],
+    "speech": "noun",
+    "sentence": "I booted the ball toward my teammate."
+  },
+  {
+    "name": "lace",
+    "trans": [
+      "鞋带；花边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a cord that is drawn through eyelets or around hooks"
+    ],
+    "speech": "noun",
+    "sentence": "to lace one's fingers together"
+  },
+  {
+    "name": "jewel",
+    "trans": [
+      "宝石"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a precious or semiprecious stone incorporated into a piece of jewelry"
+    ],
+    "speech": "noun",
+    "sentence": "Galveston was the jewel of Texas prior to the hurricane."
+  },
+  {
+    "name": "gem",
+    "trans": [
+      "宝石；珍品.germ细菌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a crystalline rock that can be cut and polished for jewelry"
+    ],
+    "speech": "noun",
+    "sentence": "She's an absolute gem."
+  },
+  {
+    "name": "adorn",
+    "trans": [
+      "装饰，装扮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "make more attractive, as by adding ornament or color"
+    ],
+    "speech": "verb",
+    "sentence": "a character adorned with every Christian grace"
+  },
+  {
+    "name": "ornament",
+    "trans": [
+      "装饰；"
+    ],
+    "usphone": "'ɔrnəmənt",
+    "ukphone": "'ɔːnəmənt",
+    "e_mean": [
+      "something used to beautify"
+    ],
+    "speech": "noun",
+    "sentence": "We will ornament the windows with trim to make the room seem brighter."
+  },
+  {
+    "name": "embellish",
+    "trans": [
+      "修饰"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "make more attractive, as by adding ornament or color"
+    ],
+    "speech": "verb",
+    "sentence": "The old book cover was embellished with golden letters"
+  },
+  {
+    "name": "pigment",
+    "trans": [
+      "色素；颜料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "dry coloring material"
+    ],
+    "speech": "noun",
+    "sentence": "Chlorophyll is the pigment responsible for most plants' green colouring."
+  },
+  {
+    "name": "masquerade",
+    "trans": [
+      "n•化装舞会化装；假扮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a party of guests wearing costumes and disguises"
+    ],
+    "speech": "noun",
+    "sentence": "I was invited to the masquerade party at their home."
+  },
+  {
+    "name": "veil",
+    "trans": [
+      "面纱；遮蔽物",
+      "蒙着面纱； 掩饰"
+    ],
+    "usphone": "vel",
+    "ukphone": "veɪl",
+    "e_mean": [
+      "a garment that covers the head and face"
+    ],
+    "speech": "noun",
+    "sentence": "a nun's veil"
+  },
+  {
+    "name": "costume",
+    "trans": [
+      "戏装； 成套服装"
+    ],
+    "usphone": "ˈkɑsˌtum",
+    "ukphone": "'kɒstjuːm",
+    "e_mean": [
+      "attire characteristic of a country, time, or social class"
+    ],
+    "speech": "noun",
+    "sentence": "The dancer was wearing Highland costume."
+  },
+  {
+    "name": "fascinate",
+    "trans": [
+      "强烈地吸引， 使着迷"
+    ],
+    "usphone": "'fæsə'net",
+    "ukphone": "'fæsɪneɪt",
+    "e_mean": [
+      "attract; cause to be enamored"
+    ],
+    "speech": "verb",
+    "sentence": "The flickering TV fascinated the cat."
+  },
+  {
+    "name": "decent",
+    "trans": [
+      "大方的， 体面的， 像样的； 正派的， 合乎礼仪的"
+    ],
+    "usphone": "'disnt",
+    "ukphone": "'diːsnt",
+    "e_mean": [
+      "socially or conventionally correct; refined or virtuous"
+    ],
+    "speech": "adjective",
+    "sentence": "Are you decent? May I come in?"
+  },
+  {
+    "name": "exquisite",
+    "trans": [
+      "精致的；雅致的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "delicately beautiful"
+    ],
+    "speech": "adjective",
+    "sentence": "Sourav Ganguly scored an exquisite century in his debut Test match."
+  },
+  {
+    "name": "grace",
+    "trans": [
+      "优美，优雅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "elegance and beauty of movement or expression"
+    ],
+    "speech": "noun",
+    "sentence": "The Princess brought grace to an otherwise dull and boring party."
+  },
+  {
+    "name": "graceful",
+    "trans": [
+      "优雅的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "characterized by beauty of movement, style, or form"
+    ],
+    "speech": "adjective",
+    "sentence": "She is a graceful dancer."
+  },
+  {
+    "name": "tailor",
+    "trans": [
+      "裁缝;专门制作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person whose occupation is making and altering garments"
+    ],
+    "speech": "noun",
+    "sentence": "He works as a tailor on Swanston Street."
+  },
+  {
+    "name": "sew",
+    "trans": [
+      "缝制，缝补"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "create (clothes) with cloth"
+    ],
+    "speech": "verb",
+    "sentence": "Balls were first made of grass or leaves held together by strings, and later of pieces of animal skin sewn together and stuffed with feathers or hay."
+  },
+  {
+    "name": "spin",
+    "trans": [
+      "旋转",
+      "旋转"
+    ],
+    "usphone": "spɪn",
+    "ukphone": "spɪn",
+    "e_mean": [
+      "revolve quickly and repeatedly around one's own axis"
+    ],
+    "speech": "verb",
+    "sentence": "He put some spin on the cue ball."
+  },
+  {
+    "name": "stitch",
+    "trans": [
+      "缝，"
+    ],
+    "usphone": "stɪtʃ",
+    "ukphone": "stɪtʃ",
+    "e_mean": [
+      "a link or loop made by sewing, knitting, or needlework"
+    ],
+    "speech": "noun",
+    "sentence": "cross stitch"
+  },
+  {
+    "name": "needle",
+    "trans": [
+      "针.threadaneedle穿针/纫针"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a sharp pointed implement"
+    ],
+    "speech": "noun",
+    "sentence": "The seamstress threaded the needle to sew on a button."
+  },
+  {
+    "name": "pin",
+    "trans": [
+      "别针/大头针别住/钉住"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small slender (often pointed) piece of wood or metal used to support or fasten or attach things"
+    ],
+    "speech": "noun",
+    "sentence": "Pull the pin out of the grenade before throwing it at the enemy."
+  },
+  {
+    "name": "string",
+    "trans": [
+      "线；弦；细绳；一串",
+      "缚； 扎； 挂； 串起； 使排成一列"
+    ],
+    "usphone": "strɪŋ",
+    "ukphone": "strɪŋ",
+    "e_mean": [
+      "a lightweight cord"
+    ],
+    "speech": "noun",
+    "sentence": "There were stalls for fourteen horses in the squire's stables."
+  },
+  {
+    "name": "thread",
+    "trans": [
+      ".线；螺纹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a fine cord of twisted fibers used in sewing and weaving"
+    ],
+    "speech": "noun",
+    "sentence": "All of these essays have a common thread."
+  },
+  {
+    "name": "strap",
+    "trans": [
+      "带子",
+      "捆扎； 包扎"
+    ],
+    "usphone": "stræp",
+    "ukphone": "stræp",
+    "e_mean": [
+      "an elongated leather strip (or a strip of similar material) for binding things together or holding something in position"
+    ],
+    "speech": "noun",
+    "sentence": "to strap a razor"
+  },
+  {
+    "name": "stripe",
+    "trans": [
+      "条纹"
+    ],
+    "usphone": "straɪp",
+    "ukphone": "straɪp",
+    "e_mean": [
+      "a narrow marking of a different color or texture from the background"
+    ],
+    "speech": "noun",
+    "sentence": "zebra stripes"
+  },
+  {
+    "name": "ribbon",
+    "trans": [
+      "缎带，丝带"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any long object resembling a thin line"
+    ],
+    "speech": "noun",
+    "sentence": "a steel or magnesium ribbon"
+  },
+  {
+    "name": "belt",
+    "trans": [
+      "腰带； 地带"
+    ],
+    "usphone": "bɛlt",
+    "ukphone": "belt",
+    "e_mean": [
+      "a band to tie or buckle around the body"
+    ],
+    "speech": "noun",
+    "sentence": "As part of the act, the fat clown's belt broke, causing his pants to fall down."
+  },
+  {
+    "name": "necklace",
+    "trans": [
+      ".项链"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "jewelry consisting of a cord or chain (often bearing gems) worn about the neck as an ornament (especially by women)"
+    ],
+    "speech": "noun",
+    "sentence": "a necklace of coral islands"
+  },
+  {
+    "name": "bead",
+    "trans": [
+      "珠子； 小滴"
+    ],
+    "usphone": "bid",
+    "ukphone": "biːd",
+    "e_mean": [
+      "a small ball with a hole through the middle"
+    ],
+    "speech": "noun",
+    "sentence": "We now have a bead on the main technical issues for the project"
+  },
+  {
+    "name": "textile",
+    "trans": [
+      "纺织品"
+    ],
+    "usphone": "'tɛkstaɪl",
+    "ukphone": "'tekstaɪl",
+    "e_mean": [
+      "artifact made by weaving or felting or knitting fibers"
+    ],
+    "speech": "noun",
+    "sentence": "A textile beach"
+  },
+  {
+    "name": "woollen",
+    "trans": [
+      "羊毛的=woolen"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or related to or made of wool"
+    ],
+    "speech": "adjective",
+    "sentence": "Put all the woolens in this basket."
+  },
+  {
+    "name": "elegance",
+    "trans": [
+      "文雅，典雅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a refined quality of gracefulness and good taste"
+    ],
+    "speech": "noun",
+    "sentence": "The bride was elegance personified."
+  },
+  {
+    "name": "elegant",
+    "trans": [
+      ".优雅的，完美的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "refined and tasteful in appearance, behavior, or style"
+    ],
+    "speech": "adjective",
+    "sentence": "an elegant solution"
+  },
+  {
+    "name": "perfection",
+    "trans": [
+      "完美"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the state of being without a flaw or defect"
+    ],
+    "speech": "noun",
+    "sentence": "The system runs to perfection."
+  },
+  {
+    "name": "appearance",
+    "trans": [
+      "出现； 外观"
+    ],
+    "usphone": "ə'pɪrəns",
+    "ukphone": "ə'pɪərəns",
+    "e_mean": [
+      "outward or visible aspect of a person or thing"
+    ],
+    "speech": "noun",
+    "sentence": "His sudden appearance surprised me."
+  },
+  {
+    "name": "charming",
+    "trans": [
+      "迷人的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "pleasing or delighting"
+    ],
+    "speech": "adjective",
+    "sentence": "He charmed her with his dashing tales of his days as a sailor."
+  },
+  {
+    "name": "handsome",
+    "trans": [
+      "数量大的；英俊的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "pleasing in appearance"
+    ],
+    "speech": "adjective",
+    "sentence": "a handsome garment, house, tree, or horse"
+  },
+  {
+    "name": "clothing",
+    "trans": [
+      "衣服。clothes衣服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a covering designed to be worn on a person's body"
+    ],
+    "speech": "noun",
+    "sentence": "to feed and clothe a family; to clothe oneself extravagantly"
+  },
+  {
+    "name": "overall",
+    "trans": [
+      "全面的； 全部的"
+    ],
+    "usphone": ",ovə'rɔl",
+    "ukphone": "ˌəuvər'ɔːl",
+    "e_mean": [
+      "involving only main features"
+    ],
+    "speech": "adjective",
+    "sentence": "Overall, there is not enough evidence to form a clear conclusion."
+  },
+  {
+    "name": "gown",
+    "trans": [
+      "长外衣；女礼服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a woman's dress, usually with a close-fitting bodice and a long flared skirt, often worn on formal occasions"
+    ],
+    "speech": "noun",
+    "sentence": "In the perennial town versus gown battles, townies win some violent battles, but the collegians are winning the war."
+  },
+  {
+    "name": "jacket",
+    "trans": [
+      "夹克衫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a short coat"
+    ],
+    "speech": "noun",
+    "sentence": "Cook the potatoes in their jackets."
+  },
+  {
+    "name": "skirt",
+    "trans": [
+      "裙子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a garment hanging from the waist"
+    ],
+    "speech": "noun",
+    "sentence": "The plain was skirted by rows of trees."
+  },
+  {
+    "name": "patch",
+    "trans": [
+      "补丁/(与周围不同的)小片补缀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small contrasting part of something"
+    ],
+    "speech": "noun",
+    "sentence": "His sleeves had patches on the elbows where different fabric had been sewn on to replace material that had worn away."
+  },
+  {
+    "name": "rag",
+    "trans": [
+      "破布。ragged破旧的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small piece of cloth or paper"
+    ],
+    "speech": "noun",
+    "sentence": "I have ace-four on my hand. In other words, I have ace-rag."
+  },
+  {
+    "name": "shabby",
+    "trans": [
+      "破旧的；衣衫褴褛的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "showing signs of wear and tear"
+    ],
+    "speech": "adjective",
+    "sentence": "They lived in a tiny apartment, with some old, shabby furniture."
+  },
+  {
+    "name": "whitewash",
+    "trans": [
+      "粉刷，刷石灰水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "wash consisting of lime and size in water"
+    ],
+    "speech": "noun",
+    "sentence": "The houses looked very bright when they whitewashed the whole neighborhood."
+  },
+  {
+    "name": "brown",
+    "trans": [
+      "褐色的褐色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of a color similar to that of wood or earth"
+    ],
+    "speech": "adjective",
+    "sentence": "The browns and greens in this painting give it a nice woodsy feel."
+  },
+  {
+    "name": "purple",
+    "trans": [
+      "紫的紫色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a color or pigment intermediate between red and blue"
+    ],
+    "speech": "noun",
+    "sentence": "to put on the imperial purple"
+  },
+  {
+    "name": "stain",
+    "trans": [
+      "染污；给…着色",
+      "污点"
+    ],
+    "usphone": "sten",
+    "ukphone": "steɪn",
+    "e_mean": [
+      "make dirty or spotty, as by exposure to air"
+    ],
+    "speech": "verb",
+    "sentence": "armour stained with blood"
+  },
+  {
+    "name": "blot",
+    "trans": [
+      "污点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a blemish made by dirt, ink, etc."
+    ],
+    "speech": "noun",
+    "sentence": "This paper blots easily."
+  },
+  {
+    "name": "figure",
+    "trans": [
+      "是重要部分； 认为； 计算， 估计",
+      "数字；人物；体态，体形；轮廓；图，图表；雕像，塑像"
+    ],
+    "usphone": "'fɪɡjɚ",
+    "ukphone": "'fɪgə(r)",
+    "e_mean": [
+      "alternate name for the body of a human being"
+    ],
+    "speech": "noun",
+    "sentence": "a figure in bronze; a figure cut in marble"
+  },
+  {
+    "name": "curvy",
+    "trans": [
+      "有曲线的;弯曲的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "having curves"
+    ],
+    "speech": "adjective",
+    "sentence": "I love this woman and her curvy body."
+  },
+  {
+    "name": "hourglass",
+    "trans": [
+      "沙漏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a sandglass that runs for sixty minutes"
+    ],
+    "speech": "noun",
+    "sentence": "After each game turn, invert the hourglass to reset the time limit for the next player."
+  },
+  {
+    "name": "slender",
+    "trans": [
+      "修长的， 细长的， 苗条的； 微小的， 微薄的"
+    ],
+    "usphone": "'slɛndɚ",
+    "ukphone": "'slendə(r)",
+    "e_mean": [
+      "having little width in proportion to the length or height"
+    ],
+    "speech": "adjective",
+    "sentence": "A rod is a long slender pole used for angling."
+  },
+  {
+    "name": "slight",
+    "trans": [
+      "轻微的，微小的",
+      "侮慢；轻视，冷落"
+    ],
+    "usphone": "slaɪt",
+    "ukphone": "slaɪt",
+    "e_mean": [
+      "small in quantity or degree"
+    ],
+    "speech": "adjective",
+    "sentence": "a slight but graceful woman"
+  },
+  {
+    "name": "slim",
+    "trans": [
+      "变苗条",
+      "苗条的；薄的"
+    ],
+    "usphone": "slɪm",
+    "ukphone": "slɪm",
+    "e_mean": [
+      "being of delicate or slender build"
+    ],
+    "speech": "adjective",
+    "sentence": "I only smoke slims."
+  },
+  {
+    "name": "stringy",
+    "trans": [
+      "纤维多而不嫩/柴的/瘦得露出筋的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "consisting of or containing string or strings"
+    ],
+    "speech": "adjective",
+    "sentence": "The meat was quite stringy."
+  },
+  {
+    "name": "gorgeous",
+    "trans": [
+      "华丽的； 极好的"
+    ],
+    "usphone": "'ɡɔrdʒəs",
+    "ukphone": "'gɔːdʒəs",
+    "e_mean": [
+      "dazzlingly beautiful"
+    ],
+    "speech": "adjective",
+    "sentence": "All the contest judges agreed that Brigitt was absolutely gorgeous."
+  },
+  {
+    "name": "glamor",
+    "trans": [
+      "魅力； 诱惑力"
+    ],
+    "usphone": "'glæmɚ",
+    "ukphone": "'glæmə(r)",
+    "e_mean": [
+      "alluring beauty or charm (often with sex-appeal)"
+    ],
+    "speech": "noun",
+    "sentence": "glamour magazines; a glamour model"
+  },
+  {
+    "name": "specialty",
+    "trans": [
+      "特产； 特长"
+    ],
+    "usphone": "'spɛʃəlti",
+    "ukphone": "'speʃəltɪ",
+    "e_mean": [
+      "an asset of special worth or utility"
+    ],
+    "speech": "noun",
+    "sentence": "They cook well overall, but their true specialty is pasta."
+  },
+  {
+    "name": "indicate",
+    "trans": [
+      "标示， 表示， 表明； 象征； 暗示， 示意"
+    ],
+    "usphone": "'ɪndɪket",
+    "ukphone": "'ɪndɪkeɪt",
+    "e_mean": [
+      "designate a place, direction, person, or thing"
+    ],
+    "speech": "verb",
+    "sentence": "The guard blew his whistle to indicate imminent departure."
+  },
+  {
+    "name": "delicate",
+    "trans": [
+      "纤细的； 精巧的； 微妙的"
+    ],
+    "usphone": "ˈdɛlɪkɪt",
+    "ukphone": "'delɪkət",
+    "e_mean": [
+      "developed with extreme subtlety"
+    ],
+    "speech": "adjective",
+    "sentence": "Don't put that in with your jeans: it's a delicate!"
+  },
+  {
+    "name": "fancy",
+    "trans": [
+      "别致的",
+      "想象",
+      "想象力"
+    ],
+    "usphone": "'fænsi",
+    "ukphone": "'fænsi",
+    "e_mean": [
+      "not plain; decorative or ornamented"
+    ],
+    "speech": "adjective",
+    "sentence": "I had a fancy to learn to play the flute."
+  },
+  {
+    "name": "fascinating",
+    "trans": [
+      "迷人的"
+    ],
+    "usphone": "'fæsɪnetɪŋ",
+    "ukphone": "'fæsɪneɪtɪŋ",
+    "e_mean": [
+      "capable of arousing and holding the attention"
+    ],
+    "speech": "adjective",
+    "sentence": "The flickering TV fascinated the cat."
+  },
+  {
+    "name": "floral",
+    "trans": [
+      "花的， 像花的； 绘有花的， 饰以花的； 植物群的"
+    ],
+    "usphone": "'flɔrəl",
+    "ukphone": "'flɔːrəl",
+    "e_mean": [
+      "relating to or associated with flowers"
+    ],
+    "speech": "adjective",
+    "sentence": "I really like the floral pattern on this Chinese vase."
+  },
+  {
+    "name": "glossy",
+    "trans": [
+      "有光泽的， 光滑的"
+    ],
+    "usphone": "'ɡlɑsi",
+    "ukphone": "'glɒsi",
+    "e_mean": [
+      "reflecting light"
+    ],
+    "speech": "adjective",
+    "sentence": "The supermarket glossies are full of celebrity gossip and fad diets."
+  },
+  {
+    "name": "sleek",
+    "trans": [
+      "光滑而有光泽的；时髦的；豪华的",
+      "使光滑发亮"
+    ],
+    "usphone": "slik",
+    "ukphone": "sliːk",
+    "e_mean": [
+      "having a smooth, gleaming surface reflecting light"
+    ],
+    "speech": "adjective",
+    "sentence": "sleek hair"
+  },
+  {
+    "name": "style",
+    "trans": [
+      "风格；样式；时尚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "how something is done or how it happens"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "stylish",
+    "trans": [
+      "时髦的； 漂亮的"
+    ],
+    "usphone": "'staɪlɪʃ",
+    "ukphone": "'staɪlɪʃ",
+    "e_mean": [
+      "having elegance or taste or refinement in manners or dress"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "prevalence",
+    "trans": [
+      "普及， 流行， 盛行"
+    ],
+    "usphone": "'prɛvələns",
+    "ukphone": "'prevələns",
+    "e_mean": [
+      "the quality of being widespread"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "idol",
+    "trans": [
+      "偶像，受到崇拜的人或物；神像"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a material effigy that is worshipped"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "luxury",
+    "trans": [
+      "奢华的",
+      "豪华；奢侈"
+    ],
+    "usphone": "'lʌɡʒəri",
+    "ukphone": "'lʌkʃəri",
+    "e_mean": [
+      "something that is an indulgence rather than a necessity"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "handkerchief",
+    "trans": [
+      "手帕[ˈhæŋkətʃɪf]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a square piece of cloth used for wiping the eyes or nose"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "purse",
+    "trans": [
+      "钱包,小手提包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a container used for carrying money and small personal items"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sleeve",
+    "trans": [
+      "袖子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the part of a garment that is attached at the armhole and that provides a cloth covering for the arm"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sock",
+    "trans": [
+      "短袜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "hosiery consisting of a cloth covering for the foot"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "jade",
+    "trans": [
+      "玉石，翡翠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a semiprecious gemstone that is usually green"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "embroider",
+    "trans": [
+      "对..加以渲染/在…上刺绣[ɪmˈbrɔɪdə]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "decorate with needlework"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "hairdressing",
+    "trans": [
+      "美发，理发"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "care for the hair: the activity of washing or cutting or curling or arranging the hair"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "dye",
+    "trans": [
+      "染料；(染上的)颜色染"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a usually soluble substance for staining or coloring e.g. fabrics or hair"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "indecent",
+    "trans": [
+      "下流的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "not in keeping with accepted standards of polite society"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "bracelet",
+    "trans": [
+      "手镯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "jewelry worn around the wrist for decoration"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "velvet",
+    "trans": [
+      "丝绒，天鹅绒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a silky densely piled fabric with a plain back"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "wool",
+    "trans": [
+      "(羊等的)毛；毛线"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "outer coat of especially sheep and yaks"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "uniform",
+    "trans": [
+      "相同的， 一致的",
+      "制服"
+    ],
+    "usphone": "junəˌfɔrm",
+    "ukphone": "'juːnɪfɔːm",
+    "e_mean": [
+      "clothing of distinctive design worn by members of a group"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "garment",
+    "trans": [
+      "(—件)衣服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an article of clothing"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "wardrobe",
+    "trans": [
+      "衣柜；(某人的)全部服装"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a piece of furniture that provides storage space for clothes"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "overcoat",
+    "trans": [
+      "大衣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a heavy coat worn over clothes in winter"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "robe",
+    "trans": [
+      "长袍；浴袍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any loose flowing garment"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "patchwork",
+    "trans": [
+      "拼布工艺；混杂物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "sewing consisting of pieces of different materials sewn together in a pattern"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tight",
+    "trans": [
+      "紧的.tighten(使)变紧/严格"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "closely constrained or constricted or constricting"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "opulent",
+    "trans": [
+      "豪华的， 华丽的， 富裕的； 丰富的， 丰饶的"
+    ],
+    "usphone": "'ɑpjələnt",
+    "ukphone": "'ɒpjələnt",
+    "e_mean": [
+      "rich and superior in quality"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "coral",
+    "trans": [
+      "珊瑚色的， 红色的",
+      "珊瑚；珊瑚虫"
+    ],
+    "usphone": "'kɔrəl",
+    "ukphone": "'kɒrəl",
+    "e_mean": [
+      "a very small ocean creature that often forms reefs"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "premium",
+    "trans": [
+      "高级的，优质的；"
+    ],
+    "usphone": "'primɪəm",
+    "ukphone": "'priːmɪəm",
+    "e_mean": [
+      "having or reflecting superior quality or value"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "fragrance",
+    "trans": [
+      "芳香， 香味； 香水"
+    ],
+    "usphone": "'fregrəns",
+    "ukphone": "'freɪgrəns",
+    "e_mean": [
+      "a pleasingly sweet olfactory property"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "modish",
+    "trans": [
+      "流行的， 时髦的"
+    ],
+    "usphone": "'modɪʃ",
+    "ukphone": "'məudɪʃ",
+    "e_mean": [
+      "in the current fashion or style"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "gloss",
+    "trans": [
+      "使具有光泽； 掩饰； 曲解； 作注释； 发光， 发亮",
+      "光泽，色泽；虚假的外表，假象；注解，解释"
+    ],
+    "usphone": "ɡlɑs",
+    "ukphone": "glɒs",
+    "e_mean": [
+      "the property of being smooth and shiny"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "frock",
+    "trans": [
+      "上衣； 连衣裙"
+    ],
+    "usphone": "frɑk",
+    "ukphone": "frɒk",
+    "e_mean": [
+      "a one-piece garment for a woman; has skirt and bodice"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "feminism",
+    "trans": [
+      "男女平等主义； 女权主义； 女权运动"
+    ],
+    "usphone": "'fɛmənɪzəm",
+    "ukphone": "'femənɪzəm",
+    "e_mean": [
+      "a doctrine that advocates equal rights for women"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "refinement",
+    "trans": [
+      "精巧的附件， 精制的改良品； 精炼； 文雅"
+    ],
+    "usphone": "rɪ'faɪnmənt",
+    "ukphone": "rɪ'faɪnmənt",
+    "e_mean": [
+      "the result of improving something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "edify",
+    "trans": [
+      "陶冶， 教化； 启发， 启迪"
+    ],
+    "usphone": "",
+    "ukphone": "'edɪfaɪ",
+    "e_mean": [
+      "make understand"
+    ],
+    "speech": "verb"
+  }
+]

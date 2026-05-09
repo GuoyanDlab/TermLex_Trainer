@@ -1,0 +1,1743 @@
+[
+  {
+    "name": "variation",
+    "trans": [
+      "n. 变化，变动；变奏曲；变化，变异；（天文）二均差；（数）变分，变差；磁偏角；（芭蕾）单人舞"
+    ],
+    "usphone": "ˌveriˈeɪʃ(ə)n",
+    "ukphone": "ˌveəriˈeɪʃn",
+    "e_mean": [
+      "the process of being or becoming different"
+    ],
+    "speech": "noun",
+    "sentence": "All of his soups are variations on a single recipe."
+  },
+  {
+    "name": "evolve",
+    "trans": [
+      "v. 进化，演化；逐步发展，逐渐演变"
+    ],
+    "usphone": "ɪˈvɑːlv",
+    "ukphone": "ɪˈvɒlv",
+    "e_mean": [
+      "undergo development"
+    ],
+    "speech": "verb",
+    "sentence": "to evolve odours"
+  },
+  {
+    "name": "fluctuate",
+    "trans": [
+      "v. 波动，起伏不定；使波动，使动摇"
+    ],
+    "usphone": "ˈflʌktʃueɪt",
+    "ukphone": "ˈflʌktʃueɪt",
+    "e_mean": [
+      "move or sway in a rising and falling or wavelike pattern"
+    ],
+    "speech": "verb",
+    "sentence": "I fluctuated between wishing he was back home and wishing I'd never met him."
+  },
+  {
+    "name": "cultivate",
+    "trans": [
+      "v. 开垦，耕作；栽培，培育；陶冶，培养；建立（友谊），结交"
+    ],
+    "usphone": "ˈkʌltɪveɪt",
+    "ukphone": "ˈkʌltɪveɪt",
+    "e_mean": [
+      "adapt something wild to the environment"
+    ],
+    "speech": "verb",
+    "sentence": "Most farmers in this region cultivate maize."
+  },
+  {
+    "name": "harvest",
+    "trans": [
+      "n. 收获；收获量，捕获量；成果，收获",
+      "v. 收割，收获；采集，搜集；收采（人的器官、细胞等）"
+    ],
+    "usphone": "ˈhɑːrvɪst",
+    "ukphone": "ˈhɑːvɪst",
+    "e_mean": [
+      "the gathering of a ripened crop"
+    ],
+    "speech": "noun",
+    "sentence": "Harvest is usually very damp and rainy."
+  },
+  {
+    "name": "pluck",
+    "trans": [
+      "v. 摘，掐；拉，扯；夹，拔；弹拨；解救，搭救；挖掘，使一跃成名；鼓起勇气（pluck up the courage）；挑选；迅速拣起；",
+      "n. 胆识，勇气；（供食用的）动物内脏；猛拉"
+    ],
+    "usphone": "plʌk",
+    "ukphone": "plʌk",
+    "e_mean": [
+      "pull lightly but sharply"
+    ],
+    "speech": "verb",
+    "sentence": "Those tiny birds are hardly worth the tedious pluck."
+  },
+  {
+    "name": "pick",
+    "trans": [
+      "v. 采，摘（花、果）；找茬；捡，抱起；选择；弹，拨（弦）；pick out挑出,选出,辨认出,辨认,pick up捡起,学会,拿起",
+      "n. 精华（the pick of）；选择，选择权；被选中的人（或事物）；鹤嘴锄；（吉他的）拨子；（尖状的）挖撬工具；（篮球）掩护"
+    ],
+    "usphone": "pɪk ",
+    "ukphone": "pɪk ",
+    "e_mean": [
+      "look for and gather"
+    ],
+    "speech": "verb",
+    "sentence": "so many picks to an inch"
+  },
+  {
+    "name": "yield",
+    "trans": [
+      "v. 产生（收益、效益等），产生（结果）；出产；屈服，让步；放弃，让出；给...让路；（受压）活动，弯曲，折断；<正式>被……替代；请（某人）讲话；停止争论",
+      "n. 产量；收益，利润，红利（或股息）率 yield point屈服点,降服点,降伏点,流动点 yield strength屈服强度,屈服极限"
+    ],
+    "usphone": "jiːld",
+    "ukphone": "jiːld",
+    "e_mean": [
+      "give or supply"
+    ],
+    "speech": "verb",
+    "sentence": "Yield the right of way to pedestrians."
+  },
+  {
+    "name": "rear",
+    "trans": [
+      "n. （尤指建筑物或车辆等的）后部，背部（the rear）；（队列的）后方，后尾部队（或舰队）Rear Window后窗",
+      "adj. 后方的，背部的adv. 向后，在后面",
+      "v. 养育，饲养；栽种，培植；（动物）用后腿直立；（建筑、山等）高耸；（人）发火，暴跳（rear up）"
+    ],
+    "usphone": "rɪr",
+    "ukphone": "rɪə(r)",
+    "e_mean": [
+      "the side of an object that is opposite its front"
+    ],
+    "speech": "noun",
+    "sentence": "The family has been rearing cattle for 200 years."
+  },
+  {
+    "name": "plough",
+    "trans": [
+      "v. 耕，犁；划出（沟或线）；（用犁）挖出；（轮船，木船）穿过（水域），破浪前进；奋力前进；继续坚持；<美>清除积雪；（尤指车辆）猛撞",
+      "n. 犁；犁过的地，耕地；<美>雪犁，扫雪机；北斗七星（the Plough)；北斗七星（the Plough)"
+    ],
+    "usphone": "plaʊ",
+    "ukphone": "plaʊ",
+    "e_mean": [
+      "a farm tool having one or more heavy blades to break the soil and cut a furrow prior to sowing"
+    ],
+    "speech": "noun",
+    "sentence": "The horse-drawn plough had a tremendous impact on agriculture."
+  },
+  {
+    "name": "spade",
+    "trans": [
+      "n. 锹，铲；（纸牌中的）黑桃（spades）；黑桃牌；<旧>黑人，黑鬼",
+      "v. 用锹挖（地），用锹铲（土）；把……弄实抹平"
+    ],
+    "usphone": "speɪd",
+    "ukphone": "speɪd",
+    "e_mean": [
+      "hand shovel that can be pushed into the earth with the foot"
+    ],
+    "speech": "noun",
+    "sentence": "I've got only one spade in my hand."
+  },
+  {
+    "name": "rake",
+    "trans": [
+      "n. 耙子，靶状物；耙集，耙平；浪荡子，淫逸浪子；斜度，倾角；前刀面，前倾面；<英>车厢",
+      "v. （用耙子）耙，耙平；刮擦，抓；扫视，扫射；（用手）搜寻；倾斜度；（船桅杆，烟囱）成倾角"
+    ],
+    "usphone": "reɪk",
+    "ukphone": "reɪk",
+    "e_mean": [
+      "a long-handled tool with a row of teeth at its head"
+    ],
+    "speech": "noun",
+    "sentence": "She is raking the gravel path to keep it even."
+  },
+  {
+    "name": "stack",
+    "trans": [
+      "n. （整齐的）一堆；<英> 垛，堆；大量，许多；（尤指工厂的）大烟囱；（图书馆的）藏书架，双面书架（the stacks）；（计算机）（存储）栈；设备；枪架；",
+      "v. 使成整齐的一堆；使成叠（或成摞、成堆）地放在…...；指令（待着陆飞机）作定高分层盘旋；洗牌时作弊；在（某组织机构中）安插；跌倒，倒下"
+    ],
+    "usphone": "stæk",
+    "ukphone": "stæk",
+    "e_mean": [
+      "an orderly pile"
+    ],
+    "speech": "noun",
+    "sentence": "They paid him a stack of money to keep quiet."
+  },
+  {
+    "name": "heap",
+    "trans": [
+      "n. （凌乱的）一堆；许多，大量；<非正式>破旧的汽车，老爷车",
+      "v. 堆积，堆放；对……大加赞扬（或指责等）"
+    ],
+    "usphone": "hiːp",
+    "ukphone": "hiːp",
+    "e_mean": [
+      "a collection of objects laid on top of each other"
+    ],
+    "speech": "noun",
+    "sentence": "a heap of earth or stones"
+  },
+  {
+    "name": "bundle",
+    "trans": [
+      "n. 束，捆，包；非常；一套，一系列；大量；婴儿；一大笔钱；软件包",
+      "v. 匆匆打发，乱塞；匆忙赶往；捆绑销售；与某人和衣同睡"
+    ],
+    "usphone": "ˈbʌnd(ə)l",
+    "ukphone": "ˈbʌnd(ə)l",
+    "e_mean": [
+      "a collection of things wrapped or boxed together"
+    ],
+    "speech": "noun",
+    "sentence": "a bundle of straw or of paper; a bundle of old clothes"
+  },
+  {
+    "name": "bunch",
+    "trans": [
+      "n. 束，串，扎；一伙，一群；大量；<英>发辫（bunches）；突起",
+      "v. 捆，扎，使集中；收紧，起褶"
+    ],
+    "usphone": "bʌntʃ",
+    "ukphone": "bʌntʃ",
+    "e_mean": [
+      "a grouping of a number of similar things"
+    ],
+    "speech": "noun",
+    "sentence": "a bunch of grapes; a bunch of bananas; a bunch of keys; a bunch of yobs on a street corner"
+  },
+  {
+    "name": "sunlight",
+    "trans": [
+      "n. 阳光，日光"
+    ],
+    "usphone": "ˈsʌnlaɪt",
+    "ukphone": "ˈsʌnlaɪt",
+    "e_mean": [
+      "the rays of the sun"
+    ],
+    "speech": "noun",
+    "sentence": "Sunlight on the skin gives you vitamin D."
+  },
+  {
+    "name": "meadow",
+    "trans": [
+      "n. 草地，牧场；河边低洼地"
+    ],
+    "usphone": "ˈmedoʊ",
+    "ukphone": "ˈmedoʊ",
+    "e_mean": [
+      "a field where grass or alfalfa is grown to be made into hay"
+    ],
+    "speech": "noun",
+    "sentence": "the salt meadows near Newark Bay"
+  },
+  {
+    "name": "olive",
+    "trans": [
+      "n. 橄榄；橄榄树；橄榄色，黄绿色；炖牛肉卷；橄榄贝；（剖）橄榄体；橄榄环",
+      "adj. 橄榄色的，茶青色的；（皮肤）橄榄色的，浅褐色的"
+    ],
+    "usphone": "ˈɑːlɪv",
+    "ukphone": "ˈɒlɪv",
+    "e_mean": [
+      "small ovoid fruit of the European olive tree"
+    ],
+    "speech": "noun",
+    "sentence": "a beef olive"
+  },
+  {
+    "name": "pine",
+    "trans": [
+      "n. 松树；松木；……松（；……松）；有松针香味；<非正式>凤梨",
+      "v. 难过，悲伤；苦苦思念；<古>为……悲哀，哀悼；渴望，苦苦盼望（尤指不太可能拥有的东西）"
+    ],
+    "usphone": "paɪn",
+    "ukphone": "paɪn",
+    "e_mean": [
+      "a coniferous tree"
+    ],
+    "speech": "noun",
+    "sentence": "The northern slopes were covered mainly in pine."
+  },
+  {
+    "name": "vegetation",
+    "trans": [
+      "n. （总称）植物，植被；（植物的）生长；呆板单调的生活"
+    ],
+    "usphone": "ˌvedʒəˈteɪʃn",
+    "ukphone": "ˌvedʒəˈteɪʃn",
+    "e_mean": [
+      "the process of growth in plants"
+    ],
+    "speech": "noun",
+    "sentence": "There were large amounts of vegetation in the forest."
+  },
+  {
+    "name": "herb",
+    "trans": [
+      "n. 药草，香草；草本植物"
+    ],
+    "usphone": "ɜːrb",
+    "ukphone": "hɜːb",
+    "e_mean": [
+      "a plant lacking a permanent woody stem"
+    ],
+    "speech": "noun",
+    "sentence": "If any medicinal herbs used by witches were supposedly evil, then how come people from at least the past benefited from the healing properties of such herbs?"
+  },
+  {
+    "name": "herbal",
+    "trans": [
+      "adj. 药草的，香草的",
+      "n. 草本植物志，草药志"
+    ],
+    "usphone": "ˈɜːrblˌˈhɜːrbl",
+    "ukphone": "ˈhɜːb(ə)l",
+    "e_mean": [
+      "of or relating to herbs"
+    ],
+    "speech": "adjective",
+    "sentence": "Herbal tea has a nice aroma and is good for a stuffy head."
+  },
+  {
+    "name": "perennial",
+    "trans": [
+      "adj. 多年生的；常年的；四季不断的；常在的；反复的",
+      "n. 多年生植物"
+    ],
+    "usphone": "pəˈreniəl",
+    "ukphone": "pəˈreniəl",
+    "e_mean": [
+      "lasting an indefinitely long time"
+    ],
+    "speech": "adjective",
+    "sentence": "a perennial stream"
+  },
+  {
+    "name": "botany",
+    "trans": [
+      "n. 植物学；（特定地区的）植物（生态）"
+    ],
+    "usphone": "ˈbɑːtəni",
+    "ukphone": "ˈbɒtəni",
+    "e_mean": [
+      "the branch of biology that studies plants"
+    ],
+    "speech": "noun",
+    "sentence": "the botany of Greenland"
+  },
+  {
+    "name": "economical",
+    "trans": [
+      "adj. 经济实惠的；节约的；简练的"
+    ],
+    "usphone": "ˌiːkəˈnɑːmɪk(ə)l",
+    "ukphone": "ˌiːkəˈnɒmɪkl; ˌekəˈnɒmɪkl",
+    "e_mean": [
+      "using the minimum of time or resources for effectiveness"
+    ],
+    "speech": "adjective",
+    "sentence": "He was an economical person by nature."
+  },
+  {
+    "name": "genetics",
+    "trans": [
+      "n. 遗传学；（有机体、特征等的）遗传性，遗传特征"
+    ],
+    "usphone": "dʒəˈnetɪks",
+    "ukphone": "dʒəˈnetɪks",
+    "e_mean": [
+      "the study of heredity and variation in organisms"
+    ],
+    "speech": "noun",
+    "sentence": "Chinese has borrowed several words from English, but it does not have a genetic relationship to English."
+  },
+  {
+    "name": "classify",
+    "trans": [
+      "v. 把……分类，把……分级；把（信息）归入保密级别"
+    ],
+    "usphone": "ˈklæsɪfaɪ",
+    "ukphone": "'klæsɪfaɪ",
+    "e_mean": [
+      "arrange or order by categories"
+    ],
+    "speech": "verb",
+    "sentence": "Should we classify \"make up\" as an idiom or as a phrasal verb?"
+  },
+  {
+    "name": "sow",
+    "trans": [
+      "v. 播种，种；激起，散布，煽动；埋（地雷），将（一地区）布上地雷；布满，覆盖",
+      "n. 母猪；某些雌性哺乳动物（如豚鼠）；铁锭"
+    ],
+    "usphone": "soʊ",
+    "ukphone": "səʊ",
+    "e_mean": [
+      "place seeds in or on the ground for future growth"
+    ],
+    "speech": "verb",
+    "sentence": "As you sow, so shall you reap."
+  },
+  {
+    "name": "mint",
+    "trans": [
+      "n. 薄荷；薄荷糖；铸币厂；巨款",
+      "v. 铸造（硬币）；创造，制造",
+      "adj. （物品）崭新的，无污损的；<英> 非常好的，很棒的"
+    ],
+    "usphone": "mɪnt",
+    "ukphone": "mɪnt",
+    "e_mean": [
+      "any member of the mint family of plants"
+    ],
+    "speech": "noun",
+    "sentence": "It must have cost a mint to produce!"
+  },
+  {
+    "name": "reef",
+    "trans": [
+      "n. 礁，暗礁，礁脉；（尤指含金的）矿脉；缩帆部，帆的可收缩部",
+      "v. 收帆，卷起缩帆部；缩短，收进（中桅，船首斜桁）"
+    ],
+    "usphone": "riːf",
+    "ukphone": "riːf",
+    "e_mean": [
+      "a submerged ridge of rock or coral near the water's surface"
+    ],
+    "speech": "noun",
+    "sentence": "Reef the paddles."
+  },
+  {
+    "name": "catalyst",
+    "trans": [
+      "n. （化学）催化剂；诱因，诱导者 复数 catalysts"
+    ],
+    "usphone": "ˈkætəlɪst",
+    "ukphone": "ˈkætəlɪst",
+    "e_mean": [
+      "substance that initiates or accelerates a chemical reaction"
+    ],
+    "speech": "noun",
+    "sentence": "Economic development and integration are working as a catalyst for peace."
+  },
+  {
+    "name": "release",
+    "trans": [
+      "v. 释放，放走；使出院；把（动物）放生；解救；放开；拉开，松开（装置）；发射，投（弹）；公布，发布；发行，上映；表达，发泄；释放，排放（物质）；，解雇；放弃，让予；使不紧张；开放，解禁",
+      "n. （人或动物的）释放，放出；排放，泄漏；（设备的）松开，拉开；释放装置（如按、拉的装置）；表达，宣泄；解脱，轻松感；放松的机会；新发行的东西；公开，发布；公映；（责任等的）免除，解除；免责书；<法律> 放弃，让予；放弃文书；<美> 传球"
+    ],
+    "usphone": "rɪˈliːs",
+    "ukphone": "rɪˈliːs",
+    "e_mean": [
+      "grant freedom to; free from confinement"
+    ],
+    "speech": "verb",
+    "sentence": "The video store advertised that it had all the latest releases."
+  },
+  {
+    "name": "emission",
+    "trans": [
+      "n. 排放物，散发物；（尤指光、热、气等的）散发，排放；射精，遗精；<古>发行"
+    ],
+    "usphone": "ɪˈmɪʃ(ə)n",
+    "ukphone": "ɪˈmɪʃ(ə)n",
+    "e_mean": [
+      "the act of causing to flow forth"
+    ],
+    "speech": "noun",
+    "sentence": "the emission was mostly blood"
+  },
+  {
+    "name": "absorb",
+    "trans": [
+      "v. 吸收；使并入，纳入；同化，汲取；消减，缓冲（外力、震动等）；理解，掌握（信息）；使全神贯注，使专心；承受（变革、影响等），承担（费用等）；花掉（大量金钱），耗费"
+    ],
+    "usphone": "əbˈzɔːrb",
+    "ukphone": "əb'sɔːb",
+    "e_mean": [
+      "take in a liquid"
+    ],
+    "speech": "verb",
+    "sentence": "Heat, light, and electricity are absorbed in the substances into which they pass."
+  },
+  {
+    "name": "circulation",
+    "trans": [
+      "n. 发行量，销售量；血液循环；流传，流通；参加社交活动，交际；环流，循环；（图书的）借出复数 circulations"
+    ],
+    "usphone": "ˌsɜːrkjəˈleɪʃn",
+    "ukphone": "ˌsɜːkjəˈleɪʃn",
+    "e_mean": [
+      "the movement of blood through the heart and blood vessels"
+    ],
+    "speech": "noun",
+    "sentence": "The new bills will come into circulation next Friday."
+  },
+  {
+    "name": "exceed",
+    "trans": [
+      "v. 超过，超出；超越（限制）；优于，胜过"
+    ],
+    "usphone": "ɪkˈsiːd",
+    "ukphone": "ɪk'siːd",
+    "e_mean": [
+      "be or do something to a greater degree"
+    ],
+    "speech": "verb",
+    "sentence": "The company's 2005 revenue exceeds that of 2004."
+  },
+  {
+    "name": "mould",
+    "trans": [
+      "n. 模具，铸模；类型，个性；霉，霉菌；框架，型芯；松软沃土，腐殖土",
+      "v. 使……成形，用模子制作，浇铸；影响，塑造；（使）紧贴于，吻合；（使）发霉"
+    ],
+    "usphone": "moʊld",
+    "ukphone": "məuld",
+    "e_mean": [
+      "the distinctive form in which a thing is made"
+    ],
+    "speech": "noun",
+    "sentence": "the oval mold of her face"
+  },
+  {
+    "name": "pollen",
+    "trans": [
+      "n. 花粉,给...授粉"
+    ],
+    "usphone": "ˈpɑːlən",
+    "ukphone": "ˈpɒlən",
+    "e_mean": [
+      "fine spores produced by flowers to fertilize other flowers"
+    ],
+    "speech": "noun",
+    "sentence": "\"...and ther was good wyne of Gascoyne,... as well of pollen, as of other vitailes...\" Froissart, Jean, 1338?-1410?; Berners, John Bourchier, Lord https//archive.org/details/chroniclefroiss00froigoog"
+  },
+  {
+    "name": "seed",
+    "trans": [
+      "n.种子, 果核，籽；",
+      "v. 给（蔬菜，水果）去籽（去核），给......脱籽；选定......为种子选手（或种子队）；在（地里）播种；（植物）结籽，脱籽；"
+    ],
+    "usphone": "siːd",
+    "ukphone": "siːd",
+    "e_mean": [
+      "small, hard part of a plant from which a new plant can grow"
+    ],
+    "speech": "noun",
+    "sentence": "If you plant a seed in the spring, you may have a pleasant surprise in the autumn."
+  },
+  {
+    "name": "bloom",
+    "trans": [
+      "n. 花，花朵；花期；青春焕发，风华正茂；（肤色的）红润；（一些水果和植物的）粉衣，粉霜；（尤指音乐录音中）饱满响亮的声音；方坯",
+      "v. 开花，绽放；繁荣，兴旺；精神焕发；给（透镜）敷膜；把（铸块）铸成方坯"
+    ],
+    "usphone": "bluːm",
+    "ukphone": "bluːm",
+    "e_mean": [
+      "produce or yield flowers"
+    ],
+    "speech": "verb",
+    "sentence": "The cherry trees are in bloom."
+  },
+  {
+    "name": "scent",
+    "trans": [
+      "n. 香味，芳香；（动物或人的）气味，臭迹；香水；察觉，预示；线索，踪迹；<古>嗅觉",
+      "v. 使……带有某种香味；（动物）嗅出，闻到；预感，觉察"
+    ],
+    "usphone": "sent",
+    "ukphone": "sent",
+    "e_mean": [
+      "any property detected by the olfactory system"
+    ],
+    "speech": "noun",
+    "sentence": "the scent of a skunk"
+  },
+  {
+    "name": "ripen",
+    "trans": [
+      "v. （使）成熟；时机成熟，条件成熟.ripe熟的.ripper催熟剂"
+    ],
+    "usphone": "ˈraɪpən",
+    "ukphone": "ˈraɪpən",
+    "e_mean": [
+      "grow ripe"
+    ],
+    "speech": "verb",
+    "sentence": "Grapes ripen in the sun."
+  },
+  {
+    "name": "fruit",
+    "trans": [
+      "n. 水果；（植物的）果实；成果，结果，后果；（自然的）产物，物产；<古>子孙，后代；<美，非正式>男同性恋者",
+      "v. （使）结果实"
+    ],
+    "usphone": "fruːt",
+    "ukphone": "fruːt",
+    "e_mean": [
+      "the ripened reproductive body of a seed plant"
+    ],
+    "speech": "noun",
+    "sentence": "His long nights in the office eventually bore fruit when his business boomed and he was given a raise."
+  },
+  {
+    "name": "fruitful",
+    "trans": [
+      "adj. 成果丰硕的，富有成效的；富饶的，多产的；（人）多子多孙的"
+    ],
+    "usphone": "ˈfruːtf(ə)l",
+    "ukphone": "ˈfruːtf(ə)l",
+    "e_mean": [
+      "productive or conducive to producing in abundance"
+    ],
+    "speech": "adjective",
+    "sentence": "The extra work in the office turned out to be fruitful after all—I got promoted"
+  },
+  {
+    "name": "rot",
+    "trans": [
+      "v. （使）腐败，（使）腐烂；逐渐衰弱（或憔悴）；<英，旧，非正式>取笑，开玩笑 ",
+      "n. 腐烂，腐烂物；<英>腐化，堕落（the rot）；<美>官员腐败（the rot）；（尤指植物的）枯病；羊肝蛭病；<英，非正式，旧>蠢话，废话"
+    ],
+    "usphone": "rɑːt",
+    "ukphone": "rɒt",
+    "e_mean": [
+      "break down"
+    ],
+    "speech": "verb",
+    "sentence": "The apple left in the cupboard all that time had started to rot."
+  },
+  {
+    "name": "decay",
+    "trans": [
+      "v. （建筑、地方等）破败，衰落；（观念、影响力等）衰败；（使）腐朽，腐烂",
+      "n. 腐烂；（观念、机构、制度等）衰退"
+    ],
+    "usphone": "dɪˈkeɪ",
+    "ukphone": "dɪ'keɪ",
+    "e_mean": [
+      "the organic phenomenon of rotting"
+    ],
+    "speech": "noun",
+    "sentence": "The pair loved to take pictures in the decaying hospital on forty-third street."
+  },
+  {
+    "name": "stale",
+    "trans": [
+      "adj. （食物）不新鲜的，变味的；气味不清新的，难闻的；没有新意的，老掉牙的；（因长期从事同一工作而）疲沓的，厌倦的；（支票，合法要求）（因过期而）失效的",
+      "v. （使）不新鲜，（使）走味，（使）陈旧；（动物，尤指马）撒尿",
+      "n. 尿"
+    ],
+    "usphone": "steɪl",
+    "ukphone": "steɪl",
+    "e_mean": [
+      "lacking freshness, palatability, or showing deterioration"
+    ],
+    "speech": "adjective",
+    "sentence": "a stale affidavit"
+  },
+  {
+    "name": "surroundings",
+    "trans": [
+      "n. 周围环境，周围事物"
+    ],
+    "usphone": "səˈraʊndɪŋz",
+    "ukphone": "səˈraʊndɪŋz",
+    "e_mean": [
+      "the environment in which something exists or lives"
+    ],
+    "speech": "noun",
+    "sentence": "to surround the world"
+  },
+  {
+    "name": "counterbalance",
+    "trans": [
+      "n. 平衡力，抗衡力；抵消因素，制约力",
+      "v. 对……起平衡作用，抵消"
+    ],
+    "usphone": "ˈkaʊntərbæləns",
+    "ukphone": "ˈkaʊntəbæləns",
+    "e_mean": [
+      "a weight that balances another weight"
+    ],
+    "speech": "noun",
+    "sentence": "Big brother counterbalances his two siblings to the pound."
+  },
+  {
+    "name": "mechanism",
+    "trans": [
+      "n. 机械装置，机件；途径，方法；（生物体内的）机制，构造；机械论；（产生自然现象等的）物理过程"
+    ],
+    "usphone": "'mɛkənɪzəm",
+    "ukphone": "'mekənɪzəm",
+    "e_mean": [
+      "device consisting of a piece of machinery"
+    ],
+    "speech": "noun",
+    "sentence": "political machine"
+  },
+  {
+    "name": "preserve",
+    "trans": [
+      "v. 保护，维护；保持，维持；腌制，保存（食物）；禁止他人捕猎",
+      "n. 果酱，腌菜；（某人或某个团体的）专属领域，独有活动；动物保护区，外人禁入的猎地"
+    ],
+    "usphone": "prɪˈzɜːrv",
+    "ukphone": "prɪˈzɜːv",
+    "e_mean": [
+      "keep in safety and protect from harm, loss, or destruction"
+    ],
+    "speech": "verb",
+    "sentence": "Every people have the right to preserve its identity and culture."
+  },
+  {
+    "name": "extinguish",
+    "trans": [
+      "v. 熄灭；消灭，使破灭；<法律>取消（权利，义务），使无效；偿清；压制"
+    ],
+    "usphone": "ɪkˈstɪŋɡwɪʃ",
+    "ukphone": "ɪkˈstɪŋɡwɪʃ",
+    "e_mean": [
+      "put out, as of fires, flames, or lights"
+    ],
+    "speech": "verb",
+    "sentence": "She extinguished all my hopes."
+  },
+  {
+    "name": "destruction",
+    "trans": [
+      "n. 破坏，摧毁,毁灭， "
+    ],
+    "usphone": "dɪˈstrʌkʃn",
+    "ukphone": "dɪ'strʌkʃn",
+    "e_mean": [
+      "an event that completely ruins something"
+    ],
+    "speech": "noun",
+    "sentence": "The destruction of the condemned building will take place at noon."
+  },
+  {
+    "name": "ruin",
+    "trans": [
+      "n. 毁坏，毁灭；破产，身败名裂；祸根； 残垣断壁，废墟；残存部分（ruins）",
+      "v. 毁坏，破坏；使（建筑物，地方）破败，使成为废墟；使倾家荡产，使破产；<文> 头朝下跌落，哗啦一声掉下"
+    ],
+    "usphone": "ˈruːɪn",
+    "ukphone": "ˈruːɪn",
+    "e_mean": [
+      "an irrecoverable state of devastation and destruction"
+    ],
+    "speech": "noun",
+    "sentence": "The monastery has fallen into ruin."
+  },
+  {
+    "name": "demolish",
+    "trans": [
+      "vt. 拆毁，拆除（建筑物）；（意外）毁坏，破坏；推翻，驳倒（观点或理论）；<非正式>轻易击败，完胜；<非正式>狼吞虎咽地吃，很快吃光；伤害（感情），破坏（计划）"
+    ],
+    "usphone": "dɪˈmɑːlɪʃ",
+    "ukphone": "dɪˈmɒlɪʃ",
+    "e_mean": [
+      "destroy completely"
+    ],
+    "speech": "verb",
+    "sentence": "They demolished the old mill and put up four townhouses."
+  },
+  {
+    "name": "undermine",
+    "trans": [
+      "v. 逐渐削弱（损害）；故意破坏（某人）的形象（或威信）；在……下面挖，（尤指）从根基处损坏，逐渐消弱"
+    ],
+    "usphone": "ˌʌndərˈmaɪn",
+    "ukphone": "ˌʌndərˈmaɪn",
+    "e_mean": [
+      "weaken or impair, especially gradually"
+    ],
+    "speech": "verb",
+    "sentence": "The war efforts were undermined by the constant bickering between the allies."
+  },
+  {
+    "name": "outcome",
+    "trans": [
+      "n. 结果，效果"
+    ],
+    "usphone": "ˈaʊtkʌm",
+    "ukphone": "ˈaʊtkʌm",
+    "e_mean": [
+      "something that results"
+    ],
+    "speech": "noun",
+    "sentence": "A quality automobile is the outcome of the work of skilled engineers and thousands of workers."
+  },
+  {
+    "name": "impact",
+    "trans": [
+      "n. 撞击，冲击力；巨大影响，强大作用"
+    ],
+    "usphone": "ˈɪmpækt",
+    "ukphone": "ˈɪmpækt",
+    "e_mean": [
+      "the striking of one body against another"
+    ],
+    "speech": "noun",
+    "sentence": "The hatchet cut the wood on impact."
+  },
+  {
+    "name": "experimental",
+    "trans": [
+      "adj. 实验性的，试验性的；<古>根据经验的，经验上的,疫苗"
+    ],
+    "usphone": "ɪkˌsperɪˈment(ə)l",
+    "ukphone": "ɪkˌsperɪˈment(ə)l",
+    "e_mean": [
+      "of the nature of or undergoing a trial"
+    ],
+    "speech": "adjective",
+    "sentence": "Chemistry is an experimental science."
+  },
+  {
+    "name": "favourable",
+    "trans": [
+      "adj. 有利的，适宜的；称赞的，赞成的；（价格）优惠的，合理的；有吉兆的，前景乐观的；（风）朝着行进方向吹的"
+    ],
+    "usphone": "ˈfeɪvərəbl",
+    "ukphone": "ˈfeɪvərəbl",
+    "e_mean": [
+      "encouraging or approving or pleasing"
+    ],
+    "speech": "adjective",
+    "sentence": "The candidate wearing the business suite made a favourable impression."
+  },
+  {
+    "name": "vary",
+    "trans": [
+      "改变； 多样化； 变化； 不同"
+    ],
+    "usphone": "ˈveri",
+    "ukphone": "'veərɪ",
+    "e_mean": [
+      "become different in some particular way"
+    ],
+    "speech": "verb",
+    "sentence": "He varies his magic tricks so as to minimize the possibility that any given audience member will see the same trick twice."
+  },
+  {
+    "name": "output",
+    "trans": [
+      "产量；输出量；输出功率",
+      "输出"
+    ],
+    "usphone": "'aʊtpʊt",
+    "ukphone": "'autput",
+    "e_mean": [
+      "production of a certain amount"
+    ],
+    "speech": "noun",
+    "sentence": "The factory increased its output this year."
+  },
+  {
+    "name": "moss",
+    "trans": [
+      "n. 苔藓，藓类植物；苔藓绿（moss green）；（苏格兰，北英格兰）沼泽（尤指泥炭沼）",
+      "v. 长满苔藓"
+    ],
+    "usphone": "mɔːs",
+    "ukphone": "mɒs",
+    "e_mean": [
+      "tiny leafy-stemmed flowerless plants"
+    ],
+    "speech": "noun",
+    "sentence": "Irish moss"
+  },
+  {
+    "name": "underneath",
+    "trans": [
+      "在下面",
+      "在…下面",
+      "下部"
+    ],
+    "usphone": ",ʌndɚ'niθ",
+    "ukphone": "ˌʌndə'niːθ",
+    "e_mean": [
+      "on the lower or downward side; on the underside of"
+    ],
+    "speech": "adverb",
+    "sentence": "The underneath of the aircraft was painted blue."
+  },
+  {
+    "name": "meagre",
+    "trans": [
+      "少量的， 粗劣的"
+    ],
+    "usphone": "'mi:gə",
+    "ukphone": "'miːgə(r)",
+    "e_mean": [
+      "deficient in amount or quality or extent"
+    ],
+    "speech": "adjective",
+    "sentence": "He was given a meagre piece of cake that he swallowed in one bite."
+  },
+  {
+    "name": "curtail",
+    "trans": [
+      "缩短， 削减； 剥夺"
+    ],
+    "usphone": "kɚ'tel",
+    "ukphone": "kɜː'teɪl",
+    "e_mean": [
+      "terminate or abbreviate before its intended or proper end"
+    ],
+    "speech": "verb",
+    "sentence": "Curtailing horses procured long horse-hair."
+  },
+  {
+    "name": "evoke",
+    "trans": [
+      "唤起"
+    ],
+    "usphone": "ɪ'vok",
+    "ukphone": "ɪ'vəuk",
+    "e_mean": [
+      "call forth, as an emotion, feeling, or response"
+    ],
+    "speech": "verb",
+    "sentence": "Being here evokes long forgotten memories."
+  },
+  {
+    "name": "variety",
+    "trans": [
+      "品种， 种类； 变化， 多样化"
+    ],
+    "usphone": "və'raɪəti",
+    "ukphone": "və'raɪəti",
+    "e_mean": [
+      "a category of things distinguished by a common quality"
+    ],
+    "speech": "noun",
+    "sentence": "Variety is the spice of life."
+  },
+  {
+    "name": "scrub",
+    "trans": [
+      "用力擦洗，把…擦净；取消",
+      "矮树丛， 灌木丛"
+    ],
+    "usphone": "skrʌb",
+    "ukphone": "skrʌb",
+    "e_mean": [
+      "wash thoroughly"
+    ],
+    "speech": "verb",
+    "sentence": "What a scrub! Instead of washing the dishes she put the used food on her face!"
+  },
+  {
+    "name": "tropical",
+    "trans": [
+      "热带的； 炎热的"
+    ],
+    "usphone": "'trɑpɪkl",
+    "ukphone": "'trɒpɪkl",
+    "e_mean": [
+      "relating to part of the Earth's surface with hot climate"
+    ],
+    "speech": "adjective",
+    "sentence": "tropical fruit"
+  },
+  {
+    "name": "cereal",
+    "trans": [
+      "谷类植物； 谷物； 谷类食物"
+    ],
+    "usphone": "'sɪrɪəl",
+    "ukphone": "'sɪəriəl",
+    "e_mean": [
+      "grass whose starchy grains are used as food: wheat"
+    ],
+    "speech": "noun",
+    "sentence": "Which cereal would you like for breakfast?"
+  },
+  {
+    "name": "minimise",
+    "trans": [
+      "使减到最低限度； 最小化"
+    ],
+    "usphone": "'minimaiz",
+    "ukphone": "'mɪnɪmaɪz",
+    "e_mean": [
+      "make small or insignificant"
+    ],
+    "speech": "verb",
+    "sentence": "I didn't close anything, but I minimized all the windows so I could see the desktop."
+  },
+  {
+    "name": "extinct",
+    "trans": [
+      "adj. 灭绝的；消亡的；（火山）死的；（贵族称号）无合法继承人的；熄灭了的"
+    ],
+    "usphone": "ɪkˈstɪŋkt",
+    "ukphone": "ɪk'stɪŋkt",
+    "e_mean": [
+      "no longer in existence"
+    ],
+    "speech": "adjective",
+    "sentence": "Poor Edward's cigarillo was already extinct."
+  },
+  {
+    "name": "rampant",
+    "trans": [
+      "猖獗的， 肆虐的， 泛滥的； 蔓生的， 疯长的"
+    ],
+    "usphone": "'ræmpənt",
+    "ukphone": "'ræmpənt",
+    "e_mean": [
+      "occurring or increasing in an unrestrained way"
+    ],
+    "speech": "adjective",
+    "sentence": "The Vienna riding school displays splendid rampant movement."
+  },
+  {
+    "name": "photosynthesis",
+    "trans": [
+      "n. 光合作用"
+    ],
+    "usphone": "ˌfoʊtoʊˈsɪnθəsɪs",
+    "ukphone": "ˌfəʊtəʊˈsɪnθəsɪs",
+    "__part": "植物研究",
+    "e_mean": [
+      "formation of compounds in plants aided by radiant energy"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "respire",
+    "trans": [
+      "vt. 呼吸",
+      "vi. 呼吸"
+    ],
+    "usphone": "rɪˈspaɪər",
+    "ukphone": "rɪˈspaɪə(r)",
+    "e_mean": [
+      "draw air into, and expel out of, the lungs"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "dioxide",
+    "trans": [
+      "n. 二氧化物,复数 dioxides"
+    ],
+    "usphone": "daɪˈɑːksaɪd",
+    "ukphone": "daɪˈɒksaɪd",
+    "e_mean": [
+      "an oxide containing two atoms of oxygen in the molecule"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "herbivore",
+    "trans": [
+      "n. [动] 食草动物"
+    ],
+    "usphone": "ˈɜːrbɪvɔːr",
+    "ukphone": "ˈhɜːbɪvɔː(r)",
+    "e_mean": [
+      "any animal that feeds chiefly on grass and other plants"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "ecology",
+    "trans": [
+      "n. 生态学；生态；生态保护运动"
+    ],
+    "usphone": "iˈkɑːlədʒi",
+    "ukphone": "iˈkɒlədʒi",
+    "e_mean": [
+      "the environment as it relates to living organisms"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "ecosystem",
+    "trans": [
+      "n. 生态系统"
+    ],
+    "usphone": "ˈiːkoʊsɪstəm",
+    "ukphone": "ˈiːkoʊsɪstəm",
+    "e_mean": [
+      "organisms interacting with their physical environment"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "ecological",
+    "trans": [
+      "adj. 生态的，生态学的；主张生态保护的"
+    ],
+    "usphone": "ˌiːkəˈlɑːdʒɪk(ə)l",
+    "ukphone": "ˌiːkəˈlɒdʒɪkl",
+    "e_mean": [
+      "characterized by the interdependence of living organisms"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "economic",
+    "trans": [
+      "adj. 经济的，经济学的；有利可图的；节约的"
+    ],
+    "usphone": "ˌiːkəˈnɑːmɪk",
+    "ukphone": "ˌiːkəˈnɒmɪk",
+    "e_mean": [
+      "of or relating to production and management of wealth"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "horticulture",
+    "trans": [
+      "n. 园艺，园艺学"
+    ],
+    "usphone": "ˈhɔːrtɪkʌltʃər",
+    "ukphone": "ˈhɔːtɪkʌltʃə(r)",
+    "e_mean": [
+      "the cultivation of plants"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "organism",
+    "trans": [
+      "n. 生物，有机体，（尤指）微生物；有机组织，有机体系"
+    ],
+    "usphone": "ˈɔːrɡənɪzəm",
+    "ukphone": "ˈɔːɡənɪzəm",
+    "e_mean": [
+      "a living thing that can act or function independently"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mutation",
+    "trans": [
+      "n. （动物或植物的）突变，变异；（基因结构突变产生的）突变体，突变型；（形式的）转变，改变；语流音变，变音"
+    ],
+    "usphone": "mjuːˈteɪʃ(ə)n",
+    "ukphone": "mjuːˈteɪʃn",
+    "e_mean": [
+      "a change or alteration in form or qualities"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "hybridisation",
+    "trans": [
+      "n. 混合淡化技术（等于 hybridization）"
+    ],
+    "usphone": "ˌhaɪbrɪdəˈzeɪʃn",
+    "ukphone": "ˌhaɪbrɪdaɪˈzeɪʃən",
+    "e_mean": [
+      "(genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "diversity",
+    "trans": [
+      "多样性； 差异"
+    ],
+    "usphone": "dɪˈvəsɪti",
+    "ukphone": "daɪ'vɜːsəti",
+    "e_mean": [
+      "noticeable variety"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "biodiversity",
+    "trans": [
+      "n. 多样性，多样化；不同，差异"
+    ],
+    "usphone": "daɪˈvɜːrsəti; dɪˈvɜːsɪti",
+    "ukphone": "daɪˈvɜːsəti",
+    "e_mean": [
+      "the variety of plant and animal life in a habitat"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "reproduce",
+    "trans": [
+      "v. 复制，翻印；模拟；再制造，再现；繁殖，生殖"
+    ],
+    "usphone": "ˌriːprəˈduːs",
+    "ukphone": "ˌriːprəˈdjuːs",
+    "e_mean": [
+      "make a copy or equivalent of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "revolve",
+    "trans": [
+      "v. （使）旋转；围绕……旋转,反复思考，反复斟酌；循环出现",
+      "n. 旋转舞台"
+    ],
+    "usphone": "ri'vɔlv",
+    "ukphone": "rɪ'vɒlv",
+    "e_mean": [
+      "turn on or around an axis or a center"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "reclaim",
+    "trans": [
+      "v. 要求归还；利用，改造（荒地）；回收（废品中有用的东西）；感化，使纠正"
+    ],
+    "usphone": "rɪˈkleɪm",
+    "ukphone": "rɪˈkleɪm",
+    "e_mean": [
+      "reassert one's right or title to"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "arable",
+    "trans": [
+      "adj. 与种植有关的,可耕作的",
+      "n. 耕地"
+    ],
+    "usphone": "ˈærəb(ə)l",
+    "ukphone": "ˈærəb(ə)l",
+    "e_mean": [
+      "capable of being farmed productively"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "vase",
+    "trans": [
+      "n. 花瓶，（装饰用的）瓶"
+    ],
+    "usphone": "veɪs",
+    "ukphone": "vɑːz",
+    "e_mean": [
+      "an open jar of glass or porcelain used as an ornament or to hold flowers"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "lawn",
+    "trans": [
+      "n. 草坪，草地；上等细棉布，上等细麻布"
+    ],
+    "usphone": "lɔːn",
+    "ukphone": "lɔːn",
+    "e_mean": [
+      "a field of cultivated and mowed grass"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "vine",
+    "trans": [
+      "n. 葡萄属植物，葡萄藤；藤本植物，攀缘植物；<美，非正式>衣服（vines）",
+      "v. 长成藤蔓，爬藤"
+    ],
+    "usphone": "vaɪn",
+    "ukphone": "vaɪn",
+    "e_mean": [
+      "a plant with a weak stem that derives support from climbing, twining, or creeping along a surface"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "violet",
+    "trans": [
+      "n. 紫罗兰，堇菜；蓝紫色，紫罗兰色",
+      "adj. 紫色的，紫罗兰色的"
+    ],
+    "usphone": "ˈvaɪələt",
+    "ukphone": "ˈvaɪələt",
+    "e_mean": [
+      "a bluish-purple color"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tulip",
+    "trans": [
+      "n. 郁金香"
+    ],
+    "usphone": "ˈtuːlɪp",
+    "ukphone": "ˈtjuːlɪp",
+    "e_mean": [
+      "any of numerous perennial bulbous herbs having linear or broadly lanceolate leaves and usually a single showy flower"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "alga",
+    "trans": [
+      "n. 藻类，海藻"
+    ],
+    "usphone": "ˈælɡə",
+    "ukphone": "ˈælɡə",
+    "e_mean": [
+      "primitive chlorophyll-containing mainly aquatic eukaryotic organisms lacking true stems and roots and leaves"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "enzyme",
+    "trans": [
+      "n. 酶"
+    ],
+    "usphone": "ˈenzaɪm",
+    "ukphone": "ˈenzaɪm",
+    "e_mean": [
+      "a complex protein produced by cells that acts as a catalyst"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "uptake",
+    "trans": [
+      "n. 摄取；领会；举起 复数 uptakes"
+    ],
+    "usphone": "ˈʌpteɪk",
+    "ukphone": "ˈʌpteɪk",
+    "e_mean": [
+      "the process of taking food into the body through the mouth"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "nutrient",
+    "trans": [
+      "n. 养分，营养物",
+      "adj. 营养的，滋养的"
+    ],
+    "usphone": "ˈnuːtriənt",
+    "ukphone": "ˈnjuːtriənt",
+    "e_mean": [
+      "any substance that can be metabolized to give energy"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "energy",
+    "trans": [
+      "n. 能力，力气；精力，活力；能源；能，能量 复数 energies"
+    ],
+    "usphone": "ˈenərdʒi",
+    "ukphone": "ˈenədʒi",
+    "e_mean": [
+      "forceful exertion"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "fungus",
+    "trans": [
+      "n. 真菌，真菌类植物；霉菌；（尤指鱼的）真菌感染；迅速出现的令人讨厌的东西 复数 fungi或funguses"
+    ],
+    "usphone": "ˈfʌŋɡəs",
+    "ukphone": "ˈfʌŋɡəs",
+    "e_mean": [
+      "a spore-producing organism that lacks chlorophyll"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "germinate",
+    "trans": [
+      "vt. 使发芽；使生长vi. 发芽；生长"
+    ],
+    "usphone": "ˈdʒɜːrmɪneɪt",
+    "ukphone": "'dʒɜːmɪneɪt",
+    "e_mean": [
+      "sprout; produce buds or branches"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "burgeon",
+    "trans": [
+      "vi. 萌芽, 发芽；迅速增长",
+      "n. 芽, 嫩枝"
+    ],
+    "usphone": "ˈbɜːrdʒən",
+    "ukphone": "'bɜːdʒən",
+    "e_mean": [
+      "grow and flourish"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "bud",
+    "trans": [
+      "n. 芽，花蕾；<美，非正式>伙计，老兄；芽体",
+      "v. 发芽，长出花蕾；为……进行芽接"
+    ],
+    "usphone": "bʌd",
+    "ukphone": "bʌd",
+    "e_mean": [
+      "a partially opened flower"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "flower",
+    "trans": [
+      "n. 花，开花植物；精华，最好的部分",
+      "v. 开花；繁荣，兴旺"
+    ],
+    "usphone": "ˈflaʊər",
+    "ukphone": "ˈflaʊə(r)",
+    "e_mean": [
+      "reproductive organ of plants especially if showy or colorful"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "blossom",
+    "trans": [
+      "n. （树木的）花，花簇；开花，花期",
+      "v. 开花；成长，繁盛，兴旺"
+    ],
+    "usphone": "ˈblɑːsəm",
+    "ukphone": "ˈblɒsəm",
+    "e_mean": [
+      "a flower or cluster of flowers on a plant"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "aromatic",
+    "trans": [
+      "adj. 芳香的，芬芳的；芳香族的",
+      "n. 芳香植物；芳香剂"
+    ],
+    "usphone": "ˌærəˈmætɪk",
+    "ukphone": "ˌærəˈmætɪk",
+    "e_mean": [
+      "having a strong pleasant odor"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "wither",
+    "trans": [
+      "v. （使）枯萎，（使）干枯；衰弱，逐渐消失；使感到愚蠢，使感到羞愧；（人的四肢、皮肤等）变枯槁，萎缩",
+      "n. 甲，马肩隆"
+    ],
+    "usphone": "ˈwɪðər",
+    "ukphone": "ˈwɪðə(r)",
+    "e_mean": [
+      "lose freshness, vigor, or vitality"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "decompose",
+    "trans": [
+      "v. （使）腐烂，腐败；（使）分解；（数）分解"
+    ],
+    "usphone": ",di:kəm'pəuz",
+    "ukphone": ",di:kəm'pəuz",
+    "e_mean": [
+      "break down"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "conservation",
+    "trans": [
+      "n. 保护，保存；节约，防止浪费；守恒定律"
+    ],
+    "usphone": "ˌkɑːnsərˈveɪʃ(ə)n",
+    "ukphone": "ˌkɑːnsərˈveɪʃ(ə)n",
+    "e_mean": [
+      "careful management of the environment and natural resources"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "destruct",
+    "trans": [
+      "v. （审慎地）毁坏（某物，尤指火箭或导弹）；（故意的）毁坏",
+      "n. （故意的）毁坏",
+      "adj. 为可自毁而设计的"
+    ],
+    "usphone": "dɪˈstrʌkt",
+    "ukphone": "dɪˈstrʌkt",
+    "e_mean": [
+      "do away with, cause the destruction or undoing of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "perish",
+    "trans": [
+      "v. （人或动物）惨死，猝死；湮灭，毁灭；（木头、橡胶、食物等）腐烂，腐败；<英，非正式> 经受酷寒"
+    ],
+    "usphone": "ˈperɪʃ",
+    "ukphone": "ˈperɪʃ",
+    "e_mean": [
+      "pass from physical life"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "infringe",
+    "trans": [
+      "v. 违反，违背（法律、规则等）；侵犯，侵害（权益）"
+    ],
+    "usphone": "ɪnˈfrɪndʒ",
+    "ukphone": "ɪnˈfrɪndʒ",
+    "e_mean": [
+      "advance beyond the usual limit"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "extinction",
+    "trans": [
+      "n. 灭绝，消亡；（债务的）偿清；消光"
+    ],
+    "usphone": "ɪkˈstɪŋkʃ(ə)n",
+    "ukphone": "ɪkˈstɪŋkʃn",
+    "e_mean": [
+      "the state of being no longer in existence"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pattern",
+    "trans": [
+      "n. 模式，方式；图案，花样；模范，典范；模型，底样；（布或墙纸的）样品；样式；（声音或词汇有规则排列的）模式",
+      "v. 用图案装饰，给……加上花样；仿照，模仿；赋予……以固定（或易辨认）的形式；使形成，促成（某行为模式）"
+    ],
+    "usphone": "ˈpætərn",
+    "ukphone": "ˈpæt(ə)n",
+    "e_mean": [
+      "a repeated design, structure, or arrangement"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "seasonal",
+    "trans": [
+      "adj. 季节性的，随季节变化的；节令性的，适应节日需要的"
+    ],
+    "usphone": "ˈsiːzən(ə)l",
+    "ukphone": "ˈsiːzən(ə)l",
+    "e_mean": [
+      "occurring at or dependent on a particular season"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "throughout",
+    "trans": [
+      "adv. 遍及，到处；自始至终，贯穿整个时期"
+    ],
+    "usphone": "θruːˈaʊt",
+    "ukphone": "θrʊː'aut",
+    "e_mean": [
+      "from first to last"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "decompose",
+    "trans": [
+      "v. （使）腐烂，腐败；（使）分解；（数）分解"
+    ],
+    "usphone": "ˌdiːkəmˈpoʊz",
+    "ukphone": "ˌdiːkəm'pəuz",
+    "e_mean": [
+      "break down"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "coexist",
+    "trans": [
+      "共存"
+    ],
+    "usphone": ",koɪɡ'zɪst",
+    "ukphone": "ˌkəuɪg'zɪst",
+    "e_mean": [
+      "occur at the same time or place"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "hybrid",
+    "trans": [
+      "杂交产生的； 混合的， 合成的",
+      "杂交生成的生物体，杂交植物；杂种，混血儿；混合物，合成物"
+    ],
+    "usphone": "'haɪbrɪd",
+    "ukphone": "'haɪbrɪd",
+    "e_mean": [
+      "the offspring of genetically dissimilar parents or stock"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "deficiency",
+    "trans": [
+      "缺乏， 不足"
+    ],
+    "usphone": "dɪ'fɪʃənsi",
+    "ukphone": "dɪ'fɪʃnsi",
+    "e_mean": [
+      "lack of an adequate quantity or number"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "shrub",
+    "trans": [
+      "灌木"
+    ],
+    "usphone": "ʃrʌb",
+    "ukphone": "ʃrʌb",
+    "e_mean": [
+      "a low woody plant usually having several stems"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "abundance",
+    "trans": [
+      "大量， 丰富， 充足， 充裕"
+    ],
+    "usphone": "ə'bʌndəns",
+    "ukphone": "ə'bʌndəns",
+    "e_mean": [
+      "the property of a more than adequate quantity or supply"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "grove",
+    "trans": [
+      "树丛， 小树林"
+    ],
+    "usphone": "ɡrov",
+    "ukphone": "grəuv",
+    "e_mean": [
+      "a small growth of trees without underbrush"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "contrived",
+    "trans": [
+      "不自然的； 人为的"
+    ],
+    "usphone": "kən'traɪvd",
+    "ukphone": "kən'traɪvd",
+    "e_mean": [
+      "showing effects of planning or manipulation"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "almond",
+    "trans": [
+      "杏树； 杏仁"
+    ],
+    "usphone": "ˈɑːmənd",
+    "ukphone": "'ɑːmənd",
+    "e_mean": [
+      "small bushy deciduous tree native to Asia and North Africa"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pollinate",
+    "trans": [
+      "【植】 给…授粉"
+    ],
+    "usphone": "'pɑlənet",
+    "ukphone": "'pɒləneɪt",
+    "e_mean": [
+      "fertilize by transferring spores from one plant to another"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "homogeneous",
+    "trans": [
+      "同种类的， 由相同事物组成的"
+    ],
+    "usphone": ",homə'dʒinɪəs",
+    "ukphone": "ˌhɒmə'dʒiːniəs",
+    "e_mean": [
+      "all of the same or similar kind or nature"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "browse",
+    "trans": [
+      "吃嫩叶或草；浏览",
+      "嫩叶， 嫩芽； 吃草； 浏览"
+    ],
+    "usphone": "braʊz",
+    "ukphone": "brauz",
+    "e_mean": [
+      "feed as in a meadow or pasture"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "transplant",
+    "trans": [
+      "移栽，移种；移植；使迁移，使移居['trænsplaːnt]",
+      "移植"
+    ],
+    "usphone": "træns'plænt",
+    "ukphone": "træns'plaːnt",
+    "e_mean": [
+      "transfer from one place or period to another"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "thorny",
+    "trans": [
+      "多刺的； 痛苦的， 棘手的"
+    ],
+    "usphone": "'θɔrni",
+    "ukphone": "'θɔːni",
+    "e_mean": [
+      "full of difficulties or perplexities"
+    ],
+    "speech": "adjective"
+  }
+]

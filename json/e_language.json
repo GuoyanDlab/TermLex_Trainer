@@ -1,0 +1,1348 @@
+[
+  {
+    "name": "assign",
+    "trans": [
+      "v. 分派，布置（工作、任务）；分配（某物）；指派，派遣；确定（价值、功能、时间、地点）；转让（财产、权利）"
+    ],
+    "usphone": "ə'saɪn",
+    "ukphone": "ə'saɪn",
+    "e_mean": [
+      "select something or someone for a specific purpose"
+    ],
+    "speech": "verb",
+    "sentence": "to assign a day for trial"
+  },
+  {
+    "name": "gesture",
+    "trans": [
+      "n. 手势，姿势；姿态，表示",
+      "V. 打手势，用动作示意"
+    ],
+    "usphone": "ˈdʒestʃər",
+    "ukphone": "'dʒestʃə(r)",
+    "e_mean": [
+      "motion of hands or body to emphasize a thought or feeling"
+    ],
+    "speech": "noun",
+    "sentence": "The middle-finger gesture is really a nonverbal swear."
+  },
+  {
+    "name": "wedge",
+    "trans": [
+      "n. 楔子，三角木；楔形物，三角形物（尤指食物）；不和；（高尔夫）楔形铁头球棒；（高尔夫）楔形铁头球棒击出的球；有鞋跟的女鞋；坡跟鞋鞋跟；",
+      "v. （将……）楔入，插入，挤入；把……楔住，把……楔牢；（制作陶瓷时）揉（陶土）"
+    ],
+    "usphone": "wedʒ",
+    "ukphone": "wedʒ",
+    "e_mean": [
+      "something solid that can be pushed between two things"
+    ],
+    "speech": "noun",
+    "sentence": "Stick a wedge under the door, will you? It keeps blowing shut."
+  },
+  {
+    "name": "knot",
+    "trans": [
+      "n. （用绳索等打的）结，绞成乱团的头发（线等）；节子，节疤；（身体某部位的）痉挛，难受；节（速度计量单位，每小时一海里）；发髻；一小群人；（肌肉上的）硬结，隆起物；饰带；测速绳节",
+      "v. 打结，（使）缠结；（因害怕、激动等而）痉挛，紧缩；打发髻；使比分持平"
+    ],
+    "usphone": "nɑːt",
+    "ukphone": "nɒt",
+    "e_mean": [
+      "a fastening formed by looping and tying a cord or rope"
+    ],
+    "speech": "noun",
+    "sentence": "Climbers must make sure that all knots are both secure and of types that will not weaken the rope."
+  },
+  {
+    "name": "grammar",
+    "trans": [
+      "n. 语法，文法；（人的）语言知识及运用能力；语法书；语法理论，语法学；（某门类知识和技能的）基本原理；<英，非正式>中学；（计算机）文法"
+    ],
+    "usphone": "ˈɡræmər",
+    "ukphone": "ˈɡræmər",
+    "e_mean": [
+      "the branch of linguistics that deals with sentence structure"
+    ],
+    "speech": "noun",
+    "sentence": "a grammar of geography"
+  },
+  {
+    "name": "pronounce",
+    "trans": [
+      "v. 发（音），读（音）；正式宣布（或公布、授予等）；发表意见，表态"
+    ],
+    "usphone": "prəˈnaʊns",
+    "ukphone": "prəˈnaʊns",
+    "e_mean": [
+      "speak or utter in a certain way"
+    ],
+    "speech": "verb",
+    "sentence": "I hereby pronounce you man and wife."
+  },
+  {
+    "name": "intonation",
+    "trans": [
+      "n. 声调，语调；吟咏，吟诵；（素歌的）起始短句；（演奏或唱歌中的）音准"
+    ],
+    "usphone": "ˌɪntəˈneɪʃn",
+    "ukphone": "ˌɪntəˈneɪʃn",
+    "e_mean": [
+      "the act of singing in a monotonous tone"
+    ],
+    "speech": "noun",
+    "sentence": "Her intonation was false."
+  },
+  {
+    "name": "inflection",
+    "trans": [
+      "n. 弯曲，变形；音调变化"
+    ],
+    "usphone": "ɪnˈflekʃn",
+    "ukphone": "ɪnˈflekʃn",
+    "e_mean": [
+      "the patterns of stress and intonation in a language"
+    ],
+    "speech": "noun",
+    "sentence": "an inflection for gender, number, or tense"
+  },
+  {
+    "name": "dialect",
+    "trans": [
+      "n. 方言，土话"
+    ],
+    "usphone": "ˈdaɪəlekt",
+    "ukphone": "'daɪəlekt",
+    "e_mean": [
+      "the usage or vocabulary characteristic of a group of people"
+    ],
+    "speech": "noun",
+    "sentence": "Home computers in the 1980s had many incompatible dialects of BASIC."
+  },
+  {
+    "name": "accent",
+    "trans": [
+      "n. 口音，腔调，土音；着重点，强调；重音；（字母上的）读音符号；点缀，特色",
+      "v. 强调，突出；重读；以重音演奏"
+    ],
+    "usphone": "ˈæksent",
+    "ukphone": "ˈæksent",
+    "e_mean": [
+      "special importance or significance"
+    ],
+    "speech": "noun",
+    "sentence": "In the word \"careful\", the accent is placed on the first syllable."
+  },
+  {
+    "name": "utterance",
+    "trans": [
+      "n. 言论，言辞；发声，表达；（语言学）话语"
+    ],
+    "usphone": "ˈʌtərəns",
+    "ukphone": "'ʌtərəns",
+    "e_mean": [
+      "the use of spoken sounds for auditory communication"
+    ],
+    "speech": "noun",
+    "sentence": "He has a good utterance."
+  },
+  {
+    "name": "oral",
+    "trans": [
+      "adj. 口头的，口述的；口的，口腔的；（药物）口服的；（语音）口腔发声的；（社会）没有文字的；（心理分析）口欲的，口唇的"
+    ],
+    "usphone": "ˈɔːrəl",
+    "ukphone": "ˈɔːrəl",
+    "e_mean": [
+      "using speech rather than writing"
+    ],
+    "speech": "adjective",
+    "sentence": "We've got our Spanish oral tomorrow."
+  },
+  {
+    "name": "verbal",
+    "trans": [
+      "adj. 口头的，非书面的；用言辞的，文字的；动词的；多话的，爱说话的",
+      "n. （语法）动词性单词（或短语、从句）；辱骂，侮辱；"
+    ],
+    "usphone": "ˈvɜːrb(ə)l",
+    "ukphone": "ˈvɜːb(ə)l",
+    "e_mean": [
+      "of or relating to or formed from words in general"
+    ],
+    "speech": "adjective",
+    "sentence": "a verbal contract"
+  },
+  {
+    "name": "language",
+    "trans": [
+      "n. 语言，语言文字；言语，说话；"
+    ],
+    "usphone": "ˈlæŋɡwɪdʒ",
+    "ukphone": "ˈlæŋɡwɪdʒ",
+    "e_mean": [
+      "a means of communicating by the use of sounds or symbols"
+    ],
+    "speech": "noun",
+    "sentence": "Deaf and mute people communicate using languages like ASL."
+  },
+  {
+    "name": "symbol",
+    "trans": [
+      "n. 象征，标志；符号；代表性的人（物）"
+    ],
+    "usphone": "ˈsɪmb(ə)l",
+    "ukphone": "ˈsɪmb(ə)l",
+    "e_mean": [
+      "something visible that represents something invisible"
+    ],
+    "speech": "noun",
+    "sentence": "$ is the symbol for dollars in the US and some other countries."
+  },
+  {
+    "name": "consonant",
+    "trans": [
+      "n. 辅音；辅音字母",
+      "adj. 一致的，相符的；（与）辅音（有关）的；（乐）协和音的，和谐的"
+    ],
+    "usphone": "ˈkɑːnsənənt",
+    "ukphone": "ˈkɑːnsənənt",
+    "e_mean": [
+      "a speech sound that is not a vowel"
+    ],
+    "speech": "noun",
+    "sentence": "The 19 unquestionable consonants in the English alphabet are B, C, D, F, G, H, J, K, L, M, N, P, Q, R, S, T, V, X, Z."
+  },
+  {
+    "name": "alphabet",
+    "trans": [
+      "n. 字母表；基本要素；初步，入门"
+    ],
+    "usphone": "ˈælfəbet",
+    "ukphone": "ˈælfəbet",
+    "e_mean": [
+      "a set of characters that are used to write a language"
+    ],
+    "speech": "noun",
+    "sentence": "In the first year of school, pupils are taught to recite the alphabet."
+  },
+  {
+    "name": "vocabulary",
+    "trans": [
+      "n. 全部词汇；词汇；（专业词汇，术语；词汇表；（美术、音乐等领域的）表现形式，表达手段"
+    ],
+    "usphone": "vəˈkæbjəleri",
+    "ukphone": "vəˈkæbjəleri",
+    "e_mean": [
+      "a language user's knowledge of words"
+    ],
+    "speech": "noun",
+    "sentence": "My Russian vocabulary is very limited."
+  },
+  {
+    "name": "phrase",
+    "trans": [
+      "n. 短语，词组；惯用语，习语；乐句；（芭蕾）舞句",
+      "v. 用……方式表达，以……措辞表达；把（乐曲）分成短句"
+    ],
+    "usphone": "freɪz",
+    "ukphone": "freɪz",
+    "e_mean": [
+      "an expression consisting of one or more words"
+    ],
+    "speech": "noun",
+    "sentence": "I wasn't sure how to phrase my condolences without sounding patronising."
+  },
+  {
+    "name": "expression",
+    "trans": [
+      "n. 表达，表示；表情，神情；（表演、歌唱或演奏时的）情感表现；词语，措词；式，表达式；挤压"
+    ],
+    "usphone": "ɪkˈspreʃn",
+    "ukphone": "ɪkˈspreʃn",
+    "e_mean": [
+      "the communication of your beliefs or opinions"
+    ],
+    "speech": "noun",
+    "sentence": "The expression \"break a leg!\" should not be taken literally."
+  },
+  {
+    "name": "tense",
+    "trans": [
+      "adj. 紧张的，焦虑的；（气氛或局势）令人紧张的，引发恐慌的；（身体或肌肉）僵直的，绷紧的；（金属丝等）拉紧的，绷紧的；（语音，尤指元音）紧的",
+      "v. （使）（身体或肌肉）绷紧，（使）变得僵直；变得神经紧张",
+      "n. （动词的）时态"
+    ],
+    "usphone": "tens",
+    "ukphone": "tens",
+    "e_mean": [
+      "taut or rigid; stretched tight"
+    ],
+    "speech": "adjective",
+    "sentence": "English only has a present tense and a past tense; it has no future tense."
+  },
+  {
+    "name": "root",
+    "trans": [
+      "n. 词根，字根；根源（植物的）根，根茎；根用作物；（头发、牙齿、指甲等的）根部；底部，基部；根源，起因；起源，背景；",
+      "v. （使）生根；扎根于，在……中根深蒂固；根源在于，由……产生（be rooted in）；使（某人）无法移动；"
+    ],
+    "usphone": "ruːt",
+    "ukphone": "ruːt",
+    "e_mean": [
+      "underground plant organ that lacks buds or leaves or nodes"
+    ],
+    "speech": "noun",
+    "sentence": "This tree's roots can go as deep as twenty metres underground."
+  },
+  {
+    "name": "suffix",
+    "trans": [
+      "n. （单词的）后缀，词尾；（注于代码末尾的）尾标；（数）下标字母（或数字，符号）",
+      "v. 附加（尤指作为后缀）"
+    ],
+    "usphone": "ˈsʌfɪks",
+    "ukphone": "ˈsʌfɪks",
+    "e_mean": [
+      "a linguistic element that is added at the end of the word"
+    ],
+    "speech": "noun",
+    "sentence": "The suffix \"-able\" changes \"sing\" into \"singable\"."
+  },
+  {
+    "name": "synonym",
+    "trans": [
+      "n. 同义词；代名词，换喻词；（分类学中的）同物异名"
+    ],
+    "usphone": "ˈsɪnənɪm",
+    "ukphone": "ˈsɪnənɪm",
+    "e_mean": [
+      "a word that expresses the same or similar meaning"
+    ],
+    "speech": "noun",
+    "sentence": "“Happy” is a synonym of “glad”."
+  },
+  {
+    "name": "antonym",
+    "trans": [
+      "n. 反义词"
+    ],
+    "usphone": "ˈæntənɪm",
+    "ukphone": "ˈæntənɪm",
+    "e_mean": [
+      "a word that expresses an opposite meaning"
+    ],
+    "speech": "noun",
+    "sentence": "“rich” is an antonym of “poor”; “full” is an antonym of “empty”"
+  },
+  {
+    "name": "singular",
+    "trans": [
+      "adj. 单数的，单数形式的；<正式>非凡的，突出的；<文>奇怪的，异常的；独一无二的，独特的；（数）（方阵）零行列式的",
+      "n. 单数，单数形式（the singular）"
+    ],
+    "usphone": "ˈsɪŋɡjələr",
+    "ukphone": "ˈsɪŋɡjələr",
+    "e_mean": [
+      "being a single and separate person or thing"
+    ],
+    "speech": "adjective",
+    "sentence": "A singular experiment cannot be regarded as scientific proof of the existence of a phenomenon."
+  },
+  {
+    "name": "verb",
+    "trans": [
+      "n. 动词；动词词性；动词性短语或从句"
+    ],
+    "usphone": "vɜːrb",
+    "ukphone": "vɜːrb",
+    "e_mean": [
+      "a word denoting an action, occurrence, or state of existence"
+    ],
+    "speech": "noun",
+    "sentence": "The word “speak” is an English verb."
+  },
+  {
+    "name": "adjective",
+    "trans": [
+      "n. 形容词",
+      "adj. 形容词的；从属的"
+    ],
+    "usphone": "ˈædʒɪktɪv",
+    "ukphone": "ˈædʒɪktɪv",
+    "e_mean": [
+      "the word class that qualifies nouns"
+    ],
+    "speech": "noun",
+    "sentence": "The words “big” and “heavy” are English adjectives."
+  },
+  {
+    "name": "adverb",
+    "trans": [
+      "n. 副词",
+      "adj. 副词的"
+    ],
+    "usphone": "ˈædvɜːrb",
+    "ukphone": "ˈædvɜːrb",
+    "e_mean": [
+      "a word that modifies something other than a noun"
+    ],
+    "speech": "noun",
+    "sentence": "I often went outside hiking during my stay in Japan."
+  },
+  {
+    "name": "preposition",
+    "trans": [
+      "n. 介词，前置词"
+    ],
+    "usphone": "ˌprepəˈzɪʃ(ə)n",
+    "ukphone": "ˌprepəˈzɪʃ(ə)n",
+    "e_mean": [
+      "a word before a noun or pronoun connecting to another word"
+    ],
+    "speech": "noun",
+    "sentence": "It is important to preposition the material before turning on the machine."
+  },
+  {
+    "name": "consistent",
+    "trans": [
+      "adj. 始终如一的，一贯的；持续的，连续的；固守的，坚持的；一致的，吻合的"
+    ],
+    "usphone": "kən'sɪstənt",
+    "ukphone": "kən'sɪstənt",
+    "e_mean": [
+      "the same throughout in structure or composition"
+    ],
+    "speech": "adjective",
+    "sentence": "He is very consistent in his political choices: economy good or bad, he always votes Labour!"
+  },
+  {
+    "name": "complicated",
+    "trans": [
+      "adj. 复杂的，难处理的",
+      "v. 使复杂化，使难以理解；引起并发症（complicate 的过去式和过去分词形式）"
+    ],
+    "usphone": "ˈkɑːmplɪkeɪtɪd",
+    "ukphone": "'kɒmplɪkeɪtɪd",
+    "e_mean": [
+      "difficult to analyze or understand"
+    ],
+    "speech": "adjective",
+    "sentence": "Don't complicate yourself in issues that are beyond the scope of your understanding."
+  },
+  {
+    "name": "complex",
+    "trans": [
+      "adj. 复杂的，难懂的；组合的，合成的；（句子）复合的；复数的，复的；配合的，络合的",
+      "n. 综合大楼，建筑群；复合体，综合体；情结；强烈（或过度）的关心（或忧虑）；配合物，络合物"
+    ],
+    "usphone": "kəmˈpleks",
+    "ukphone": "'kɒmpleks",
+    "e_mean": [
+      "complicated in structure"
+    ],
+    "speech": "adjective",
+    "sentence": "Jim has a real complex about working for a woman boss."
+  },
+  {
+    "name": "compile",
+    "trans": [
+      "v. 汇编，编纂；编译（电脑程式）；收集，搜集（信息，资料）；累积（得分）"
+    ],
+    "usphone": "kəmˈpaɪl",
+    "ukphone": "kəm'paɪl",
+    "e_mean": [
+      "get or gather together"
+    ],
+    "speech": "verb",
+    "sentence": "Samuel Johnson compiled one of the most influential dictionaries of the English language."
+  },
+  {
+    "name": "version",
+    "trans": [
+      "n. （同一种物件稍有不同的）样式，型号；（从不同角度的）说法，描述；（电影、剧本、乐曲等的）版本，改编形式；",
+      "v. 创制……的新版本，更新……的版本"
+    ],
+    "usphone": "ˈvɜːrʒ(ə)n",
+    "ukphone": "ˈvɜːrʒ(ə)n",
+    "e_mean": [
+      "something a little different from others of the same type"
+    ],
+    "speech": "noun",
+    "sentence": "It's only in the King James Version of the Bible."
+  },
+  {
+    "name": "translate",
+    "trans": [
+      "v. 译，翻译；（使）转变，（使）变化；意同，相当于，（把……）解释为；（以易于理解的方式）解释，说明；导致，造成；改编，改写；转换"
+    ],
+    "usphone": "trænzˈleɪt",
+    "ukphone": "trænzˈleɪt",
+    "e_mean": [
+      "restate from one language into another language"
+    ],
+    "speech": "verb",
+    "sentence": "William was translated by the blow to the head he received, being unable to speak for the next few minutes."
+  },
+  {
+    "name": "interpret",
+    "trans": [
+      "v. 解释，说明；口译；把……理解为；演绎"
+    ],
+    "usphone": "ɪnˈtɜːrprət",
+    "ukphone": "ɪnˈtɜːprət",
+    "e_mean": [
+      "make sense of; assign a meaning to"
+    ],
+    "speech": "verb",
+    "sentence": "to interpret an Indian speech"
+  },
+  {
+    "name": "discussion",
+    "trans": [
+      "n. 讨论；论述，详述；谈话，辩论"
+    ],
+    "usphone": "dɪˈskʌʃ(ə)n",
+    "ukphone": "dɪˈskʌʃ(ə)n",
+    "e_mean": [
+      "an extended communication dealing with a particular topic"
+    ],
+    "speech": "noun",
+    "sentence": "My discussion with the professor was very enlightening."
+  },
+  {
+    "name": "brainstorm",
+    "trans": [
+      "n. <美>灵感，突然想到的妙计；<英>一时糊涂；献计献策会，自由讨论会",
+      "v. 集体讨论，集思广益"
+    ],
+    "usphone": "ˈbreɪnstɔːrm",
+    "ukphone": "ˈbreɪnstɔːrm",
+    "e_mean": [
+      "try to solve a problem by thinking intensely about it"
+    ],
+    "speech": "verb",
+    "sentence": "I had been working on the problem for weeks, and then I had a brainstorm and saw that the solution was easy."
+  },
+  {
+    "name": "debate",
+    "trans": [
+      "n. 讨论，辩论",
+      "v. 反复思考，斟酌；讨论，辩论 debateab out/on/up on sth 就某事物进行讨论 "
+    ],
+    "usphone": "dɪˈbeɪt",
+    "ukphone": "dɪ'beɪt",
+    "e_mean": [
+      "a discussion with reasons for and against some proposal"
+    ],
+    "speech": "noun",
+    "sentence": "After a four-hour debate, the committee voted to table the motion."
+  },
+  {
+    "name": "debatable",
+    "trans": [
+      "adj. 有争议的，有待商榷的"
+    ],
+    "usphone": "dɪˈbeɪtəb(ə)l",
+    "ukphone": "[dɪˈbeɪtəb(ə)l",
+    "e_mean": [
+      "open to doubt or argument"
+    ],
+    "speech": "adjective",
+    "sentence": "It's debatable whether he is the best candidate for the position."
+  },
+  {
+    "name": "commentary",
+    "trans": [
+      "n. 现场解说，实况报道；评注性著作，评论文；讨论，评论；说明，写照"
+    ],
+    "usphone": "ˈkɑːmənteri",
+    "ukphone": "ˈkɑːmənteri",
+    "e_mean": [
+      "a written explanation or criticism or illustration"
+    ],
+    "speech": "noun",
+    "sentence": "Caesar's Commentaries on the Gallic War"
+  },
+  {
+    "name": "comment",
+    "trans": [
+      "n. 评论，意见；批评，指责；说明，写照；<旧>解说，注释；（计算机）注解",
+      "v. 评论，发表意见；（计算机）注解，把（部分程序）转成注解"
+    ],
+    "usphone": "ˈkɑːment",
+    "ukphone": "ˈkɑːment",
+    "e_mean": [
+      "a statement that expresses a personal opinion"
+    ],
+    "speech": "noun",
+    "sentence": "I have no comment on that."
+  },
+  {
+    "name": "negotiate",
+    "trans": [
+      "v. （尤指在商业或政治上）谈判，磋商，洽谈；商定，达成协议；顺利通过，成功越过；解决（难题）；议付，洽兑；转让"
+    ],
+    "usphone": "nɪˈɡoʊʃieɪt",
+    "ukphone": "nɪ'gəuʃieɪt",
+    "e_mean": [
+      "discuss the terms of an arrangement"
+    ],
+    "speech": "verb",
+    "sentence": "The client and server computers must first negotiate a network protocol to be used."
+  },
+  {
+    "name": "contention",
+    "trans": [
+      "n. 看法，观点；争论，争吵；争夺，竞争"
+    ],
+    "usphone": "kənˈtenʃ(ə)n",
+    "ukphone": "kənˈtenʃ(ə)n",
+    "e_mean": [
+      "the act of competing as for profit or a prize"
+    ],
+    "speech": "noun",
+    "sentence": "It is my contention that state lotteries are taxes on stupid people."
+  },
+  {
+    "name": "content",
+    "trans": [
+      "adj. 满足的，满意的，甘愿的",
+      "n. 目录；所含物，容纳的东西；（书、文章、演讲、电影等的）内容；含量；满足，满意；投赞成票的贵族院议员；网上信息，电子信息",
+      "v. 使满意，使满足"
+    ],
+    "usphone": "ˈkɑːntent",
+    "ukphone": "ˈkɑːntent",
+    "e_mean": [
+      "satisfied or showing satisfaction with things as they are"
+    ],
+    "speech": "adjective",
+    "sentence": "You can't have any more - you'll have to content yourself with what you already have."
+  },
+  {
+    "name": "medium",
+    "trans": [
+      "n. 媒介，媒体；方法，手段；（艺术创作）材料，素材；灵媒，巫师；培养基；环境；中等，中号；存储（或打印）介质；（颜料）溶剂（如油或水）；（品质、状态）中等，中庸",
+      "adj. 中等的，中间的，适中的；五分熟的，半熟的；（程度、强度或数量）平均的；（颜色）不深不浅的，适中的；（投球，投球手）中速的"
+    ],
+    "usphone": "ˈmiːdiəm",
+    "ukphone": "'miːdiəm",
+    "e_mean": [
+      "the surrounding environment"
+    ],
+    "speech": "noun",
+    "sentence": "Acrylics, oils, charcoal, and gouache are all mediums I used in my painting."
+  },
+  {
+    "name": "press",
+    "trans": [
+      "n. 新闻工作者，新闻界（the press）；报刊（the press）；（报刊、广播、电视的）新闻报道；新闻评论，新闻评价；印刷机；出版社，印刷厂；印刷；按，压，熨；压平器，压榨机，熨烫机；",
+      "v. 压，挤，推，贴；按，揿（按钮或开关）；将……塞进，把……按入；困扰，严重影响；挤着走；催促，敦促，逼迫；竭力推行，竭力主张；压平，熨平；压榨，榨汁，榨油；把……压成形，压制（尤指留声机唱片）；使紧贴，紧抱；（深情地）紧握（某人的手或臂）"
+    ],
+    "usphone": "pres",
+    "ukphone": "pres",
+    "e_mean": [
+      "put pressure or force upon something"
+    ],
+    "speech": "verb",
+    "sentence": "a flower press"
+  },
+  {
+    "name": "critic",
+    "trans": [
+      "n. 批评家，评论员；批评者，反对……的人"
+    ],
+    "usphone": "ˈkrɪtɪk",
+    "ukphone": "'krɪtɪk",
+    "e_mean": [
+      "a person engaged in the analysis and interpretation of art"
+    ],
+    "speech": "noun",
+    "sentence": "Bob liked most of my presentation, but offered three minor critiques."
+  },
+  {
+    "name": "messenger",
+    "trans": [
+      "n. 送信人，邮递员，报信者；（体内传递信息和刺激的）信使；<古>先驱",
+      "v. <美>（用信使）送（文件，包裹）"
+    ],
+    "usphone": "ˈmesɪndʒər",
+    "ukphone": "ˈmesɪndʒər",
+    "e_mean": [
+      "a person who carries a communication to a recipient"
+    ],
+    "speech": "noun",
+    "sentence": "I'll messenger over the signed documents."
+  },
+  {
+    "name": "editor",
+    "trans": [
+      "n. 编辑；记者；剪辑师；编辑程序"
+    ],
+    "usphone": "ˈedɪtər",
+    "ukphone": "ˈedɪtər",
+    "e_mean": [
+      "the person who determines the final content of a text "
+    ],
+    "speech": "noun",
+    "sentence": "John Johnson wrote this term paper and the editor was Joan Johnson."
+  },
+  {
+    "name": "handout",
+    "trans": [
+      "n. 讲义；施舍物，救济品；传单，宣传材料；政府拨款（为促进商业活动）；不劳而获的钱,传单， 分发的印刷品； 救济品"
+    ],
+    "usphone": "ˈhændaʊt",
+    "ukphone": "'hændaut",
+    "e_mean": [
+      "giving money or food or clothing to a needy person"
+    ],
+    "speech": "noun",
+    "sentence": "It's a place to get a hand up, not a handout."
+  },
+  {
+    "name": "leaflet",
+    "trans": [
+      "n. 传单，小册子；小叶，初生叶（统称）",
+      "v. 散发传单（或小册子）"
+    ],
+    "usphone": "ˈliːflət",
+    "ukphone": "'liːflət",
+    "e_mean": [
+      "a small book usually having a paper cover"
+    ],
+    "speech": "noun",
+    "sentence": "The new leaflets at the end of the branch were a lighter shade of green than the mature leaves."
+  },
+  {
+    "name": "publish",
+    "trans": [
+      "v. 出版，发行（书、杂志等）；（作家、 音乐家等）发表（自己的作品），使（作品）出版；（在互联网上）发表；"
+    ],
+    "usphone": "ˈpʌblɪʃ",
+    "ukphone": "ˈpʌblɪʃ",
+    "e_mean": [
+      "prepare and issue for public distribution or sale"
+    ],
+    "speech": "verb",
+    "sentence": "Most of the sketches Faulkner published in 1925 appeared in the Sunday magazine section of the New Orleans Times-Picayune."
+  },
+  {
+    "name": "disseminate",
+    "trans": [
+      "v. 散布，传播（信息、知识等）"
+    ],
+    "usphone": "dɪˈsemɪneɪt",
+    "ukphone": "dɪ'semɪneɪt",
+    "e_mean": [
+      "cause to become widely known"
+    ],
+    "speech": "verb",
+    "sentence": "The values of the human rights movement have disseminated throughout the world."
+  },
+  {
+    "name": "anticipate",
+    "trans": [
+      "v. 预期，预料；预见（并做准备）；期望，盼望；先于……做，早于……行动；提前使用；在期限内履行（义务），偿还（债务）"
+    ],
+    "usphone": "ænˈtɪsɪpeɪt",
+    "ukphone": "æn'tɪsɪpeɪt",
+    "e_mean": [
+      "regard something as probable or likely"
+    ],
+    "speech": "verb",
+    "sentence": "The advocate plans to anticipate a part of her argument."
+  },
+  {
+    "name": "expect",
+    "trans": [
+      "v. 期待；预计；要求，指望；认为；怀孕"
+    ],
+    "usphone": "ɪkˈspekt",
+    "ukphone": "ɪkˈspekt",
+    "e_mean": [
+      "regard something as probable or likely"
+    ],
+    "speech": "verb",
+    "sentence": "He never expected to be discovered."
+  },
+  {
+    "name": "await",
+    "trans": [
+      "v. 等待，期待；将发生在，将降临到……身上"
+    ],
+    "usphone": "əˈweɪt",
+    "ukphone": "əˈweɪt",
+    "e_mean": [
+      "look forward to the probable occurrence of"
+    ],
+    "speech": "verb",
+    "sentence": "I await your reply to my letter."
+  },
+  {
+    "name": "pastime",
+    "trans": [
+      "n. 娱乐，消遣"
+    ],
+    "usphone": "ˈpæstaɪm",
+    "ukphone": "ˈpæstaɪm",
+    "e_mean": [
+      "an interest or pursuit that someone pursues regularly"
+    ],
+    "speech": "noun",
+    "sentence": "Chatting is a pleasant pastime."
+  },
+  {
+    "name": "entertain",
+    "trans": [
+      "v. 使有兴趣，使快乐；心存，怀有（想法、希望、感觉等）；招待，请客"
+    ],
+    "usphone": "ˌentərˈteɪn",
+    "ukphone": "ˌentə'teɪn",
+    "e_mean": [
+      "provide amusement for"
+    ],
+    "speech": "verb",
+    "sentence": "The motivational speaker not only instructed but also entertained the audience."
+  },
+  {
+    "name": "amuse",
+    "trans": [
+      "v. 逗乐，逗笑；（提供）消遣，（使）娱乐"
+    ],
+    "usphone": "əˈmjuːz",
+    "ukphone": "əˈmjuːz",
+    "e_mean": [
+      "occupy in an agreeable, entertaining or pleasant fashion"
+    ],
+    "speech": "verb",
+    "sentence": "I watch these movies because they amuse me."
+  },
+  {
+    "name": "gossip",
+    "trans": [
+      "n. 流言蜚语，小道消息；爱说三道四的人；闲聊",
+      "v. 闲聊，说三道四"
+    ],
+    "usphone": "ˈɡɑːsɪp",
+    "ukphone": "ˈɡɑːsɪp",
+    "e_mean": [
+      "light informal conversation for social occasions"
+    ],
+    "speech": "noun",
+    "sentence": "Be careful what you say to him: he’s a bit of a gossip."
+  },
+  {
+    "name": "minority",
+    "trans": [
+      "n. 少数，少数派；少数民族，少数群体；未成年时期，未成年身份；唯一持不同意见者；（议会）少数党得（或投）的票",
+      "adj. 少数的；少数民族的"
+    ],
+    "usphone": "maɪˈnɔːrəti",
+    "ukphone": "maɪˈnɒrəti",
+    "e_mean": [
+      "being or relating to the smaller in number of two parts"
+    ],
+    "speech": "noun",
+    "sentence": "Most people agreed, but a sizable minority were upset by the decision."
+  },
+  {
+    "name": "handwriting",
+    "trans": [
+      "n. 手写，书写；笔迹，书法；手稿",
+      "v. 手写，书写（handwrite 的现在分词形式）"
+    ],
+    "usphone": "ˈhændraɪtɪŋ",
+    "ukphone": "ˈhændraɪtɪŋ",
+    "e_mean": [
+      "the activity of writing by hand"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pictograph",
+    "trans": [
+      "n. [语] 象形文字；古代石壁画；统计图表"
+    ],
+    "usphone": "ˈpɪktəɡræf",
+    "ukphone": "ˈpɪktəɡrɑːf",
+    "e_mean": [
+      "an image or drawing used to represent a word or phrase"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "linguistics",
+    "trans": [
+      "n. 语言学"
+    ],
+    "usphone": "lɪŋˈɡwɪstɪks",
+    "ukphone": "lɪŋˈɡwɪstɪks",
+    "e_mean": [
+      "the scientific study of language"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "semantic",
+    "trans": [
+      "adj. 语义的；语义学的"
+    ],
+    "usphone": "sɪ'mæntɪk",
+    "ukphone": "sɪ'mæntɪk",
+    "e_mean": [
+      "of or relating to meaning or the study of meaning"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "syntax",
+    "trans": [
+      "n. 句法，句法规则；（计算机语言的）句法，语构；句子结构分析法；句法学"
+    ],
+    "usphone": "ˈsɪntæks",
+    "ukphone": "ˈsɪntæks",
+    "e_mean": [
+      "the study of the rules for forming admissible sentences"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "syllable",
+    "trans": [
+      "n. 音节；只言片语；表示音节的符号",
+      "v. 清晰地读（词，句），一个一个音节地读"
+    ],
+    "usphone": "ˈsɪləb(ə)l",
+    "ukphone": "ˈsɪləb(ə)l",
+    "e_mean": [
+      "a unit of spoken language larger than a phoneme"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "phoneme",
+    "trans": [
+      "n. 音位，音素"
+    ],
+    "usphone": "ˈfoʊniːm",
+    "ukphone": "ˈfəʊniːm",
+    "e_mean": [
+      "a distinct speech sound in a particular language"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "vowel",
+    "trans": [
+      "n. 元音，母音；元音字母，母音字母"
+    ],
+    "usphone": "ˈvaʊəl",
+    "ukphone": "ˈvaʊəl",
+    "e_mean": [
+      "a speech sound made with the vocal tract open"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "logogram",
+    "trans": [
+      "n. 简写；速记用略字；标记"
+    ],
+    "usphone": "ˈlɔːɡəɡræm",
+    "ukphone": "ˈlɔːɡəɡræm",
+    "e_mean": [
+      "a symbol that represents a whole word or phrase"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "diction",
+    "trans": [
+      "n. 用语；措词"
+    ],
+    "usphone": "ˈdɪkʃ(ə)n",
+    "ukphone": "ˈdɪkʃ(ə)n",
+    "e_mean": [
+      "the manner in which something is expressed in words"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "idiom",
+    "trans": [
+      "n. 习语，成语；方言，土话；（个人、艺术形式等的）风格，特色"
+    ],
+    "usphone": "ˈɪdiəm",
+    "ukphone": "ˈɪdiəm",
+    "e_mean": [
+      "expression whose meaning cannot be inferred from its words"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "clause",
+    "trans": [
+      "n. 从句，分句；（法律文件的）条款"
+    ],
+    "usphone": "klɔːz",
+    "ukphone": "klɔːz",
+    "e_mean": [
+      "a separate section of a legal document"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "prefix",
+    "trans": [
+      "n. 前缀；前置代号（置于前面的单词或字母、数字）； <旧>（人名前的）称谓",
+      "v. 在……前面加（字母或数字）；加……作为前言（开场白）"
+    ],
+    "usphone": "ˈpriːfɪks",
+    "ukphone": "ˈpriːfɪks",
+    "e_mean": [
+      "an affix that is added in front of the word"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "abbreviation",
+    "trans": [
+      "n. 缩略词，缩写形式；缩略，缩写"
+    ],
+    "usphone": "əˌbriːviˈeɪʃn",
+    "ukphone": "əˌbriːviˈeɪʃn",
+    "e_mean": [
+      "shortening something by omitting parts of it"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "noun",
+    "trans": [
+      "n. 名词"
+    ],
+    "usphone": "naʊn",
+    "ukphone": "naʊn",
+    "e_mean": [
+      "a content word referring to a person, place, thing or action"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "plural",
+    "trans": [
+      "n. 复数（形式）",
+      "adj. 复数的，复数形式的；多样的，多元的；多数的，多种的"
+    ],
+    "usphone": "ˈplʊrəl",
+    "ukphone": "ˈplʊrəl",
+    "e_mean": [
+      "of a grammatical category referring to two or more items"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "pronoun",
+    "trans": [
+      "n. 代词"
+    ],
+    "usphone": "ˈproʊnaʊn",
+    "ukphone": "ˈproʊnaʊn",
+    "e_mean": [
+      "a function word that is used in place of a noun"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "conjunction",
+    "trans": [
+      "n. 结合，同时发生；连词；（占星术中两个天体的）相合"
+    ],
+    "usphone": "kənˈdʒʌŋkʃ(ə)n",
+    "ukphone": "kən'dʒʌŋkʃn",
+    "e_mean": [
+      "the state of being joined together"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "paraphrase",
+    "trans": [
+      "n. 释义，改述",
+      "v. 释义，改述"
+    ],
+    "usphone": "ˈpærəfreɪz",
+    "ukphone": "ˈpærəfreɪz",
+    "e_mean": [
+      "express the same message in different words"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "narrate",
+    "trans": [
+      "v. 讲（故事），叙述；给（电影、广播或音乐等）配解说词"
+    ],
+    "usphone": "ˈnæreɪt",
+    "ukphone": "ˈnæreɪt",
+    "e_mean": [
+      "provide commentary for a film, for example"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "illuminate",
+    "trans": [
+      "v. 照射，照亮；阐明，解释；使容光焕发；用彩灯装饰；用金、银等彩色"
+    ],
+    "usphone": "ɪˈluːmɪneɪt",
+    "ukphone": "ɪ'luːmɪneɪt",
+    "e_mean": [
+      "make lighter or brighter"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "decipher",
+    "trans": [
+      "v. 破译，辨认（难认、难解的东西）；理解（神秘或难懂的事物）"
+    ],
+    "usphone": "dɪˈsaɪfər",
+    "ukphone": "dɪ'saɪfə(r)",
+    "e_mean": [
+      "convert code into ordinary language"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "eloquence",
+    "trans": [
+      "n. 流利的口才，流畅的文笔；雄辩术，修辞t"
+    ],
+    "usphone": "ˈeləkwəns",
+    "ukphone": "ˈeləkwəns",
+    "e_mean": [
+      "powerful and effective language"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "communicate",
+    "trans": [
+      "v. 传递信息，通讯；传达，传递（想法或感情）；传染（疾病）；（房间或建筑）相通，相连；传输（热，力），传递（运动）；领受圣餐"
+    ],
+    "usphone": "kəˈmjuːnɪkeɪt",
+    "ukphone": "kəˈmjuːnɪkeɪt",
+    "e_mean": [
+      "transfer to another"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "negotiation",
+    "trans": [
+      "n. 谈判，协商；转让"
+    ],
+    "usphone": "nɪˌɡoʊʃiˈeɪʃn",
+    "ukphone": "nɪˌɡoʊʃiˈeɪʃn",
+    "e_mean": [
+      "a discussion intended to produce an agreement"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "journalist",
+    "trans": [
+      "n. 新闻工作者，新闻记者；报人，报纸撰稿人"
+    ],
+    "usphone": "ˈdʒɜːrnəlɪst",
+    "ukphone": "'dʒɜːnəlɪst",
+    "e_mean": [
+      "a person who writes or broadcasts news stories"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "commentator",
+    "trans": [
+      "n. 现场解说员，实况播音员；评论员"
+    ],
+    "usphone": "ˈkɑːmənteɪtər",
+    "ukphone": "ˈkɑːmənteɪtər",
+    "e_mean": [
+      "an expert who observes and remarks on something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "exponent",
+    "trans": [
+      "n. 拥护者，倡导者；代表人物；指数，幂；大师，行家；成分；说明者，说明物",
+      "adj. 说明的"
+    ],
+    "usphone": "ɪkˈspoʊnənt",
+    "ukphone": "ɪkˈspoʊnənt",
+    "e_mean": [
+      "notation of how many times to multiply a quantity by itself"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "correspondent",
+    "trans": [
+      "n. 记者，通讯员；通信者，写信人"
+    ],
+    "usphone": "ˌkɔːrəˈspɑːndənt",
+    "ukphone": "ˌkɔːrəˈspɑːndənt",
+    "e_mean": [
+      "a journalist who supplies stories for news media"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "typist",
+    "trans": [
+      "n. 打字员；打字者"
+    ],
+    "usphone": "ˈtaɪpɪst",
+    "ukphone": "ˈtaɪpɪst",
+    "e_mean": [
+      "someone paid to operate a typewriter"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "propaganda",
+    "trans": [
+      "n. 宣传，鼓吹；（罗马天主教的）传信部（Propaganda）"
+    ],
+    "usphone": "ˌprɑːpəˈɡændə",
+    "ukphone": "ˌprɑːpəˈɡændə",
+    "e_mean": [
+      "information that is spread to promote some cause"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "publication",
+    "trans": [
+      "n. 出版，发行；出版物，发行物；（信息的） 刊登，公布"
+    ],
+    "usphone": "ˌpʌblɪˈkeɪʃ(ə)n",
+    "ukphone": "ˌpʌblɪˈkeɪʃ(ə)n",
+    "e_mean": [
+      "the act of issuing printed materials"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "foresee",
+    "trans": [
+      "v. 预见，预知"
+    ],
+    "usphone": "fɔːrˈsiː",
+    "ukphone": "fɔː'siː",
+    "e_mean": [
+      "realize beforehand"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "participate",
+    "trans": [
+      "v. 参加，参与；<古>分担，分享；<古>具有，带有（特殊的性质）"
+    ],
+    "usphone": "pɑːrˈtɪsɪpeɪt",
+    "ukphone": "pɑː'tɪsɪpeɪt",
+    "e_mean": [
+      "be involved in"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "expectation",
+    "trans": [
+      "n. 期待，预期；期望，指望"
+    ],
+    "usphone": "ˌekspekˈteɪʃn",
+    "ukphone": "ˌekspek'teɪʃn",
+    "e_mean": [
+      "belief about the future"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "entertainment",
+    "trans": [
+      "n. 娱乐，娱乐表演；招待，款待"
+    ],
+    "usphone": "ˌentərˈteɪnmənt",
+    "ukphone": "ˌentə'teɪnmənt",
+    "e_mean": [
+      "an activity that is diverting and that holds the attention"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "recreation",
+    "trans": [
+      "n. 娱乐（活动），消遣（活动）；重现，重建"
+    ],
+    "usphone": "ˌriːkriˈeɪʃ(ə)n",
+    "ukphone": "ˌriːkriˈeɪʃn",
+    "e_mean": [
+      "an activity that diverts or amuses or stimulates"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "fluency",
+    "trans": [
+      "流利， 流畅； 通顺"
+    ],
+    "usphone": "'fluənsi",
+    "ukphone": "'fluːənsi",
+    "e_mean": [
+      "powerful and effective language"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "Cantonese",
+    "trans": [
+      "n. 广东人；广东话",
+      "adj. 广州的，广州人的"
+    ],
+    "usphone": "ˌkæntəˈniːz",
+    "ukphone": "ˌkæntə'niːz",
+    "e_mean": [
+      "the dialect of Chinese spoken in Canton and neighboring provinces and in Hong Kong and elsewhere outside China"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "linguistic",
+    "trans": [
+      "adj. 语言的，语言学的"
+    ],
+    "usphone": "lɪŋˈɡwɪstɪk",
+    "ukphone": "lɪŋ'gwɪstɪk",
+    "e_mean": [
+      "consisting of or related to language"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "encode",
+    "trans": [
+      "把译成电码， 把…编码"
+    ],
+    "usphone": "ɪn'kod",
+    "ukphone": "ɪn'kəud",
+    "e_mean": [
+      "represent ordinary language in a secret form"
+    ],
+    "speech": "verb"
+  }
+]

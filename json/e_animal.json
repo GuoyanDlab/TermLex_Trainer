@@ -1,0 +1,2496 @@
+[
+  {
+    "name": "seal",
+    "trans": [
+      "封，"
+    ],
+    "usphone": "sil",
+    "ukphone": "siːl",
+    "e_mean": [
+      "fastener consisting of a resin that is plastic when warm"
+    ],
+    "speech": "noun",
+    "sentence": "The seals in the harbor looked better than they smelled."
+  },
+  {
+    "name": "camel",
+    "trans": [
+      "骆驼"
+    ],
+    "usphone": "'kæml",
+    "ukphone": "'kæml",
+    "e_mean": [
+      "cud-chewing mammal used as a saddle animal in desert regions"
+    ],
+    "speech": "noun",
+    "sentence": "Are you having a giraffe?!"
+  },
+  {
+    "name": "bark",
+    "trans": [
+      "吠叫",
+      "犬吠声； 树皮"
+    ],
+    "usphone": "bɑrk",
+    "ukphone": "bɑːk",
+    "e_mean": [
+      "the sound made by a dog"
+    ],
+    "speech": "noun",
+    "sentence": "The neighbour's dog is always barking."
+  },
+  {
+    "name": "roar",
+    "trans": [
+      "吼叫，咆哮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "make a loud noise, as of an animal"
+    ],
+    "speech": "verb",
+    "sentence": "the roar of a motorbike"
+  },
+  {
+    "name": "rub",
+    "trans": [
+      "困难，障碍；擦，摩擦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "move over something with pressure"
+    ],
+    "speech": "verb",
+    "sentence": "Give that lamp a good rub and see if any genies come out"
+  },
+  {
+    "name": "creep",
+    "trans": [
+      "爬行；悄悄地缓慢行进"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "move slowly"
+    ],
+    "speech": "verb",
+    "sentence": "christmas creep"
+  },
+  {
+    "name": "crawl",
+    "trans": [
+      "爬，爬行；缓慢行进",
+      "缓慢的行进； 自由泳"
+    ],
+    "usphone": "krɔl",
+    "ukphone": "krɔːl",
+    "e_mean": [
+      "move slowly"
+    ],
+    "speech": "verb",
+    "sentence": "My computer has slowed down to a crawl since I installed that software package."
+  },
+  {
+    "name": "habitat",
+    "trans": [
+      "栖息地， 住处"
+    ],
+    "usphone": "'hæbə'tæt",
+    "ukphone": "'hæbɪtæt",
+    "e_mean": [
+      "the type of environment in which an organism normally lives"
+    ],
+    "speech": "noun",
+    "sentence": "This park offers important amphibian habitat and breeding area."
+  },
+  {
+    "name": "nest",
+    "trans": [
+      "巢，窝，穴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a structure in which animals lay eggs or give birth to their young"
+    ],
+    "speech": "noun",
+    "sentence": "That nightclub is a nest of strange people!"
+  },
+  {
+    "name": "hive",
+    "trans": [
+      "入蜂箱； 群居",
+      "蜂房，蜂箱；蜂房内的蜂群；闹市，忙碌之地"
+    ],
+    "usphone": "haɪv",
+    "ukphone": "haɪv",
+    "e_mean": [
+      "a structure that provides a natural habitation for bees"
+    ],
+    "speech": "noun",
+    "sentence": "to hive a swarm of bees"
+  },
+  {
+    "name": "cell",
+    "trans": [
+      "细胞； 小房间； 电池"
+    ],
+    "usphone": "sɛl",
+    "ukphone": "sel",
+    "e_mean": [
+      "the basic structural and functional unit of all organisms"
+    ],
+    "speech": "noun",
+    "sentence": "Gregor Mendel must have spent a good amount of time outside of his cell."
+  },
+  {
+    "name": "cage",
+    "trans": [
+      "笼子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an enclosure in which animals can be kept"
+    ],
+    "speech": "noun",
+    "sentence": "The most dangerous prisoners are locked away in a cage."
+  },
+  {
+    "name": "stable",
+    "trans": [
+      "稳定的，稳固的，安定的；沉稳的，持重的",
+      "马厩"
+    ],
+    "usphone": "'stebl",
+    "ukphone": "'steɪbl",
+    "e_mean": [
+      "resistant to change of position or condition"
+    ],
+    "speech": "adjective",
+    "sentence": "There were stalls for fourteen horses in the squire's stables."
+  },
+  {
+    "name": "barn",
+    "trans": [
+      "谷仓；牲口棚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an outlying farm building for grain and farm animals"
+    ],
+    "speech": "noun",
+    "sentence": "Maple Leaf Gardens was a grand old barn."
+  },
+  {
+    "name": "hedge",
+    "trans": [
+      "树篱；障碍物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a fence formed by a row of closely planted shrubs or bushes"
+    ],
+    "speech": "noun",
+    "sentence": "He trims the hedge once a week."
+  },
+  {
+    "name": "anatomy",
+    "trans": [
+      "解剖； 解剖结构"
+    ],
+    "usphone": "ə'nætəmi",
+    "ukphone": "ə'nætəmi",
+    "e_mean": [
+      "the study of the structure of animals"
+    ],
+    "speech": "noun",
+    "sentence": "Animal anatomy is also called zootomy; vegetable anatomy, phytotomy; and human anatomy, anthropotomy."
+  },
+  {
+    "name": "epidemic",
+    "trans": [
+      "流行病，传染病"
+    ],
+    "usphone": ",ɛpɪ'dɛmɪk",
+    "ukphone": "ˌepɪ'demɪk",
+    "e_mean": [
+      "a widespread outbreak of an infectious disease"
+    ],
+    "speech": "noun",
+    "sentence": "Epidemic hysteria occurred upon the incumbent’s reelection."
+  },
+  {
+    "name": "virus",
+    "trans": [
+      "病毒"
+    ],
+    "usphone": "'vaɪrəs",
+    "ukphone": "'vaɪərəs",
+    "e_mean": [
+      "infectious agent that replicates itself within living hosts"
+    ],
+    "speech": "noun",
+    "sentence": "He caught a virus and had to stay home from school."
+  },
+  {
+    "name": "trunk",
+    "trans": [
+      "树干， 躯干； 大箱子； 象鼻"
+    ],
+    "usphone": "trʌŋk",
+    "ukphone": "trʌŋk",
+    "e_mean": [
+      "the main stem of a tree"
+    ],
+    "speech": "noun",
+    "sentence": "the trunk of a vein or of an artery, as distinct from the branches"
+  },
+  {
+    "name": "gill",
+    "trans": [
+      "鳃"
+    ],
+    "usphone": "ɡɪl",
+    "ukphone": "gɪl",
+    "e_mean": [
+      "organ allowing aquatic animals to obtain oxygen from water"
+    ],
+    "speech": "noun",
+    "sentence": "Gill nets are designed to catch a fish by the gills."
+  },
+  {
+    "name": "migratory",
+    "trans": [
+      "迁徙的， 移居的； 流动的， 游牧的"
+    ],
+    "usphone": "'maɪɡrətɔri",
+    "ukphone": "'maɪgrətri",
+    "e_mean": [
+      "(of animals) moving seasonally"
+    ],
+    "speech": "adjective",
+    "sentence": "migratory habits; a migratory life"
+  },
+  {
+    "name": "primate",
+    "trans": [
+      "灵长类动物园"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any mammal of the group including monkeys, apes, and humans"
+    ],
+    "speech": "noun",
+    "sentence": "Primates range from lemurs to gorillas."
+  },
+  {
+    "name": "reptile",
+    "trans": [
+      "爬行动物， 爬虫类； 卑鄙的人"
+    ],
+    "usphone": "'rɛptaɪl",
+    "ukphone": "'reptaɪl",
+    "e_mean": [
+      "a cold-blooded vertebrate including snakes and lizards"
+    ],
+    "speech": "noun",
+    "sentence": "a reptile race or crew; reptile vices"
+  },
+  {
+    "name": "carnivore",
+    "trans": [
+      "肉食动物.earn肉vore吞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a terrestrial or aquatic flesh-eating mammal"
+    ],
+    "speech": "noun",
+    "sentence": "As juveniles the crocodiles are frequently predated by larger carnivores."
+  },
+  {
+    "name": "creature",
+    "trans": [
+      "生物，动物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a living organism characterized by voluntary movement"
+    ],
+    "speech": "noun",
+    "sentence": "He's a creature of habit. insects and other creatures"
+  },
+  {
+    "name": "fauna",
+    "trans": [
+      "所有动物"
+    ],
+    "usphone": "'fɔnə",
+    "ukphone": "'fɔːnə",
+    "e_mean": [
+      "all the animal life in a particular region or period"
+    ],
+    "speech": "noun",
+    "sentence": "the fauna of China"
+  },
+  {
+    "name": "species",
+    "trans": [
+      "种， 物种"
+    ],
+    "usphone": "'spiʃiz",
+    "ukphone": "'spiːʃiːz",
+    "e_mean": [
+      "taxonomic group whose members can interbreed"
+    ],
+    "speech": "noun",
+    "sentence": "the male species"
+  },
+  {
+    "name": "flock",
+    "trans": [
+      "(羊或鸟)群v.聚集"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a group of birds"
+    ],
+    "speech": "noun",
+    "sentence": "People flocked to the cinema to see the new film."
+  },
+  {
+    "name": "herd",
+    "trans": [
+      "兽/畜群.herdsmann.牧人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a group of cattle or sheep or other domestic mammals"
+    ],
+    "speech": "noun",
+    "sentence": "a herd of cattle"
+  },
+  {
+    "name": "swarm",
+    "trans": [
+      "蜜蜂群"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a group of many things in the air or on the ground"
+    ],
+    "speech": "noun",
+    "sentence": "a swarm of meteorites"
+  },
+  {
+    "name": "crowd",
+    "trans": [
+      "人群；观众；一伙人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a large number of things or people considered together"
+    ],
+    "speech": "noun",
+    "sentence": "After the movie let out, a crowd of people pushed through the exit doors."
+  },
+  {
+    "name": "beast",
+    "trans": [
+      ".兽，野兽；凶残的人，畜生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a living organism characterized by voluntary movement"
+    ],
+    "speech": "noun",
+    "sentence": "That is a beast of a stadium."
+  },
+  {
+    "name": "brute",
+    "trans": [
+      "粗野的人，残忍的人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "resembling a beast"
+    ],
+    "speech": "adjective",
+    "sentence": "One of them was a hulking brute of a man, heavily tattooed and with a hardened face that practically screamed \"I just got out of jail.\""
+  },
+  {
+    "name": "cruel",
+    "trans": [
+      "残忍的， 残暴的"
+    ],
+    "usphone": "kruəl",
+    "ukphone": "'kruːəl",
+    "e_mean": [
+      "able or disposed to inflict pain or suffering"
+    ],
+    "speech": "adjective",
+    "sentence": "The supervisor was very cruel to Josh, as he would always give Josh the hardest, most degrading work he could find."
+  },
+  {
+    "name": "originate",
+    "trans": [
+      "起源， 发生； 首创， 创造"
+    ],
+    "usphone": "əˈrɪdʒəˌnet",
+    "ukphone": "ə'rɪdʒɪneɪt",
+    "e_mean": [
+      "come into existence; take on form or shape"
+    ],
+    "speech": "verb",
+    "sentence": "The scheme originated with the governor and council."
+  },
+  {
+    "name": "stem",
+    "trans": [
+      "茎；干；词干",
+      "止住， 抑止， 堵住， 阻止"
+    ],
+    "usphone": "stɛm",
+    "ukphone": "stem",
+    "e_mean": [
+      "cylinder forming a long narrow part of something"
+    ],
+    "speech": "noun",
+    "sentence": "the stem of an apple or a cherry"
+  },
+  {
+    "name": "ancestor",
+    "trans": [
+      "祖先"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "someone from whom you are descended"
+    ],
+    "speech": "noun",
+    "sentence": "This fossil animal is regarded as the ancestor of the horse."
+  },
+  {
+    "name": "offspring",
+    "trans": [
+      "子女， 后代； 产物"
+    ],
+    "usphone": "'ɔfsprɪŋ",
+    "ukphone": "'ɒfsprɪŋ",
+    "e_mean": [
+      "the immediate descendants of a person or organism"
+    ],
+    "speech": "noun",
+    "sentence": "Artists often treasure their works as their immortal offspring."
+  },
+  {
+    "name": "feed",
+    "trans": [
+      "喂养，为…提供食物；吃，以…为食",
+      "饲料"
+    ],
+    "usphone": "fid",
+    "ukphone": "fiːd",
+    "e_mean": [
+      "provide as food"
+    ],
+    "speech": "verb",
+    "sentence": "They sell feed, riding helmets, and everything else for horses."
+  },
+  {
+    "name": "breed",
+    "trans": [
+      "饲养，养殖，繁殖；养育，培育；酿成，招致",
+      "种， 品种"
+    ],
+    "usphone": "brid",
+    "ukphone": "briːd",
+    "e_mean": [
+      "cause to procreate (animals)"
+    ],
+    "speech": "verb",
+    "sentence": "a breed of animal"
+  },
+  {
+    "name": "proliferate",
+    "trans": [
+      "迅速增殖；剧增"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "grow rapidly"
+    ],
+    "speech": "verb",
+    "sentence": "The flowers proliferated rapidly all spring."
+  },
+  {
+    "name": "mate",
+    "trans": [
+      "交配，配种",
+      "配偶； 伙伴； 大副"
+    ],
+    "usphone": "met",
+    "ukphone": "meɪt",
+    "e_mean": [
+      "a person's partner in marriage"
+    ],
+    "speech": "noun",
+    "sentence": "He's my best mate."
+  },
+  {
+    "name": "lay",
+    "trans": [
+      "产(卵)；放置；铺设"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "put into a certain place"
+    ],
+    "speech": "verb",
+    "sentence": "the lay of the land"
+  },
+  {
+    "name": "hatch",
+    "trans": [
+      "孵出，孵化；策划",
+      "开口； 舱门"
+    ],
+    "usphone": "hætʃ",
+    "ukphone": "hætʃ",
+    "e_mean": [
+      "a movable barrier covering an entrance"
+    ],
+    "speech": "noun",
+    "sentence": "The cook passed the dishes through the serving hatch."
+  },
+  {
+    "name": "brood",
+    "trans": [
+      "沉思；孵蛋",
+      "一窝"
+    ],
+    "usphone": "brud",
+    "ukphone": "bruːd",
+    "e_mean": [
+      "hang over, as of something threatening, dark, or menacing"
+    ],
+    "speech": "verb",
+    "sentence": "In some species of birds, both the mother and father brood the eggs."
+  },
+  {
+    "name": "spawn",
+    "trans": [
+      "(鱼的)卵v.产卵;引起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the mass of eggs deposited by fish or amphibians or mollusks"
+    ],
+    "speech": "noun",
+    "sentence": "The Web server spawns a new process to handle each client's request."
+  },
+  {
+    "name": "mature",
+    "trans": [
+      "成熟的；深思熟虑的",
+      "成熟"
+    ],
+    "usphone": "mə'tʃʊr",
+    "ukphone": "mə'tʃuə(r)",
+    "e_mean": [
+      "having reached full natural growth or development"
+    ],
+    "speech": "adjective",
+    "sentence": "She is quite mature for her age."
+  },
+  {
+    "name": "skin",
+    "trans": [
+      "皮肤；外皮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a natural protective body covering and site of the sense of touch"
+    ],
+    "speech": "noun",
+    "sentence": "He is so disgusting he makes my skin crawl."
+  },
+  {
+    "name": "paw",
+    "trans": [
+      "(动物的)脚掌，爪子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a clawed foot of an animal, especially a quadruped"
+    ],
+    "speech": "noun",
+    "sentence": "Get your grubby paws off my things!"
+  },
+  {
+    "name": "fin",
+    "trans": [
+      "鳍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "organ of locomotion and balance in fishes and some other aquatic animals"
+    ],
+    "speech": "noun",
+    "sentence": "The fish's fins minimize water flow."
+  },
+  {
+    "name": "wing",
+    "trans": [
+      "翅膀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a movable organ for flying (one of a pair)"
+    ],
+    "speech": "noun",
+    "sentence": "to take wing"
+  },
+  {
+    "name": "plume",
+    "trans": [
+      "羽毛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the feather of a bird"
+    ],
+    "speech": "noun",
+    "sentence": "He plumes himself on his skill."
+  },
+  {
+    "name": "feather",
+    "trans": [
+      "羽毛， 翎毛"
+    ],
+    "usphone": "'fɛðɚ",
+    "ukphone": "'feðə(r)",
+    "e_mean": [
+      "a light growth that makes up the covering of a bird's body"
+    ],
+    "speech": "noun",
+    "sentence": "The stylist feathered my hair."
+  },
+  {
+    "name": "fur",
+    "trans": [
+      "软毛，皮毛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "dense coat of fine silky hairs on mammals"
+    ],
+    "speech": "noun",
+    "sentence": "He was headed for the door when he remembered."
+  },
+  {
+    "name": "bristle",
+    "trans": [
+      "鬓毛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a stiff hair"
+    ],
+    "speech": "noun",
+    "sentence": "the bristles of a pig"
+  },
+  {
+    "name": "curl",
+    "trans": [
+      "卷毛；使卷曲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "form a curl, curve, or kink"
+    ],
+    "speech": "verb",
+    "sentence": "The curl of the vector field \\vec{F}(x,y,z) is the vector field \\operatorname{curl}\\,\\vec{F} \\equiv \\vec{\\nabla}\\times\\vec{F}=\\left( \\frac{\\partial F_z}{\\partial y} - \\frac{\\partial F_y}{\\partial z}, \\frac{\\partial F_x}{\\partial z} - \\frac{\\partial F_z}{\\partial x}, \\frac{\\partial F_y}{\\partial x} - \\frac{\\partial F_x}{\\partial y} \\right)."
+  },
+  {
+    "name": "insect",
+    "trans": [
+      "昆虫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "small invertebrate with jointed limbs and a segmented body"
+    ],
+    "speech": "noun",
+    "sentence": "Our shed has several insect infestions, including ants, yellowjackets, and wasps."
+  },
+  {
+    "name": "worm",
+    "trans": [
+      "虫， 蠕虫； 蜗杆， 螺纹"
+    ],
+    "usphone": "wɝm",
+    "ukphone": "wɜːm",
+    "e_mean": [
+      "any of numerous relatively small elongated soft-bodied animals especially of the phyla Annelida and Chaetognatha and Nematoda and Nemertea and Platyhelminthes; also many insect larvae"
+    ],
+    "speech": "noun",
+    "sentence": "Don't try to run away, you little worm!"
+  },
+  {
+    "name": "parasite",
+    "trans": [
+      "寄生虫.parasitic寄生的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an animal or plant that lives in or on a host "
+    ],
+    "speech": "noun",
+    "sentence": "Lice, fleas, ticks and mites are widely spread parasites."
+  },
+  {
+    "name": "spider",
+    "trans": [
+      "蜘蛛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "predatory arachnid with eight legs, two poison fangs, two feelers, and usually two silk-spinning organs at the back end of the body; they spin silk to make cocoons for eggs or traps for prey"
+    ],
+    "speech": "noun",
+    "sentence": "2002, Katharine Gasparini, Cranberry and vanilla ice cream spider, recipe in Cool Food, page 339."
+  },
+  {
+    "name": "butterfly",
+    "trans": [
+      "蝴蝶,蝶状的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "insect typically having a slender body and colorful wings"
+    ],
+    "speech": "noun",
+    "sentence": "butterfly tape"
+  },
+  {
+    "name": "cricket",
+    "trans": [
+      "蟋蟀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "leaping insect with long antennae"
+    ],
+    "speech": "noun",
+    "sentence": "That player's foul wasn't cricket!"
+  },
+  {
+    "name": "bar",
+    "trans": [
+      "酒吧；栅栏；棒，条状物",
+      "闩； 阻拦"
+    ],
+    "usphone": "bɑr",
+    "ukphone": "bɑː(r)",
+    "e_mean": [
+      "a rigid piece of metal or wood"
+    ],
+    "speech": "noun",
+    "sentence": "The window was protected by steel bars."
+  },
+  {
+    "name": "germ",
+    "trans": [
+      "微生物， 细菌； 起源， 萌芽"
+    ],
+    "usphone": "dʒɝm",
+    "ukphone": "dʒɜːm",
+    "e_mean": [
+      "a structure from which tissue can develop into an organism"
+    ],
+    "speech": "noun",
+    "sentence": "the germ of civil liberty"
+  },
+  {
+    "name": "elephant",
+    "trans": [
+      "大象"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "five-toed pachyderm"
+    ],
+    "speech": "noun",
+    "sentence": "Let's play hide and seek. I'll count. One elephant, two elephant, three elephant..."
+  },
+  {
+    "name": "horn",
+    "trans": [
+      "牛、羊动物的)角(乐器)号"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a brass musical instrument with a brilliant tone"
+    ],
+    "speech": "noun",
+    "sentence": "an umbrella with a handle made of horn"
+  },
+  {
+    "name": "bear",
+    "trans": [
+      "熊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "be pregnant with"
+    ],
+    "speech": "verb",
+    "sentence": "That window can be a bear to open."
+  },
+  {
+    "name": "wolf",
+    "trans": [
+      "狼a~insheep'sclothing"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of various predatory carnivorous canine mammals of North America and Eurasia that usually hunt in packs"
+    ],
+    "speech": "noun",
+    "sentence": "Check out my pet. He's a wolf."
+  },
+  {
+    "name": "dragon",
+    "trans": [
+      "龙；悍妇"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a mythological creature with a reptilian body and wings"
+    ],
+    "speech": "noun",
+    "sentence": "She’s a bit of a dragon."
+  },
+  {
+    "name": "fox",
+    "trans": [
+      "狐狸；狡猾的人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "alert carnivorous mammal with pointed muzzle and ears and a bushy tail; most are predators that do not hunt in packs"
+    ],
+    "speech": "noun",
+    "sentence": "The quick brown fox jumps over the lazy dog."
+  },
+  {
+    "name": "calf",
+    "trans": [
+      "牛犊； 崽， 幼兽"
+    ],
+    "usphone": "kæf",
+    "ukphone": "kɑːf",
+    "e_mean": [
+      "young of domestic cattle"
+    ],
+    "speech": "noun",
+    "sentence": "the Calf of Man"
+  },
+  {
+    "name": "pup",
+    "trans": [
+      "幼小动物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "young of any of various canines such as a dog or wolf"
+    ],
+    "speech": "noun",
+    "sentence": "The dog has had that bed since he was just a pup."
+  },
+  {
+    "name": "lamb",
+    "trans": [
+      "小羊，羔羊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "young sheep"
+    ],
+    "speech": "noun",
+    "sentence": "The shepherd was up all night, lambing her young ewes."
+  },
+  {
+    "name": "cattle",
+    "trans": [
+      "牛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "domesticated cows as a group"
+    ],
+    "speech": "noun",
+    "sentence": "Do you want to raise cattle?"
+  },
+  {
+    "name": "bull",
+    "trans": [
+      "公牛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "uncastrated adult male of domestic cattle"
+    ],
+    "speech": "noun",
+    "sentence": "a bull elephant"
+  },
+  {
+    "name": "horse",
+    "trans": [
+      "马"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "solid-hoofed herbivorous quadruped domesticated since prehistoric times"
+    ],
+    "speech": "noun",
+    "sentence": "Alright, mate, got any horse?"
+  },
+  {
+    "name": "saddle",
+    "trans": [
+      "鞍,马鞍,车座getintothe~上马"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a seat for the rider of a horse or camel"
+    ],
+    "speech": "noun",
+    "sentence": "He has been saddled with the task of collecting evidence of the theft."
+  },
+  {
+    "name": "devour",
+    "trans": [
+      "吞食,狼吞虎咽地吃.de加强vour吃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "eat immoderately"
+    ],
+    "speech": "verb",
+    "sentence": "The fire was devouring the building."
+  },
+  {
+    "name": "instinct",
+    "trans": [
+      "本能， 直觉； 天性"
+    ],
+    "usphone": "'ɪnstɪŋkt",
+    "ukphone": "'ɪnstɪŋkt",
+    "e_mean": [
+      "inborn pattern of behavior often responsive to stimuli"
+    ],
+    "speech": "noun",
+    "sentence": "Many animals fear fire by instinct."
+  },
+  {
+    "name": "intuitive",
+    "trans": [
+      "直觉的."
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "spontaneously derived from or prompted by a natural tendency"
+    ],
+    "speech": "adjective",
+    "sentence": "The intuitive response turned out to be correct."
+  },
+  {
+    "name": "potential",
+    "trans": [
+      "潜在的；可能的",
+      "潜力， 潜能"
+    ],
+    "usphone": "pə'tɛnʃl",
+    "ukphone": "pə'tenʃl",
+    "e_mean": [
+      "existing in possibility"
+    ],
+    "speech": "adjective",
+    "sentence": "Even from a young age it was clear that she had the potential to become a great musician."
+  },
+  {
+    "name": "functional",
+    "trans": [
+      "功能的；起作用的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "designed for or capable of a particular use"
+    ],
+    "speech": "adjective",
+    "sentence": "That sculpture is not merely artistic, but also functional: it can be used as a hatrack."
+  },
+  {
+    "name": "sensitive",
+    "trans": [
+      "敏感的， 灵敏的； 神经过敏的， 容易生气的； 易受伤害的"
+    ],
+    "usphone": "'sɛnsətɪv",
+    "ukphone": "'sensətɪv",
+    "e_mean": [
+      "responsive to physical stimuli"
+    ],
+    "speech": "adjective",
+    "sentence": "Max is very sensitive; he cried today because of the bad news."
+  },
+  {
+    "name": "flexible",
+    "trans": [
+      "易弯曲的； 柔韧的； 灵活的"
+    ],
+    "usphone": "'flɛksəbl",
+    "ukphone": "'fleksəbl",
+    "e_mean": [
+      "able to bend easily"
+    ],
+    "speech": "adjective",
+    "sentence": "This was a principle more flexible to their purpose. -Rogers."
+  },
+  {
+    "name": "optical",
+    "trans": [
+      "视力的； 光学的"
+    ],
+    "usphone": "'ɑptɪkl",
+    "ukphone": "'ɒptɪkl",
+    "e_mean": [
+      "relating to or using sight"
+    ],
+    "speech": "adjective",
+    "sentence": "Strabismus is an optical defect."
+  },
+  {
+    "name": "nocturnal",
+    "trans": [
+      "夜晚的； 夜晚发生的； 夜晚活动的"
+    ],
+    "usphone": "nɑk'tɝnl",
+    "ukphone": "nɒk'tɜːnl",
+    "e_mean": [
+      "belonging to or active during the night"
+    ],
+    "speech": "adjective",
+    "sentence": "nocturnal birds"
+  },
+  {
+    "name": "dormant",
+    "trans": [
+      "休眠的； 静止的； 隐匿的"
+    ],
+    "usphone": "'dɔrmənt",
+    "ukphone": "'dɔːmənt",
+    "e_mean": [
+      "inactive but capable of becoming active"
+    ],
+    "speech": "adjective",
+    "sentence": "Grass goes dormant during the winter, waiting for spring before it grows again."
+  },
+  {
+    "name": "track",
+    "trans": [
+      "跟踪， 追踪",
+      "小路；跑道"
+    ],
+    "usphone": "træk",
+    "ukphone": "træk",
+    "e_mean": [
+      "a line or route along which something travels or moves"
+    ],
+    "speech": "noun",
+    "sentence": "Can you see any tracks in the snow?"
+  },
+  {
+    "name": "trace",
+    "trans": [
+      "追踪，追查；追溯；描摹，标出",
+      "痕迹； 微量"
+    ],
+    "usphone": "tres",
+    "ukphone": "treɪs",
+    "e_mean": [
+      "an indication that something has been present"
+    ],
+    "speech": "noun",
+    "sentence": "Your cell phone company can put a trace on your line."
+  },
+  {
+    "name": "harness",
+    "trans": [
+      "控制，利用；上马具",
+      "马具"
+    ],
+    "usphone": "'hɑrnɪs",
+    "ukphone": "'hɑːnɪs",
+    "e_mean": [
+      "an arrangement of leather straps fitted to a draft animal"
+    ],
+    "speech": "noun",
+    "sentence": "They harnessed the horse to the post."
+  },
+  {
+    "name": "hawk",
+    "trans": [
+      "鹰， 隼"
+    ],
+    "usphone": "hɔk",
+    "ukphone": "hɔːk",
+    "e_mean": [
+      "a bird of prey with rounded wings and a long tail"
+    ],
+    "speech": "noun",
+    "sentence": "It is illegal to hunt hawks or other raptors in many parts of the world."
+  },
+  {
+    "name": "swallow",
+    "trans": [
+      "吞咽；忍受",
+      "燕子"
+    ],
+    "usphone": "'swɑlo",
+    "ukphone": "'swɒləu",
+    "e_mean": [
+      "pass through the esophagus as part of eating or drinking"
+    ],
+    "speech": "verb",
+    "sentence": "He took the aspirin with a single swallow of water."
+  },
+  {
+    "name": "pigeon",
+    "trans": [
+      "鸽子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "wild and domesticated birds having a heavy body and short legs"
+    ],
+    "speech": "noun",
+    "sentence": "it's his/her pigeon"
+  },
+  {
+    "name": "crow",
+    "trans": [
+      "乌鸦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a black bird having a raucous call"
+    ],
+    "speech": "noun",
+    "sentence": "He’s been crowing all day about winning the game of cards."
+  },
+  {
+    "name": "goose",
+    "trans": [
+      "鹅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks"
+    ],
+    "speech": "noun",
+    "sentence": "There is a flock of geese on the pond."
+  },
+  {
+    "name": "mouse",
+    "trans": [
+      "老鼠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "small rodent having a pointed snout and small ears"
+    ],
+    "speech": "noun",
+    "sentence": "Captain Higgins moused the hook with a bit of marline to prevent the block beckets from falling out under slack."
+  },
+  {
+    "name": "rat",
+    "trans": [
+      "老鼠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of various long-tailed rodents similar to but larger than a mouse"
+    ],
+    "speech": "noun",
+    "sentence": "What a rat, leaving us stranded here!"
+  },
+  {
+    "name": "hare",
+    "trans": [
+      "野兔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "swift long-eared mammal larger than a rabbit"
+    ],
+    "speech": "noun",
+    "sentence": "a hare old man"
+  },
+  {
+    "name": "behaviour",
+    "trans": [
+      "行为,活动方式behavioural"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the way a person behaves toward other people"
+    ],
+    "speech": "noun",
+    "sentence": "She can't stop the strange behaviour because she has OCD (obsessive-compulsive disorder)."
+  },
+  {
+    "name": "bite",
+    "trans": [
+      "咬；(昆虫)叮；吞饵"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "to grip, cut off, or tear with or as if with the teeth or jaws"
+    ],
+    "speech": "verb",
+    "sentence": "That snake bite really hurts!"
+  },
+  {
+    "name": "sting",
+    "trans": [
+      "刺,叮,感觉刺痛;刺,螫针,垂痛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "deliver a sudden pain to"
+    ],
+    "speech": "verb",
+    "sentence": "Right so came out an adder of a little heathbush, and it stung a knight in the foot."
+  },
+  {
+    "name": "alternate",
+    "trans": [
+      "轮流， 交替",
+      "轮流的； 间隔的； 交替的"
+    ],
+    "usphone": "ˈɔltɚˌnet;(for adj.)ˈɔ:ltərnət",
+    "ukphone": "ˈɔ:ltəneɪt;(for adj.)ɔ:lˈtɜ:nət",
+    "e_mean": [
+      "go back and forth"
+    ],
+    "speech": "verb",
+    "sentence": "The flood and ebb tides alternate with each other."
+  },
+  {
+    "name": "prey",
+    "trans": [
+      "捕食； 折磨， 使烦恼； 掠夺",
+      "猎物，捕获物；牺牲品，战利品"
+    ],
+    "usphone": "pre",
+    "ukphone": "preɪ",
+    "e_mean": [
+      "animal hunted or caught for food"
+    ],
+    "speech": "noun",
+    "sentence": "The rabbit was eaten by the coyote, so the rabbit is the coyote's prey."
+  },
+  {
+    "name": "victim",
+    "trans": [
+      "牺牲者； 受害者"
+    ],
+    "usphone": "'vɪktɪm",
+    "ukphone": "'vɪktɪm",
+    "e_mean": [
+      "an unfortunate person who suffers from adverse circumstances"
+    ],
+    "speech": "noun",
+    "sentence": "the youngest victims of the brutal war"
+  },
+  {
+    "name": "captive",
+    "trans": [
+      "被抓住的， 被捕获的； 受控制的； 受垄断的",
+      "被抓住的人或动物"
+    ],
+    "usphone": "'kæptɪv",
+    "ukphone": "'kæptɪv",
+    "e_mean": [
+      "a person who is confined; especially a prisoner of war"
+    ],
+    "speech": "noun",
+    "sentence": "captive chains; captive hours"
+  },
+  {
+    "name": "defensive",
+    "trans": [
+      "防御性的.self-defensive自卫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an attitude of excessive sensitivity to criticism"
+    ],
+    "speech": "noun",
+    "sentence": "a defensive perimeter"
+  },
+  {
+    "name": "undergo",
+    "trans": [
+      "经历，经受"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "pass through"
+    ],
+    "speech": "verb",
+    "sentence": "The project is undergoing great changes."
+  },
+  {
+    "name": "suffer",
+    "trans": [
+      "遭受， 忍受； 忍耐； 容许； 患病； 受损失"
+    ],
+    "usphone": "'sʌfɚ",
+    "ukphone": "'sʌfə(r)",
+    "e_mean": [
+      "undergo or be subjected to"
+    ],
+    "speech": "verb",
+    "sentence": "Is anyone here afraid of suffering hardship?"
+  },
+  {
+    "name": "vulnerable",
+    "trans": [
+      "易受攻击的， 易受伤的"
+    ],
+    "usphone": "'vʌlnərəbl",
+    "ukphone": "'vʌlnərəbl",
+    "e_mean": [
+      "capable of being wounded or hurt"
+    ],
+    "speech": "adjective",
+    "sentence": "It's okay to get vulnerable every now and again."
+  },
+  {
+    "name": "subsistence",
+    "trans": [
+      "勉强维持生活"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a means of surviving"
+    ],
+    "speech": "noun",
+    "sentence": "the subsistence of qualities in bodies"
+  },
+  {
+    "name": "existence",
+    "trans": [
+      "存在； 生活"
+    ],
+    "usphone": "ɪɡ'zɪstəns",
+    "ukphone": "ɪg'zɪstəns",
+    "e_mean": [
+      "the state or fact of being"
+    ],
+    "speech": "noun",
+    "sentence": "In order to destroy evil, we must first acknowledge its existence."
+  },
+  {
+    "name": "tame",
+    "trans": [
+      "驯养,制服;驯/,乏味的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "brought from wildness into a domesticated state"
+    ],
+    "speech": "adjective",
+    "sentence": "He tamed the wild horse."
+  },
+  {
+    "name": "keeper",
+    "trans": [
+      "看守人，饲养员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "one having charge of buildings or grounds or animals"
+    ],
+    "speech": "noun",
+    "sentence": "Finders keepers; losers weepers]."
+  },
+  {
+    "name": "domestic",
+    "trans": [
+      "本国的； 家庭的； 驯养的"
+    ],
+    "usphone": "də'mɛstɪk",
+    "ukphone": "də'mestɪk",
+    "e_mean": [
+      "of or relating to the home"
+    ],
+    "speech": "adjective",
+    "sentence": "2005: Bellingham-Whatcom County Commission Against Domestic Violence, Domestic Violence in Whatcom County (read on the Whatcom County website athttps//web.archive.org/web/20060618212243/http://www.co.whatcom.wa.us/boards/dv_whatcom042505.pdf on 20 May 2006) - The number of “verbal domestics” (where law enforcement determines that no assault has occurred and where no arrest is made), decreased significantly."
+  },
+  {
+    "name": "resistant",
+    "trans": [
+      "抵抗的， 有抵抗力的"
+    ],
+    "usphone": "rɪ'zɪstənt",
+    "ukphone": "rɪ'zɪstənt",
+    "e_mean": [
+      "disposed to or engaged in defiance of established authority"
+    ],
+    "speech": "adjective",
+    "sentence": "The infection is resistant to antibiotics."
+  },
+  {
+    "name": "marsupial",
+    "trans": [
+      "有袋动物"
+    ],
+    "usphone": "mɑr'supɪəl",
+    "ukphone": "mɑː'suːpiəl",
+    "e_mean": [
+      "a mammal the female of which has a pouch carrying the young"
+    ],
+    "speech": "noun",
+    "sentence": "the marsupial bones"
+  },
+  {
+    "name": "propagate",
+    "trans": [
+      "繁殖， 增殖； 传播， 宣传， 使普及"
+    ],
+    "usphone": "'prɑpə'get",
+    "ukphone": "'prɒpəgeɪt",
+    "e_mean": [
+      "multiply through reproduction"
+    ],
+    "speech": "verb",
+    "sentence": "to propagate sound or light"
+  },
+  {
+    "name": "domesticate",
+    "trans": [
+      "驯养， 教化； 使喜爱家居生活"
+    ],
+    "usphone": "də'mɛstɪket",
+    "ukphone": "də'mestɪkeɪt",
+    "e_mean": [
+      "make fit for cultivation and service to humans"
+    ],
+    "speech": "verb",
+    "sentence": "The Russian claims to have successfully domesticated foxes."
+  },
+  {
+    "name": "ape",
+    "trans": [
+      "猿",
+      "模仿"
+    ],
+    "usphone": "ep",
+    "ukphone": "eɪp",
+    "e_mean": [
+      "any of various primates with short tails or no tail at all"
+    ],
+    "speech": "noun",
+    "sentence": "He went ape when he heard the bad news."
+  },
+  {
+    "name": "tough",
+    "trans": [
+      "难对付的； 健壮的； 老的"
+    ],
+    "usphone": "tʌf",
+    "ukphone": "tʌf",
+    "e_mean": [
+      "substantially made or constructed"
+    ],
+    "speech": "adjective",
+    "sentence": "They were doing fine until they encountered a bunch of toughs from the opposition."
+  },
+  {
+    "name": "biologist",
+    "trans": [
+      "生物学家。biology生物学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a scientist who studies living organisms"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "zoologist",
+    "trans": [
+      "动物学家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a specialist in the branch of biology dealing with animals"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "ecologist",
+    "trans": [
+      "生态学家.ecology生态"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a biologist who studies organisms and their environment"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "botanist",
+    "trans": [
+      "植物学家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a biologist specializing in the study of plants"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mammal",
+    "trans": [
+      "哺乳动物"
+    ],
+    "usphone": "'mæml",
+    "ukphone": "'mæml",
+    "e_mean": [
+      "a warm-blooded vertebrate having the skin covered with hair"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "vertebrate",
+    "trans": [
+      "有脊椎的",
+      "脊椎动物"
+    ],
+    "usphone": "'vɝtɪbrət",
+    "ukphone": "'vɜːtɪbrət",
+    "e_mean": [
+      "animals having a bony or cartilaginous skeleton"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "amphibian",
+    "trans": [
+      "两栖动物；水陆两用车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cold-blooded vertebrate living on land but breeding in water"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "herbivore",
+    "trans": [
+      "食草动物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any animal that feeds chiefly on grass and other plants"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "wildlife",
+    "trans": [
+      "野生生物"
+    ],
+    "usphone": "'waɪldlaɪf",
+    "ukphone": "'waɪldlaɪf",
+    "e_mean": [
+      "all living things in an area that aren't tamed"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "flora",
+    "trans": [
+      "一切植物， 植物群"
+    ],
+    "usphone": "",
+    "ukphone": "'flɔːrə",
+    "e_mean": [
+      "all the plant life in a particular region or period"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "throng",
+    "trans": [
+      "一大群人V.群集"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a large gathering of people"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "derive",
+    "trans": [
+      "取得； 起源"
+    ],
+    "usphone": "dɪ'raɪv",
+    "ukphone": "dɪ'raɪv",
+    "e_mean": [
+      "come from"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "subgroup",
+    "trans": [
+      "子群"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a distinct and often subordinate group within a group"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "interbreed",
+    "trans": [
+      "使杂交,使)混生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "breed animals or plants using parents of different races and varieties"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "hybridize",
+    "trans": [
+      "使杂交.hybridn.杂种"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "breed animals or plants using parents of different races and varieties"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "courtship",
+    "trans": [
+      "求爱或追求； 求爱期， 追求期"
+    ],
+    "usphone": "'kɔ:tʃip",
+    "ukphone": "'kɔːtʃɪp",
+    "e_mean": [
+      "a person's wooing of a romantic partner"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "claw",
+    "trans": [
+      "爪；钳；螯；爪状物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "sharp curved horny process on the toe of some animals"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "beak",
+    "trans": [
+      "鸟嘴，喙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "horny projecting mouth of a bird"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pest",
+    "trans": [
+      "害虫"
+    ],
+    "usphone": "pɛst",
+    "ukphone": "pest",
+    "e_mean": [
+      "a persistently annoying person"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mosquito",
+    "trans": [
+      "蚊子"
+    ],
+    "usphone": "məˈskiːtoʊ",
+    "ukphone": "mə'skiːtəu",
+    "e_mean": [
+      "two-winged insect that sucks the blood of humans and animals"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "penguin",
+    "trans": [
+      "企鹅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "short-legged flightless birds of cold southern especially Antarctic regions having webbed feet and wings modified as flippers"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tortoise",
+    "trans": [
+      "龟， 陆龟； 行动迟缓的人"
+    ],
+    "usphone": "ˈtɔrtəs",
+    "ukphone": "'tɔːtəs",
+    "e_mean": [
+      "a land turtle with clawed limbs"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "turtle",
+    "trans": [
+      "海龟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "whale",
+    "trans": [
+      "鲸鱼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of the larger cetacean mammals having a streamlined body and breathing through a blowhole on the head"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "kangaroo",
+    "trans": [
+      "袋鼠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a leaping marsupial with powerful hind legs and a thick tail"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "panda",
+    "trans": [
+      "熊猫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family or of a separate family Ailuropodidae"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "barrier",
+    "trans": [
+      "栅栏； 关卡， 检票口； 障碍， 隔阂； 屏障"
+    ],
+    "usphone": "'bærɪɚ",
+    "ukphone": "'bæriə(r)",
+    "e_mean": [
+      "a structure or object that impedes free movement"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "bacteria",
+    "trans": [
+      "bacterium为它的单数形式]细菌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "single-celled organisms that can cause disease"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "ivory",
+    "trans": [
+      "象牙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a hard smooth dentine of the tusks of elephants and walruses"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cub",
+    "trans": [
+      "幼兽"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the young of certain carnivorous mammals such as the bear or wolf or lion"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "ox",
+    "trans": [
+      "公牛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of various wild bovines especially of the genera Bos or closely related Bibos"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "buffalo",
+    "trans": [
+      "水牛； 野牛"
+    ],
+    "usphone": "'bʌfəlo",
+    "ukphone": "'bʌfələu",
+    "e_mean": [
+      "a ruminant mammal resembling an ox"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "zebra",
+    "trans": [
+      "斑马"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a black-and-white striped animal related to a horse"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "donkey",
+    "trans": [
+      "驴，傻瓜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "domestic beast of burden descended from the African wild ass"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "microbe",
+    "trans": [
+      "微生物microbiology微生物学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a minute life form, especially one that causes disease"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "metabolism",
+    "trans": [
+      "新陈代谢metabolic"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the organic processes that are necessary for life"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "secrete",
+    "trans": [
+      "分泌.secret秘密"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "generate and separate from cells or bodily fluids"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "excrete",
+    "trans": [
+      ".排泄；分泌excretion排泄物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "eliminate from the body"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "intuition",
+    "trans": [
+      "直觉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "instinctive knowing, without the use of rational processes"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "intelligence",
+    "trans": [
+      "智力， 理解力； 情报"
+    ],
+    "usphone": "ɪn'tɛlɪdʒəns",
+    "ukphone": "ɪn'telɪdʒəns",
+    "e_mean": [
+      "the ability to comprehend"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "acoustic",
+    "trans": [
+      "原声的； 声音的； 听觉的"
+    ],
+    "usphone": "ə'kʊstɪk",
+    "ukphone": "ə'kuːstɪk",
+    "e_mean": [
+      "relating to the study of the physical properties of sound"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "hibernation",
+    "trans": [
+      "冬眠.hibernatev.冬眠,蛰伏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the resting state in which some animals pass the winter"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "falcon",
+    "trans": [
+      "隼，猎鹰"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a diurnal bird of prey"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "eagle",
+    "trans": [
+      "雕"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of various large keen-sighted diurnal birds of prey noted for their broad wings and strong soaring flight"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "owl",
+    "trans": [
+      "猫头鹰"
+    ],
+    "usphone": "aʊl",
+    "ukphone": "aul",
+    "e_mean": [
+      "nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sparrow",
+    "trans": [
+      "麻雀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small dull-colored singing bird"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "swan",
+    "trans": [
+      "天鹅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an aquatic bird with a very long neck"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "squirrel",
+    "trans": [
+      "松鼠[ˈskwɪrel]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a kind of tree-dwelling rodent with a long bushy tail"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "frog",
+    "trans": [
+      "蛙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "predator",
+    "trans": [
+      "捕食性动物； 食肉动物； 奴役他人者； 剥削者， 掠夺者"
+    ],
+    "usphone": "'prɛdətɚ",
+    "ukphone": "'predətə(r)",
+    "e_mean": [
+      "any animal that lives by preying on other animals"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "captivate",
+    "trans": [
+      "迷惑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "attract; cause to be enamored"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "defend",
+    "trans": [
+      "防卫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "protect against a challenge or attack"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "exist",
+    "trans": [
+      "存在； 生存"
+    ],
+    "usphone": "ɪɡ'zɪst",
+    "ukphone": "ɪg'zɪst",
+    "e_mean": [
+      "have a presence"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "shepherd",
+    "trans": [
+      "牧羊人.shep羊+herd木人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "someone who keeps sheep together in a flock"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sheepdog",
+    "trans": [
+      "牧羊犬"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of various usually long-haired breeds of dog reared to herd and guard sheep"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "dystrophy",
+    "trans": [
+      "营养障碍； 营养不良"
+    ],
+    "usphone": "'dɪstrəfi",
+    "ukphone": "'dɪstrəfi",
+    "e_mean": [
+      "any of several hereditary diseases of the muscular system characterized by weakness and wasting of skeletal muscles"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "vitality",
+    "trans": [
+      "生命力， 活力"
+    ],
+    "usphone": "vaɪ'tæləti",
+    "ukphone": "vaɪ'tæləti",
+    "e_mean": [
+      "the property of being able to survive and grow"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mite",
+    "trans": [
+      "极小量； 螨虫"
+    ],
+    "usphone": "maɪt",
+    "ukphone": "maɪt",
+    "e_mean": [
+      "small arachnid that infests animals, plants, or stored foods"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "earthworm",
+    "trans": [
+      "蚯蚓； 小人"
+    ],
+    "usphone": "'ɝθwɝm",
+    "ukphone": "'ɜːθwɜːm",
+    "e_mean": [
+      "terrestrial worm that burrows into and helps aerate soil"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "larva",
+    "trans": [
+      "〔昆虫的〕幼虫，幼体"
+    ],
+    "usphone": "'lɑrvə",
+    "ukphone": "'lɑːvə",
+    "e_mean": [
+      "immature form of an animal between the egg and adult stages"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "poultry",
+    "trans": [
+      "家禽； 禽肉"
+    ],
+    "usphone": "'poltri",
+    "ukphone": "'pəultri",
+    "e_mean": [
+      "the flesh of domesticated birds raised for food"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "beehive",
+    "trans": [
+      "蜂窝； 蜂箱"
+    ],
+    "usphone": "'bihaɪv",
+    "ukphone": "'biːhaɪv",
+    "e_mean": [
+      "a structure that provides a natural habitation for bees"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "herdsman",
+    "trans": [
+      "牧人"
+    ],
+    "usphone": "'hɝdzmən",
+    "ukphone": "'hɜːdzmən",
+    "e_mean": [
+      "someone who drives a herd"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "gorilla",
+    "trans": [
+      "大猩猩"
+    ],
+    "usphone": "ɡə'rɪlə",
+    "ukphone": "gə'rɪlə",
+    "e_mean": [
+      "largest anthropoid ape"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "dispersal",
+    "trans": [
+      "散布， 分散； 消散， 疏散"
+    ],
+    "usphone": "dɪ'spɝsl",
+    "ukphone": "dɪ'spɜːsl",
+    "e_mean": [
+      "the act of spreading something around"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "segregate",
+    "trans": [
+      "隔离， 分开"
+    ],
+    "usphone": "'sɛɡrɪɡet",
+    "ukphone": "'segrɪgeɪt",
+    "e_mean": [
+      "divide from the main body or mass and collect"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "dolphin",
+    "trans": [
+      "海豚"
+    ],
+    "usphone": "'dɑlfɪn",
+    "ukphone": "'dɒlfɪn",
+    "e_mean": [
+      "any of various small toothed whales with a beaklike snout"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pesticide",
+    "trans": [
+      "杀虫剂， 农药"
+    ],
+    "usphone": "'pɛstɪsaɪd",
+    "ukphone": "'pestɪsaɪd",
+    "e_mean": [
+      "a chemical used to kill destructive insects or animals"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "specification",
+    "trans": [
+      "〔汽车、建筑、设备等的〕规格说明，明细规范"
+    ],
+    "usphone": "'spɛsəfə'keʃən",
+    "ukphone": "ˌspesɪfɪ'keɪʃn",
+    "e_mean": [
+      "the act of naming explicitly"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "bronchitis",
+    "trans": [
+      "【医】 支气管炎"
+    ],
+    "usphone": "brɑŋ'kaɪtɪs",
+    "ukphone": "brɒŋ'kaɪtɪs",
+    "e_mean": [
+      "inflammation of the membranes lining the bronchial tubes"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "veterinarian",
+    "trans": [
+      "兽医"
+    ],
+    "usphone": "'vɛtərə'nɛrɪən",
+    "ukphone": "ˌvetərɪ'neəriən",
+    "e_mean": [
+      "a doctor who provides health care to animals"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "crocodile",
+    "trans": [
+      "鳄鱼； 鳄鱼皮"
+    ],
+    "usphone": "'krɑkə'daɪl",
+    "ukphone": "'krɒkədaɪl",
+    "e_mean": [
+      "a large aquatic reptile with a long snout and sharp teeth"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "shark",
+    "trans": [
+      "鲨鱼； 诈骗者"
+    ],
+    "usphone": "ʃɑrk",
+    "ukphone": "ʃɑːk",
+    "e_mean": [
+      "any of numerous elongate mostly marine carnivorous fishes with heterocercal caudal fins and tough skin covered with small toothlike scales"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "zoological",
+    "trans": [
+      "动物学的"
+    ],
+    "usphone": ",zoə'lɑdʒɪkl",
+    "ukphone": "ˌzəuə'lɒdʒɪkl;ˌzuːə'lɒdʒɪkl",
+    "e_mean": [
+      "concerning the study of animals and their properties"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "leopard",
+    "trans": [
+      "豹， 美洲豹"
+    ],
+    "usphone": "'lɛpɚd",
+    "ukphone": "'lepəd",
+    "e_mean": [
+      "a large wild cat with a tawny coat with black spots"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "hamster",
+    "trans": [
+      "仓鼠"
+    ],
+    "usphone": "'hæmstɚ",
+    "ukphone": "'hæmstə(r)",
+    "e_mean": [
+      "short-tailed burrowing rodent with large cheek pouches"
+    ],
+    "speech": "noun"
+  }
+]

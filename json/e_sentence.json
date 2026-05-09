@@ -1,0 +1,1094 @@
+[
+  {
+    "name": "hang on",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "wait"
+    ],
+    "speech": "adv",
+    "sentence": "Hang on. Let me check."
+  },
+  {
+    "name": "awful",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "very bad"
+    ],
+    "speech": "adv",
+    "sentence": "My socks smell awful."
+  },
+  {
+    "name": "you got a minute?",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "have you got a minute to talk about ..."
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "hang on a sec",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "wait"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "just a sec",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "wait"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I just wanted to see if you were both ok",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "care sb."
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "see if",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "care"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "what's gotten into you",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "what's wrong with you "
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "pushed sb around",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "摆布"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "you can't let them keep pushing you around",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "欺负"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "don't take it personally",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "别往心里去"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "don't take it personally",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "别往心里去"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "was it just me,or was that a little abrupt",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "是我想多了吗？还是那是有点唐突"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "He was being a jerk to everyone,don't take it personally",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "他对每个人都很差，别往心里去"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "put yourself in sb's shoes",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "学会换位思考"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "put yourself in sb's shoes",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "换位思考"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "if you put yourself in my shoes,you'll understand why I'm angry",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "换位思考"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "how is something coming along",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "...进展如何"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "how is something coming along",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "...进展如何"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "How is your English coming along",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "...进展如何"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "thing are really coming along",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "well"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "there's still room for improvement",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "有改进空间"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "keep it up",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "坚持下去"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "keep up the good work",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "坚持下去"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I could really go for something",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我真的很想。。。"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I could really go for a drink",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我真的很想。。。"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "some here",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我也一样"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "it's not my thing",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "I don't like"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "but it's just not really my thing",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "I don't like"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "No,me neither",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "I don't like too"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I'm such a scatterbrain",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "健忘"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I have to juggle my job, my baby and housework",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "juggle 兼顾"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "you can't have it all",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "你不可能兼顾所有"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "Don't push yourself too hard",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "别太勉强自己"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "Maybe you shouldn't be pushing yourself so hard",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "be pushing"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "Don't go overboard",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "别冲动消费"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "Don't go overboard",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "别冲动消费"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I may have gone a little overboard about this",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我觉得我对此的反应可能有点过了"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I know I went a little overboard",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "别冲动消费"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "buyer's remorse",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "买家懊悔"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "you'll feel buyer's remorse when you go overboad on shopping",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "I don't like too"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "That's a good deal",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "太划算了"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I work for months getting the best deal",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我努力几个月拿到了最划算的"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "you can never have too many lipsticks",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "口红再多也不嫌多"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "it's awesome",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "it's very very good"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "these gloves are awesome",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "这副手套太棒了"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I'm thrilled",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "very very happy"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I'm thrilled to hear the news",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "这个消息让我太激动了"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "He is on cloud nine",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "他欣喜若狂"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "she is devastated",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "very very said"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "you must be devastated",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "very very said"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I'm so swamped with work",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "very busy"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I'm wiped out",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "very tired"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I'm exhausted",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "very tired"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "that's a tough one",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "very difficult"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "that's a tough decision to make",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "very difficult"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "she's been having a time",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "她一直过得很艰难"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "she is a total nightmare",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "她简直太难相处了nightmare噩梦"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "it's awful",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "very bad"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "they are ripping us off",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "very expensive,ripping us off敲诈我们的钱"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "we got ripped off",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我们被坑钱了"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I'm pissed off",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "very very angry"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I was really pissed off when I got ripped off",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "当我们被坑钱时，真的很生气"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I'm furious",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "very very angry"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I'm furious about what they did",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "very very angry about what they did"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "How does that sound",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "这个提议如何"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "How does that sound if we get a cup of coffee right now",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "一起去喝杯咖啡如何"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "How does that sound if we grab a bite nearby",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "grab a bite nearby 去附近吃点东西"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "never mind.I don't want to know.",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "算了，我不想知道"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I don't mind. Either is fine",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "随便，都可以"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I told you everything was going to work out",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "work out = going well"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I'm sorry it didn't work out",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "work out = going well"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I really appreciate it",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "thanks"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I appreciate what you're doing for me",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "thanks"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I owe you one",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我欠你一个人情"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "you owe me. you owe me a big",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "你欠我一个大大的人情"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I need to vent",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我要发泄一下"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "you can always vent to me",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "你可以一直找我倾诉"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I've done nothing wrong",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我没做错什么"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "There is nothing wrong with that",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "nothing wrong with"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "There is nothing wrong with taking a nap during work",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "taking a nap 小睡一会"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "There's no way",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "imposible"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "There's no way you'll have time for all these tasks",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "你不可能有时间完成这么多任务的"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "There's no way I'm letting you drive this car",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我绝不会让你开这辆车"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "bring something up",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "提起"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "now that you bring it up,our fridge is broken",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "既然你提起了这点，我们冰箱坏了"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "he is very sensitive about it. Don't bring it up",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "他对此很敏感，别提这个"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "when I bring up sth personal you change the subject",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "当我提起一些私人的事情，你就转移话题"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "spell sth out",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "讲清楚"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "Do I really need to spell it out for you?",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我真的有必要和你讲清楚吗？"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "Apparently,we have to spell everything out for you",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "很显然，我们有必要把每一件事都给你讲清楚"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "let me spell out why I should quit the job",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "让我来解释一下为什么要辞职"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "read into something",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "想太多"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I suppose you're gonna read into this,too",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我觉得你又要想多了吧"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I wouldn't read too much into it.",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我对此不会想太多"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I take it back, she is perfect",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我收回我说的话，她是完美的。"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "Take back what you said",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "收回你说的话"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "bring back something",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "使想起/唤起"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "bring back memories",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "唤起回忆"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I guess it just brings back memories",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我想这会唤起很多回忆"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "we go back a long way",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我们认识很多年了"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "we go back 20 years",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我们认识20年了"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "We can catch up another time",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我们可以改天再聊"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "we have so much catching up to do",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我们有好多可以聊的"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "tear oneself away from something",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "(勉强）停下（正在做的...)"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "Dinner is ready,if you can tear yourself away from the laptop",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "晚饭好了，别舍不得离开电脑了"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I don't want to hold you up",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "我不耽误你时间了"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "So I'm not gonna hold you up",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "所以我就不耽误你时间了"
+    ],
+    "speech": "adv"
+  },
+  {
+    "name": "I'm sorry it didn't work out",
+    "trans": [],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "work out = going well"
+    ],
+    "speech": "adv"
+  }
+]

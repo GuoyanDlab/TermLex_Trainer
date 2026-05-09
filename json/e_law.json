@@ -1,0 +1,3336 @@
+[
+  {
+    "name": "session",
+    "trans": [
+      "一场， 一节； 会议； 集会"
+    ],
+    "usphone": "'sɛʃən",
+    "ukphone": "'seʃn",
+    "e_mean": [
+      "a meeting for execution of a group's functions"
+    ],
+    "speech": "noun",
+    "sentence": "\"Are we having a recording session?\" / \"Yes. We've even got some session musicians to provide some brass.\""
+  },
+  {
+    "name": "plea",
+    "trans": [
+      "理由,借口,请求,makeapleafor恳求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a humble request for help from someone in authority"
+    ],
+    "speech": "noun",
+    "sentence": "a plea for mercy"
+  },
+  {
+    "name": "appeal",
+    "trans": [
+      "呼吁；起诉，上诉；吸引",
+      "上诉， 申诉； 呼吁； 感染力， 吸引力"
+    ],
+    "usphone": "ə'pil",
+    "ukphone": "ə'piːl",
+    "e_mean": [
+      "earnest or urgent request"
+    ],
+    "speech": "noun",
+    "sentence": "He made an appeal for volunteers to help at the festival."
+  },
+  {
+    "name": "contradict",
+    "trans": [
+      "反驳， 驳斥； 与…发生矛盾； 相抵触"
+    ],
+    "usphone": "'kɑntrə'dɪkt",
+    "ukphone": "ˌkɒntrə'dɪkt",
+    "e_mean": [
+      "prove negative; show to be false"
+    ],
+    "speech": "verb",
+    "sentence": "His testimony contradicts hers."
+  },
+  {
+    "name": "persuade",
+    "trans": [
+      "说服， 劝说； 使相信"
+    ],
+    "usphone": "pɚ'swed",
+    "ukphone": "pə'sweɪd",
+    "e_mean": [
+      "cause somebody to adopt a certain position or belief"
+    ],
+    "speech": "verb",
+    "sentence": "That salesman was able to persuade me into buying this bottle of lotion."
+  },
+  {
+    "name": "whisper",
+    "trans": [
+      "低语"
+    ],
+    "usphone": "'wɪspɚ",
+    "ukphone": "'wɪspə(r)",
+    "e_mean": [
+      "speaking softly without vibration of the vocal cords"
+    ],
+    "speech": "noun",
+    "sentence": "There are whispers of rebellion all around."
+  },
+  {
+    "name": "mutter",
+    "trans": [
+      "轻声低语，小声抱怨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "talk indistinctly; usually in a low voice"
+    ],
+    "speech": "verb",
+    "sentence": "The prisoners were docile, and accepted their lot with barely a mutter."
+  },
+  {
+    "name": "murmur",
+    "trans": [
+      "低声说；咕哝，低语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a low continuous indistinct sound"
+    ],
+    "speech": "noun",
+    "sentence": "A murmur arose from the audience."
+  },
+  {
+    "name": "silent",
+    "trans": [
+      "沉默/寂静无声的.silence沉默"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "marked by absence of sound"
+    ],
+    "speech": "adjective",
+    "sentence": "The wind is silent."
+  },
+  {
+    "name": "mute",
+    "trans": [
+      "缄默的，哑的，无声的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "expressed without speech"
+    ],
+    "speech": "adjective",
+    "sentence": "Please mute the music while I make a call."
+  },
+  {
+    "name": "investigate",
+    "trans": [
+      "调查"
+    ],
+    "usphone": "ɪn'vɛstɪɡet",
+    "ukphone": "ɪn'vestɪgeɪt",
+    "e_mean": [
+      "conduct an inquiry of"
+    ],
+    "speech": "verb",
+    "sentence": "to investigate the causes of natural phenomena"
+  },
+  {
+    "name": "witness",
+    "trans": [
+      "目击； 为…作证",
+      "证据；目击者"
+    ],
+    "usphone": "ˈwɪtnɪs",
+    "ukphone": "'wɪtnəs",
+    "e_mean": [
+      "someone who sees an event and reports what happened"
+    ],
+    "speech": "noun",
+    "sentence": "She can bear witness, since she was there at the time."
+  },
+  {
+    "name": "justify",
+    "trans": [
+      "证明…为正当的； 为…辩护"
+    ],
+    "usphone": "'dʒʌstə'fai",
+    "ukphone": "'dʒʌstɪfaɪ",
+    "e_mean": [
+      "show to be right by providing proof"
+    ],
+    "speech": "verb",
+    "sentence": "How can you justify spending so much money on clothes?"
+  },
+  {
+    "name": "reasonable",
+    "trans": [
+      "合理的， 有道理的； 通情达理的； 适度的"
+    ],
+    "usphone": "'riznəbl",
+    "ukphone": "'riːznəbl",
+    "e_mean": [
+      "showing sound judgment"
+    ],
+    "speech": "adjective",
+    "sentence": "a reasonable demand, amount, or price"
+  },
+  {
+    "name": "ownership",
+    "trans": [
+      "所有权，物主身份"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the state of being in possession of something"
+    ],
+    "speech": "noun",
+    "sentence": "The successful candidate will take ownership of all internal design projects."
+  },
+  {
+    "name": "copyright",
+    "trans": [
+      "版权"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the exclusive right to sell a work"
+    ],
+    "speech": "noun",
+    "sentence": "Copyright is a separate legal area from trademarks."
+  },
+  {
+    "name": "adhere",
+    "trans": [
+      "黏附； 遵守； 坚持"
+    ],
+    "usphone": "əd'hɪr",
+    "ukphone": "əd'hɪə(r)",
+    "e_mean": [
+      "stick to firmly"
+    ],
+    "speech": "verb",
+    "sentence": "wax adhered to his finger"
+  },
+  {
+    "name": "referee",
+    "trans": [
+      "裁判；仲裁，"
+    ],
+    "usphone": ",rɛfə'ri",
+    "ukphone": "ˌrefə'riː",
+    "e_mean": [
+      "the official in a sport who is expected to ensure fair play"
+    ],
+    "speech": "noun",
+    "sentence": "The referee kicked Jim out of the game for fighting."
+  },
+  {
+    "name": "defect",
+    "trans": [
+      "叛变",
+      "缺点，不足之处[dI'fekt]"
+    ],
+    "usphone": "‘dɪfɛkt",
+    "ukphone": "'diːfekt",
+    "e_mean": [
+      "a failing or deficiency"
+    ],
+    "speech": "noun",
+    "sentence": "a defect in the ear or eye; a defect in timber or iron; a defect of memory or judgment"
+  },
+  {
+    "name": "fake",
+    "trans": [
+      "假的",
+      "伪装",
+      "假货；骗子"
+    ],
+    "usphone": "feɪk",
+    "ukphone": "feɪk",
+    "e_mean": [
+      "something that is a counterfeit; not what it seems to be"
+    ],
+    "speech": "noun",
+    "sentence": "to fake a marriage"
+  },
+  {
+    "name": "condemn",
+    "trans": [
+      "声讨， 极力谴责； 给…判刑"
+    ],
+    "usphone": "kən'dɛm",
+    "ukphone": "kən'dem",
+    "e_mean": [
+      "express strong disapproval of"
+    ],
+    "speech": "verb",
+    "sentence": "The president condemned the terrorists."
+  },
+  {
+    "name": "lawsuit",
+    "trans": [
+      "诉讼， 起诉"
+    ],
+    "usphone": "'lɔsut",
+    "ukphone": "'lɔːsuːt",
+    "e_mean": [
+      "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy"
+    ],
+    "speech": "noun",
+    "sentence": "The lawyer advised his client against filing a lawsuit as it would take a lot of time and money to resolve."
+  },
+  {
+    "name": "nominal",
+    "trans": [
+      "名义上的； 微不足道的"
+    ],
+    "usphone": "'nɑmɪnl",
+    "ukphone": "'nɒmɪnl",
+    "e_mean": [
+      "relating to or constituting or bearing or giving a name"
+    ],
+    "speech": "adjective",
+    "sentence": "This sentence contains two nominals."
+  },
+  {
+    "name": "intention",
+    "trans": [
+      "意图， 目的"
+    ],
+    "usphone": "ɪn'tɛnʃən",
+    "ukphone": "ɪn'tenʃn",
+    "e_mean": [
+      "an anticipated outcome that guides your planned actions"
+    ],
+    "speech": "noun",
+    "sentence": "It’s easy to promise anything when you have no intention of fulfilling any of it."
+  },
+  {
+    "name": "execution",
+    "trans": [
+      "执行， 实施； 处决"
+    ],
+    "usphone": ",ɛksɪ'kjuʃən",
+    "ukphone": "ˌeksɪ'kjuːʃn",
+    "e_mean": [
+      "putting a condemned person to death"
+    ],
+    "speech": "noun",
+    "sentence": "The mission's successful execution lifted the troops' morale."
+  },
+  {
+    "name": "law",
+    "trans": [
+      "法律/规律/定理enacta~通过法律"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the collection of rules imposed by authority"
+    ],
+    "speech": "noun",
+    "sentence": "entrapment is against the law"
+  },
+  {
+    "name": "legal",
+    "trans": [
+      "法律的； 合法的"
+    ],
+    "usphone": "'ligl",
+    "ukphone": "'liːgl",
+    "e_mean": [
+      "established by or founded upon law or official rules"
+    ],
+    "speech": "adjective",
+    "sentence": "Legal wants this in writing."
+  },
+  {
+    "name": "item",
+    "trans": [
+      "—项项目，条目"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a distinct part that can be specified separately in a group"
+    ],
+    "speech": "noun",
+    "sentence": "Tweezers are great for manipulating small items."
+  },
+  {
+    "name": "agreement",
+    "trans": [
+      "协定,同意"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "harmony of people's opinions, actions, or characters"
+    ],
+    "speech": "noun",
+    "sentence": "to enter an agreement; the UK and US negotiators nearing agreement; he nodded his agreement."
+  },
+  {
+    "name": "charter",
+    "trans": [
+      "纲领，宣言；宪章；包租",
+      "包租； 特许设立， 给…发许可证， 给予特权"
+    ],
+    "usphone": "'tʃɑrtɚ",
+    "ukphone": "'tʃɑːtə(r)",
+    "e_mean": [
+      "a document creating an institution and specifying its rights"
+    ],
+    "speech": "noun",
+    "sentence": "2005 November 30, Stephen Foley \"The market where 'caveat emptor' has become a charter for fraud\" The Independent, London"
+  },
+  {
+    "name": "norm",
+    "trans": [
+      "行为准则,规范.socialnorms"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a standard or model or pattern regarded as typical"
+    ],
+    "speech": "noun",
+    "sentence": "Unemployment is the norm in this part of the country."
+  },
+  {
+    "name": "standard",
+    "trans": [
+      "标准的",
+      "标准"
+    ],
+    "usphone": "'stændɚd",
+    "ukphone": "'stændəd",
+    "e_mean": [
+      "a basis for comparison"
+    ],
+    "speech": "noun",
+    "sentence": "standard works in history; standard authors"
+  },
+  {
+    "name": "permit",
+    "trans": [
+      "允许,准许.permission允许,许可证"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "allow the presence of or allow without opposing"
+    ],
+    "speech": "verb",
+    "sentence": "A construction permit can be obtained from the town offices."
+  },
+  {
+    "name": "allow",
+    "trans": [
+      "允许，准许allowfor考虑到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "make it possible for something to happen"
+    ],
+    "speech": "verb",
+    "sentence": "to allow a servant his liberty; to allow a free passage; to allow one day for rest"
+  },
+  {
+    "name": "admission",
+    "trans": [
+      "允许进入， 加入权， 进入权； 招供， 招认； 入场券"
+    ],
+    "usphone": "əd'mɪʃən",
+    "ukphone": "əd'mɪʃn",
+    "e_mean": [
+      "the act of letting someone enter"
+    ],
+    "speech": "noun",
+    "sentence": "I request admission for two adults"
+  },
+  {
+    "name": "perform",
+    "trans": [
+      "履行，执行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "get done"
+    ],
+    "speech": "verb",
+    "sentence": "It took him only twenty minutes to perform the task."
+  },
+  {
+    "name": "judge",
+    "trans": [
+      "法官，裁判员judgement\n(=judgment)意见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an official who decides questions before a court"
+    ],
+    "speech": "noun",
+    "sentence": "At a boxing match, the decision of the judges is final."
+  },
+  {
+    "name": "jury",
+    "trans": [
+      "陪审团，(比赛的)评判委员会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a body of citizens sworn to give a verdict in a court of law"
+    ],
+    "speech": "noun",
+    "sentence": "jury mast; jury rudder"
+  },
+  {
+    "name": "trial",
+    "trans": [
+      "试验性的",
+      "审讯；试验"
+    ],
+    "usphone": "'traɪəl",
+    "ukphone": "'traɪəl",
+    "e_mean": [
+      "the act of testing something"
+    ],
+    "speech": "noun",
+    "sentence": "They will perform the trials for the new equipment next week."
+  },
+  {
+    "name": "suspect",
+    "trans": [
+      "猜想， 怀疑"
+    ],
+    "usphone": "sʌspɛkt; (for v.) səˈspɛkt",
+    "ukphone": "sə'spekt",
+    "e_mean": [
+      "regard as untrustworthy"
+    ],
+    "speech": "verb",
+    "sentence": "to suspect the presence of disease"
+  },
+  {
+    "name": "sentence",
+    "trans": [
+      "判决v.宣判"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a string of words satisfying grammatical rules of a language"
+    ],
+    "speech": "noun",
+    "sentence": "The court returned a sentence of guilt in the first charge, but innocence in the second."
+  },
+  {
+    "name": "arrest",
+    "trans": [
+      "逮捕，吸引(注意)；逮捕"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "take into custody"
+    ],
+    "speech": "verb",
+    "sentence": "The police have arrested a suspect in the murder inquiry."
+  },
+  {
+    "name": "prison",
+    "trans": [
+      "监狱，监禁,prisoner囚犯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a correctional institution where persons are confined while on trial or for punishment"
+    ],
+    "speech": "noun",
+    "sentence": "The cold stone walls of the prison had stood for over a century."
+  },
+  {
+    "name": "oversee",
+    "trans": [
+      "监督， 监视； 俯瞰， 眺望"
+    ],
+    "usphone": "'ovɚ'si",
+    "ukphone": "ˌəuvə'siː",
+    "e_mean": [
+      "watch and direct"
+    ],
+    "speech": "verb",
+    "sentence": "It is congress's duty to oversee the spending of federal funds."
+  },
+  {
+    "name": "supervise",
+    "trans": [
+      "监督， 管理； 指导"
+    ],
+    "usphone": "'sʊpɚ'vaɪz",
+    "ukphone": "'suːpəvaɪz",
+    "e_mean": [
+      "watch and direct"
+    ],
+    "speech": "verb",
+    "sentence": "Without someone to supervise them, the group will lack direction."
+  },
+  {
+    "name": "restrict",
+    "trans": [
+      "限制， 约束"
+    ],
+    "usphone": "rɪ'strɪkt",
+    "ukphone": "rɪ'strɪkt",
+    "e_mean": [
+      "limit access to"
+    ],
+    "speech": "verb",
+    "sentence": "After suffering diahrroea, the patient was restricted to a diet of rice, cold meat, and yoghurt."
+  },
+  {
+    "name": "restrain",
+    "trans": [
+      "阻止； 抑制"
+    ],
+    "usphone": "rɪ'stren",
+    "ukphone": "rɪ'streɪn",
+    "e_mean": [
+      "hold back"
+    ],
+    "speech": "verb",
+    "sentence": "He was restrained by the straight jacket."
+  },
+  {
+    "name": "commit",
+    "trans": [
+      "把…交托给， 提交； 犯， 干"
+    ],
+    "usphone": "kə'mɪt",
+    "ukphone": "kə'mɪt",
+    "e_mean": [
+      "engage in or perform"
+    ],
+    "speech": "verb",
+    "sentence": "Tony should be committed to a nuthouse!"
+  },
+  {
+    "name": "sin",
+    "trans": [
+      "n罪孽犯戒律"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an act that is regarded as a transgression of God's will"
+    ],
+    "speech": "noun",
+    "sentence": "As a Christian, I think this is a sin against God."
+  },
+  {
+    "name": "crime",
+    "trans": [
+      "罪行； 犯罪"
+    ],
+    "usphone": "kraɪm",
+    "ukphone": "kraɪm",
+    "e_mean": [
+      "an act punishable by law; usually considered an evil act"
+    ],
+    "speech": "noun",
+    "sentence": "Crime doesn’t pay."
+  },
+  {
+    "name": "vice",
+    "trans": [
+      "恶行,缺点.viceversa反之亦然"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a specific form of evildoing"
+    ],
+    "speech": "noun",
+    "sentence": "Gluttony is a vice, not a virtue."
+  },
+  {
+    "name": "bribe",
+    "trans": [
+      "贿赂;向…行贿bribery贿赂行为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "payment made to corrupt a person in a position of trust"
+    ],
+    "speech": "noun",
+    "sentence": "She was accused of trying to bribe the jury into making false statements."
+  },
+  {
+    "name": "rob",
+    "trans": [
+      "抢劫，夺走"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "take"
+    ],
+    "speech": "verb",
+    "sentence": "He robbed three banks before he was caught."
+  },
+  {
+    "name": "prosecute",
+    "trans": [
+      "检举，起诉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "conduct legal proceedings against a defendant "
+    ],
+    "speech": "verb",
+    "sentence": "to prosecute a man for trespass, or for a riot"
+  },
+  {
+    "name": "complain",
+    "trans": [
+      "抱怨； 投诉"
+    ],
+    "usphone": "kəm'plen",
+    "ukphone": "kəm'pleɪn",
+    "e_mean": [
+      "express discontent, displeasure, or unhappiness"
+    ],
+    "speech": "verb",
+    "sentence": "Joe was always complaining about the noise made by his neighbours."
+  },
+  {
+    "name": "mortgage",
+    "trans": [
+      "抵押,借款(房屋抵押贷款)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a conveyance of property as security for repaying a loan"
+    ],
+    "speech": "noun",
+    "sentence": "We're renting a property in the city centre because we can't afford to get a mortgage yet."
+  },
+  {
+    "name": "privilege",
+    "trans": [
+      "特权，优惠，特许",
+      "给予特权， 特别优待"
+    ],
+    "usphone": "ˈprɪvəlɪdʒ",
+    "ukphone": "'prɪvəlɪdʒ",
+    "e_mean": [
+      "a special advantage or benefit not enjoyed by all"
+    ],
+    "speech": "noun",
+    "sentence": "All first-year professors here must teach four courses a term, yet you're only teaching one! What entitled you to such a privilege?"
+  },
+  {
+    "name": "accredit",
+    "trans": [
+      "信任， 相信， 委任， 授权； 把…归于"
+    ],
+    "usphone": "ə'krɛdɪt",
+    "ukphone": "ə'kredɪt",
+    "e_mean": [
+      "grant credentials to"
+    ],
+    "speech": "verb",
+    "sentence": "The school was an accredited college."
+  },
+  {
+    "name": "clue",
+    "trans": [
+      "线索； 提示"
+    ],
+    "usphone": "klʊ",
+    "ukphone": "kluː",
+    "e_mean": [
+      "evidence that helps to solve a problem"
+    ],
+    "speech": "noun",
+    "sentence": "The crossword compiler wasn't sure how to clue the word \"should\"."
+  },
+  {
+    "name": "access",
+    "trans": [
+      "进入；"
+    ],
+    "usphone": "'æksɛs",
+    "ukphone": "'ækses",
+    "e_mean": [
+      "the right to enter"
+    ],
+    "speech": "noun",
+    "sentence": "an access of territory"
+  },
+  {
+    "name": "anonymous",
+    "trans": [
+      "匿名的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "having no known name or identity or known source"
+    ],
+    "speech": "adjective",
+    "sentence": "an anonymous pamphlet"
+  },
+  {
+    "name": "falsehood",
+    "trans": [
+      "谎言，假话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an untrue statement"
+    ],
+    "speech": "noun",
+    "sentence": "Don't tell falsehoods."
+  },
+  {
+    "name": "genuine",
+    "trans": [
+      "真正的； 真实的"
+    ],
+    "usphone": "'dʒɛnjʊɪn",
+    "ukphone": "'dʒenjuɪn",
+    "e_mean": [
+      "not fake or counterfeit"
+    ],
+    "speech": "adjective",
+    "sentence": "a genuine text; a genuine production; genuine materials; genuine friendship"
+  },
+  {
+    "name": "routine",
+    "trans": [
+      "例行的； 常规的",
+      "例行公事；惯例"
+    ],
+    "usphone": "rʊ'tin",
+    "ukphone": "ruː'tiːn",
+    "e_mean": [
+      "an unvarying or habitual method or procedure"
+    ],
+    "speech": "noun",
+    "sentence": "Connie was completely robotic and emotionless by age 12; her entire life had become one big routine."
+  },
+  {
+    "name": "consequence",
+    "trans": [
+      "后果"
+    ],
+    "usphone": "'kɑnsəkwɛns",
+    "ukphone": "'kɒnsɪkwəns",
+    "e_mean": [
+      "a phenomenon that is caused by some previous phenomenon"
+    ],
+    "speech": "noun",
+    "sentence": "I'm warning you. If you don't get me the report on time, there will be consequences."
+  },
+  {
+    "name": "demand",
+    "trans": [
+      "要求； 需要； 询问",
+      "要求；需求"
+    ],
+    "usphone": "dɪ'mænd",
+    "ukphone": "dɪ'mɑːnd",
+    "e_mean": [
+      "request urgently and forcefully"
+    ],
+    "speech": "verb",
+    "sentence": "Prices usually go up when demand exceeds supply."
+  },
+  {
+    "name": "request",
+    "trans": [
+      "要求； 请求"
+    ],
+    "usphone": "rɪ'kwɛst",
+    "ukphone": "rɪ'kwest",
+    "e_mean": [
+      "express the need or desire for; ask for"
+    ],
+    "speech": "verb",
+    "sentence": "The server returned a 404 error to the HTTP request."
+  },
+  {
+    "name": "petition",
+    "trans": [
+      "请求；请愿书，上诉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a formal request that something be submitted to an authority"
+    ],
+    "speech": "noun",
+    "sentence": "The villagers petitioned the council to demolish the dangerous building."
+  },
+  {
+    "name": "command",
+    "trans": [
+      "命令,指挥,统率;命令,指挥"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an authoritative direction or instruction to do something"
+    ],
+    "speech": "noun",
+    "sentence": "I was given a command to cease shooting."
+  },
+  {
+    "name": "instruct",
+    "trans": [
+      "教导； 指示， 命令"
+    ],
+    "usphone": "ɪn'strʌkt",
+    "ukphone": "ɪn'strʌkt",
+    "e_mean": [
+      "impart skills or knowledge to"
+    ],
+    "speech": "verb",
+    "sentence": "Listen carefully when someone instructs you how to assemble the furniture."
+  },
+  {
+    "name": "procedure",
+    "trans": [
+      "程序， 手续； 过程"
+    ],
+    "usphone": "prə'sidʒɚ",
+    "ukphone": "prə'siːdʒə(r)",
+    "e_mean": [
+      "a particular course of action intended to achieve a result"
+    ],
+    "speech": "noun",
+    "sentence": "Ensure that you follow procedure when accessing customers' personal information."
+  },
+  {
+    "name": "official",
+    "trans": [
+      "正式的，官方的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or relating to a place of business"
+    ],
+    "speech": "adjective",
+    "sentence": "David Barnes was the official charged with the running of the sports club."
+  },
+  {
+    "name": "mandatory",
+    "trans": [
+      "法定/强制的.mandate强制执行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "required by rule"
+    ],
+    "speech": "adjective",
+    "sentence": "Attendance at a school is usually mandatory for children."
+  },
+  {
+    "name": "enforce",
+    "trans": [
+      "实施， 执行； 强制， 迫使"
+    ],
+    "usphone": "ɪn'fɔrs",
+    "ukphone": "ɪn'fɔːs",
+    "e_mean": [
+      "compel to behave in a certain way"
+    ],
+    "speech": "verb",
+    "sentence": "The police are there to enforce the law."
+  },
+  {
+    "name": "default",
+    "trans": [
+      "不支付,不履行；违约,默认值"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an option that is selected automatically"
+    ],
+    "speech": "noun",
+    "sentence": "He failed to make payments on time and is now in default."
+  },
+  {
+    "name": "reject",
+    "trans": [
+      "拒绝['riːdʒ3kt]",
+      "被拒货品， 不合格品"
+    ],
+    "usphone": "rɪ'dʒɛkt",
+    "ukphone": "rɪ'dʒ3kt",
+    "e_mean": [
+      "refuse to accept or acknowledge"
+    ],
+    "speech": "verb",
+    "sentence": "She even rejected my improved offer."
+  },
+  {
+    "name": "potent",
+    "trans": [
+      "很有效/强有力的.impotent无能为力的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "having or wielding force or authority"
+    ],
+    "speech": "adjective",
+    "sentence": "a potent argument"
+  },
+  {
+    "name": "bound",
+    "trans": [
+      "负有义务的； 一定的， 必然的"
+    ],
+    "usphone": "baʊnd",
+    "ukphone": "baund",
+    "e_mean": [
+      "confined by bonds"
+    ],
+    "speech": "adjective",
+    "sentence": "Just to make the cheese more binding"
+  },
+  {
+    "name": "obligation",
+    "trans": [
+      "义务， 职责， 责任"
+    ],
+    "usphone": ",ɑblɪ'ɡeʃən",
+    "ukphone": "ˌɒblɪ'geɪʃn",
+    "e_mean": [
+      "the state of being bound to do or pay something"
+    ],
+    "speech": "noun",
+    "sentence": "X shall be entitled to subcontract its obligation to provide the Support Services. <>"
+  },
+  {
+    "name": "court",
+    "trans": [
+      "法院,庭院.takesb.to~起诉某人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an assembly to conduct judicial business"
+    ],
+    "speech": "noun",
+    "sentence": "The girls were playing in the court."
+  },
+  {
+    "name": "supreme",
+    "trans": [
+      "最高的；最大的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "greatest in status or authority or power"
+    ],
+    "speech": "adjective",
+    "sentence": "supreme disgust; supreme courage"
+  },
+  {
+    "name": "fair",
+    "trans": [
+      "公平的/地"
+    ],
+    "usphone": "fɛr",
+    "ukphone": "feə(r)",
+    "e_mean": [
+      "free from favoritism, bias, or deception"
+    ],
+    "speech": "adjective",
+    "sentence": "When will we learn to distinguish between the fair and the foul?"
+  },
+  {
+    "name": "just",
+    "trans": [
+      "公正/正义的;刚刚，仅仅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "and nothing more"
+    ],
+    "speech": "adverb",
+    "sentence": "It is a just assessment of the facts."
+  },
+  {
+    "name": "prejudice",
+    "trans": [
+      "偏见,成见.~against对的偏见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a partiality preventing objective consideration of an issue"
+    ],
+    "speech": "noun",
+    "sentence": "I am free of all prejudices. I hate everyone equally."
+  },
+  {
+    "name": "discrimination",
+    "trans": [
+      ".歧视"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "unfair treatment of a person or group based on prejudice"
+    ],
+    "speech": "noun",
+    "sentence": "reverse discrimination"
+  },
+  {
+    "name": "accuse",
+    "trans": [
+      "控告，指责"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "blame for; make a claim of wrongdoing or misbehavior against"
+    ],
+    "speech": "verb",
+    "sentence": "For the U.S. President to be impeached, he must be accused of a high crime or misdemeanor."
+  },
+  {
+    "name": "sue",
+    "trans": [
+      "控告，提起诉讼,提岀请求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "institute legal proceedings against; file a suit against"
+    ],
+    "speech": "verb",
+    "sentence": "to sue a ship"
+  },
+  {
+    "name": "pirate",
+    "trans": [
+      "侵犯版权者；海盗",
+      "盗用， 盗版"
+    ],
+    "usphone": "'paɪrət",
+    "ukphone": "'paɪərət",
+    "e_mean": [
+      "someone who robs and plunders at sea"
+    ],
+    "speech": "noun",
+    "sentence": "You should be cautious due to the Somali pirates."
+  },
+  {
+    "name": "steal",
+    "trans": [
+      "偷，窃取,剽窃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "take without the owner's consent"
+    ],
+    "speech": "verb",
+    "sentence": "At this price, this car is a steal."
+  },
+  {
+    "name": "murder",
+    "trans": [
+      "谋杀， 凶杀"
+    ],
+    "usphone": "'mɝdɚ",
+    "ukphone": "'mɜːdə(r)",
+    "e_mean": [
+      "unlawful premeditated killing of a human being"
+    ],
+    "speech": "noun",
+    "sentence": "The defendant was charged with murder."
+  },
+  {
+    "name": "cheat",
+    "trans": [
+      "欺骗；作弊",
+      "欺骗； 骗子"
+    ],
+    "usphone": "tʃit",
+    "ukphone": "tʃiːt",
+    "e_mean": [
+      "defeat through trickery or deceit"
+    ],
+    "speech": "verb",
+    "sentence": "My brother flunked biology because he cheated on his mid-term."
+  },
+  {
+    "name": "trap",
+    "trans": [
+      "陷阱，圈套，诡计",
+      "诱捕， 诱骗， 使中圈套； 使陷入困境， 使受限制"
+    ],
+    "usphone": "træp",
+    "ukphone": "træp",
+    "e_mean": [
+      "a device in which something can be caught and penned"
+    ],
+    "speech": "noun",
+    "sentence": "I put down some traps in my apartment to try and deal with the mouse problem."
+  },
+  {
+    "name": "trick",
+    "trans": [
+      "诡计，花招",
+      "欺诈， 哄骗"
+    ],
+    "usphone": "trɪk",
+    "ukphone": "trɪk",
+    "e_mean": [
+      "a cunning or deceitful action or device"
+    ],
+    "speech": "noun",
+    "sentence": "It was just a trick to say that the house was underpriced."
+  },
+  {
+    "name": "pretend",
+    "trans": [
+      "装作， 假装"
+    ],
+    "usphone": "prɪ'tɛnd",
+    "ukphone": "prɪ'tend",
+    "e_mean": [
+      "make believe with the intent to deceive"
+    ],
+    "speech": "verb",
+    "sentence": "As children we used to go on \"spying\" missions around the neighbour's house, but it was all pretend."
+  },
+  {
+    "name": "confess",
+    "trans": [
+      "供认,忏悔confession招供"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "admit to a wrongdoing"
+    ],
+    "speech": "verb",
+    "sentence": "I confess to spray-painting all over that mural!"
+  },
+  {
+    "name": "reconcile",
+    "trans": [
+      "使和解，调和"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "come to terms"
+    ],
+    "speech": "verb",
+    "sentence": "to reconcile people who have quarrelled"
+  },
+  {
+    "name": "succumb",
+    "trans": [
+      "屈服， 屈从； 死亡"
+    ],
+    "usphone": "sə'kʌm",
+    "ukphone": "sə'kʌm",
+    "e_mean": [
+      "give in, as to overwhelming force, influence, or pressure"
+    ],
+    "speech": "verb",
+    "sentence": "Thai culture as in many other Asian cultures, is succumbing to the influence of westernization."
+  },
+  {
+    "name": "penalty",
+    "trans": [
+      "惩罚； 罚金"
+    ],
+    "usphone": "'pɛnəlti",
+    "ukphone": "'penəlti",
+    "e_mean": [
+      "the disadvantage or painful consequences of an action"
+    ],
+    "speech": "noun",
+    "sentence": "The penalty for his crime was to do hard labor."
+  },
+  {
+    "name": "fine",
+    "trans": [
+      "罚款美好的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "free from impurities"
+    ],
+    "speech": "adjective",
+    "sentence": "They filtered silt and fines out of the soil."
+  },
+  {
+    "name": "deputy",
+    "trans": [
+      "代理人； 代表"
+    ],
+    "usphone": "'dɛpjuti",
+    "ukphone": "'depjʊti",
+    "e_mean": [
+      "a person appointed to represent or act on behalf of others"
+    ],
+    "speech": "noun",
+    "sentence": "As the deputy store manager, he is able to fire staff."
+  },
+  {
+    "name": "outlaw",
+    "trans": [
+      "亡命之徒，逃犯，被剥夺法律权益者",
+      "宣布…为非法， 使…成为非法"
+    ],
+    "usphone": "'aʊtlɔ",
+    "ukphone": "'autlɔː",
+    "e_mean": [
+      "a criminal, especially one on the run from police"
+    ],
+    "speech": "noun",
+    "sentence": "The main character in the play was a bit of an outlaw who refused to shake hands or say thank you."
+  },
+  {
+    "name": "denote",
+    "trans": [
+      "表示， 指示； 意味着"
+    ],
+    "usphone": "dɪ'not",
+    "ukphone": "dɪ'nəut",
+    "e_mean": [
+      "have as a meaning"
+    ],
+    "speech": "verb",
+    "sentence": "The yellow blazes denote the trail."
+  },
+  {
+    "name": "illegal",
+    "trans": [
+      "不合法的， 违法的"
+    ],
+    "usphone": "ɪ'ligl",
+    "ukphone": "ɪ'liːgl",
+    "e_mean": [
+      "prohibited by law or by official or accepted rules"
+    ],
+    "speech": "adjective",
+    "sentence": "Nearly 40 million people live in UK areas with illegal air pollution"
+  },
+  {
+    "name": "permission",
+    "trans": [
+      "允许， 准许"
+    ],
+    "usphone": "pɚ'mɪʃən",
+    "ukphone": "pə'mɪʃn",
+    "e_mean": [
+      "approval to do something"
+    ],
+    "speech": "noun",
+    "sentence": "Sire, do I have your permission to execute this traitor?"
+  },
+  {
+    "name": "division",
+    "trans": [
+      "分开， 分隔； 分配； 分歧； 除； 部门， 科， 司"
+    ],
+    "usphone": "də'vɪʒən",
+    "ukphone": "dɪ'vɪʒn",
+    "e_mean": [
+      "the act of partitioning"
+    ],
+    "speech": "noun",
+    "sentence": "I've got ten divisions to do for my homework."
+  },
+  {
+    "name": "legitimate",
+    "trans": [
+      "合法的， 法定的； 正当的， 合情合理的",
+      "使合法"
+    ],
+    "usphone": "ləˈdʒɪtəmɪt",
+    "ukphone": "lɪ'dʒɪtɪmət",
+    "e_mean": [
+      "in accordance with accepted standards or principles"
+    ],
+    "speech": "adjective",
+    "sentence": "legitimate reasoning; a legitimate standard or method"
+  },
+  {
+    "name": "addict",
+    "trans": [
+      "吸毒成瘾的人， 有瘾的人， 对…入迷的人"
+    ],
+    "usphone": "'ædɪkt (for n.); əˈdɪkt (for v.)",
+    "ukphone": "'ædɪkt",
+    "e_mean": [
+      "to cause to become dependent"
+    ],
+    "speech": "verb",
+    "sentence": "He is an addict when it comes to chocolate cookies."
+  },
+  {
+    "name": "constitution",
+    "trans": [
+      "宪法， 章程； 体质， 体格； 组成， 形成"
+    ],
+    "usphone": "'kɑnstə'tʊʃən",
+    "ukphone": "ˌkɒnstɪ'tjuːʃn",
+    "e_mean": [
+      "the act of forming or establishing something"
+    ],
+    "speech": "noun",
+    "sentence": "He has a strong constitution, so he should make a quick recovery from the illness."
+  },
+  {
+    "name": "inform",
+    "trans": [
+      "通知； 向…报告"
+    ],
+    "usphone": "ɪn'fɔrm",
+    "ukphone": "ɪn'fɔːm",
+    "e_mean": [
+      "impart knowledge of some fact, state or affairs, or event to"
+    ],
+    "speech": "verb",
+    "sentence": "His sense of religion informs everything he writes."
+  },
+  {
+    "name": "barbaric",
+    "trans": [
+      "野蛮的， 粗鲁的； 残暴的， 残忍的； 原始部落的"
+    ],
+    "usphone": "bɑr'bærɪk",
+    "ukphone": "bɑː'bærɪk",
+    "e_mean": [
+      "without civilizing influences"
+    ],
+    "speech": "adjective",
+    "sentence": "Killing doctors is barbaric."
+  },
+  {
+    "name": "departure",
+    "trans": [
+      "离开， 出发； 背离， 违反"
+    ],
+    "usphone": "dɪ'pɑrtʃɚ",
+    "ukphone": "dɪ'pɑːtʃə(r)",
+    "e_mean": [
+      "the act of leaving"
+    ],
+    "speech": "noun",
+    "sentence": "The departure was scheduled for noon."
+  },
+  {
+    "name": "justice",
+    "trans": [
+      "正义， 公正； 司法"
+    ],
+    "usphone": "'dʒʌstɪs",
+    "ukphone": "'dʒʌstɪs",
+    "e_mean": [
+      "the quality of being fair, reasonable, or impartial"
+    ],
+    "speech": "noun",
+    "sentence": "the justice of a description"
+  },
+  {
+    "name": "argument",
+    "trans": [
+      "争吵， 争论； 观点， 论据； 说理， 论证"
+    ],
+    "usphone": "'ɑrɡjumənt",
+    "ukphone": "'ɑːgjʊmənt",
+    "e_mean": [
+      "a dispute where there is strong disagreement"
+    ],
+    "speech": "noun",
+    "sentence": "Parameters are like labeled fillable blanks used to define a function whereas arguments are passed to a function when calling it, filling in those blanks."
+  },
+  {
+    "name": "objection",
+    "trans": [
+      "反对； 反对的理由"
+    ],
+    "usphone": "əb'dʒɛkʃən",
+    "ukphone": "əb'dʒekʃn",
+    "e_mean": [
+      "the act of expressing earnest opposition or protest"
+    ],
+    "speech": "noun",
+    "sentence": "I have no objection to any person's religion."
+  },
+  {
+    "name": "plagiarism",
+    "trans": [
+      "剽窃， 抄袭； 剽窃物"
+    ],
+    "usphone": "'pledʒə'rɪzəm",
+    "ukphone": "'pleɪdʒərɪzəm",
+    "e_mean": [
+      "taking someone's words or ideas as if they were your own"
+    ],
+    "speech": "noun",
+    "sentence": "Copy from one, it's plagiarism. Copy from two, it's research."
+  },
+  {
+    "name": "tighten",
+    "trans": [
+      "变紧； 使更加严格， 加强"
+    ],
+    "usphone": "'taɪtn",
+    "ukphone": "'taɪtn",
+    "e_mean": [
+      "make tight or tighter"
+    ],
+    "speech": "verb",
+    "sentence": "Please tighten that screw a quarter-turn."
+  },
+  {
+    "name": "credential",
+    "trans": [
+      "证明书； 资格证书； 证件"
+    ],
+    "usphone": "krə'dɛnʃl",
+    "ukphone": "krə'denʃl",
+    "e_mean": [
+      "a document attesting to the truth of certain stated facts"
+    ],
+    "speech": "noun",
+    "sentence": "May I see your credentials, please?"
+  },
+  {
+    "name": "mediocre",
+    "trans": [
+      "平庸的， 平凡的"
+    ],
+    "usphone": ",midɪ'okɚ",
+    "ukphone": "ˌmiːdi'əukə(r)",
+    "e_mean": [
+      "moderate to inferior in quality"
+    ],
+    "speech": "adjective",
+    "sentence": "I'm pretty good at tennis but only mediocre at racquetball."
+  },
+  {
+    "name": "drawback",
+    "trans": [
+      "缺点； 不利条件"
+    ],
+    "usphone": "'drɔbæk",
+    "ukphone": "'drɔːbæk",
+    "e_mean": [
+      "a feature that makes something less convenient or acceptable"
+    ],
+    "speech": "noun",
+    "sentence": "Poor fuel economy is a common drawback among larger vehicles."
+  },
+  {
+    "name": "inadequate",
+    "trans": [
+      "不充分的； 不适当的"
+    ],
+    "usphone": "ɪn'ædɪkwət",
+    "ukphone": "ɪn'ædɪkwət",
+    "e_mean": [
+      "lacking the requisite qualities or resources to meet a task"
+    ],
+    "speech": "adjective",
+    "sentence": "inadequate representation"
+  },
+  {
+    "name": "deny",
+    "trans": [
+      "否认， 否定； 拒绝"
+    ],
+    "usphone": "dɪ'nai",
+    "ukphone": "dɪ'naɪ",
+    "e_mean": [
+      "declare untrue; contradict"
+    ],
+    "speech": "verb",
+    "sentence": "I wanted to go to the party, but I was denied."
+  },
+  {
+    "name": "scandal",
+    "trans": [
+      "丑事， 丑闻； 恶意诽谤； 流言飞语； 反感， 愤慨"
+    ],
+    "usphone": "'skændl",
+    "ukphone": "'skændl",
+    "e_mean": [
+      "a disgraceful event"
+    ],
+    "speech": "noun",
+    "sentence": "Their affair was reported as a scandal by most tabloids."
+  },
+  {
+    "name": "hereditary",
+    "trans": [
+      "遗传的， 遗传性的； 可继承的， 世袭的"
+    ],
+    "usphone": "hə'rɛdə'tɛri",
+    "ukphone": "hə'redɪtri",
+    "e_mean": [
+      "occurring among members of a family usually by heredity"
+    ],
+    "speech": "adjective",
+    "sentence": "Duke is a hereditary title which was created in Norman times."
+  },
+  {
+    "name": "inflict",
+    "trans": [
+      "把…强加给， 使遭受， 使承受"
+    ],
+    "usphone": "ɪn'flɪkt",
+    "ukphone": "ɪn'flɪkt",
+    "e_mean": [
+      "impose something unpleasant"
+    ],
+    "speech": "verb",
+    "sentence": "They inflicted terrible pains on her to obtain a confession."
+  },
+  {
+    "name": "stance",
+    "trans": [
+      "姿势； 观点， 立场"
+    ],
+    "usphone": "stæns",
+    "ukphone": "stæns",
+    "e_mean": [
+      "a rationalized mental attitude"
+    ],
+    "speech": "noun",
+    "sentence": "The fencer’s stance showed he was ready to begin."
+  },
+  {
+    "name": "hostility",
+    "trans": [
+      "敌意，敌对，对抗；抵制，反对，否决；"
+    ],
+    "usphone": "hɑ'stɪləti",
+    "ukphone": "hɒ'stɪləti",
+    "e_mean": [
+      "a state of deep-seated ill-will"
+    ],
+    "speech": "noun",
+    "sentence": "My resentment and anger towards you caused hostility and a division between us."
+  },
+  {
+    "name": "verdict",
+    "trans": [
+      "裁定； 定论； 判断； 意见"
+    ],
+    "usphone": "'vɝdɪkt",
+    "ukphone": "'vɜːdɪkt",
+    "e_mean": [
+      "findings of a jury on issues submitted to it for decision"
+    ],
+    "speech": "noun",
+    "sentence": "The jury returned a “not guilty” verdict."
+  },
+  {
+    "name": "enquiry",
+    "trans": [
+      "询问； 调查； 探索"
+    ],
+    "usphone": "ɛnˈkwaɪri, ˈɛnkwəri",
+    "ukphone": "ɪn'kwaɪəri",
+    "e_mean": [
+      "an instance of questioning"
+    ],
+    "speech": "noun",
+    "sentence": "scientific enquiry"
+  },
+  {
+    "name": "limitation",
+    "trans": [
+      "限制； 局限"
+    ],
+    "usphone": ",lɪmɪ'teʃən",
+    "ukphone": "ˌlɪmɪ'teɪʃn",
+    "e_mean": [
+      "an act of restricting (as by regulation)"
+    ],
+    "speech": "noun",
+    "sentence": "Getting into his wheelchair after his amputation, it felt like a limitation you could roll in."
+  },
+  {
+    "name": "ascertain",
+    "trans": [
+      "弄清， 查明； 确定"
+    ],
+    "usphone": "'æsɚ'ten",
+    "ukphone": "ˌæsə'teɪn",
+    "e_mean": [
+      "learn or discover with confidence"
+    ],
+    "speech": "verb",
+    "sentence": "As soon as we ascertain what the situation is, we can plan how to proceed."
+  },
+  {
+    "name": "abolish",
+    "trans": [
+      "废止， 废除"
+    ],
+    "usphone": "ə'bɑlɪʃ",
+    "ukphone": "ə'bɒlɪʃ",
+    "e_mean": [
+      "do away with"
+    ],
+    "speech": "verb",
+    "sentence": "Slavery was abolished in the nineteenth century."
+  },
+  {
+    "name": "dupe",
+    "trans": [
+      "上当者，受骗者",
+      "欺骗， 愚弄"
+    ],
+    "usphone": "dju:p",
+    "ukphone": "djuːp",
+    "e_mean": [
+      "fool or hoax"
+    ],
+    "speech": "verb",
+    "sentence": "Can you dupe this photo for me?"
+  },
+  {
+    "name": "eject",
+    "trans": [
+      "弹出； 喷出； 驱逐， 逐出"
+    ],
+    "usphone": "ɪ'dʒɛkt",
+    "ukphone": "i'dʒekt",
+    "e_mean": [
+      "put out or expel from a place"
+    ],
+    "speech": "verb",
+    "sentence": "Andrew was ejected from his apartment for not paying the rent."
+  },
+  {
+    "name": "rig",
+    "trans": [
+      "操纵，垄断",
+      "船桅的装置； 成套器械"
+    ],
+    "usphone": "rɪɡ",
+    "ukphone": "rɪg",
+    "e_mean": [
+      "equip with sails or masts"
+    ],
+    "speech": "verb",
+    "sentence": "The climbers each had a different rig for climbing that particular rockface."
+  },
+  {
+    "name": "opponent",
+    "trans": [
+      "对立的， 对抗的",
+      "敌手，对手；反对者"
+    ],
+    "usphone": "ə'ponənt",
+    "ukphone": "ə'pəunənt",
+    "e_mean": [
+      "someone who offers resistance"
+    ],
+    "speech": "noun",
+    "sentence": "During the crackdown, many opponents of the regime were arrested."
+  },
+  {
+    "name": "diverge",
+    "trans": [
+      "分开， 岔开； 分歧， 相异； 偏离， 违背"
+    ],
+    "usphone": "daɪ'vɝdʒ",
+    "ukphone": "daɪ'vɜːdʒ",
+    "e_mean": [
+      "move or draw apart"
+    ],
+    "speech": "verb",
+    "sentence": "Both stories start out the same way, but they diverge halfway through."
+  },
+  {
+    "name": "disapprove",
+    "trans": [
+      "不赞成， 反对"
+    ],
+    "usphone": "'dɪsə'prʊv",
+    "ukphone": "ˌdɪsə'pruːv",
+    "e_mean": [
+      "consider something to be bad, wrong, or inappropriate"
+    ],
+    "speech": "verb",
+    "sentence": "She disapproves of rap music because of its sometimes aggressive lyrics."
+  },
+  {
+    "name": "burglar",
+    "trans": [
+      "窃贼"
+    ],
+    "usphone": "'bɝɡlɚ",
+    "ukphone": "'bɜːglə(r)",
+    "e_mean": [
+      "a thief who enters a building with intent to steal"
+    ],
+    "speech": "noun",
+    "sentence": "The burglar made off with a large diamond from the museum."
+  },
+  {
+    "name": "sceptical",
+    "trans": [
+      "怀疑的， 猜疑的"
+    ],
+    "usphone": "'skeptikəl",
+    "ukphone": "'skeptɪkl",
+    "e_mean": [
+      "marked by or given to doubt"
+    ],
+    "speech": "adjective",
+    "sentence": "I can see why people are so skeptical [sic] about him, but I think he's on to something here. (regarded by organizations such as the BBC as an error)"
+  },
+  {
+    "name": "tenable",
+    "trans": [
+      "站得住脚的； 可防守的"
+    ],
+    "usphone": "",
+    "ukphone": "'tenəbl",
+    "e_mean": [
+      "based on sound reasoning or evidence"
+    ],
+    "speech": "adjective",
+    "sentence": "Back in the 1800s, many did not consider Darwin's theory of evolution to be tenable at all."
+  },
+  {
+    "name": "innocent",
+    "trans": [
+      "清白的； 无害的； 天真的"
+    ],
+    "usphone": "'ɪnəsnt",
+    "ukphone": "'ɪnəsnt",
+    "e_mean": [
+      "free from sin"
+    ],
+    "speech": "adjective",
+    "sentence": "The slaughter of the innocents was a significant event in the New Testament."
+  },
+  {
+    "name": "approve",
+    "trans": [
+      "赞成； 批准， 同意"
+    ],
+    "usphone": "ə'prʊv",
+    "ukphone": "ə'pruːv",
+    "e_mean": [
+      "judge to be right or commendable; think well of"
+    ],
+    "speech": "verb",
+    "sentence": "Although we may disagree with it, we must nevertheless approve the sentence handed down by the court-martial."
+  },
+  {
+    "name": "attendance",
+    "trans": [
+      "到场， 出席； 出勤； 伺候， 照料"
+    ],
+    "usphone": "ə'tɛndəns",
+    "ukphone": "ə'tendəns",
+    "e_mean": [
+      "the act of being present at a meeting or event"
+    ],
+    "speech": "noun",
+    "sentence": "Attendance at the meeting is required."
+  },
+  {
+    "name": "account",
+    "trans": [
+      "说明，解释；占；"
+    ],
+    "usphone": "ə'kaʊnt",
+    "ukphone": "ə'kaunt",
+    "e_mean": [
+      "a record or narrative description of past events"
+    ],
+    "speech": "noun",
+    "sentence": "to keep one's account at the bank."
+  },
+  {
+    "name": "uneasy",
+    "trans": [
+      "心神不安的； 担心的"
+    ],
+    "usphone": "ʌn'izi",
+    "ukphone": "ˌʌn'ɪːzɪ",
+    "e_mean": [
+      "causing or fraught with or showing anxiety"
+    ],
+    "speech": "adjective",
+    "sentence": "I've been uneasy about your friend ever since I met him. Are you sure we can trust him?"
+  },
+  {
+    "name": "bereave",
+    "trans": [
+      "使丧失， 剥夺"
+    ],
+    "usphone": "bɪ'riv",
+    "ukphone": "bɪ'riːv",
+    "e_mean": [
+      "deprive through death"
+    ],
+    "speech": "verb",
+    "sentence": "Death bereaved him of his wife."
+  },
+  {
+    "name": "archive",
+    "trans": [
+      "档案；档案室",
+      "存档"
+    ],
+    "usphone": "'ɑrkaɪv",
+    "ukphone": "'ɑːkaɪv",
+    "e_mean": [
+      "a depository containing historical records and documents"
+    ],
+    "speech": "noun",
+    "sentence": "His archive of Old High German texts is the most extensive in Britain."
+  },
+  {
+    "name": "commute",
+    "trans": [
+      "上下班往返，经常往返；交换，抵偿；减刑",
+      "上下班路程"
+    ],
+    "usphone": "kə'mjʊt",
+    "ukphone": "kə'mjuːt",
+    "e_mean": [
+      "a regular journey to and from your place of work"
+    ],
+    "speech": "noun",
+    "sentence": "to commute tithes into rentcharges for a sum; to commute market rents for a premium, to commute daily fares for a season ticket"
+  },
+  {
+    "name": "disqualify",
+    "trans": [
+      "使丧失资格"
+    ],
+    "usphone": "dɪs'kwɑlə'fai",
+    "ukphone": "dɪs'kwɒlɪfaɪ",
+    "e_mean": [
+      "make unfit or unsuitable"
+    ],
+    "speech": "verb",
+    "sentence": "My age disqualifies me for the position."
+  },
+  {
+    "name": "clarity",
+    "trans": [
+      "清楚"
+    ],
+    "usphone": "'klærəti",
+    "ukphone": "'klærəti",
+    "e_mean": [
+      "the quality of being coherent and easily understood"
+    ],
+    "speech": "noun",
+    "sentence": "Lack of clarity on the part of the teacher will cause confusion among the students."
+  },
+  {
+    "name": "judgment",
+    "trans": [
+      "意见； 审判； 判断"
+    ],
+    "usphone": "'dʒʌdʒmənt",
+    "ukphone": "'dʒʌdʒmənt",
+    "e_mean": [
+      "the act of assessing a person or situation or event"
+    ],
+    "speech": "noun",
+    "sentence": "a man of judgment"
+  },
+  {
+    "name": "confirmation",
+    "trans": [
+      "证实， 确认； 批准"
+    ],
+    "usphone": ",kɑnfɚ'meʃən",
+    "ukphone": "ˌkɒnfə'meɪʃn",
+    "e_mean": [
+      "information that verifies"
+    ],
+    "speech": "noun",
+    "sentence": "We will send you a written confirmation of your hotel booking."
+  },
+  {
+    "name": "bulk",
+    "trans": [
+      "大量； 大批"
+    ],
+    "usphone": "bʌlk",
+    "ukphone": "bʌlk",
+    "e_mean": [
+      "the property possessed by a large mass"
+    ],
+    "speech": "noun",
+    "sentence": "I understood the bulk of what you were saying, just one of two points I need to hear again."
+  },
+  {
+    "name": "remove",
+    "trans": [
+      "排除，消除；搬迁，移动；开除，解除",
+      "距离， 间距"
+    ],
+    "usphone": "rɪ'muv",
+    "ukphone": "rɪ'muːv",
+    "e_mean": [
+      "take something away as by lifting, pushing, or taking off"
+    ],
+    "speech": "verb",
+    "sentence": "He removed the marbles from the bag."
+  },
+  {
+    "name": "lenient",
+    "trans": [
+      "宽大的， 宽容的； 厚道的， 仁慈的"
+    ],
+    "usphone": "'linɪənt",
+    "ukphone": "'liːnɪənt",
+    "e_mean": [
+      "inclined to be permissive or indulgent"
+    ],
+    "speech": "adjective",
+    "sentence": "The standard is fairly lenient, so use your discretion."
+  },
+  {
+    "name": "plausible",
+    "trans": [
+      "似有道理的， 貌似真实的； 嘴巧的"
+    ],
+    "usphone": "'plɔzəbl",
+    "ukphone": "'plɔːzəbl",
+    "e_mean": [
+      "apparently reasonable, valid, or truthful"
+    ],
+    "speech": "adjective",
+    "sentence": "a plausible excuse"
+  },
+  {
+    "name": "intern",
+    "trans": [
+      "拘禁，软禁['Intɜːn]",
+      "实习生"
+    ],
+    "usphone": "'ɪntɝn",
+    "ukphone": "ɪn'tɜːn",
+    "e_mean": [
+      "someone who works for an expert to learn about a job"
+    ],
+    "speech": "noun",
+    "sentence": "The US government interned thousands of Japanese-Americans during World War II."
+  },
+  {
+    "name": "righteous",
+    "trans": [
+      "正义的， 正直的； 公正的； 正当的"
+    ],
+    "usphone": "'raɪtʃəs",
+    "ukphone": "'raɪtʃəs",
+    "e_mean": [
+      "morally justified"
+    ],
+    "speech": "adjective",
+    "sentence": "Human beings should take a righteous path, and so should art. We should promote kindness and beauty through art."
+  },
+  {
+    "name": "expiry",
+    "trans": [
+      "满期， 终结"
+    ],
+    "usphone": "ɪk'spaɪəri",
+    "ukphone": "ɪk'spaɪəri",
+    "e_mean": [
+      "a coming to an end of a contract period"
+    ],
+    "speech": "noun",
+    "sentence": "credit card expiration date"
+  },
+  {
+    "name": "maturity",
+    "trans": [
+      "成熟； 完善， 完备， 准备就绪； 到期"
+    ],
+    "usphone": "mə'tʃʊrəti",
+    "ukphone": "mə'tʃuərəti",
+    "e_mean": [
+      "the period of time in life after physical growth has stopped"
+    ],
+    "speech": "noun",
+    "sentence": "Some foods and drinks, like wine, only reach their full taste at maturity, which literally comes at a price"
+  },
+  {
+    "name": "legislative",
+    "trans": [
+      "立法的，有立法权的；根据法规执行的；立法机关的",
+      "立法机关"
+    ],
+    "usphone": "'lɛdʒɪsletɪv",
+    "ukphone": "'ledʒɪslətɪv",
+    "e_mean": [
+      "relating to a lawmaking assembly"
+    ],
+    "speech": "adjective",
+    "sentence": "Although enormously influential in shaping the laws of the land, The House of Lords are not actually a legislative body."
+  },
+  {
+    "name": "various",
+    "trans": [
+      "各种各样的； 不同的； 多方面的"
+    ],
+    "usphone": "'vɛrɪəs",
+    "ukphone": "'veəriəs",
+    "e_mean": [
+      "having great diversity or variety"
+    ],
+    "speech": "adjective",
+    "sentence": "The reasons are various."
+  },
+  {
+    "name": "attention",
+    "trans": [
+      "注意， 留心； 立正"
+    ],
+    "usphone": "ə'tɛnʃən",
+    "ukphone": "ə'tenʃn",
+    "e_mean": [
+      "the act of concentrating on something"
+    ],
+    "speech": "noun",
+    "sentence": "Please direct your attention to the following words."
+  },
+  {
+    "name": "crucial",
+    "trans": [
+      "决定性的； 至关重要的"
+    ],
+    "usphone": "'krʊʃəl",
+    "ukphone": "'kruːʃl",
+    "e_mean": [
+      "of extreme importance; vital to the resolution of a crisis"
+    ],
+    "speech": "adjective",
+    "sentence": "A secure supply of crude oil is crucial for any modern nation, let alone a superpower."
+  },
+  {
+    "name": "faith",
+    "trans": [
+      "信任， 信用； 信仰， 信条"
+    ],
+    "usphone": "feθ",
+    "ukphone": "feɪθ",
+    "e_mean": [
+      "complete confidence in a person or plan, etc."
+    ],
+    "speech": "noun",
+    "sentence": "I have faith in the goodness of my fellow man."
+  },
+  {
+    "name": "grim",
+    "trans": [
+      "严厉的； 可怕的； 讨厌的"
+    ],
+    "usphone": "ɡrɪm",
+    "ukphone": "grɪm",
+    "e_mean": [
+      "harshly uninviting or formidable in manner or appearance"
+    ],
+    "speech": "adjective",
+    "sentence": "Life was grim in many northern industrial towns."
+  },
+  {
+    "name": "threaten",
+    "trans": [
+      "威胁， 恐吓； 预示快要来临， 是…的征兆， 可能发生"
+    ],
+    "usphone": "'θrɛtn",
+    "ukphone": "'θretn",
+    "e_mean": [
+      "utter intentions of injury or punishment against"
+    ],
+    "speech": "verb",
+    "sentence": "He threatened me with a knife."
+  },
+  {
+    "name": "otherwise",
+    "trans": [
+      "另样，用别的方法；在其他方面",
+      "要不然， 否则"
+    ],
+    "usphone": "'ʌðɚwaɪz",
+    "ukphone": "'ʌðəwaɪz",
+    "e_mean": [
+      "in another and different manner"
+    ],
+    "speech": "adverb",
+    "sentence": "He said he didn’t do it, but the evidence was otherwise."
+  },
+  {
+    "name": "promising",
+    "trans": [
+      "有希望的； 有前途的"
+    ],
+    "usphone": "'prɑmɪsɪŋ",
+    "ukphone": "'prɒmɪsɪŋ",
+    "e_mean": [
+      "likely to have a successful outcome or positive results"
+    ],
+    "speech": "adjective",
+    "sentence": "He promised to never return to this town again."
+  },
+  {
+    "name": "counsel",
+    "trans": [
+      "商议， 劝告",
+      "律师，法律顾问；建议，忠告"
+    ],
+    "usphone": "'kaʊnsl",
+    "ukphone": "'kaunsl",
+    "e_mean": [
+      "something that provides direction or advice"
+    ],
+    "speech": "noun",
+    "sentence": "Psychiatrists, psychologists, social workers and other mental health professionals counsel clients."
+  },
+  {
+    "name": "vested",
+    "trans": [
+      "法律规定的； 既定的"
+    ],
+    "usphone": "'vɛstɪd",
+    "ukphone": "'vestɪd",
+    "e_mean": [
+      "fixed and absolute and without contingency"
+    ],
+    "speech": "adjective",
+    "sentence": "to vest a court with power to try cases of life and death"
+  },
+  {
+    "name": "conclusion",
+    "trans": [
+      "结论， 推论； 结束， 结尾； 【法】 缔结， 议定"
+    ],
+    "usphone": "kən'kluʒn",
+    "ukphone": "kən'kluːʒn",
+    "e_mean": [
+      "a position or opinion reached after consideration"
+    ],
+    "speech": "noun",
+    "sentence": "The board has come to the conclusion that the proposed takeover would not be in the interest of our shareholders."
+  },
+  {
+    "name": "pliable",
+    "trans": [
+      "容易受影响的； 顺从的； 易弯的， 柔韧的"
+    ],
+    "usphone": "'plaɪəbl",
+    "ukphone": "'plaɪəbl",
+    "e_mean": [
+      "capable of being shaped or bent or drawn out"
+    ],
+    "speech": "adjective",
+    "sentence": "You will find the clay perfectly pliable as long as it stays moist."
+  },
+  {
+    "name": "disturbance",
+    "trans": [
+      "扰乱， 打扰； 骚乱， 混乱； 心神不安， 烦恼"
+    ],
+    "usphone": "dɪ'stɝbəns",
+    "ukphone": "dɪ'stɜːbəns",
+    "e_mean": [
+      "activity that is a malfunction, intrusion, or interruption"
+    ],
+    "speech": "noun",
+    "sentence": "That guy causes a lot of trouble, you know, he's such a disturbance."
+  },
+  {
+    "name": "rigorous",
+    "trans": [
+      "严密的； 严格的， 严厉的； 严酷的"
+    ],
+    "usphone": "'rɪɡərəs",
+    "ukphone": "'rɪgərəs",
+    "e_mean": [
+      "strict; allowing no deviation from a standard"
+    ],
+    "speech": "adjective",
+    "sentence": "a rigorous execution of law"
+  },
+  {
+    "name": "valid",
+    "trans": [
+      "有效的， 具有法律效力的； 正当的； 有根据的， 有理的"
+    ],
+    "usphone": "'vælɪd",
+    "ukphone": "'vælɪd",
+    "e_mean": [
+      "well grounded in logic or truth or having legal force"
+    ],
+    "speech": "adjective",
+    "sentence": "I will believe him as soon as he offers a valid answer."
+  },
+  {
+    "name": "ridiculous",
+    "trans": [
+      "荒谬的； 可笑的"
+    ],
+    "usphone": "rɪ'dɪkjələs",
+    "ukphone": "rɪ'dɪkjələs",
+    "e_mean": [
+      "incongruous or absurd"
+    ],
+    "speech": "adjective",
+    "sentence": "It's ridiculous to charge so much for a little souvenir."
+  },
+  {
+    "name": "intrusion",
+    "trans": [
+      "闯入； 打搅； 侵扰"
+    ],
+    "usphone": "ɪn'truʒn",
+    "ukphone": "ɪn'truːʒn",
+    "e_mean": [
+      "entrance by force or without permission or welcome"
+    ],
+    "speech": "noun",
+    "sentence": "He viewed sales calls as an unwelcome intrusion."
+  },
+  {
+    "name": "severe",
+    "trans": [
+      "严重的； 严厉的； 剧烈的"
+    ],
+    "usphone": "səˈvɪr",
+    "ukphone": "sɪ'vɪə(r)",
+    "e_mean": [
+      "very harsh or strict, especially when dealing with others"
+    ],
+    "speech": "adjective",
+    "sentence": "a severe taskmaster"
+  },
+  {
+    "name": "biased",
+    "trans": [
+      "有偏见的； 片面的"
+    ],
+    "usphone": "'baɪəst",
+    "ukphone": "'baɪəst",
+    "e_mean": [
+      "favoring one person or side over another"
+    ],
+    "speech": "adjective",
+    "sentence": "Our prejudices bias our views."
+  },
+  {
+    "name": "libel",
+    "trans": [
+      "诽谤，中伤；诽谤性文字",
+      "诽谤， 中伤， 诬蔑"
+    ],
+    "usphone": "'laɪbl",
+    "ukphone": "'laɪbl",
+    "e_mean": [
+      "a false and malicious publication"
+    ],
+    "speech": "noun",
+    "sentence": "He libelled her when he published that."
+  },
+  {
+    "name": "regulation",
+    "trans": [
+      "规则/规定/管理.regular有规律的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of bringing to uniformity"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "treaty",
+    "trans": [
+      "条约，协议"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a written agreement between two states or sovereigns"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "protocol",
+    "trans": [
+      "议定书，协议，礼仪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "forms of ceremony and etiquette observed by officials"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "benchmark",
+    "trans": [
+      "基准，水准点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a surveyor's mark on an object of predetermined position"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "suitable",
+    "trans": [
+      "适当的， 相配的； 合适的， 适宜的"
+    ],
+    "usphone": "'sutəbl",
+    "ukphone": "'suːtəbl",
+    "e_mean": [
+      "meant or adapted for an occasion or use"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "jail",
+    "trans": [
+      "n监狱v监禁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "confine",
+    "trans": [
+      "限制，仅限于；管制，"
+    ],
+    "usphone": "kən'faɪn",
+    "ukphone": "kən'faɪn",
+    "e_mean": [
+      "place limits on"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "boycott",
+    "trans": [
+      "抵制，拒绝购买"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "refusal to have commercial dealings with some organization"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mediate",
+    "trans": [
+      "斡旋，调解"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "act between parties with a view to reconciling differences"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "controversy",
+    "trans": [
+      "争论， 辩论， 论战"
+    ],
+    "usphone": "ˈkɑntrəvɝ​sɪ",
+    "ukphone": "'kɒntrəvɜːsi;kən'trɒvəsi",
+    "e_mean": [
+      "a dispute where there is strong disagreement"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "require",
+    "trans": [
+      "需要； 命令； 规定， 要求"
+    ],
+    "usphone": "rɪ'kwaɪr",
+    "ukphone": "rɪ'kwaɪə(r)",
+    "e_mean": [
+      "have need of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "constraint",
+    "trans": [
+      "约束，限制，克制"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the state of being physically limited"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "enact",
+    "trans": [
+      "通过； 扮演"
+    ],
+    "usphone": "ɪ'nækt",
+    "ukphone": "ɪ'nækt",
+    "e_mean": [
+      "order by virtue of superior authority; decree"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "legislate",
+    "trans": [
+      "立法，制定(或通过)法律"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "make laws or bills"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "equity",
+    "trans": [
+      "公平， 公正"
+    ],
+    "usphone": "'ɛkwəti",
+    "ukphone": "'ekwəti",
+    "e_mean": [
+      "the quality of being fair, reasonable, or impartial"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "thief",
+    "trans": [
+      "窃贼，偷窃犯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a criminal who takes property belonging to someone else"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "suicide",
+    "trans": [
+      "自杀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of killing yourself"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "deceive",
+    "trans": [
+      "欺骗， 蒙骗"
+    ],
+    "usphone": "dɪ'siv",
+    "ukphone": "dɪ'siːv",
+    "e_mean": [
+      "cause someone to believe an untruth"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "fraud",
+    "trans": [
+      "诈骗罪； 骗子； 伪劣品， 冒牌货"
+    ],
+    "usphone": "frɔd",
+    "ukphone": "frɔːd",
+    "e_mean": [
+      "intentional deception resulting in injury to another person"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "liar",
+    "trans": [
+      "说谎的人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person who does not tell the truth"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "stigma",
+    "trans": [
+      "耻辱，污名"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a symbol of disgrace or infamy"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "conform",
+    "trans": [
+      "遵守， 服从； 适应， 顺应； 相一致， 相符合"
+    ],
+    "usphone": "kən'fɔrm",
+    "ukphone": "kən'fɔːm",
+    "e_mean": [
+      "be similar, be in line with"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "obey",
+    "trans": [
+      "服从,顺从.obedient服从的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "comply with; do what one is told"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "decapitate",
+    "trans": [
+      "斩首"
+    ],
+    "usphone": "dɪ'kæpɪtet",
+    "ukphone": "dɪ'kæpɪteɪt",
+    "e_mean": [
+      "cut the head off of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "delinquency",
+    "trans": [
+      "失职； 行为不良"
+    ],
+    "usphone": "dɪ'lɪŋkwənsi",
+    "ukphone": "dɪ'lɪŋkwənsi",
+    "e_mean": [
+      "nonpayment of a debt when due"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "captivity",
+    "trans": [
+      "囚禁， 拘留"
+    ],
+    "usphone": "kæp'tɪvəti",
+    "ukphone": "kæp'tɪvəti",
+    "e_mean": [
+      "the state of being imprisoned"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "legislation",
+    "trans": [
+      "法律， 法规； 立法"
+    ],
+    "usphone": ",lɛdʒɪs'leʃən",
+    "ukphone": "ˌledʒɪs'leɪʃn",
+    "e_mean": [
+      "the act of making or enacting laws"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "consignment",
+    "trans": [
+      "交付， 委托； 投递， 发送； 所托运的货物"
+    ],
+    "usphone": "kən'saɪnmənt",
+    "ukphone": "kən'saɪnmənt",
+    "e_mean": [
+      "the delivery of goods for sale or disposal"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "deviance",
+    "trans": [
+      "异常； 偏常行为"
+    ],
+    "usphone": "'divɪəns",
+    "ukphone": "'diːviəns",
+    "e_mean": [
+      "a state or condition markedly different from the norm"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "repatriate",
+    "trans": [
+      "把遣返回国； 归国"
+    ],
+    "usphone": ",ri'petrɪet",
+    "ukphone": "ˌriː'pætrieɪt",
+    "e_mean": [
+      "send someone back to his homeland against his will"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "deterioration",
+    "trans": [
+      "恶化； 堕落"
+    ],
+    "usphone": "dɪ,tɪrɪə'reʃən",
+    "ukphone": "dɪˌtɪərə'reɪʃn",
+    "e_mean": [
+      "the process of changing to an inferior state"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "classification",
+    "trans": [
+      "分类； 级别"
+    ],
+    "usphone": ",klæsɪfɪ'keʃən",
+    "ukphone": "ˌklæsɪfɪ'keɪʃn",
+    "e_mean": [
+      "the basic cognitive process of arranging into categories"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mandarin",
+    "trans": [
+      "橘子； 达官贵人， 官僚； [M-] 普通话"
+    ],
+    "usphone": "'mændərɪn",
+    "ukphone": "'mændərɪn",
+    "e_mean": [
+      "a high public official of imperial China"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "informant",
+    "trans": [
+      "提供消息或情报的人， 线人； 提供资料的人"
+    ],
+    "usphone": "ɪn'fɔrmənt",
+    "ukphone": "ɪn'fɔːmənt",
+    "e_mean": [
+      "a person who supplies facts, knowledge, or news"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "constrain",
+    "trans": [
+      "迫使； 约束"
+    ],
+    "usphone": "kən'stren",
+    "ukphone": "kən'streɪn",
+    "e_mean": [
+      "hold back"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "regent",
+    "trans": [
+      "摄政者"
+    ],
+    "usphone": "'ridʒənt",
+    "ukphone": "'riːdʒənt",
+    "e_mean": [
+      "someone who rules during the absence of the monarch"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "socialise",
+    "trans": [
+      "来往， 交往， 交际； 使适应社会生活"
+    ],
+    "usphone": "'səuʃəlaiz",
+    "ukphone": "'səuʃəlaɪz",
+    "e_mean": [
+      "prepare for social life"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "unbiased",
+    "trans": [
+      "公正的， 没有偏见的"
+    ],
+    "usphone": "ʌn'baɪəst",
+    "ukphone": "ʌn'baɪəst",
+    "e_mean": [
+      "without prejudice"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "brutal",
+    "trans": [
+      "野兽般的， 残忍的； 无情的， 冷酷的"
+    ],
+    "usphone": "'brutl",
+    "ukphone": "'bruːtl",
+    "e_mean": [
+      "resembling a beast; showing lack of human sensibility"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "initiative",
+    "trans": [
+      "倡议， 新方案； 主动性， 积极性； 主动权"
+    ],
+    "usphone": "ɪ'nɪʃətɪv",
+    "ukphone": "ɪ'nɪʃətɪv",
+    "e_mean": [
+      "readiness to embark on bold new ventures"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "deter",
+    "trans": [
+      "威慑， 吓住， 断念"
+    ],
+    "usphone": "dɪ'tɝ",
+    "ukphone": "dɪ'tɜː(r)",
+    "e_mean": [
+      "turn away from as by fear or persuasion"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "penalize",
+    "trans": [
+      "惩罚， 处罚； 判罚； 使处于不利地位"
+    ],
+    "usphone": "'pinəlaɪz",
+    "ukphone": "'piːnəlaɪz",
+    "e_mean": [
+      "inflict punishment on"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "disobey",
+    "trans": [
+      "不服从， 违抗"
+    ],
+    "usphone": "'dɪsə'be",
+    "ukphone": "ˌdɪsə'beɪ",
+    "e_mean": [
+      "refuse to go along with; refuse to follow; be disobedient"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "comply",
+    "trans": [
+      "遵从； 服从"
+    ],
+    "usphone": "kəm'plaɪ",
+    "ukphone": "kəm'plaɪ",
+    "e_mean": [
+      "act in accordance with someone's rules, commands, or wishes"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "detective",
+    "trans": [
+      "侦探的",
+      "侦探"
+    ],
+    "usphone": "dɪ'tɛktɪv",
+    "ukphone": "dɪ'tektɪv",
+    "e_mean": [
+      "a police officer who investigates crimes"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "concession",
+    "trans": [
+      "让步， 迁就； 特许权； 承认， 认可"
+    ],
+    "usphone": "kən'sɛʃən",
+    "ukphone": "kən'seʃn",
+    "e_mean": [
+      "the act of yielding"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "intervention",
+    "trans": [
+      "干涉， 干预， 介入"
+    ],
+    "usphone": ",ɪntɚ'vɛnʃən",
+    "ukphone": "ˌɪntə'venʃn",
+    "e_mean": [
+      "the act of interposing one thing between or among others"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "commitment",
+    "trans": [
+      "委托； 许诺； 承担义务"
+    ],
+    "usphone": "kə'mɪtmənt",
+    "ukphone": "kə'mɪtmənt",
+    "e_mean": [
+      "the act of binding yourself to a course of action"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "embezzlement",
+    "trans": [
+      "贪污， 盗用"
+    ],
+    "usphone": "ɪm'bɛzlmənt",
+    "ukphone": "ɪm'bezlmənt",
+    "e_mean": [
+      "the fraudulent appropriation of funds or property"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "removal",
+    "trans": [
+      "除去； 免职； 搬迁"
+    ],
+    "usphone": "rɪ'muvl",
+    "ukphone": "rɪ'muːvl",
+    "e_mean": [
+      "the act of taking out or causing to leave"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "elicitation",
+    "trans": [
+      "引出， 诱出"
+    ],
+    "usphone": "ɪ,lɪsə'teʃən",
+    "ukphone": "ɪˌlɪsɪ'teɪʃn",
+    "e_mean": [
+      "stimulation that calls up a particular class of behaviors"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "disastrous",
+    "trans": [
+      "损失惨重的， 灾难性的； 极坏的"
+    ],
+    "usphone": "dɪ'zæstrəs",
+    "ukphone": "dɪ'zɑːstrəs",
+    "e_mean": [
+      "having extremely unfortunate or dire consequences"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "barge",
+    "trans": [
+      "猛撞； 闯",
+      "驳船"
+    ],
+    "usphone": "bɑrdʒ",
+    "ukphone": "bɑːdʒ",
+    "e_mean": [
+      "a flatbottom boat for carrying heavy loads"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "notoriety",
+    "trans": [
+      "声名狼藉， 臭名昭著"
+    ],
+    "usphone": ",notə'raɪəti",
+    "ukphone": "ˌnəutə'raɪəti",
+    "e_mean": [
+      "the state of being known for some unfavorable act or quality"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "solution",
+    "trans": [
+      "解答， 解决办法； 溶解， 溶液"
+    ],
+    "usphone": "sə'luʃən",
+    "ukphone": "sə'luːʃn",
+    "e_mean": [
+      "a homogeneous mixture of two or more substances"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "inference",
+    "trans": [
+      "推论； 推断"
+    ],
+    "usphone": "'ɪnfərəns",
+    "ukphone": "'ɪnfərəns",
+    "e_mean": [
+      "a conclusion you can draw based on known evidence"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "coordinator",
+    "trans": [
+      "协调者"
+    ],
+    "usphone": "ko'ɔrdn,etɚ",
+    "ukphone": "kəu'ɔːdɪneɪtə(r)",
+    "e_mean": [
+      "someone whose task is to see that work goes harmoniously"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "absurd",
+    "trans": [
+      "荒谬的， 荒唐的"
+    ],
+    "usphone": "əbˈsɝ​d",
+    "ukphone": "əb'sɜːd",
+    "e_mean": [
+      "inconsistent with reason or logic or common sense"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "imprecise",
+    "trans": [
+      "不精确的， 不严密的"
+    ],
+    "usphone": "'ɪmprɪ'saɪs",
+    "ukphone": "ˌɪmprɪ'saɪs",
+    "e_mean": [
+      "not sharply exact or accurate "
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "formulate",
+    "trans": [
+      "系统阐述， 明确表达； 构想出， 规划"
+    ],
+    "usphone": "'fɔrmjə'let",
+    "ukphone": "'fɔːmjʊleɪt",
+    "e_mean": [
+      "prepare according to instructions"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "endorse",
+    "trans": [
+      "支持， 赞同"
+    ],
+    "usphone": "ɪn'dɔrs",
+    "ukphone": "ɪn'dɔːs",
+    "e_mean": [
+      "approve of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "enrolment",
+    "trans": [
+      "登记， 注册； 入学， 入伍； 登记簿， 名册"
+    ],
+    "usphone": "ɪn'rolmənt",
+    "ukphone": "ɪn'rəulmənt",
+    "e_mean": [
+      "the act of enrolling"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "arrogance",
+    "trans": [
+      "傲慢， 自大"
+    ],
+    "usphone": "'ærəgəns",
+    "ukphone": "'ærəgəns",
+    "e_mean": [
+      "overbearing pride evidenced by a superior manner"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "restriction",
+    "trans": [
+      "限制， 约束"
+    ],
+    "usphone": "rɪ'strɪkʃən",
+    "ukphone": "rɪ'strɪkʃn",
+    "e_mean": [
+      "an act of limiting"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "indication",
+    "trans": [
+      "指示， 象征"
+    ],
+    "usphone": ",ɪndɪ'keʃən",
+    "ukphone": "ˌɪndɪ'keɪʃn",
+    "e_mean": [
+      "the act of pointing out by name"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "inescapable",
+    "trans": [
+      "不可逃避的； 难免的"
+    ],
+    "usphone": "'ɪnə'skepəbl",
+    "ukphone": "ˌɪnɪ'skeɪpəbl",
+    "e_mean": [
+      "impossible to avoid or evade"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "cavort",
+    "trans": [
+      "欢跃， 跳跃； 嬉戏"
+    ],
+    "usphone": "",
+    "ukphone": "kə'vɔːt",
+    "e_mean": [
+      "play boisterously"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "condone",
+    "trans": [
+      "宽恕， 赦免； 纵容， 容忍"
+    ],
+    "usphone": "kən'don",
+    "ukphone": "kən'dəun",
+    "e_mean": [
+      "excuse, overlook, or make allowances for"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "fulfillment",
+    "trans": [
+      "履行； 实现"
+    ],
+    "usphone": "fʊl'fɪlmənt",
+    "ukphone": "ful'fɪlmənt",
+    "e_mean": [
+      "the act of consummating something, as a desire or promise"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "unexpected",
+    "trans": [
+      "想不到的， 意外的"
+    ],
+    "usphone": "'ʌnɪk'spɛktɪd",
+    "ukphone": "ˌʌnɪk'spektɪd",
+    "e_mean": [
+      "not anticipated or planned for"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "unveil",
+    "trans": [
+      "揭去面纱或覆盖物； 揭幕； 首次公开、 揭露或展示"
+    ],
+    "usphone": ",ʌn'vel",
+    "ukphone": "ˌʌn'veɪl",
+    "e_mean": [
+      "make visible"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "intrigue",
+    "trans": [
+      "密谋，施诡计；引起极大兴趣，迷住['ɪntrɪːg]",
+      "阴谋， 诡计； 密谋"
+    ],
+    "usphone": "'ɪn'triɡ",
+    "ukphone": "ɪn'trɪːg",
+    "e_mean": [
+      "a crafty and involved plot to achieve your ends"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "obscene",
+    "trans": [
+      "淫秽的， 猥亵的， 下流的； 可憎的， 可恶的； 大得惊人的， 骇人听闻的"
+    ],
+    "usphone": "əb'sin",
+    "ukphone": "əb'siːn",
+    "e_mean": [
+      "offensive to the mind"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "complexity",
+    "trans": [
+      "复杂， 复杂性； 复杂的事物"
+    ],
+    "usphone": "kəm'plɛksəti",
+    "ukphone": "kəm'pleksəti",
+    "e_mean": [
+      "the quality of being intricate and compounded"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "liaise",
+    "trans": [
+      "做联络人； 联络， 联系"
+    ],
+    "usphone": "lɪ'ez",
+    "ukphone": "li'eɪz",
+    "e_mean": [
+      "act between parties with a view to reconciling differences"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "circumscribe",
+    "trans": [
+      "在…周围画线； 限制"
+    ],
+    "usphone": ",sɝkəm'sraɪb",
+    "ukphone": "'sɜːkəmskraɪb",
+    "e_mean": [
+      "draw a geometric figure around another figure"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "assessment",
+    "trans": [
+      "判定， 评定； 核定的付款额； 看法， 评价"
+    ],
+    "usphone": "ə'sɛsmənt",
+    "ukphone": "ə'sesmənt",
+    "e_mean": [
+      "the act of judging a person or situation or event"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "defendant",
+    "trans": [
+      "处于被告地位的； 为自己辩护的",
+      "被告"
+    ],
+    "usphone": "dɪ'fɛndənt",
+    "ukphone": "dɪ'fendənt",
+    "e_mean": [
+      "someone against whom an action is brought in a court of law"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "legitimize",
+    "trans": [
+      "使合法； 赋予合法权利"
+    ],
+    "usphone": "lɪ'dʒɪtəmaɪz",
+    "ukphone": "lɪ'dʒɪtəmaɪz",
+    "e_mean": [
+      "sanction or make legal"
+    ],
+    "speech": "verb"
+  }
+]

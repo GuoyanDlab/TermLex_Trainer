@@ -1,0 +1,6351 @@
+[
+  {
+    "name": "calculus",
+    "trans": [
+      "n. 微积分"
+    ],
+    "usphone": "'kælkjʊl(ə)s",
+    "ukphone": "'kælkjʊl(ə)s",
+    "e_mean": [
+      "mathematics involving derivatives and integrals of function"
+    ],
+    "speech": "noun",
+    "sentence": "lambda calculus"
+  },
+  {
+    "name": "plus",
+    "trans": [
+      "n. 加号；正号",
+      "adj. 正的；额外的"
+    ],
+    "usphone": "plʌs",
+    "ukphone": "plʌs",
+    "e_mean": [
+      "on the positive side or higher end of a scale"
+    ],
+    "speech": "adjective",
+    "sentence": "He is a real plus to the team."
+  },
+  {
+    "name": "sum",
+    "trans": [
+      "n. 总数；和",
+      "v. 合计；总计"
+    ],
+    "usphone": "sʌm",
+    "ukphone": "sʌm",
+    "e_mean": [
+      "a quantity obtained by the addition of a group of numbers"
+    ],
+    "speech": "noun",
+    "sentence": "The sum of 3 and 4 is 7."
+  },
+  {
+    "name": "total",
+    "trans": [
+      "adj. 总的；完全的",
+      "n. 总数；总额",
+      "v. 合计；总计"
+    ],
+    "usphone": "'toʊt(ə)l",
+    "ukphone": "'təʊt(ə)l",
+    "e_mean": [
+      "the whole amount"
+    ],
+    "speech": "noun",
+    "sentence": "A total of £145 was raised by the bring-and-buy stall."
+  },
+  {
+    "name": "merger",
+    "trans": [
+      "n. 合并；并购"
+    ],
+    "usphone": "'mərdʒ(ə)r",
+    "ukphone": "'məːdʒ(ə)r",
+    "e_mean": [
+      "an occurrence that involves the production of a union"
+    ],
+    "speech": "noun",
+    "sentence": "Club mergers reduced the number of teams by half"
+  },
+  {
+    "name": "equation",
+    "trans": [
+      "n. 方程；等式"
+    ],
+    "usphone": "ˌiːkwə'zeɪʃ(ə)n",
+    "ukphone": "ˌiːkwə'zeɪʃ(ə)n",
+    "e_mean": [
+      "a mathematical statement that two expressions are the same"
+    ],
+    "speech": "noun",
+    "sentence": "We need to bring the balance of power into equation"
+  },
+  {
+    "name": "minus",
+    "trans": [
+      "n. 减号",
+      "prep. 减去"
+    ],
+    "usphone": "'maɪn(ə)s",
+    "ukphone": "'maɪn(ə)s",
+    "e_mean": [
+      "on the negative side or lower end of a scale"
+    ],
+    "speech": "adjective",
+    "sentence": "a minus number"
+  },
+  {
+    "name": "subtract",
+    "trans": [
+      "v. 减去；减掉"
+    ],
+    "usphone": "səb'trækt",
+    "ukphone": "sʌb'trækt",
+    "e_mean": [
+      "deduct; calculate the difference between two numbers"
+    ],
+    "speech": "verb",
+    "sentence": "If you subtract the $100 for gas from the total cost, it was a fairly inexpensive trip."
+  },
+  {
+    "name": "multiply",
+    "trans": [
+      "v. 乘；使增多"
+    ],
+    "usphone": "'mʌltəplaɪ",
+    "ukphone": "'mʌltɪplaɪ",
+    "e_mean": [
+      "combine by adding the same number repeatedly"
+    ],
+    "speech": "verb",
+    "sentence": "when you multiply 3 by 7, you get 21; he multiplied several numbers"
+  },
+  {
+    "name": "divide",
+    "trans": [
+      "v. 划分；分割；除"
+    ],
+    "usphone": "dɪ'vaɪd",
+    "ukphone": "dɪ'vaɪd",
+    "e_mean": [
+      "a serious disagreement between two groups of people"
+    ],
+    "speech": "noun",
+    "sentence": "Stay on your side of the divide, please."
+  },
+  {
+    "name": "remainder",
+    "trans": [
+      "n. 剩余物；余数"
+    ],
+    "usphone": "rɪ'meɪnd(ə)r",
+    "ukphone": "rɪ'meɪnd(ə)r",
+    "e_mean": [
+      "something left after other parts have been taken away"
+    ],
+    "speech": "noun",
+    "sentence": "My son ate part of his cake and I ate the remainder."
+  },
+  {
+    "name": "rational",
+    "trans": [
+      "adj. 理性的；有道理的"
+    ],
+    "usphone": "'ræʃ(ə)n(ə)l",
+    "ukphone": "'ræʃ(ə)n(ə)l",
+    "e_mean": [
+      "consistent with or based on or using reason"
+    ],
+    "speech": "adjective",
+    "sentence": "The quotient of two rationals is again a rational."
+  },
+  {
+    "name": "parameter",
+    "trans": [
+      "n. 参数；限制条件"
+    ],
+    "usphone": "pær'æm(ə)t(ə)r",
+    "ukphone": "pær'æm(ə)t(ə)r",
+    "e_mean": [
+      "a constant in the equation of a curve that can be varied"
+    ],
+    "speech": "noun",
+    "sentence": "Roughly, a tuple of arguments could be thought of as a vector, whereas a tuple of parameters could be thought of as a covector (i.e., linear functional). When a function is called, a parameter tuple becomes \"bound\" to an argument tuple, allowing the function instance itself to be computed to yield a return value. This would be roughly analogous to applying a covector to a vector (by taking their dot product (or, rather, matrix-product of row vector and column vector)) to obtain a scalar."
+  },
+  {
+    "name": "variable",
+    "trans": [
+      "n. 变量；可变的事物, 可变性，可变因素；",
+      "adj. 可变的；不稳定的,易变的，多变的；时好时坏的；可变的，可调节的；"
+    ],
+    "usphone": "'vɛriəbl",
+    "ukphone": "ˈveəriəb(ə)l",
+    "e_mean": [
+      "something that is likely to change"
+    ],
+    "speech": "noun",
+    "sentence": "There are several variables to consider here."
+  },
+  {
+    "name": "even",
+    "trans": [
+      "adj. 平的；均匀的",
+      "n. 平坦；平地",
+      "v. 使...平坦"
+    ],
+    "usphone": "ˈiːv(ə)n",
+    "ukphone": "ˈiːv(ə)n",
+    "e_mean": [
+      "being level or straight or regular and without variation"
+    ],
+    "speech": "adjective",
+    "sentence": "So let's see. There are two evens here and three odds."
+  },
+  {
+    "name": "odd",
+    "trans": [
+      "adj. 奇怪的；古怪的",
+      "n. 奇数；单号"
+    ],
+    "usphone": "ɒd",
+    "ukphone": "ɒd",
+    "e_mean": [
+      "not divisible by two"
+    ],
+    "speech": "adjective",
+    "sentence": "So let's see. There are two evens here and three odds."
+  },
+  {
+    "name": "hollow",
+    "trans": [
+      "adj. 空的；中空的",
+      "n. 空隙；凹处"
+    ],
+    "usphone": "'hɒl(o)",
+    "ukphone": "'hɒl(əʊ)",
+    "e_mean": [
+      "not solid; having a space or gap or cavity"
+    ],
+    "speech": "adjective",
+    "sentence": "He built himself a cabin in a hollow high up in the Rockies."
+  },
+  {
+    "name": "manual",
+    "trans": [
+      "n. 手册；操作手册；人工"
+    ],
+    "usphone": "ˈmænjuːl",
+    "ukphone": "ˈmænjʊəl",
+    "e_mean": [
+      "of or relating to the hands"
+    ],
+    "speech": "adjective",
+    "sentence": "The dishwasher isn't working; can you remember where we put the manual?"
+  },
+  {
+    "name": "list",
+    "trans": [
+      "n. 名单，表；清单",
+      "v. 列出；把...列入名单；使...感到憎恶"
+    ],
+    "usphone": "lɪst",
+    "ukphone": "lɪst",
+    "e_mean": [
+      "a database containing an ordered array of items"
+    ],
+    "speech": "noun",
+    "sentence": "to list a door"
+  },
+  {
+    "name": "chapter",
+    "trans": [
+      "n. 章；一段；一节"
+    ],
+    "usphone": "'tʃæptər",
+    "ukphone": "'tʃæptə",
+    "e_mean": [
+      "a subdivision of a written work; usually numbered and titled"
+    ],
+    "speech": "noun",
+    "sentence": "Detective novel writers try to keep up the suspense until the last chapter."
+  },
+  {
+    "name": "volume",
+    "trans": [
+      "n. 卷；容积；音量",
+      "v. 增加...的体积"
+    ],
+    "usphone": "'vɑːljum",
+    "ukphone": "'vɒljum",
+    "e_mean": [
+      "the property of something that is great in magnitude"
+    ],
+    "speech": "noun",
+    "sentence": "The room is 9x12x8, so its volume is 864 cubic feet."
+  },
+  {
+    "name": "subject",
+    "trans": [
+      "n. 主题；学科；受...支配的人；臣民",
+      "adj. 受...支配的；有关的"
+    ],
+    "usphone": "'sʌbdʒɪkt",
+    "ukphone": "'sʌbdʒɪkt",
+    "e_mean": [
+      "some situation or event that is thought about"
+    ],
+    "speech": "noun",
+    "sentence": "He's subject to sneezing fits."
+  },
+  {
+    "name": "object",
+    "trans": [
+      "n. 物体；目标；宾语",
+      "v. 反对；反抗"
+    ],
+    "usphone": "'ɑːbdʒɪkt",
+    "ukphone": "'ɒbdʒɪkt",
+    "e_mean": [
+      "a tangible and visible entity"
+    ],
+    "speech": "noun",
+    "sentence": "Mary Jane had been the object of Peter's affection for years."
+  },
+  {
+    "name": "minor",
+    "trans": [
+      "adj. 较小的；次要的；未成年的",
+      "n. 次要课程；轻伤；小调"
+    ],
+    "usphone": "'maɪnər",
+    "ukphone": "'maɪnə",
+    "e_mean": [
+      "inferior in number or size or amount"
+    ],
+    "speech": "adjective",
+    "sentence": "It is illegal to sell weapons to minors under the age of eighteen."
+  },
+  {
+    "name": "politics",
+    "trans": [
+      "n. 政治；政策；政治学"
+    ],
+    "usphone": "'pɑːlətɪks",
+    "ukphone": "'pɒlətɪks",
+    "e_mean": [
+      "the activities involved in managing a state or a government"
+    ],
+    "speech": "noun",
+    "sentence": "He made a career out of politics."
+  },
+  {
+    "name": "mean",
+    "trans": [
+      "adj. 吝啬的；卑鄙的；低劣的",
+      "v. 意思是；意图是；打算",
+      "n. 平均数；中间值"
+    ],
+    "usphone": "min",
+    "ukphone": "miːn",
+    "e_mean": [
+      "denote or connote"
+    ],
+    "speech": "verb",
+    "sentence": "Does she really mean what she said to him last night?"
+  },
+  {
+    "name": "double",
+    "trans": [
+      "adj. 两倍的；双的；复杂的",
+      "v. 使加倍；使成双；使复制",
+      "n. 两倍；双；对；倍数"
+    ],
+    "usphone": "'dʌb(ə)l",
+    "ukphone": "'dʌb(ə)l",
+    "e_mean": [
+      "consisting of or involving two parts or components usually in pairs"
+    ],
+    "speech": "adjective",
+    "sentence": "Saddam Hussein was rumored to have many doubles."
+  },
+  {
+    "name": "triple",
+    "trans": [
+      "adj. 三倍的；三重的",
+      "v. 使成三倍；使三重",
+      "n. 三倍；三重"
+    ],
+    "usphone": "'trɪp(ə)l",
+    "ukphone": "'trɪp(ə)l",
+    "e_mean": [
+      "having three units or components or elements"
+    ],
+    "speech": "adjective",
+    "sentence": "I've had a hard day; make that a triple."
+  },
+  {
+    "name": "quadruple",
+    "trans": [
+      "adj. 四倍的；四重的",
+      "v. 使成四倍；使四重",
+      "n. 四倍；四重"
+    ],
+    "usphone": "kwɔː'druːp(ə)l",
+    "ukphone": "kwɒ'druːp(ə)l",
+    "e_mean": [
+      "having four units or components"
+    ],
+    "speech": "adjective",
+    "sentence": "Quadrupling four gives sixteen."
+  },
+  {
+    "name": "multiple",
+    "trans": [
+      "adj. 多样的；多重的；多倍的",
+      "n. 倍数；多个"
+    ],
+    "usphone": "'mʌltɪp(ə)l",
+    "ukphone": "'mʌltɪp(ə)l",
+    "e_mean": [
+      "having or involving more than one part or entity"
+    ],
+    "speech": "adjective",
+    "sentence": "14, 21 and 70 are multiples of 7"
+  },
+  {
+    "name": "approximately",
+    "trans": [
+      "adv. 大约；近似地"
+    ],
+    "usphone": "əːproksə'meɪtli",
+    "ukphone": "əːprɒksɪ'meɪtli",
+    "e_mean": [
+      "imprecise but fairly close to correct"
+    ],
+    "speech": "adverb",
+    "sentence": "...approximately 60 beats per minute."
+  },
+  {
+    "name": "chart",
+    "trans": [
+      "n. 图表；海图；航海图",
+      "v. 绘制图表；制定计划"
+    ],
+    "usphone": "tʃɑːrt",
+    "ukphone": "tʃɑːt",
+    "e_mean": [
+      "a visual display of data or information"
+    ],
+    "speech": "noun",
+    "sentence": "Let's chart how we're going to get from here to there."
+  },
+  {
+    "name": "senior",
+    "trans": [
+      "adj. 较年长的；地位较高的",
+      "n. 高年级的；年长的人"
+    ],
+    "usphone": "ˈsiːni.ər",
+    "ukphone": "ˈsiːni.ər",
+    "e_mean": [
+      "advanced in years"
+    ],
+    "speech": "adjective",
+    "sentence": "He was four years her senior."
+  },
+  {
+    "name": "platform",
+    "trans": [
+      "n. 平台；站台；(政党的) 纲领"
+    ],
+    "usphone": "ˈplæt.fɔːrm",
+    "ukphone": "ˈplæt.fɔːrm",
+    "e_mean": [
+      "a raised horizontal surface"
+    ],
+    "speech": "noun",
+    "sentence": "This new talk show will give a platform to everyday men and women."
+  },
+  {
+    "name": "dorm",
+    "trans": [
+      "n. (美) 宿舍"
+    ],
+    "usphone": "dɔːrm",
+    "ukphone": "dɔːrm",
+    "e_mean": [
+      "a building containing living quarters for students"
+    ],
+    "speech": "noun",
+    "sentence": "I haven't seen Emily since I dormed with her in our student days."
+  },
+  {
+    "name": "quality",
+    "trans": [
+      "n. 品质；质量；性质"
+    ],
+    "usphone": "ˈkwɒl.ə.ti",
+    "ukphone": "ˈkwɒl.ɪ.ti",
+    "e_mean": [
+      "an essential and distinguishing attribute of something"
+    ],
+    "speech": "noun",
+    "sentence": "Quality of life is usually determined by health, education, and income."
+  },
+  {
+    "name": "quantity",
+    "trans": [
+      "n. 数量；定量"
+    ],
+    "usphone": "ˈkwɒn.tɪ.ti",
+    "ukphone": "ˈkwɒn.tɪ.ti",
+    "e_mean": [
+      "how much there is or how many there are of something"
+    ],
+    "speech": "noun",
+    "sentence": "You have to choose between quantity and quality."
+  },
+  {
+    "name": "accounting",
+    "trans": [
+      "n. 会计；记账；会计记录"
+    ],
+    "usphone": "əˈkaʊn.tɪŋ",
+    "ukphone": "əˈkaʊn.tɪŋ",
+    "e_mean": [
+      "a system that gives quantitative information about finances"
+    ],
+    "speech": "noun",
+    "sentence": "He was required to give a thorough accounting of his time."
+  },
+  {
+    "name": "audit",
+    "trans": [
+      "n. 审计；核对",
+      "v. 审计；核对"
+    ],
+    "usphone": "ˈɔːd.ɪt",
+    "ukphone": "ˈɔːd.ɪt",
+    "e_mean": [
+      "examine carefully for accuracy"
+    ],
+    "speech": "verb",
+    "sentence": "National Assembly audit"
+  },
+  {
+    "name": "statistics",
+    "trans": [
+      "n. 统计；统计学；数据"
+    ],
+    "usphone": "stəˈtɪst.ɪks",
+    "ukphone": "stəˈtɪst.ɪks",
+    "e_mean": [
+      "a branch of mathematics concerned with quantitative data"
+    ],
+    "speech": "noun",
+    "sentence": "Statistics is the only mathematical field required for many social sciences."
+  },
+  {
+    "name": "philosophy",
+    "trans": [
+      "n. 哲学；人生观；哲理"
+    ],
+    "usphone": "fəˈlɒs.ə.fi",
+    "ukphone": "fəˈlɒs.ə.fi",
+    "e_mean": [
+      "the rational investigation of existence and knowledge"
+    ],
+    "speech": "noun",
+    "sentence": "Philosophy is often divided into five major branches: logic, metaphysics, epistemology, ethics and aesthetics."
+  },
+  {
+    "name": "logic",
+    "trans": [
+      "n. 逻辑；推理；逻辑性"
+    ],
+    "usphone": "ˈlɒdʒ.ɪk",
+    "ukphone": "ˈlɒdʒ.ɪk",
+    "e_mean": [
+      "the branch of philosophy that analyzes inference"
+    ],
+    "speech": "noun",
+    "sentence": "It's hard to work out his system of logic."
+  },
+  {
+    "name": "biology",
+    "trans": [
+      "n. 生物学；生命科学"
+    ],
+    "usphone": "baɪˈɒl.ə.dʒi",
+    "ukphone": "baɪˈɒl.ə.dʒi",
+    "e_mean": [
+      "the science that studies living organisms"
+    ],
+    "speech": "noun",
+    "sentence": "the biology of the whale"
+  },
+  {
+    "name": "physics",
+    "trans": [
+      "n. 物理学；物质的本质"
+    ],
+    "usphone": "ˈfɪz.iks",
+    "ukphone": "ˈfɪz.iks",
+    "e_mean": [
+      "the science of matter and energy and their interactions"
+    ],
+    "speech": "noun",
+    "sentence": "Newtonian physics was extended by Einstein to explain the effects of travelling near the speed of light; quantum physics extends it to account for the behaviour of atoms."
+  },
+  {
+    "name": "history",
+    "trans": [
+      "n. 历史；历史学"
+    ],
+    "usphone": "ˈhɪs.tri",
+    "ukphone": "ˈhɪs.tri",
+    "e_mean": [
+      "a record or narrative description of past events"
+    ],
+    "speech": "noun",
+    "sentence": "History repeats itself if we don’t learn from its mistakes."
+  },
+  {
+    "name": "mechanics",
+    "trans": [
+      "n. 机械学；力学；机械装置"
+    ],
+    "usphone": "məˈkæn.ɪks",
+    "ukphone": "məˈkæn.ɪks",
+    "e_mean": [
+      "the branch of physics concerned with the motion of bodies"
+    ],
+    "speech": "noun",
+    "sentence": "the mechanics of a board game"
+  },
+  {
+    "name": "arithmetic",
+    "trans": [
+      "n. 算术，计算"
+    ],
+    "usphone": "ˌærɪˈθmɛtɪk",
+    "ukphone": "ˌærɪˈθmɛtɪk",
+    "e_mean": [
+      "mathematics dealing with numerical calculations"
+    ],
+    "speech": "noun",
+    "sentence": "arithmetic geometry"
+  },
+  {
+    "name": "credit",
+    "trans": [
+      "n. 信用，信任",
+      "v. 给予...信用，归功于"
+    ],
+    "usphone": "'krɛdɪt",
+    "ukphone": "'krɛdɪt",
+    "e_mean": [
+      "an estimate of ability to fulfill financial commitments"
+    ],
+    "speech": "noun",
+    "sentence": "He arrived five minutes late, but to his credit he did work an extra ten minutes at the end of his shift."
+  },
+  {
+    "name": "row",
+    "trans": [
+      "n. 一排，一行",
+      "v. 划船，划桨"
+    ],
+    "usphone": "roʊ",
+    "ukphone": "raʊ",
+    "e_mean": [
+      "an arrangement of objects or people side by side in a line"
+    ],
+    "speech": "noun",
+    "sentence": "I went for an early-morning row."
+  },
+  {
+    "name": "appreciate",
+    "trans": [
+      "v. 感激，感谢",
+      "adj. 受到高度评价的"
+    ],
+    "usphone": "ə'priːʃieɪt",
+    "ukphone": "ə'priːʃieɪt",
+    "e_mean": [
+      "be fully aware of; realize fully"
+    ],
+    "speech": "verb",
+    "sentence": "I appreciate your efforts"
+  },
+  {
+    "name": "feedback",
+    "trans": [
+      "n. 反馈，回复"
+    ],
+    "usphone": "'fiːdbæk",
+    "ukphone": "'fiːdbæk",
+    "e_mean": [
+      "the process in which output of a system is returned to input"
+    ],
+    "speech": "noun",
+    "sentence": "After you hand in your essays, I will give both grades and feedback."
+  },
+  {
+    "name": "overestimate",
+    "trans": [
+      "v. 高估，高看"
+    ],
+    "usphone": "ˌoʊvərˈestɪmeɪt",
+    "ukphone": "ˌoʊvərˈestɪmeɪt",
+    "e_mean": [
+      "make too high an approximation of"
+    ],
+    "speech": "verb",
+    "sentence": "I overestimated the number of attendees, and bought far too much food for the party."
+  },
+  {
+    "name": "apply",
+    "trans": [
+      "v. 应用，使用",
+      "n. 申请，请求"
+    ],
+    "usphone": "ə'plaɪ",
+    "ukphone": "ə'plaɪ",
+    "e_mean": [
+      "employ for a particular purpose"
+    ],
+    "speech": "verb",
+    "sentence": "to apply cream to a rash"
+  },
+  {
+    "name": "fellowship",
+    "trans": [
+      "n. 奖学金，会员资格"
+    ],
+    "usphone": "'felʃɪp",
+    "ukphone": "'felʃɪp",
+    "e_mean": [
+      "the state of being with someone"
+    ],
+    "speech": "noun",
+    "sentence": "The Fellowship of the Ring"
+  },
+  {
+    "name": "reward",
+    "trans": [
+      "n. 奖赏，酬劳",
+      "v. 奖赏，酬劳"
+    ],
+    "usphone": "rɪ'wɔːrd",
+    "ukphone": "rɪ'wɔːd",
+    "e_mean": [
+      "compensation for worthy acts or retribution for wrongdoing"
+    ],
+    "speech": "noun",
+    "sentence": "For catching the thief, you'll get a nice reward."
+  },
+  {
+    "name": "award",
+    "trans": [
+      "n. 奖，奖项",
+      "v. 授予，判定"
+    ],
+    "usphone": "ə'wɔːrd",
+    "ukphone": "ə'wɔːd",
+    "e_mean": [
+      "give, especially as an honor"
+    ],
+    "speech": "verb",
+    "sentence": "the arbitrators awarded damages to the complainant"
+  },
+  {
+    "name": "prize",
+    "trans": [
+      "n. 奖，奖品",
+      "v. 珍视，珍惜"
+    ],
+    "usphone": "praɪz",
+    "ukphone": "praɪz",
+    "e_mean": [
+      "something given for victory or superiority in a contest or competition or for winning a lottery"
+    ],
+    "speech": "noun",
+    "sentence": "a prize vegetable"
+  },
+  {
+    "name": "romance",
+    "trans": [
+      "n. 浪漫，罗曼史",
+      "v. 进行浪漫关系"
+    ],
+    "usphone": "rəʊ'mæns",
+    "ukphone": "rəʊ'mæns",
+    "e_mean": [
+      "a relationship between two lovers"
+    ],
+    "speech": "noun",
+    "sentence": "His life was a romance."
+  },
+  {
+    "name": "ambitious",
+    "trans": [
+      "adj. 有雄心的，有抱负的"
+    ],
+    "usphone": "æm'bɪʃəs",
+    "ukphone": "æm'bɪʃəs",
+    "e_mean": [
+      "having a strong desire for success or achievement"
+    ],
+    "speech": "adjective",
+    "sentence": "an ambitious person"
+  },
+  {
+    "name": "shorthand",
+    "trans": [
+      "n. 速记，简略写法"
+    ],
+    "usphone": "'ʃɔːrthænd",
+    "ukphone": "'ʃɔːrtænd",
+    "e_mean": [
+      "a method of writing rapidly"
+    ],
+    "speech": "noun",
+    "sentence": "The jargon becomes a shorthand for these advanced concepts."
+  },
+  {
+    "name": "twofold",
+    "trans": [
+      "adj. 两倍的，双重的"
+    ],
+    "usphone": "'tuːfoʊld",
+    "ukphone": "'tuːfəʊld",
+    "e_mean": [
+      "by a factor of two"
+    ],
+    "speech": "adverb",
+    "sentence": "The wheat produced a twofold harvest."
+  },
+  {
+    "name": "cluster",
+    "trans": [
+      "n. 丛，群",
+      "v. 聚集，挤在一起"
+    ],
+    "usphone": "'klʌstər",
+    "ukphone": "'klʌstə",
+    "e_mean": [
+      "a grouping of a number of similar things"
+    ],
+    "speech": "noun",
+    "sentence": "A cluster of flowers grew in the pot."
+  },
+  {
+    "name": "merge",
+    "trans": [
+      "v. 合并，合并成一体",
+      "n. 合并，合并成一体"
+    ],
+    "usphone": "mərdʒ",
+    "ukphone": "məːdʒ",
+    "e_mean": [
+      "mix together different elements"
+    ],
+    "speech": "verb",
+    "sentence": "The merge of the two documents failed."
+  },
+  {
+    "name": "jumble",
+    "trans": [
+      "v. 使混乱，使混杂",
+      "n. 混乱，混杂"
+    ],
+    "usphone": "'dʒʌmbl",
+    "ukphone": "'dʒʌmbl",
+    "e_mean": [
+      "assemble without order or sense"
+    ],
+    "speech": "verb",
+    "sentence": "I tried to study, but in my half-awake state, all of the concepts seemed to jumble together."
+  },
+  {
+    "name": "education",
+    "trans": [
+      "n. 教育，培训"
+    ],
+    "usphone": "ˌɛdʒuˈkeɪʃ(ə)n",
+    "ukphone": "ˌɛdʒuːˈkeɪʃ(ə)n",
+    "e_mean": [
+      "activities that impart knowledge or skill"
+    ],
+    "speech": "noun",
+    "sentence": "2016-06-17 AROP JOSEPH \"Education is the slight hammer that breaks the yoke of ignorance, and moulds knowledge, skills, ideas, good moral values in a person be it a child, a youth or full grown adult. no matter a persons age learning never stops\"."
+  },
+  {
+    "name": "primary",
+    "trans": [
+      "adj. 初等的，基本的；",
+      "n. 小学"
+    ],
+    "usphone": "ˈpraɪm(ə)ri",
+    "ukphone": "ˈpraɪm(ə)ri",
+    "e_mean": [
+      "of first rank or importance or value"
+    ],
+    "speech": "adjective",
+    "sentence": "most common primaries"
+  },
+  {
+    "name": "secondary",
+    "trans": [
+      "adj. 次要的，次级的；",
+      "n. 中学"
+    ],
+    "usphone": "ˈsɛk(ə)nd(ə)ri",
+    "ukphone": "ˈsɛk(ə)nd(ə)ri",
+    "e_mean": [
+      "being of second rank or importance or value"
+    ],
+    "speech": "adjective",
+    "sentence": "the secondary, or undersheriff, of the city of London"
+  },
+  {
+    "name": "university",
+    "trans": [
+      "n. 大学，综合性大学；大学校舍"
+    ],
+    "usphone": "ˌjuːnɪˈvɜːrsəti",
+    "ukphone": "ˌjuːnɪˈvɜːsəti",
+    "e_mean": [
+      "an institution of higher learning that grants degrees"
+    ],
+    "speech": "noun",
+    "sentence": "The only reason why I haven't gone to university is because I can't afford it."
+  },
+  {
+    "name": "college",
+    "trans": [
+      "n. 大学，专科学校；学院，分院；公学；学会，社团；学院的全体师生"
+    ],
+    "usphone": "ˈkɑːlɪdʒ",
+    "ukphone": "ˈkɒlɪdʒ",
+    "e_mean": [
+      "an institution of higher education"
+    ],
+    "speech": "noun",
+    "sentence": "College of Cardinals, College of Surgeons"
+  },
+  {
+    "name": "institute",
+    "trans": [
+      "n. 研究所，学院，协会；（尤指与法律相关的）注释，论述",
+      "v. 制定（制度、规则等）；提出（诉讼）；任命，授予……职位"
+    ],
+    "usphone": "ˈɪnstɪtuːt",
+    "ukphone": "ˈɪnstɪtjuːt",
+    "e_mean": [
+      "set up or lay the groundwork for"
+    ],
+    "speech": "verb",
+    "sentence": "I work in a medical research institute."
+  },
+  {
+    "name": "academy",
+    "trans": [
+      "n. 专科院校；研究院，学会；（美国的）私立学校；（苏格兰的）中等学校"
+    ],
+    "usphone": "əˈkædəmi",
+    "ukphone": "əˈkædəmi",
+    "e_mean": [
+      "a learned establishment for the advancement of knowledge"
+    ],
+    "speech": "noun",
+    "sentence": "the military academy at West Point; a riding academy; the Academy of Music.; a music academy; a language academy"
+  },
+  {
+    "name": "excellent",
+    "trans": [
+      "adj. 极好的，卓越的"
+    ],
+    "usphone": "ˈeksələnt",
+    "ukphone": "'eksələnt",
+    "e_mean": [
+      "very good; of the highest quality"
+    ],
+    "speech": "adjective",
+    "sentence": "Bill and Ted had an excellent adventure last week in preparation of their history exam."
+  },
+  {
+    "name": "outstanding",
+    "trans": [
+      "adj. 杰出的，优秀的；显著的，突出的；未解决的，未完成的；"
+    ],
+    "usphone": "aʊtˈstændɪŋ",
+    "ukphone": "aʊtˈstændɪŋ",
+    "e_mean": [
+      "of major significance or importance"
+    ],
+    "speech": "adjective",
+    "sentence": "outstanding contracts"
+  },
+  {
+    "name": "brilliant",
+    "trans": [
+      "adj. 巧妙的，使人印象深的；成功的，辉煌的；聪颖的，技艺高超的；明亮的，鲜艳的"
+    ],
+    "usphone": "ˈbrɪliənt",
+    "ukphone": "'brɪlɪənt",
+    "e_mean": [
+      "full of light; shining intensely"
+    ],
+    "speech": "adjective",
+    "sentence": "the brilliant lights along the promenade"
+  },
+  {
+    "name": "prestige",
+    "trans": [
+      "n. 威望，声望，信誉"
+    ],
+    "usphone": "'prɛstiːʒ",
+    "ukphone": "'prɛstiːʒ",
+    "e_mean": [
+      "a high standing achieved through success or influence"
+    ],
+    "speech": "noun",
+    "sentence": "Oxford has a university of very high prestige."
+  },
+  {
+    "name": "eminent",
+    "trans": [
+      "adj. 杰出的，著名的"
+    ],
+    "usphone": "'ɛmɪn(ə)nt",
+    "ukphone": "'ɛmɪn(ə)nt",
+    "e_mean": [
+      "standing above others in quality or position"
+    ],
+    "speech": "adjective",
+    "sentence": "His eminent good sense has been a godsend to this project."
+  },
+  {
+    "name": "esteem",
+    "trans": [
+      "n. 尊敬，敬重；",
+      "v. 尊敬，尊重"
+    ],
+    "usphone": "ɪ'stiːm",
+    "ukphone": "ɪ'stiːm",
+    "e_mean": [
+      "the condition of being honored"
+    ],
+    "speech": "noun",
+    "sentence": "We hold her in high esteem."
+  },
+  {
+    "name": "respect",
+    "trans": [
+      "n. 尊敬，敬意；",
+      "v. 尊敬，尊重"
+    ],
+    "usphone": "rɪ'spɛkt",
+    "ukphone": "rɪ'spɛkt",
+    "e_mean": [
+      "regard highly; think much of"
+    ],
+    "speech": "verb",
+    "sentence": "He is an intellectual giant, and I have great respect for him."
+  },
+  {
+    "name": "diligent",
+    "trans": [
+      "adj. 勤奋的，用功的"
+    ],
+    "usphone": "'dɪlɪdʒ(ə)nt",
+    "ukphone": "'dɪlɪdʒ(ə)nt",
+    "e_mean": [
+      "quietly and steadily persevering in detail or exactness"
+    ],
+    "speech": "adjective",
+    "sentence": "Scientists are very diligent in their work."
+  },
+  {
+    "name": "approach",
+    "trans": [
+      "n. 方法，途径；",
+      "v. 接近，靠近"
+    ],
+    "usphone": "ə'proʊtʃ",
+    "ukphone": "ə'prəʊtʃ",
+    "e_mean": [
+      "move towards"
+    ],
+    "speech": "verb",
+    "sentence": "1991, Carol Lee Johnston, Jeanne Lazaris, Plane Trigonometry, A New Approach."
+  },
+  {
+    "name": "principal",
+    "trans": [
+      "adj. 主要的；",
+      "n. 负责人，校长"
+    ],
+    "usphone": "'prɪns(ə)p(ə)l",
+    "ukphone": "'prɪns(ə)p(ə)l",
+    "e_mean": [
+      "main or most important"
+    ],
+    "speech": "adjective",
+    "sentence": "A portion of your mortgage payment goes to reduce the principal, and the rest covers interest."
+  },
+  {
+    "name": "faculty",
+    "trans": [
+      "n. 能力，才能；",
+      "adj. 教学的"
+    ],
+    "usphone": "'fæk(ə)lti",
+    "ukphone": "'fæk(ə)lti",
+    "e_mean": [
+      "an inherent cognitive or perceptual power of the mind"
+    ],
+    "speech": "noun",
+    "sentence": "She transferred from the Faculty of Science to the Faculty of Medicine."
+  },
+  {
+    "name": "literature",
+    "trans": [
+      "n. 文学；文献"
+    ],
+    "usphone": "'lɪt(ə)rətʃ(ə)r",
+    "ukphone": "'lɪt(ə)rətʃ(ə)r",
+    "e_mean": [
+      "writings in a particular style on a particular subject"
+    ],
+    "speech": "noun",
+    "sentence": "However, even “literary” science fiction rarely qualifies as literature, because it treats characters as sets of traits rather than as fully realized human beings with unique life stories. —Adam Cadre, 2008"
+  },
+  {
+    "name": "article",
+    "trans": [
+      "n. 文章，论文"
+    ],
+    "usphone": "'ɑːrt(ə)k(ə)l",
+    "ukphone": "'ɑːrt(ə)k(ə)l",
+    "e_mean": [
+      "one of a class of artifacts"
+    ],
+    "speech": "noun",
+    "sentence": "a sales article"
+  },
+  {
+    "name": "author",
+    "trans": [
+      "n. 作者；创造者"
+    ],
+    "usphone": "'ɔːθ(ə)r",
+    "ukphone": "'ɔːθ(ə)r",
+    "e_mean": [
+      "a person who writes professionally"
+    ],
+    "speech": "noun",
+    "sentence": "Have you read any Corinthian authors?"
+  },
+  {
+    "name": "tale",
+    "trans": [
+      "n. 故事，传说"
+    ],
+    "usphone": "teɪl",
+    "ukphone": "teɪl",
+    "e_mean": [
+      "a story that tells the particulars of an occurrence or event"
+    ],
+    "speech": "noun",
+    "sentence": "Don't tell tales!"
+  },
+  {
+    "name": "fiction",
+    "trans": [
+      "n. 小说，虚构"
+    ],
+    "usphone": "'fɪkʃ(ə)n",
+    "ukphone": "'fɪkʃ(ə)n",
+    "e_mean": [
+      "a literary work based on the imagination"
+    ],
+    "speech": "noun",
+    "sentence": "I am a great reader of fiction."
+  },
+  {
+    "name": "story",
+    "trans": [
+      "n. 故事，传说"
+    ],
+    "usphone": "'stɔːri",
+    "ukphone": "'stɔːri",
+    "e_mean": [
+      "a record or narrative description of past events"
+    ],
+    "speech": "noun",
+    "sentence": "The book tells the story of two roommates."
+  },
+  {
+    "name": "diary",
+    "trans": [
+      "n. 日记"
+    ],
+    "usphone": "'daɪ(ə)ri",
+    "ukphone": "'daɪ(ə)ri",
+    "e_mean": [
+      "a daily written record of experiences and observations"
+    ],
+    "speech": "noun",
+    "sentence": "They kept separate diaries. His was on paper and her diary was on her computer's hard drive."
+  },
+  {
+    "name": "poetry",
+    "trans": [
+      "n. 诗歌；诗意"
+    ],
+    "usphone": "'poʊɪtri",
+    "ukphone": "'pəʊɪtri",
+    "e_mean": [
+      "literature in metrical form"
+    ],
+    "speech": "noun",
+    "sentence": "That 'Swan Lake' choreography is poetry in motion, fitting the musical poetry of Tchaikovski's divine score well beyond the literary inspiration."
+  },
+  {
+    "name": "journal",
+    "trans": [
+      "n. 杂志，期刊；日报"
+    ],
+    "usphone": "'dʒəːrn(ə)l",
+    "ukphone": "'dʒəːrn(ə)l",
+    "e_mean": [
+      "a daily written record of experiences and observations"
+    ],
+    "speech": "noun",
+    "sentence": "The university's biology department subscribes to half a dozen academic journals."
+  },
+  {
+    "name": "coverage",
+    "trans": [
+      "n. 覆盖范围；报道"
+    ],
+    "usphone": "'kʌvrɪdʒ",
+    "ukphone": "'kʌvrɪdʒ",
+    "e_mean": [
+      "the extent to which something is included or discussed"
+    ],
+    "speech": "noun",
+    "sentence": "Before laying sod on that clay, the ground needs two inches of coverage with topsoil."
+  },
+  {
+    "name": "encyclopedia",
+    "trans": [
+      "n. 百科全书，（某一学科的）专科全书"
+    ],
+    "usphone": "ɪnˌsaɪkləˈpiːdiə",
+    "ukphone": "ɪnˌsaɪkləˈpiːdiə",
+    "e_mean": [
+      "a reference work containing articles on various topics"
+    ],
+    "speech": "noun",
+    "sentence": "His life's work was a four-volume encyclopedia of aviation topics."
+  },
+  {
+    "name": "biography",
+    "trans": [
+      "n. 传记"
+    ],
+    "usphone": "baɪ'ɒgrəfi",
+    "ukphone": "baɪ'ɒgrəfi",
+    "e_mean": [
+      "an account of the series of events making up a person's life"
+    ],
+    "speech": "noun",
+    "sentence": "There are many biographies of Benjamin Franklin."
+  },
+  {
+    "name": "series",
+    "trans": [
+      "n. 系列，连续剧"
+    ],
+    "usphone": "ˈsɪriːz",
+    "ukphone": "ˈsɪriːz",
+    "e_mean": [
+      "similar things placed in order or one after another"
+    ],
+    "speech": "noun",
+    "sentence": "A series of seemingly inconsequential events led cumulatively to the fall of the company."
+  },
+  {
+    "name": "record",
+    "trans": [
+      "n. 记录；唱片",
+      "v. 记录；创纪录"
+    ],
+    "usphone": "ˈrɛk(ə)rd",
+    "ukphone": "ˈrɛk(ə)rd",
+    "e_mean": [
+      "anything providing permanent evidence about past events"
+    ],
+    "speech": "noun",
+    "sentence": "The person had a record of the interview so she could review her notes."
+  },
+  {
+    "name": "file",
+    "trans": [
+      "n. 档案；文件",
+      "v. 把...归档"
+    ],
+    "usphone": "faɪl",
+    "ukphone": "faɪl",
+    "e_mean": [
+      "record in a public office or in a court of law"
+    ],
+    "speech": "verb",
+    "sentence": "I'm going to delete these unwanted files to free up some disk space."
+  },
+  {
+    "name": "profile",
+    "trans": [
+      "n. 侧面；简介",
+      "v. 描绘...的侧面"
+    ],
+    "usphone": "'proʊfaɪl",
+    "ukphone": "'prəʊfaɪl",
+    "e_mean": [
+      "an outline of something, especially a face from the side"
+    ],
+    "speech": "noun",
+    "sentence": "His fingers traced the profile of the handle."
+  },
+  {
+    "name": "draft",
+    "trans": [
+      "n. 草稿；草案",
+      "v. 起草；征募"
+    ],
+    "usphone": "dræft",
+    "ukphone": "dræft",
+    "e_mean": [
+      "a current of air"
+    ],
+    "speech": "noun",
+    "sentence": "She took a deep draft from the bottle of water."
+  },
+  {
+    "name": "dividend",
+    "trans": [
+      "n. 股息；红利；商数"
+    ],
+    "usphone": "'dɪvɪd(ə)nd",
+    "ukphone": "'dɪvɪd(ə)nd",
+    "e_mean": [
+      "a number to be divided by another number"
+    ],
+    "speech": "noun",
+    "sentence": "In \"42 ÷ 3\" the dividend is the 42."
+  },
+  {
+    "name": "radiate",
+    "trans": [
+      "v. 辐射；散发"
+    ],
+    "usphone": "ˈreɪdiːeɪt",
+    "ukphone": "ˈreɪdiːeɪt",
+    "e_mean": [
+      "send out rays or waves"
+    ],
+    "speech": "verb",
+    "sentence": "The stove radiates heat."
+  },
+  {
+    "name": "transparent",
+    "trans": [
+      "adj. 透明的， 清澈的； 明显的； 易懂的"
+    ],
+    "usphone": "trænsˈpærənt",
+    "ukphone": "træns'pærənt",
+    "e_mean": [
+      "able to be seen through with clarity"
+    ],
+    "speech": "adjective",
+    "sentence": "The waters of the lake were transparent until the factory dumped waste there."
+  },
+  {
+    "name": "gravity",
+    "trans": [
+      "n. 重力；地心引力"
+    ],
+    "usphone": "'grævɪti",
+    "ukphone": "'grævɪti",
+    "e_mean": [
+      "the force of attraction between all masses in the universe"
+    ],
+    "speech": "noun",
+    "sentence": "I hope you appreciate the gravity of the situation."
+  },
+  {
+    "name": "eccentric",
+    "trans": [
+      "adj. 古怪的，异乎寻常的；不同圆心的，不正圆的",
+      "n. 古怪的人"
+    ],
+    "usphone": "ɪkˈsentrɪk",
+    "ukphone": "ɪk'sentrɪk",
+    "e_mean": [
+      "conspicuously or grossly unconventional or unusual"
+    ],
+    "speech": "adjective",
+    "sentence": "As of 2008, Margaret had the most eccentric orbit of any moon in the solar system, though Nereid's mean eccentricity is greater."
+  },
+  {
+    "name": "displace",
+    "trans": [
+      "v. 移置；取代"
+    ],
+    "usphone": "dɪs'pleɪs",
+    "ukphone": "dɪs'pleɪs",
+    "e_mean": [
+      "cause to move, usually with force or pressure"
+    ],
+    "speech": "verb",
+    "sentence": "Electronic calculators soon displaced the older mechanical kind."
+  },
+  {
+    "name": "boil",
+    "trans": [
+      "v. 煮沸；沸腾"
+    ],
+    "usphone": "bɔɪl",
+    "ukphone": "bɔɪl",
+    "e_mean": [
+      "change from a liquid to vapor"
+    ],
+    "speech": "verb",
+    "sentence": "Add the noodles when the water comes to the boil."
+  },
+  {
+    "name": "melt",
+    "trans": [
+      "v. 融化；熔解"
+    ],
+    "usphone": "mɛlt",
+    "ukphone": "mɛlt",
+    "e_mean": [
+      "reduce or cause to be reduced from a solid to a liquid state"
+    ],
+    "speech": "verb",
+    "sentence": "I melted butter to make a cake."
+  },
+  {
+    "name": "dissolve",
+    "trans": [
+      "v. 解决；溶解"
+    ],
+    "usphone": "dɪ'sɒlv",
+    "ukphone": "dɪ'sɒlv",
+    "e_mean": [
+      "pass into a solution"
+    ],
+    "speech": "verb",
+    "sentence": "The ruling party or coalition sometimes dissolves parliament early when the polls are favorable, hoping to reconvene with a larger majority."
+  },
+  {
+    "name": "rust",
+    "trans": [
+      "n. 铁锈；氧化",
+      "v. 生锈"
+    ],
+    "usphone": "rʌst",
+    "ukphone": "rʌst",
+    "e_mean": [
+      "a red or brown oxide coating on iron or steel caused by the action of oxygen and moisture"
+    ],
+    "speech": "noun",
+    "sentence": "The rust on my bicycle chain made cycling to work very dangerous."
+  },
+  {
+    "name": "dilute",
+    "trans": [
+      "v. 稀释；冲淡"
+    ],
+    "usphone": "daɪ'lut",
+    "ukphone": "daɪ'lut",
+    "e_mean": [
+      "lessen the strength or flavor of a solution or mixture"
+    ],
+    "speech": "verb",
+    "sentence": "It dilutes easily."
+  },
+  {
+    "name": "acid",
+    "trans": [
+      "n. 酸；酸性物质",
+      "adj. 酸的；尖刻的"
+    ],
+    "usphone": "'æsɪd",
+    "ukphone": "'æsɪd",
+    "e_mean": [
+      "a sour water-soluble compound with a pH of less than 7"
+    ],
+    "speech": "noun",
+    "sentence": "acid fruits or liquors"
+  },
+  {
+    "name": "skim",
+    "trans": [
+      "v. 撇去；略读",
+      "n. 薄片"
+    ],
+    "usphone": "skɪm",
+    "ukphone": "skɪm",
+    "e_mean": [
+      "remove from the surface"
+    ],
+    "speech": "verb",
+    "sentence": "I skimmed the newspaper over breakfast."
+  },
+  {
+    "name": "scan",
+    "trans": [
+      "v. 扫描；浏览",
+      "n. 扫描"
+    ],
+    "usphone": "skæn",
+    "ukphone": "skæn",
+    "e_mean": [
+      "examine minutely or intensely"
+    ],
+    "speech": "verb",
+    "sentence": "The operators vacated the room during the scan."
+  },
+  {
+    "name": "scrutinise",
+    "trans": [
+      "v. 仔细检查；审查"
+    ],
+    "usphone": "skruː'taɪnaɪz",
+    "ukphone": "skruː'taɪnaɪz",
+    "e_mean": [
+      "examine carefully for accuracy with the intent of verification"
+    ],
+    "speech": "verb",
+    "sentence": "to scrutinize the conduct or motives of individuals"
+  },
+  {
+    "name": "dictate",
+    "trans": [
+      "v. 听写；口述",
+      "n. 口述"
+    ],
+    "usphone": "dɪk'teɪt",
+    "ukphone": "dɪk'teɪt",
+    "e_mean": [
+      "a guiding principle"
+    ],
+    "speech": "noun",
+    "sentence": "I must obey the dictates of my conscience."
+  },
+  {
+    "name": "test",
+    "trans": [
+      "n. 考试；测验",
+      "v. 测试；考验"
+    ],
+    "usphone": "test",
+    "ukphone": "test",
+    "e_mean": [
+      "standardized procedure for measuring sensitivity or aptitude"
+    ],
+    "speech": "noun",
+    "sentence": "Climbing the mountain tested our stamina."
+  },
+  {
+    "name": "quiz",
+    "trans": [
+      "n. 小测验；小型比赛",
+      "v. 对...进行测验"
+    ],
+    "usphone": "kwɪz",
+    "ukphone": "kwɪz",
+    "e_mean": [
+      "an examination consisting of a few short questions"
+    ],
+    "speech": "noun",
+    "sentence": "We came second in the pub quiz."
+  },
+  {
+    "name": "copy",
+    "trans": [
+      "n. 抄件；复制品",
+      "v. 复制；抄袭"
+    ],
+    "usphone": "'kɑpɪ",
+    "ukphone": "'kɒpɪ",
+    "e_mean": [
+      "a thing made to be similar or identical to another thing"
+    ],
+    "speech": "noun",
+    "sentence": "Please bring me the copies of those reports."
+  },
+  {
+    "name": "print",
+    "trans": [
+      "v. 打印；印刷，出版；刊登，刊载；",
+      "n. 印刷；印刷字体；印刷出的文字；印刷行业，出版界,印刷品"
+    ],
+    "usphone": "prɪnt",
+    "ukphone": "prɪnt",
+    "e_mean": [
+      "the text appearing in a book, newspaper, or other printed publication"
+    ],
+    "speech": "noun",
+    "sentence": "TV and the internet haven't killed print."
+  },
+  {
+    "name": "paper",
+    "trans": [
+      "n. 纸；报纸；论文",
+      "v. 写论文"
+    ],
+    "usphone": "ˈpeɪp(ə)r",
+    "ukphone": "ˈpeɪp(ə)r",
+    "e_mean": [
+      "a material made of cellulose pulp derived mainly from wood or rags or certain grasses"
+    ],
+    "speech": "noun",
+    "sentence": "a paper of pins, tacks, opium, etc."
+  },
+  {
+    "name": "project",
+    "trans": [
+      "n. 项目，计划；工程；提案"
+    ],
+    "usphone": "'prɑːdʒɛkt",
+    "ukphone": "'prɒdʒɛkt",
+    "e_mean": [
+      "a planned undertaking"
+    ],
+    "speech": "noun",
+    "sentence": "Projects like Pruitt-Igoe were considered irreparably dangerous and demolished."
+  },
+  {
+    "name": "heading",
+    "trans": [
+      "n. 标题，题目；朝向，方向"
+    ],
+    "usphone": "'hɛdɪŋ",
+    "ukphone": "'hɛdɪŋ",
+    "e_mean": [
+      "a line of text indicating what the passage below it is about"
+    ],
+    "speech": "noun",
+    "sentence": "Who heads the board of trustees?"
+  },
+  {
+    "name": "outset",
+    "trans": [
+      "n. 开始，开端；前提；前置条件"
+    ],
+    "usphone": "'aʊtsɛt",
+    "ukphone": "'aʊtsɛt",
+    "e_mean": [
+      "the time at which something is supposed to begin"
+    ],
+    "speech": "noun",
+    "sentence": "He agreed and understood from the outset, so don't bother explaining again."
+  },
+  {
+    "name": "academic",
+    "trans": [
+      "adj. 学术的；理论的；大学的"
+    ],
+    "usphone": "ækə'demɪk",
+    "ukphone": "ækə'demɪk",
+    "e_mean": [
+      "associated with an educational institution"
+    ],
+    "speech": "adjective",
+    "sentence": "the academic sect or philosophy"
+  },
+  {
+    "name": "study",
+    "trans": [
+      "n. 学习；研究；书房；(pl.) 课程",
+      "v. 学习；研究；调查"
+    ],
+    "usphone": "'stʌdi",
+    "ukphone": "'stʌdi",
+    "e_mean": [
+      "applying the mind to learning and understanding a subject"
+    ],
+    "speech": "noun",
+    "sentence": "I need to study my biology notes."
+  },
+  {
+    "name": "acquire",
+    "trans": [
+      "v. 获得；习得；吸收；购买"
+    ],
+    "usphone": "ə'kwaɪr",
+    "ukphone": "ə'kwaɪə",
+    "e_mean": [
+      "come into the possession of something concrete or abstract"
+    ],
+    "speech": "verb",
+    "sentence": "He acquired a title."
+  },
+  {
+    "name": "knowledge",
+    "trans": [
+      "n. 知识；学问；认识；了解"
+    ],
+    "usphone": "'nɑːlɪdʒ",
+    "ukphone": "'nɒlɪdʒ",
+    "e_mean": [
+      "the result of perception, learning, and reasoning"
+    ],
+    "speech": "noun",
+    "sentence": "His knowledge of Iceland was limited to what he'd seen on the Travel Channel."
+  },
+  {
+    "name": "expertise",
+    "trans": [
+      "n. 专门知识；专长；专家身份"
+    ],
+    "usphone": "ɪk'spɜːrtɪs",
+    "ukphone": "ɪk'spɜːrtɪs",
+    "e_mean": [
+      "skillfulness by virtue of possessing special knowledge"
+    ],
+    "speech": "noun",
+    "sentence": "The scientist has expertise in the field of nuclear fusion."
+  },
+  {
+    "name": "novice",
+    "trans": [
+      "n. 新手；初学者；新入教者"
+    ],
+    "usphone": "'nɑːvɪs",
+    "ukphone": "'nɒvɪs",
+    "e_mean": [
+      "someone new to a field or activity"
+    ],
+    "speech": "noun",
+    "sentence": "I'm only a novice at coding, and my programs frequently have bugs that more experienced programmers would avoid."
+  },
+  {
+    "name": "recruit",
+    "trans": [
+      "n. 新兵；新成员",
+      "v. 招募；招聘；增援"
+    ],
+    "usphone": "rɪ'kruːt",
+    "ukphone": "rɪ'kruːt",
+    "e_mean": [
+      "cause to assemble or enlist in the military"
+    ],
+    "speech": "verb",
+    "sentence": "These new recruits were hired after passing the interviews"
+  },
+  {
+    "name": "illiteracy",
+    "trans": [
+      "n. 文盲；不识字；文盲率"
+    ],
+    "usphone": "ɪlɪ'tɛrəsi",
+    "ukphone": "ɪlɪ'tɛrəsi",
+    "e_mean": [
+      "an inability to read"
+    ],
+    "speech": "noun",
+    "sentence": "Illiteracy is widespread in certain areas of the country."
+  },
+  {
+    "name": "issue",
+    "trans": [
+      "n. 问题；发行；出版物；流出；事务",
+      "v. 发布；出版；流出；发放"
+    ],
+    "usphone": "'ɪʃu",
+    "ukphone": "'ɪʃuː",
+    "e_mean": [
+      "some situation or event that is thought about"
+    ],
+    "speech": "noun",
+    "sentence": "The issue of the directive from the treasury prompted the central bank's most recent issue of currency."
+  },
+  {
+    "name": "affair",
+    "trans": [
+      "n. 事情；事务；事件；事业；恋爱关系"
+    ],
+    "usphone": "ə'fɛr",
+    "ukphone": "ə'fɛː",
+    "e_mean": [
+      "a vaguely specified social event"
+    ],
+    "speech": "noun",
+    "sentence": "a difficult affair to manage"
+  },
+  {
+    "name": "puzzle",
+    "trans": [
+      "n. 谜；难题；拼图游戏"
+    ],
+    "usphone": "'pʌzl",
+    "ukphone": "'pʌzl",
+    "e_mean": [
+      "be uncertain about"
+    ],
+    "speech": "verb",
+    "sentence": "Where he went after he left the house is a puzzle."
+  },
+  {
+    "name": "riddle",
+    "trans": [
+      "n. 谜语；难题；混淆，困惑"
+    ],
+    "usphone": "'rɪdl",
+    "ukphone": "'rɪdl",
+    "e_mean": [
+      "pierce with many holes"
+    ],
+    "speech": "verb",
+    "sentence": "Here's a riddle: It's black, and white, and red all over. What is it?"
+  },
+  {
+    "name": "obscure",
+    "trans": [
+      "adj. 模糊的；不清楚的；朦胧的；隐蔽的"
+    ],
+    "usphone": "əb'skjʊr",
+    "ukphone": "əb'skjʊr",
+    "e_mean": [
+      "not clearly understood or expressed"
+    ],
+    "speech": "adjective",
+    "sentence": "an obscure passage or inscription; The speaker made obscure references to little-known literary works."
+  },
+  {
+    "name": "instil",
+    "trans": [
+      "v. 滴入；灌输（思想、信念等）"
+    ],
+    "usphone": "in'stɪl",
+    "ukphone": "in'stɪl",
+    "e_mean": [
+      "enter drop by drop"
+    ],
+    "speech": "verb",
+    "sentence": "It is important to instill discipline in a child at an early age."
+  },
+  {
+    "name": "cram",
+    "trans": [
+      "v. 填满；塞满；贪婪地吃"
+    ],
+    "usphone": "'kræm",
+    "ukphone": "'kræm",
+    "e_mean": [
+      "crowd or pack to capacity"
+    ],
+    "speech": "verb",
+    "sentence": "a cram from an examination"
+  },
+  {
+    "name": "emphasise",
+    "trans": [
+      "v. 强调；着重；重读"
+    ],
+    "usphone": "em'fæsaɪz",
+    "ukphone": "em'fæsaɪz",
+    "e_mean": [
+      "to stress, single out as important"
+    ],
+    "speech": "verb",
+    "sentence": "His two-fingered gesture emphasized what he had told his boss to do with his job."
+  },
+  {
+    "name": "enhance",
+    "trans": [
+      "v. 提高；增强；改进"
+    ],
+    "usphone": "in'hæns",
+    "ukphone": "in'hæns",
+    "e_mean": [
+      "increase"
+    ],
+    "speech": "verb",
+    "sentence": "A debt enhances rapidly by compound interest."
+  },
+  {
+    "name": "tutor",
+    "trans": [
+      "n. 家庭教师；导师；辅导员"
+    ],
+    "usphone": "'tjuːtər",
+    "ukphone": "'tjuːtər",
+    "e_mean": [
+      "a person who gives private instruction"
+    ],
+    "speech": "noun",
+    "sentence": "He passed the difficult class with help from his tutor."
+  },
+  {
+    "name": "assistant",
+    "trans": [
+      "n. 助手；助理；助教"
+    ],
+    "usphone": "ə'sɪst(ə)nt",
+    "ukphone": "ə'sɪst(ə)nt",
+    "e_mean": [
+      "a person who contributes to the furtherance of an effort"
+    ],
+    "speech": "noun",
+    "sentence": "an assistant surgeon"
+  },
+  {
+    "name": "degree",
+    "trans": [
+      "n. 学位；度数；程度"
+    ],
+    "usphone": "dɪ'griː",
+    "ukphone": "dɪ'griː",
+    "e_mean": [
+      "a specific identifiable position in a continuum or series"
+    ],
+    "speech": "noun",
+    "sentence": "She has two bachelor's degrees and is studying towards a master's degree."
+  },
+  {
+    "name": "qualify",
+    "trans": [
+      "v. 使合格；使有资格；使能够"
+    ],
+    "usphone": "'kwɒlɪfaɪ",
+    "ukphone": "'kwɒlɪfaɪ",
+    "e_mean": [
+      "prove capable or fit; meet requirements"
+    ],
+    "speech": "verb",
+    "sentence": "to qualify seven balls you need at least fourteen catches"
+  },
+  {
+    "name": "certify",
+    "trans": [
+      "v. 证明；证实；批准"
+    ],
+    "usphone": "'səːtɪfaɪ",
+    "ukphone": "'səːtɪfaɪ",
+    "e_mean": [
+      "provide evidence for"
+    ],
+    "speech": "verb",
+    "sentence": "These blankets have been certified as fireproof."
+  },
+  {
+    "name": "license",
+    "trans": [
+      "n. 许可证；执照；许可"
+    ],
+    "usphone": "'laɪs(ə)ns",
+    "ukphone": "'laɪs(ə)ns",
+    "e_mean": [
+      "a legal document giving official permission to do something"
+    ],
+    "speech": "noun",
+    "sentence": "In order to enter the building, I need to show my license."
+  },
+  {
+    "name": "permit",
+    "trans": [
+      "n. 许可证；执照；许可"
+    ],
+    "usphone": "'pərmɪt",
+    "ukphone": "'pərmɪt",
+    "e_mean": [
+      "allow the presence of or allow without opposing"
+    ],
+    "speech": "verb",
+    "sentence": "A construction permit can be obtained from the town offices."
+  },
+  {
+    "name": "ambassador",
+    "trans": [
+      "n. 大使；使节；代表"
+    ],
+    "usphone": "æm'bæs(ə)dər",
+    "ukphone": "æm'bæs(ə)dər",
+    "e_mean": [
+      "a diplomat of the highest rank"
+    ],
+    "speech": "noun",
+    "sentence": "As front hall porter, you are an ambassador for the hotel."
+  },
+  {
+    "name": "graduate",
+    "trans": [
+      "n. 毕业生；毕业者"
+    ],
+    "usphone": "'grædʒʊət",
+    "ukphone": "'grædʒʊət",
+    "e_mean": [
+      "receive an academic degree upon completion of one's studies"
+    ],
+    "speech": "verb",
+    "sentence": "If the government wants graduates to stay in the country they should offer more incentives."
+  },
+  {
+    "name": "master",
+    "trans": [
+      "n. 主人；硕士；大师；掌握者"
+    ],
+    "usphone": "ˈmæstər",
+    "ukphone": "ˈmɑːstə",
+    "e_mean": [
+      "a person who has authority over others"
+    ],
+    "speech": "noun",
+    "sentence": "Mark Twain was a master of fiction."
+  },
+  {
+    "name": "fresher",
+    "trans": [
+      "n. 新生；新手"
+    ],
+    "usphone": "ˈfrɛʃər",
+    "ukphone": "ˈfrɛʃə",
+    "e_mean": [
+      "a first-year undergraduate"
+    ],
+    "speech": "noun",
+    "sentence": "He followed the fresh hoofprints to find the deer."
+  },
+  {
+    "name": "sophomore",
+    "trans": [
+      "n. 大二学生；二年级学生"
+    ],
+    "usphone": "səˈfɔːmɔr",
+    "ukphone": "səˈfəʊmɔː",
+    "e_mean": [
+      "a second-year undergraduate"
+    ],
+    "speech": "noun",
+    "sentence": "She was very mature for a sophomore and had several friends who were juniors or even seniors."
+  },
+  {
+    "name": "sketch",
+    "trans": [
+      "n. 素描；简略描述；草图"
+    ],
+    "usphone": "skɛtʃ",
+    "ukphone": "skɛtʃ",
+    "e_mean": [
+      "preliminary drawing for later elaboration"
+    ],
+    "speech": "noun",
+    "sentence": "to keep sketch"
+  },
+  {
+    "name": "frame",
+    "trans": [
+      "n. 框架；构架；框；构造；框架或结构"
+    ],
+    "usphone": "freɪm",
+    "ukphone": "freɪm",
+    "e_mean": [
+      "the internal structure that gives an artifact its shape"
+    ],
+    "speech": "noun",
+    "sentence": "Now that the frame is complete, we can start on the walls."
+  },
+  {
+    "name": "index",
+    "trans": [
+      "n. 索引；指数；指示器"
+    ],
+    "usphone": "ˈɪndɛks",
+    "ukphone": "ˈɪndɛks",
+    "e_mean": [
+      "alphabetical listing of names and topics with page numbers"
+    ],
+    "speech": "noun",
+    "sentence": "The index of a book lists words or expressions and the pages of the book upon which they are to be found."
+  },
+  {
+    "name": "category",
+    "trans": [
+      "n. 类别，范畴；种类"
+    ],
+    "usphone": "'kætəgɔri",
+    "ukphone": "'kætəgəri",
+    "e_mean": [
+      "a general concept that marks divisions or coordinations"
+    ],
+    "speech": "noun",
+    "sentence": "I wouldn't put this book in the same category as the author's first novel."
+  },
+  {
+    "name": "inventory",
+    "trans": [
+      "n. 详细目录；存货清单；资产清单",
+      "v. 对...进行详细目录；对...进行清点"
+    ],
+    "usphone": "'ɪnvəntr̩i",
+    "ukphone": "'ɪnvəntr̩i",
+    "e_mean": [
+      "a detailed list of all the items in stock"
+    ],
+    "speech": "noun",
+    "sentence": "Due to an undersized inventory at the Boston outlet, customers had to travel to Providence to find the item."
+  },
+  {
+    "name": "content",
+    "trans": [
+      "n. 内容；容量；满足感",
+      "adj. 满足的，满意的"
+    ],
+    "usphone": "kən'tent",
+    "ukphone": "kən'tent",
+    "e_mean": [
+      "satisfied or showing satisfaction with things as they are"
+    ],
+    "speech": "adjective",
+    "sentence": "You can't have any more - you'll have to content yourself with what you already have."
+  },
+  {
+    "name": "context",
+    "trans": [
+      "n. 上下文；环境；条件",
+      "v. 把...放入上下文；使...有意义"
+    ],
+    "usphone": "kɑːn'tekst",
+    "ukphone": "kɒn'tekst",
+    "e_mean": [
+      "the set of facts or circumstances that surround a situation"
+    ],
+    "speech": "noun",
+    "sentence": "In what context did your attack on him happen? - We had a pretty tense relationship at the time, and when he insulted me I snapped."
+  },
+  {
+    "name": "reel",
+    "trans": [
+      "n. 卷轴；转轮；卷形物",
+      "v. 卷起；使转动；摇摆不定"
+    ],
+    "usphone": "ril",
+    "ukphone": "riːl",
+    "e_mean": [
+      "a winder around which flexible materials can be wound"
+    ],
+    "speech": "noun",
+    "sentence": "a garden reel"
+  },
+  {
+    "name": "major",
+    "trans": [
+      "adj. 主要的；重要的；成年的",
+      "n. 主修课程；少校；降大调"
+    ],
+    "usphone": "'meɪdʒər",
+    "ukphone": "'meɪdʒə",
+    "e_mean": [
+      "greater in scope or effect"
+    ],
+    "speech": "adjective",
+    "sentence": "He used to be a major in the army."
+  },
+  {
+    "name": "minimum",
+    "trans": [
+      "n. 最小值；最低限度",
+      "adj. 最小的；最低限度的"
+    ],
+    "usphone": "'mɪnəməm",
+    "ukphone": "'mɪnɪməm",
+    "e_mean": [
+      "the smallest possible quantity"
+    ],
+    "speech": "noun",
+    "sentence": "We need a minimum of three staff members on duty at all time."
+  },
+  {
+    "name": "maximum",
+    "trans": [
+      "n. 最大值；最大限度",
+      "adj. 最大的；最大限度的"
+    ],
+    "usphone": "'mæksɪməm",
+    "ukphone": "'mæksɪməm",
+    "e_mean": [
+      "the greatest or most complete or best possible"
+    ],
+    "speech": "adjective",
+    "sentence": "Use the proper dose for the maximum effect."
+  },
+  {
+    "name": "diagram",
+    "trans": [
+      "n. 图解；示意图；简图"
+    ],
+    "usphone": "daɪ'ægræm",
+    "ukphone": "daɪ'ægræm",
+    "e_mean": [
+      "a drawing intended to explain how something works"
+    ],
+    "speech": "noun",
+    "sentence": "Electrical diagrams show device interconnections."
+  },
+  {
+    "name": "table",
+    "trans": [
+      "n. 表；桌子；表格",
+      "v. 提出；提议；预定"
+    ],
+    "usphone": "teɪbl",
+    "ukphone": "teɪbl",
+    "e_mean": [
+      "furniture having a smooth flat top supported by legs"
+    ],
+    "speech": "noun",
+    "sentence": "to table fines"
+  },
+  {
+    "name": "cube",
+    "trans": [
+      "n. 立方体；立方；立方形",
+      "v. 把...立方体化"
+    ],
+    "usphone": "kyub",
+    "ukphone": "kjub",
+    "e_mean": [
+      "a three-dimensional figure with six equal squares as faces"
+    ],
+    "speech": "noun",
+    "sentence": "a stock cube"
+  },
+  {
+    "name": "angle",
+    "trans": [
+      "n. 角；角度；角落；角色",
+      "v. 使成角；使成角度"
+    ],
+    "usphone": "'æŋg(ə)l",
+    "ukphone": "'æŋg(ə)l",
+    "e_mean": [
+      "the space between two lines or planes that intersect"
+    ],
+    "speech": "noun",
+    "sentence": "the angle between lines A and B"
+  },
+  {
+    "name": "straight",
+    "trans": [
+      "adj. 直的；正直的；严肃的",
+      "adv. 直接地；直率地",
+      "n. 直线；顺行"
+    ],
+    "usphone": "streɪt",
+    "ukphone": "streɪt",
+    "e_mean": [
+      "having no deviations"
+    ],
+    "speech": "adjective",
+    "sentence": "My friends call straights \"heteros\"."
+  },
+  {
+    "name": "circle",
+    "trans": [
+      "n. 圆；圆周；圆形；一圈",
+      "v. 围绕；环绕"
+    ],
+    "usphone": "səːrk(ə)l",
+    "ukphone": "səːk(ə)l",
+    "e_mean": [
+      "a plane curve with every point equidistant from the center"
+    ],
+    "speech": "noun",
+    "sentence": "The set of all points (x, y) such that (x − 1)2 + y2 = r2 is a circle of radius r around the point (1, 0)."
+  },
+  {
+    "name": "formula",
+    "trans": [
+      "n. 公式；配方；方案"
+    ],
+    "usphone": "fɔːrmjʊlə",
+    "ukphone": "fɔːmjʊlə",
+    "e_mean": [
+      "a group of symbols that make a mathematical statement"
+    ],
+    "speech": "noun",
+    "sentence": "H2O is the formula for water."
+  },
+  {
+    "name": "component",
+    "trans": [
+      "n. 零件；组分；成分"
+    ],
+    "usphone": "kəm'poʊn(ə)nt",
+    "ukphone": "kəm'pəʊn(ə)nt",
+    "e_mean": [
+      "one of the individual parts making up a larger entity"
+    ],
+    "speech": "noun",
+    "sentence": "A CPU is a component of a computer."
+  },
+  {
+    "name": "compose",
+    "trans": [
+      "v. 创作；作曲；组成",
+      "n. 创作；作曲；组成"
+    ],
+    "usphone": "kəm'poz",
+    "ukphone": "kəm'pəʊz",
+    "e_mean": [
+      "form the substance of"
+    ],
+    "speech": "verb",
+    "sentence": "The editor composed a historical journal from many individual letters."
+  },
+  {
+    "name": "mixture",
+    "trans": [
+      "n. 混合；混合物"
+    ],
+    "usphone": "'mɪkstʃər",
+    "ukphone": "'mɪkstʃə",
+    "e_mean": [
+      "a collection containing a variety of sorts of things"
+    ],
+    "speech": "noun",
+    "sentence": "A teaspoonful of the mixture to be taken three times daily after meals"
+  },
+  {
+    "name": "blend",
+    "trans": [
+      "v. 混合；融合；混淆",
+      "n. 混合；融合；混合物"
+    ],
+    "usphone": "blɛnd",
+    "ukphone": "blɛnd",
+    "e_mean": [
+      "mix together different elements"
+    ],
+    "speech": "verb",
+    "sentence": "Our department has a good blend of experienced workers and young promise."
+  },
+  {
+    "name": "theory",
+    "trans": [
+      "n. 理论；学说；意见；假说"
+    ],
+    "usphone": "'θɪrɪ",
+    "ukphone": "'θɪərɪ",
+    "e_mean": [
+      "a belief that can guide behavior"
+    ],
+    "speech": "noun",
+    "sentence": "Knot theory classifies the mappings of a circle into 3-space."
+  },
+  {
+    "name": "practical",
+    "trans": [
+      "adj. 实际的；务实的；可行的"
+    ],
+    "usphone": "'præktɪk(ə)l",
+    "ukphone": "'præktɪk(ə)l",
+    "e_mean": [
+      "guided by experience and observation rather than theory"
+    ],
+    "speech": "adjective",
+    "sentence": "Jack didn't get an engineering degree, but has practical knowledge of metalworking."
+  },
+  {
+    "name": "doctrine",
+    "trans": [
+      "n. 教义；原则；学说"
+    ],
+    "usphone": "'dɑːktrɪn",
+    "ukphone": "'dɒktrɪn",
+    "e_mean": [
+      "a belief accepted as authoritative by some group or school"
+    ],
+    "speech": "noun",
+    "sentence": "The four noble truths summarise the main doctrines of Buddhism."
+  },
+  {
+    "name": "principle",
+    "trans": [
+      "n. 原则；原理；主义"
+    ],
+    "usphone": "'prɪns(ə)p(ə)l",
+    "ukphone": "'prɪns(ə)p(ə)l",
+    "e_mean": [
+      "a basic generalization that is accepted as true"
+    ],
+    "speech": "noun",
+    "sentence": "We need some sort of principles to reason from."
+  },
+  {
+    "name": "term",
+    "trans": [
+      "n. 期限；条件；词；术语"
+    ],
+    "usphone": "tərm",
+    "ukphone": "təːm",
+    "e_mean": [
+      "a limited period of time during which something lasts"
+    ],
+    "speech": "noun",
+    "sentence": "\"Alright, look...we can spend the holidays with your parents, but this time it will be on my terms.\""
+  },
+  {
+    "name": "timetable",
+    "trans": [
+      "n. 时间表；计划表；日程表"
+    ],
+    "usphone": "'taɪmˌteɪb(ə)l",
+    "ukphone": "'taɪmˌteɪb(ə)l",
+    "e_mean": [
+      "a schedule of times of arrivals and departures"
+    ],
+    "speech": "noun",
+    "sentence": "The timetable has been changed several times since it was first announced."
+  },
+  {
+    "name": "schedule",
+    "trans": [
+      "n. 时间表；进度表；计划表",
+      "v. 安排；预定"
+    ],
+    "usphone": "skedʒuːl",
+    "ukphone": "skedʒuːl",
+    "e_mean": [
+      "a list of times at which things are planned to occur"
+    ],
+    "speech": "noun",
+    "sentence": "schedule of tribes"
+  },
+  {
+    "name": "deadline",
+    "trans": [
+      "n. 最后期限；截止日期"
+    ],
+    "usphone": "'dɛdlaɪn",
+    "ukphone": "'dɛdlaɪn",
+    "e_mean": [
+      "the point in time at which something must be completed"
+    ],
+    "speech": "noun",
+    "sentence": "I must make this deadline or my boss will kill me!"
+  },
+  {
+    "name": "course",
+    "trans": [
+      "n. 课程；过程；进程；方向",
+      "v. 经过；从事；修习"
+    ],
+    "usphone": "kɔːrs",
+    "ukphone": "kɔːs",
+    "e_mean": [
+      "a connected series of events or actions or developments"
+    ],
+    "speech": "noun",
+    "sentence": "The normal course of events seems to be just one damned thing after another."
+  },
+  {
+    "name": "lesson",
+    "trans": [
+      "n. 课；功课；教训；经验"
+    ],
+    "usphone": "'lɛs(ə)n",
+    "ukphone": "'lɛs(ə)n",
+    "e_mean": [
+      "the significance of a story or event"
+    ],
+    "speech": "noun",
+    "sentence": "In our school a typical working week consists of around twenty lessons and ten hours of related laboratory work."
+  },
+  {
+    "name": "outline",
+    "trans": [
+      "n. 大纲；概要；轮廓",
+      "v. 概述；略图；勾勒"
+    ],
+    "usphone": "aʊt'laɪn",
+    "ukphone": "aʊt'laɪn",
+    "e_mean": [
+      "the line that appears to bound an object"
+    ],
+    "speech": "noun",
+    "sentence": "the outline of a speech"
+  },
+  {
+    "name": "point",
+    "trans": [
+      "n. 点；要点；尖端；分数",
+      "v. 指向；瞄准；提出"
+    ],
+    "usphone": "pɔɪnt",
+    "ukphone": "pɔɪnt",
+    "e_mean": [
+      "a distinguishing or individuating characteristic"
+    ],
+    "speech": "noun",
+    "sentence": "point de Venise; Brussels point"
+  },
+  {
+    "name": "opinion",
+    "trans": [
+      "n. 意见；看法；见解"
+    ],
+    "usphone": "ə'pɪnjən",
+    "ukphone": "ə'pɪnjən",
+    "e_mean": [
+      "a personal belief or judgment"
+    ],
+    "speech": "noun",
+    "sentence": "Every man is a fool in some man's opinion."
+  },
+  {
+    "name": "introduce",
+    "trans": [
+      "v. 介绍；引进；传入"
+    ],
+    "usphone": "ˌɪntrə'duːs",
+    "ukphone": "ˌɪntrə'duːs",
+    "e_mean": [
+      "bring something new to an environment"
+    ],
+    "speech": "verb",
+    "sentence": "Let me introduce you to my friends."
+  },
+  {
+    "name": "reference",
+    "trans": [
+      "n. 参考；提及；参照；参考文献",
+      "v. 提及；参考；参照"
+    ],
+    "usphone": "rɛ'f(ə)r(ə)ns",
+    "ukphone": "rɪ'f(ə)r(ə)ns",
+    "e_mean": [
+      "the act of consulting"
+    ],
+    "speech": "noun",
+    "sentence": "You must thoroughly reference your paper before submitting it."
+  },
+  {
+    "name": "cite",
+    "trans": [
+      "v. 引用；举例；提名；引证"
+    ],
+    "usphone": "saɪt",
+    "ukphone": "saɪt",
+    "e_mean": [
+      "make reference to"
+    ],
+    "speech": "verb",
+    "sentence": "We used the number of cites as a rough measure of the significance of each published paper."
+  },
+  {
+    "name": "elicit",
+    "trans": [
+      "v. 引出；诱出；引起"
+    ],
+    "usphone": "ɪ'lɪsɪt",
+    "ukphone": "ɪ'lɪsɪt",
+    "e_mean": [
+      "call forth, as an emotion, feeling, or response"
+    ],
+    "speech": "verb",
+    "sentence": "Did you elicit a response?"
+  },
+  {
+    "name": "quote",
+    "trans": [
+      "v. 引用；报价；表明；估价",
+      "n. 引用；报价；引文"
+    ],
+    "usphone": "kwoʊt",
+    "ukphone": "kwəʊt",
+    "e_mean": [
+      "repeat a passage from"
+    ],
+    "speech": "verb",
+    "sentence": "After going over the hefty quotes, the board decided it was cheaper to have the project executed by its own staff."
+  },
+  {
+    "name": "extract",
+    "trans": [
+      "v. 提取；摘录；取出",
+      "n. 摘录；萃取物"
+    ],
+    "usphone": "ɪk'strækt",
+    "ukphone": "ɪk'strækt",
+    "e_mean": [
+      "remove, usually with some force or effort"
+    ],
+    "speech": "verb",
+    "sentence": "I used an extract of Hemingway's book to demonstrate culture shock."
+  },
+  {
+    "name": "abstract",
+    "trans": [
+      "adj. 抽象的；深奥的",
+      "n. 摘要；抽象；概括",
+      "v. 摘要；抽象"
+    ],
+    "usphone": "'æbstrækt",
+    "ukphone": "'æbstrækt",
+    "e_mean": [
+      "existing only in the mind"
+    ],
+    "speech": "adjective",
+    "sentence": "He was wholly abstracted by other objects."
+  },
+  {
+    "name": "summary",
+    "trans": [
+      "adj. 总的；简要的",
+      "n. 摘要；概要；总结",
+      "v. 总结；概述"
+    ],
+    "usphone": "'sʌm(ə)rɪ",
+    "ukphone": "'sʌm(ə)rɪ",
+    "e_mean": [
+      "a brief statement that presents the main points"
+    ],
+    "speech": "noun",
+    "sentence": "A summary review is in the appendix."
+  },
+  {
+    "name": "assume",
+    "trans": [
+      "v. 假设；承担；呈现；担任"
+    ],
+    "usphone": "ə'suːm",
+    "ukphone": "ə'suːm",
+    "e_mean": [
+      "take to be the case or to be true"
+    ],
+    "speech": "verb",
+    "sentence": "We assume that, as her parents were dentists, she knows quite a bit about dentistry."
+  },
+  {
+    "name": "presume",
+    "trans": [
+      "v. 假定；设想；冒昧地认为"
+    ],
+    "usphone": "prɪ'zuːm",
+    "ukphone": "prɪ'zuːm",
+    "e_mean": [
+      "take to be the case or to be true"
+    ],
+    "speech": "verb",
+    "sentence": "I wouldn't presume to tell him how to do his job."
+  },
+  {
+    "name": "suppose",
+    "trans": [
+      "v. 假定；猜想；料想"
+    ],
+    "usphone": "sə'poʊz",
+    "ukphone": "sə'pəʊz",
+    "e_mean": [
+      "expect or believe"
+    ],
+    "speech": "verb",
+    "sentence": "Suppose that A implies B and B implies C. Then A implies C."
+  },
+  {
+    "name": "enable",
+    "trans": [
+      "v. 使能够；使可能"
+    ],
+    "usphone": "ɪ'neɪbl",
+    "ukphone": "ɪ'neɪbl",
+    "e_mean": [
+      "provide the means to perform some task"
+    ],
+    "speech": "verb",
+    "sentence": "April 16, 2018, Norimitsu Onishi and Selam Gebrekidan writing in The New York Times, ‘They Eat Money’: How Mandela’s Political Heirs Grow Rich Off Corruption"
+  },
+  {
+    "name": "inspire",
+    "trans": [
+      "v. 激励；鼓舞；启发"
+    ],
+    "usphone": "ɪn'spaɪr",
+    "ukphone": "ɪn'spaɪr",
+    "e_mean": [
+      "serve as the inciting cause of"
+    ],
+    "speech": "verb",
+    "sentence": "Elders should inspire children with sentiments of virtue."
+  },
+  {
+    "name": "motivate",
+    "trans": [
+      "v. 激励；促动；驱使"
+    ],
+    "usphone": "moʊ'tɪveɪt",
+    "ukphone": "məʊ'tɪveɪt",
+    "e_mean": [
+      "give an incentive for action"
+    ],
+    "speech": "verb",
+    "sentence": "The weekly staff meeting was meant to motivate employees."
+  },
+  {
+    "name": "spur",
+    "trans": [
+      "n. 鞭策；刺激；动力",
+      "v. 刺激；鼓励；激发"
+    ],
+    "usphone": "spər",
+    "ukphone": "spɜːr",
+    "e_mean": [
+      "a prod on a rider's heel used to urge a horse onward"
+    ],
+    "speech": "noun",
+    "sentence": "to spur boots"
+  },
+  {
+    "name": "impetus",
+    "trans": [
+      "n. 刺激；动力；推动力"
+    ],
+    "usphone": "ɪm'piːt(ə)s",
+    "ukphone": "ɪm'piːt(ə)s",
+    "e_mean": [
+      "a force that makes something happen"
+    ],
+    "speech": "noun",
+    "sentence": "The outbreak of World War II in 1939 gave a new impetus to receiver development."
+  },
+  {
+    "name": "indulge",
+    "trans": [
+      "v. 沉溺；放纵；纵容"
+    ],
+    "usphone": "ɪn'dʌl(d)ʒ",
+    "ukphone": "ɪn'dʌl(d)ʒ",
+    "e_mean": [
+      "yield to; give satisfaction to"
+    ],
+    "speech": "verb",
+    "sentence": "He looked at the chocolate but didn't indulge."
+  },
+  {
+    "name": "spoil",
+    "trans": [
+      "v. 损坏；宠坏；阻碍；毁灭",
+      "n. 损坏；毁灭；溺爱"
+    ],
+    "usphone": "spɔɪl",
+    "ukphone": "spɔɪl",
+    "e_mean": [
+      "make a mess of, destroy or ruin"
+    ],
+    "speech": "verb",
+    "sentence": "Make sure you put the milk back in the fridge, otherwise it will spoil."
+  },
+  {
+    "name": "abuse",
+    "trans": [
+      "n. 滥用；虐待；诽谤",
+      "v. 滥用；虐待；诽谤"
+    ],
+    "usphone": "ə'byus",
+    "ukphone": "ə'bjuːs",
+    "e_mean": [
+      "cruel or inhumane treatment"
+    ],
+    "speech": "noun",
+    "sentence": "All abuse, whether physical, verbal, psychological or sexual, is bad."
+  },
+  {
+    "name": "intelligent",
+    "trans": [
+      "adj. 聪明的；有才智的"
+    ],
+    "usphone": "ɪn't(ɛ)l(ə)dʒ(ə)nt",
+    "ukphone": "ɪn't(ɛ)l(ə)dʒ(ə)nt",
+    "e_mean": [
+      "having the capacity for thought and reason to a high degree"
+    ],
+    "speech": "adjective",
+    "sentence": "The engineer had a very intelligent design proposal for the new car."
+  },
+  {
+    "name": "intellectual",
+    "trans": [
+      "adj. 智力的；智慧的；理智的",
+      "n. 知识分子；脑力劳动者"
+    ],
+    "usphone": "ɪn't(ɛ)l(ə)dʒ(ə)nt(ʃ)ʊ(ə)l",
+    "ukphone": "ɪn't(ɛ)l(ə)dʒ(ə)nt(ʃ)ʊ(ə)l",
+    "e_mean": [
+      "of or associated with or requiring the use of the mind"
+    ],
+    "speech": "adjective",
+    "sentence": "intellectual powers, activities, etc."
+  },
+  {
+    "name": "genius",
+    "trans": [
+      "n. 天才；伟大的才能；杰出的才华"
+    ],
+    "usphone": "ˈdʒiːni(ə)s",
+    "ukphone": "ˈdʒiːni(ə)s",
+    "e_mean": [
+      "unusual mental ability"
+    ],
+    "speech": "noun",
+    "sentence": "I think that would qualify as not smart, but genius... and a very stable genius at that!"
+  },
+  {
+    "name": "wit",
+    "trans": [
+      "n. 智慧；才智；机智"
+    ],
+    "usphone": "wɪt",
+    "ukphone": "wɪt",
+    "e_mean": [
+      "mental ability"
+    ],
+    "speech": "noun",
+    "sentence": "He's gone completely out of his wits."
+  },
+  {
+    "name": "capable",
+    "trans": [
+      "adj. 有能力的；有才能的"
+    ],
+    "usphone": "ˈkeɪp.ə.b(ə)l",
+    "ukphone": "ˈkeɪp.ə.b(ə)l",
+    "e_mean": [
+      "having ability"
+    ],
+    "speech": "adjective",
+    "sentence": "As everyone knew, he was capable of violence when roused."
+  },
+  {
+    "name": "junior",
+    "trans": [
+      "adj. 较年少的；地位较低的",
+      "n. 初级的；年少的人"
+    ],
+    "usphone": "ˈdʒuːni.ər",
+    "ukphone": "ˈdʒuːni.ər",
+    "e_mean": [
+      "including or intended for youthful persons"
+    ],
+    "speech": "adjective",
+    "sentence": "four years his junior"
+  },
+  {
+    "name": "campus",
+    "trans": [
+      "n. (大学) 校园；(学校的) 校舍区"
+    ],
+    "usphone": "ˈkæm.pəs",
+    "ukphone": "ˈkæm.pəs",
+    "e_mean": [
+      "a field on which the buildings of a university are situated"
+    ],
+    "speech": "noun",
+    "sentence": "The campus is sixty hectares in size."
+  },
+  {
+    "name": "orientation",
+    "trans": [
+      "n. 方向；倾向；定位；熟悉"
+    ],
+    "usphone": "ˌoːri.enˈteɪ.ʃ(ə)n",
+    "ukphone": "ˌoːri.enˈteɪ.ʃ(ə)n",
+    "e_mean": [
+      "the act of determining one's position"
+    ],
+    "speech": "noun",
+    "sentence": "The homing instinct in pigeons is an example of orientation."
+  },
+  {
+    "name": "register",
+    "trans": [
+      "n. 登记册；登记处；记录器",
+      "v. 登记；注册；记录"
+    ],
+    "usphone": "ˈrɛdʒ.ə.st(ə)r",
+    "ukphone": "ˈrɛdʒ.ə.st(ə)r",
+    "e_mean": [
+      "an official written record of names or events"
+    ],
+    "speech": "noun",
+    "sentence": "The teacher took the register by calling out each child's name."
+  },
+  {
+    "name": "enrol",
+    "trans": [
+      "v. (在学校、大学等) 入学，注册；登记"
+    ],
+    "usphone": "ɪn'roʊl",
+    "ukphone": "ɪn'roʊl",
+    "e_mean": [
+      "register formally as a participant or member"
+    ],
+    "speech": "verb",
+    "sentence": "They were eager to enroll new recruits."
+  },
+  {
+    "name": "marketing",
+    "trans": [
+      "n. 营销；市场调查；销售"
+    ],
+    "usphone": "ˈmɑːr.kɪt.ɪŋ",
+    "ukphone": "ˈmɑːr.kɪt.ɪŋ",
+    "e_mean": [
+      "the commercial processes in promoting and selling something"
+    ],
+    "speech": "noun",
+    "sentence": "We plan to market an ecology model by next quarter."
+  },
+  {
+    "name": "maths",
+    "trans": [
+      "n. 数学"
+    ],
+    "usphone": "'mæθs",
+    "ukphone": "'mæθs",
+    "e_mean": [
+      "a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement"
+    ],
+    "speech": "noun",
+    "sentence": "My mathematics is always improving."
+  },
+  {
+    "name": "round",
+    "trans": [
+      "adj. 圆的；圆满的，完美的",
+      "n. 圆；圈；一轮；一圈；一番",
+      "adv. 周围；四周；大约",
+      "v. 使成圆形；使圆满；使完善"
+    ],
+    "usphone": "raʊnd",
+    "ukphone": "raʊnd",
+    "e_mean": [
+      "having a circular shape"
+    ],
+    "speech": "adjective",
+    "sentence": "High above, vultures circled around."
+  },
+  {
+    "name": "dot",
+    "trans": [
+      "n. 点；小圆点；小数点；点状物；少许",
+      "v. 点缀；打点；沾上少许"
+    ],
+    "usphone": "dɑt",
+    "ukphone": "dɒt",
+    "e_mean": [
+      "a very small circular shape"
+    ],
+    "speech": "noun",
+    "sentence": "a dot of colour"
+  },
+  {
+    "name": "cone",
+    "trans": [
+      "n. 圆锥；圆锥体；锥形物"
+    ],
+    "usphone": "koʊn",
+    "ukphone": "kəʊn",
+    "e_mean": [
+      "a shape with a circular base and sides tapering to a point"
+    ],
+    "speech": "noun",
+    "sentence": "A cone is an object (the apex) and a natural transformation from a constant functor (whose image is the apex of the cone and its identity morphism) to a diagram functor. Its components are projections from the apex to the objects of the diagram and it has a “naturality triangle” for each morphism in the diagram. (A “naturality triangle” is just a naturality square which is degenerate at its apex side.)"
+  },
+  {
+    "name": "extent",
+    "trans": [
+      "n. 范围；限度；程度；广度"
+    ],
+    "usphone": "ɪk'stɛnt",
+    "ukphone": "ɪk'stɛnt",
+    "e_mean": [
+      "the point or degree to which something extends"
+    ],
+    "speech": "noun",
+    "sentence": "The extent of his knowledge of the language is a few scattered words."
+  },
+  {
+    "name": "width",
+    "trans": [
+      "n. 宽度；广度"
+    ],
+    "usphone": "wɪdθ",
+    "ukphone": "wɪdθ",
+    "e_mean": [
+      "the extent of something from side to side"
+    ],
+    "speech": "noun",
+    "sentence": "Manchester United like to play with width."
+  },
+  {
+    "name": "length",
+    "trans": [
+      "n. 长度；长；一段；一段时间"
+    ],
+    "usphone": "lɛŋkθ",
+    "ukphone": "lɛŋkθ",
+    "e_mean": [
+      "the linear extent in space from one end to the other"
+    ],
+    "speech": "noun",
+    "sentence": "the length of a book"
+  },
+  {
+    "name": "decimal",
+    "trans": [
+      "n. 小数；十进制",
+      "adj. 小数的；十进制的"
+    ],
+    "usphone": "'dɛsɪm(ə)l",
+    "ukphone": "'dɛsɪm(ə)l",
+    "e_mean": [
+      "a number in a system based on ten"
+    ],
+    "speech": "noun",
+    "sentence": "Pi has a value of 3.142, to three decimals."
+  },
+  {
+    "name": "percent",
+    "trans": [
+      "n. 百分之…；百分率；百分比"
+    ],
+    "usphone": "'pɛrs(ə)nt",
+    "ukphone": "'pɛrs(ə)nt",
+    "e_mean": [
+      "a proportion in relation to a whole"
+    ],
+    "speech": "noun",
+    "sentence": "only a small percent attain the top ranks"
+  },
+  {
+    "name": "proportion",
+    "trans": [
+      "n. 比例；部分；相称；和谐"
+    ],
+    "usphone": "prə'pɔrʃ(ə)n",
+    "ukphone": "prə'pɔːʃ(ə)n",
+    "e_mean": [
+      "relation with respect to comparative quantity or magnitude"
+    ],
+    "speech": "noun",
+    "sentence": "the proportion of the parts of a building, or of the body"
+  },
+  {
+    "name": "rate",
+    "trans": [
+      "n. 速率；费率；比率；等级；级别",
+      "v. 评价；估价；计算比率"
+    ],
+    "usphone": "reɪt",
+    "ukphone": "reɪt",
+    "e_mean": [
+      "a quantity considered as a proportion of another quantity"
+    ],
+    "speech": "noun",
+    "sentence": "At the height of his powers, he was producing pictures at the rate of four a year."
+  },
+  {
+    "name": "ratio",
+    "trans": [
+      "n. 比率；比值；关系"
+    ],
+    "usphone": "'reɪʃioʊ",
+    "ukphone": "'reɪʃiəʊ",
+    "e_mean": [
+      "relation with respect to comparative quantity or magnitude"
+    ],
+    "speech": "noun",
+    "sentence": "The schoolchildren ganged up to ratio the school catering over its shamefully undemocratic inclusion of vegetables in meals."
+  },
+  {
+    "name": "scale",
+    "trans": [
+      "n. 大小；规模；等级；尺度；鳞片",
+      "v. 称…的重量；测量；攀爬"
+    ],
+    "usphone": "skeɪl",
+    "ukphone": "skeɪl",
+    "e_mean": [
+      "an ordered reference standard"
+    ],
+    "speech": "noun",
+    "sentence": "Please rate your experience on a scale from 1 to 10."
+  },
+  {
+    "name": "ounce",
+    "trans": [
+      "n. 盎司；少量；少许"
+    ],
+    "usphone": "aʊns",
+    "ukphone": "aʊns",
+    "e_mean": [
+      "a unit of weight equal to one sixteenth of a pound or 16 drams or 28.349 grams"
+    ],
+    "speech": "noun",
+    "sentence": "He didn't feel even an ounce of regret for his actions."
+  },
+  {
+    "name": "density",
+    "trans": [
+      "n. 密度；浓度；稠密"
+    ],
+    "usphone": "'dɛnsɪti",
+    "ukphone": "'dɛnsəti",
+    "e_mean": [
+      "the amount per unit size"
+    ],
+    "speech": "noun",
+    "sentence": "The number of particles per unit volume of a specified volume can be considered to be the particle density for the specified volume."
+  },
+  {
+    "name": "battery",
+    "trans": [
+      "n. 电池；炮兵连；电源；电池组；殴打；群殴"
+    ],
+    "usphone": "'bætri",
+    "ukphone": "'bætri",
+    "e_mean": [
+      "a collection of related things intended for use together"
+    ],
+    "speech": "noun",
+    "sentence": "Schoolchildren take a battery of standard tests to measure their progress."
+  },
+  {
+    "name": "forum",
+    "trans": [
+      "n. 论坛；座谈会；讨论会；公共场所"
+    ],
+    "usphone": "'fɔrm",
+    "ukphone": "'fɔːrəm",
+    "e_mean": [
+      "a public facility to meet for open discussion"
+    ],
+    "speech": "noun",
+    "sentence": "Trish was an admin on three forums, and had no trouble at all when it came to moderating them."
+  },
+  {
+    "name": "system",
+    "trans": [
+      "n. 系统；体系；制度；方法；一套"
+    ],
+    "usphone": "'sɪst(ə)m",
+    "ukphone": "'sɪst(ə)m",
+    "e_mean": [
+      "a group of independent elements comprising a unified whole"
+    ],
+    "speech": "noun",
+    "sentence": "There are eight planets in the solar system."
+  },
+  {
+    "name": "rudimentary",
+    "trans": [
+      "adj. 基本的；初步的；未发展的"
+    ],
+    "usphone": "ˌruːdɪ'mentri",
+    "ukphone": "ˌruːdɪ'mentrɪ",
+    "e_mean": [
+      "being in the earliest stages of development"
+    ],
+    "speech": "adjective",
+    "sentence": "I have only a rudimentary grasp of chemistry."
+  },
+  {
+    "name": "basic",
+    "trans": [
+      "adj. 基本的；基础的；初步的"
+    ],
+    "usphone": "'beɪsɪk",
+    "ukphone": "'beɪsɪk",
+    "e_mean": [
+      "reduced to the simplest and most significant form possible"
+    ],
+    "speech": "adjective",
+    "sentence": "Rice is a basic for many Asian villagers."
+  },
+  {
+    "name": "fundamental",
+    "trans": [
+      "adj. 基本的；根本的；重要的；基础性的"
+    ],
+    "usphone": "ˌfʌnd(ə)'ment(ə)l",
+    "ukphone": "ˌfʌnd(ə)'ment(ə)l",
+    "e_mean": [
+      "serving as an essential component"
+    ],
+    "speech": "adjective",
+    "sentence": "one of the fundamentals of linear algebra"
+  },
+  {
+    "name": "profound",
+    "trans": [
+      "adj. 深刻的；深奥的；感人的"
+    ],
+    "usphone": "prə'faʊnd",
+    "ukphone": "prə'faʊnd",
+    "e_mean": [
+      "situated at or extending to great depth"
+    ],
+    "speech": "adjective",
+    "sentence": "a profound investigation"
+  },
+  {
+    "name": "superficial",
+    "trans": [
+      "adj. 表面的；肤浅的；浅薄的"
+    ],
+    "usphone": "suːpə'fɪʃ(ə)l",
+    "ukphone": "suːpə'fɪʃ(ə)l",
+    "e_mean": [
+      "of, affecting, or being on or near the surface"
+    ],
+    "speech": "adjective",
+    "sentence": "He always concentrates on the superficials and fails to see the real issue."
+  },
+  {
+    "name": "surface",
+    "trans": [
+      "n. 表面；外表；地面；地表；表现",
+      "v. 出现在表面；浮现"
+    ],
+    "usphone": "ˈsɜrf(ə)s",
+    "ukphone": "ˈsɜːfs",
+    "e_mean": [
+      "the outer boundary of an artifact or a material layer"
+    ],
+    "speech": "noun",
+    "sentence": "On the surface, the spy looked like a typical businessman."
+  },
+  {
+    "name": "compulsory",
+    "trans": [
+      "adj. 强制的；必须的；义务的"
+    ],
+    "usphone": "k(ə)m'pʌls(ə)ri",
+    "ukphone": "k(ə)m'pʌls(ə)rɪ",
+    "e_mean": [
+      "required by rule"
+    ],
+    "speech": "adjective",
+    "sentence": "The ten-dollar fee was compulsory."
+  },
+  {
+    "name": "prerequisite",
+    "trans": [
+      "n. 先决条件；前提；必要条件"
+    ],
+    "usphone": "priːrɪ'kwɪzɪt",
+    "ukphone": "priːrɪ'kwɪzɪt",
+    "e_mean": [
+      "something that is needed or obligatory in advance"
+    ],
+    "speech": "noun",
+    "sentence": "A degree is a prerequisite for entry into this profession."
+  },
+  {
+    "name": "selective",
+    "trans": [
+      "adj. 精选的；挑选的；选拔的；有选择性的"
+    ],
+    "usphone": "sɪ'lɛktɪv",
+    "ukphone": "sɪ'lɛktɪv",
+    "e_mean": [
+      "characterized by very careful or fastidious choice"
+    ],
+    "speech": "adjective",
+    "sentence": "selective pressure"
+  },
+  {
+    "name": "elective",
+    "trans": [
+      "adj. 选修的；自由选择的；选举的"
+    ],
+    "usphone": "ˈɛl(ə)ktɪv",
+    "ukphone": "ˈɛl(ə)ktɪv",
+    "e_mean": [
+      "not compulsory"
+    ],
+    "speech": "adjective",
+    "sentence": "My insurance wouldn't pay for the operation because it was elective surgery."
+  },
+  {
+    "name": "assignment",
+    "trans": [
+      "n. 分配；指派；作业；任务；转让；认股权证"
+    ],
+    "usphone": "ə'saɪnm(ə)nt",
+    "ukphone": "ə'saɪnm(ə)nt",
+    "e_mean": [
+      "an undertaking that you have been told to perform"
+    ],
+    "speech": "noun",
+    "sentence": "This flow chart represents the assignment of tasks in our committee."
+  },
+  {
+    "name": "submit",
+    "trans": [
+      "v. 提交；呈送；服从；屈服"
+    ],
+    "usphone": "səb'mɪt",
+    "ukphone": "səb'mɪt",
+    "e_mean": [
+      "yield to the control of another"
+    ],
+    "speech": "verb",
+    "sentence": "They will not submit to the destruction of their rights."
+  },
+  {
+    "name": "review",
+    "trans": [
+      "n. 复习；回顾；评论；审查；复审",
+      "v. 复习；回顾；评论；审查；复审"
+    ],
+    "usphone": "rɪ'vjuː",
+    "ukphone": "rɪ'vjuː",
+    "e_mean": [
+      "look at again; examine again"
+    ],
+    "speech": "verb",
+    "sentence": "I need to make a review of the book before I can understand it."
+  },
+  {
+    "name": "revise",
+    "trans": [
+      "v. 修订；修改；校订；修正",
+      "n. 修订；修改；校订；修正"
+    ],
+    "usphone": "rɪ'vaɪz",
+    "ukphone": "rɪ'vaɪz",
+    "e_mean": [
+      "make changes to"
+    ],
+    "speech": "verb",
+    "sentence": "This statute should be revised."
+  },
+  {
+    "name": "inspect",
+    "trans": [
+      "v. 检查；审查；检验"
+    ],
+    "usphone": "ɪn'spɛkt",
+    "ukphone": "ɪn'spɛkt",
+    "e_mean": [
+      "look over carefully"
+    ],
+    "speech": "verb",
+    "sentence": "Inspect the system for leaks."
+  },
+  {
+    "name": "discern",
+    "trans": [
+      "v. 辨别；看出；察觉；分辨"
+    ],
+    "usphone": "dɪ'sɜrn",
+    "ukphone": "dɪ'sɜːn",
+    "e_mean": [
+      "perceive, recognize, or detect"
+    ],
+    "speech": "verb",
+    "sentence": "He was too young to discern right from wrong."
+  },
+  {
+    "name": "recognise",
+    "trans": [
+      "v. 识别；认出；承认；赞许"
+    ],
+    "usphone": "rɛk(ə)g'naɪz",
+    "ukphone": "rɛk(ə)g'naɪz",
+    "e_mean": [
+      "perceive to be the same"
+    ],
+    "speech": "verb",
+    "sentence": "I recognised his face immediately."
+  },
+  {
+    "name": "conscious",
+    "trans": [
+      "adj. 有意识的；清醒的；意识到的"
+    ],
+    "usphone": "kɑːnʃ(ə)s",
+    "ukphone": "kɑːnʃ(ə)s",
+    "e_mean": [
+      "having awareness of surroundings and sensations and thoughts"
+    ],
+    "speech": "adjective",
+    "sentence": "The noise woke me, but it was another few minutes before I was fully conscious."
+  },
+  {
+    "name": "reckon",
+    "trans": [
+      "v. 计算；估计；视为；想必；把...视为"
+    ],
+    "usphone": "rɛk(ə)n",
+    "ukphone": "rɛk(ə)n",
+    "e_mean": [
+      "expect, believe, or suppose"
+    ],
+    "speech": "verb",
+    "sentence": "I reckon he won't try that again."
+  },
+  {
+    "name": "deem",
+    "trans": [
+      "v. 认为；以为；视为"
+    ],
+    "usphone": "diːm",
+    "ukphone": "diːm",
+    "e_mean": [
+      "judge or regard in a particular way"
+    ],
+    "speech": "verb",
+    "sentence": "She deemed his efforts insufficient."
+  },
+  {
+    "name": "imply",
+    "trans": [
+      "v. 暗示；意味着；暗指"
+    ],
+    "usphone": "ɪm'plaɪ",
+    "ukphone": "ɪm'plaɪ",
+    "e_mean": [
+      "express or state indirectly"
+    ],
+    "speech": "verb",
+    "sentence": "The proposition that \"all dogs are mammals\" implies that my dog is a mammal"
+  },
+  {
+    "name": "deliberate",
+    "trans": [
+      "adj. 深思熟虑的；蓄意的；故意的",
+      "v. 仔细考虑；商议；决定"
+    ],
+    "usphone": "dɪ'lɪb(ə)rɪt",
+    "ukphone": "dɪ'lɪb(ə)rɪt",
+    "e_mean": [
+      "carefully thought out in advance"
+    ],
+    "speech": "adjective",
+    "sentence": "It is now time for the jury to deliberate the guilt of the defendant."
+  },
+  {
+    "name": "represent",
+    "trans": [
+      "v. 代表；象征；表示；描述；陈述"
+    ],
+    "usphone": "rɛprɪ'z(ɛ)nt",
+    "ukphone": "rɛprɪ'z(ɛ)nt",
+    "e_mean": [
+      "be a delegate or spokesperson for"
+    ],
+    "speech": "verb",
+    "sentence": "The sculptor represented a horse in bronze."
+  },
+  {
+    "name": "insist",
+    "trans": [
+      "v. 坚持，坚决主张"
+    ],
+    "usphone": "'ɪnsɪst",
+    "ukphone": "'ɪnsɪst",
+    "e_mean": [
+      "be emphatic or resolute and refuse to budge"
+    ],
+    "speech": "verb",
+    "sentence": "I insist that my secretary dresses nicely."
+  },
+  {
+    "name": "understand",
+    "trans": [
+      "v. 理解，懂得"
+    ],
+    "usphone": "'ʌndərstænd",
+    "ukphone": "'ʌndə'stænd",
+    "e_mean": [
+      "know and comprehend the nature or meaning of"
+    ],
+    "speech": "verb",
+    "sentence": "I'm sorry. I don't understand."
+  },
+  {
+    "name": "deduce",
+    "trans": [
+      "v. 推断，推理"
+    ],
+    "usphone": "dɪ'djuːs",
+    "ukphone": "dɪ'djuːs",
+    "e_mean": [
+      "reason from the general to the particular"
+    ],
+    "speech": "verb",
+    "sentence": "to deduce a part from the whole"
+  },
+  {
+    "name": "conclude",
+    "trans": [
+      "v. 结束；得出结论；认为"
+    ],
+    "usphone": "kən'kljuːd",
+    "ukphone": "kən'kljuːd",
+    "e_mean": [
+      "bring to a close"
+    ],
+    "speech": "verb",
+    "sentence": "The story concluded with a moral."
+  },
+  {
+    "name": "compare",
+    "trans": [
+      "v. 比较，对照"
+    ],
+    "usphone": "kəm'pɛr",
+    "ukphone": "kəm'pɛː",
+    "e_mean": [
+      "examine and note the similarities or differences of"
+    ],
+    "speech": "verb",
+    "sentence": "Compare the tiger's coloration with that of the zebra."
+  },
+  {
+    "name": "contrast",
+    "trans": [
+      "v. 对比；与...相对照",
+      "n. 对比，对照"
+    ],
+    "usphone": "kən'træst",
+    "ukphone": "kən'træst",
+    "e_mean": [
+      "the opposition or dissimilarity of things that are compared"
+    ],
+    "speech": "noun",
+    "sentence": "Israel is a country of many contrasts."
+  },
+  {
+    "name": "overlap",
+    "trans": [
+      "v. 重叠，相交"
+    ],
+    "usphone": "ˌoʊvər'læp",
+    "ukphone": "ˌəʊvə'læp",
+    "e_mean": [
+      "extend over and cover a part of"
+    ],
+    "speech": "verb",
+    "sentence": "The mouse-mat overlapped the edge of the desk."
+  },
+  {
+    "name": "contradiction",
+    "trans": [
+      "n. 矛盾，不一致"
+    ],
+    "usphone": "ˌkɑːntrə'dɪkʃn",
+    "ukphone": "ˌkɒntrə'dɪkʃn",
+    "e_mean": [
+      "opposition between two conflicting forces or ideas"
+    ],
+    "speech": "noun",
+    "sentence": "His contradiction of the proposal was very interesting."
+  },
+  {
+    "name": "disagree",
+    "trans": [
+      "v. 不同意，意见不合"
+    ],
+    "usphone": "ˌdɪsə'griː",
+    "ukphone": "ˌdɪsə'griː",
+    "e_mean": [
+      "be of different opinions"
+    ],
+    "speech": "verb",
+    "sentence": "Bob says cats are friendlier than dogs, but I disagree."
+  },
+  {
+    "name": "differ",
+    "trans": [
+      "v. 不同，差异"
+    ],
+    "usphone": "'dɪfər",
+    "ukphone": "'dɪfəː",
+    "e_mean": [
+      "be dissimilar or unlike"
+    ],
+    "speech": "verb",
+    "sentence": "These shoes only differ from those ones in having slightly longer laces."
+  },
+  {
+    "name": "diverse",
+    "trans": [
+      "adj. 不同的，多样的"
+    ],
+    "usphone": "daɪ'vərs",
+    "ukphone": "daɪ'vəːs",
+    "e_mean": [
+      "distinctly dissimilar or unlike"
+    ],
+    "speech": "adjective",
+    "sentence": "Idris Elba was a diverse hire for the franchise"
+  },
+  {
+    "name": "nuance",
+    "trans": [
+      "n. 细微差别，细微变化"
+    ],
+    "usphone": "nuː'ɑːns",
+    "ukphone": "nuː'ɑːns",
+    "e_mean": [
+      "a subtle difference in meaning or opinion or attitude"
+    ],
+    "speech": "noun",
+    "sentence": "Understanding the basics is easy, but appreciating the nuances takes years."
+  },
+  {
+    "name": "detail",
+    "trans": [
+      "n. 细节，详情",
+      "v. 详述，报告"
+    ],
+    "usphone": "dɪ'teɪl",
+    "ukphone": "dɪ'teɪl",
+    "e_mean": [
+      "a small part considered separately from the whole"
+    ],
+    "speech": "noun",
+    "sentence": "Note this fine detail in the lower left corner."
+  },
+  {
+    "name": "thorough",
+    "trans": [
+      "adj. 彻底的，详尽的"
+    ],
+    "usphone": "'θʌrə",
+    "ukphone": "'θʌrəʊ",
+    "e_mean": [
+      "painstakingly careful and accurate"
+    ],
+    "speech": "adjective",
+    "sentence": "He is the most thorough worker I have ever seen."
+  },
+  {
+    "name": "instance",
+    "trans": [
+      "n. 例子，实例"
+    ],
+    "usphone": "'ɪnstəns",
+    "ukphone": "'ɪnstəns",
+    "e_mean": [
+      "an item of information that is typical of a class or group"
+    ],
+    "speech": "noun",
+    "sentence": "It sends some precious instance of itself/ After the thing it loves. Hamlet IV. v. ca. 1602"
+  },
+  {
+    "name": "demonstrate",
+    "trans": [
+      "v. 证明，示范"
+    ],
+    "usphone": "'dɛmənstreɪt",
+    "ukphone": "'dɛmənstreɪt",
+    "e_mean": [
+      "give an exhibition of to an interested audience"
+    ],
+    "speech": "verb",
+    "sentence": "Can you demonstrate the new tools for us?"
+  },
+  {
+    "name": "illustrate",
+    "trans": [
+      "v. 说明，举例证明"
+    ],
+    "usphone": "'ɪləstreɪt",
+    "ukphone": "'ɪləstreɪt",
+    "e_mean": [
+      "depict with a visual representation"
+    ],
+    "speech": "verb",
+    "sentence": "We illustrate our definitions by including quotations or simple examples."
+  },
+  {
+    "name": "manifest",
+    "trans": [
+      "v. 表明，显示",
+      "adj. 明显的，明确的"
+    ],
+    "usphone": "'mænɪfest",
+    "ukphone": "'mænɪfest",
+    "e_mean": [
+      "clearly revealed to the mind or the senses or judgment"
+    ],
+    "speech": "adjective",
+    "sentence": "His courage manifested itself through the look on his face."
+  },
+  {
+    "name": "prove",
+    "trans": [
+      "v. 证明，证实"
+    ],
+    "usphone": "pruːv",
+    "ukphone": "pruːv",
+    "e_mean": [
+      "establish the validity of something"
+    ],
+    "speech": "verb",
+    "sentence": "I will prove that my method is more effective than yours."
+  },
+  {
+    "name": "determine",
+    "trans": [
+      "v. 决定，确定"
+    ],
+    "usphone": "dɪ'tərmɪn",
+    "ukphone": "dɪ'təːmɪn",
+    "e_mean": [
+      "find out or learn with certainty, as by making an inquiry"
+    ],
+    "speech": "verb",
+    "sentence": "The news of his father's illness determined him to depart immediately."
+  },
+  {
+    "name": "decide",
+    "trans": [
+      "v. 决定，作出决策"
+    ],
+    "usphone": "dɪ'saɪd",
+    "ukphone": "dɪ'saɪd",
+    "e_mean": [
+      "reach, make, or come to a conclusion about something"
+    ],
+    "speech": "verb",
+    "sentence": "Her last-minute goal decided the game."
+  },
+  {
+    "name": "resolve",
+    "trans": [
+      "v. 解决，决定"
+    ],
+    "usphone": "rɪ'zɑlv",
+    "ukphone": "rɪ'zɒlv",
+    "e_mean": [
+      "find a solution or answer"
+    ],
+    "speech": "verb",
+    "sentence": "It took all my resolve to go through with the surgery."
+  },
+  {
+    "name": "survey",
+    "trans": [
+      "v. 调查，测量，民意调查，民意测验；考察，测量，勘测；测绘图，勘测记录；",
+      "n. 做民意调查；调查，测量，审视，检查；测量，勘测；"
+    ],
+    "usphone": "sər'veɪ",
+    "ukphone": "səː'veɪ",
+    "e_mean": [
+      "determining opinions by interviewing people"
+    ],
+    "speech": "noun",
+    "sentence": "A survey of the stores of a ship; a survey of roads and bridges; a survey of buildings."
+  },
+  {
+    "name": "research",
+    "trans": [
+      "n. 研究，调查",
+      "v. 研究，调查"
+    ],
+    "usphone": "rɪ'sərʧ",
+    "ukphone": "rɪ'səːʧ",
+    "e_mean": [
+      "a seeking for knowledge"
+    ],
+    "speech": "noun",
+    "sentence": "The research station that houses Wang and his team is outside Lijiang, a city of about 1.2 million people."
+  },
+  {
+    "name": "observe",
+    "trans": [
+      "v. 观察，注意到"
+    ],
+    "usphone": "əb'zərv",
+    "ukphone": "əb'zəːv",
+    "e_mean": [
+      "watch attentively"
+    ],
+    "speech": "verb",
+    "sentence": "From this vantage point we can observe the behavior of the animals in their natural habitat."
+  },
+  {
+    "name": "query",
+    "trans": [
+      "n. 询问，问题",
+      "v. 询问，提问"
+    ],
+    "usphone": "k'wɪri",
+    "ukphone": "k'wɪəri",
+    "e_mean": [
+      "an instance of questioning"
+    ],
+    "speech": "noun",
+    "sentence": "The teacher answered the student’s query concerning biosynthesis."
+  },
+  {
+    "name": "achieve",
+    "trans": [
+      "v. 完成，实现"
+    ],
+    "usphone": "ə'tʃiːv",
+    "ukphone": "ə'tʃiːv",
+    "e_mean": [
+      "gain with effort"
+    ],
+    "speech": "verb",
+    "sentence": "Show all the spoils by valiant kings achieved."
+  },
+  {
+    "name": "accomplish",
+    "trans": [
+      "v. 完成，实现"
+    ],
+    "usphone": "ə'kɑmplɪʃ",
+    "ukphone": "ə'kɒmplɪʃ",
+    "e_mean": [
+      "achieve with effort"
+    ],
+    "speech": "verb",
+    "sentence": "to accomplish a design, an object, a promise"
+  },
+  {
+    "name": "attain",
+    "trans": [
+      "v. 达到，实现"
+    ],
+    "usphone": "ə'teɪn",
+    "ukphone": "ə'teɪn",
+    "e_mean": [
+      "gain with effort"
+    ],
+    "speech": "verb",
+    "sentence": "To attain such a high level of proficiency requires hours of practice each day."
+  },
+  {
+    "name": "score",
+    "trans": [
+      "n. 分数，得分",
+      "v. 得分，记分"
+    ],
+    "usphone": "skɔːr",
+    "ukphone": "skɔː",
+    "e_mean": [
+      "a number that expresses accomplishment in a game or contest"
+    ],
+    "speech": "noun",
+    "sentence": "The player with the highest score is the winner."
+  },
+  {
+    "name": "mark",
+    "trans": [
+      "n. 标记，记号",
+      "v. 标记，记录"
+    ],
+    "usphone": "mɑːrk",
+    "ukphone": "mɑːk",
+    "e_mean": [
+      "a distinguishing symbol"
+    ],
+    "speech": "noun",
+    "sentence": "to mark a box or bale of merchandise"
+  },
+  {
+    "name": "grade",
+    "trans": [
+      "n. 等级，分数",
+      "v. 给...评分，分级"
+    ],
+    "usphone": "greɪd",
+    "ukphone": "greɪd",
+    "e_mean": [
+      "a position on a scale of intensity or amount or quality"
+    ],
+    "speech": "noun",
+    "sentence": "I gave him a good grade for effort."
+  },
+  {
+    "name": "rank",
+    "trans": [
+      "n. 级别，排名",
+      "v. 排名，分级"
+    ],
+    "usphone": "ræŋk",
+    "ukphone": "ræŋk",
+    "e_mean": [
+      "relative status"
+    ],
+    "speech": "noun",
+    "sentence": "rank nonsense"
+  },
+  {
+    "name": "grant",
+    "trans": [
+      "v. 批准，准予",
+      "n. 赠款，拨款"
+    ],
+    "usphone": "grænt",
+    "ukphone": "grɑːnt",
+    "e_mean": [
+      "let have"
+    ],
+    "speech": "verb",
+    "sentence": "I got a grant from the government to study archeology in Egypt."
+  },
+  {
+    "name": "praise",
+    "trans": [
+      "v. 赞美，称赞"
+    ],
+    "usphone": "preɪz",
+    "ukphone": "preɪz",
+    "e_mean": [
+      "an expression of approval and commendation"
+    ],
+    "speech": "noun",
+    "sentence": "Be sure to praise Bobby for his excellent work at school this week."
+  },
+  {
+    "name": "probable",
+    "trans": [
+      "adj. 可能的，很可能"
+    ],
+    "usphone": "'prɑːbəbl",
+    "ukphone": "'prɒbəbl",
+    "e_mean": [
+      "likely but not certain to be or become true or real"
+    ],
+    "speech": "adjective",
+    "sentence": "It's probable that it will rain tomorrow."
+  },
+  {
+    "name": "opposite",
+    "trans": [
+      "adj. 相反的，对立的",
+      "n. 对立面，反面"
+    ],
+    "usphone": "'ɑːpəzɪt",
+    "ukphone": "'ɒpəzɪt",
+    "e_mean": [
+      "being directly across from each other"
+    ],
+    "speech": "adjective",
+    "sentence": "\"Up\" is the opposite of \"down\"."
+  },
+  {
+    "name": "enroll",
+    "trans": [
+      "v. 登记，报名"
+    ],
+    "usphone": "ɪn'roʊl",
+    "ukphone": "ɪn'rəʊl",
+    "e_mean": [
+      "register formally as a participant or member"
+    ],
+    "speech": "verb",
+    "sentence": "They were eager to enroll new recruits."
+  },
+  {
+    "name": "creation",
+    "trans": [
+      "n. 创作，创造"
+    ],
+    "usphone": "kriː'eɪʃn",
+    "ukphone": "kriː'eɪʃn",
+    "e_mean": [
+      "the act of starting something for the first time"
+    ],
+    "speech": "noun",
+    "sentence": "I think the manufacturer was so ashamed of its creation that it didn't put its name on it!"
+  },
+  {
+    "name": "format",
+    "trans": [
+      "n. 格式，版式",
+      "v. 格式化，安排"
+    ],
+    "usphone": "'fɔːrmæt",
+    "ukphone": "'fɔːmæt",
+    "e_mean": [
+      "the general appearance of a publication"
+    ],
+    "speech": "noun",
+    "sentence": "The radio station changed the format of its evening program."
+  },
+  {
+    "name": "introduction",
+    "trans": [
+      "n. 介绍，引言"
+    ],
+    "usphone": "ˌɪntrə'dʌkʃn",
+    "ukphone": "ˌɪntrə'dʌkʃn",
+    "e_mean": [
+      "the act of beginning something new"
+    ],
+    "speech": "noun",
+    "sentence": "the introduction of a new product into the market"
+  },
+  {
+    "name": "subscribe",
+    "trans": [
+      "v. 订阅，认购",
+      "adj. 认购的"
+    ],
+    "usphone": "səb'skraɪb",
+    "ukphone": "səb'skraɪb",
+    "e_mean": [
+      "pay as a contribution to a charity or service"
+    ],
+    "speech": "verb",
+    "sentence": "Would you like to subscribe or subscribe a friend to our new magazine, Lexicography Illustrated?"
+  },
+  {
+    "name": "average",
+    "trans": [
+      "n. 平均数，平均水平",
+      "adj. 平均的，普通的",
+      "v. 计算平均数"
+    ],
+    "usphone": "'æv(ə)rɪdʒ",
+    "ukphone": "'æv(ə)rɪdʒ",
+    "e_mean": [
+      "an intermediate scale value regarded as normal or usual"
+    ],
+    "speech": "noun",
+    "sentence": "The average of 10, 20 and 24 is (10 + 20 + 24)/3 = 18."
+  },
+  {
+    "name": "truant",
+    "trans": [
+      "n. 逃学者，旷课者",
+      "adj. 逃学的，旷课的"
+    ],
+    "usphone": "'truː(ə)nt",
+    "ukphone": "'truː(ə)nt",
+    "e_mean": [
+      "one who is absent from school without permission"
+    ],
+    "speech": "noun",
+    "sentence": "the number of schoolchildren known to have truanted"
+  },
+  {
+    "name": "distract",
+    "trans": [
+      "v. 分心；使分心；使分心",
+      "adj. 不安的；心烦的；不注意的"
+    ],
+    "usphone": "'dɪstrækt",
+    "ukphone": "'dɪstrækt",
+    "e_mean": [
+      "draw someone's attention away from something"
+    ],
+    "speech": "verb",
+    "sentence": "The crowd was distracted by a helicopter hovering over the stadium when the only goal of the game was scored."
+  },
+  {
+    "name": "interval",
+    "trans": [
+      "n. 间隔；中间的空白；休息期"
+    ],
+    "usphone": "'ɪntərvl",
+    "ukphone": "'ɪntərvl",
+    "e_mean": [
+      "the distance between things"
+    ],
+    "speech": "noun",
+    "sentence": "the interval between contractions during childbirth"
+  },
+  {
+    "name": "skew",
+    "trans": [
+      "v. 使歪斜；使偏离；使变形",
+      "adj. 歪斜的；偏斜的；扭曲的"
+    ],
+    "usphone": "skjuː",
+    "ukphone": "skjuː",
+    "e_mean": [
+      "turn or place at an angle"
+    ],
+    "speech": "verb",
+    "sentence": "A disproportionate number of female subjects in the study group skewed the results."
+  },
+  {
+    "name": "skip",
+    "trans": [
+      "v. 跳过；略过；省略",
+      "n. 跳跃；略过；省略"
+    ],
+    "usphone": "skɪp",
+    "ukphone": "skɪp",
+    "e_mean": [
+      "jump lightly"
+    ],
+    "speech": "verb",
+    "sentence": "She will skip from one end of the sidewalk to the other."
+  },
+  {
+    "name": "cultivation",
+    "trans": [
+      "n. 耕作；培养；修剪"
+    ],
+    "usphone": "kʌltɪ'veɪʃn",
+    "ukphone": "kʌltɪ'veɪʃn",
+    "e_mean": [
+      "production of food by preparing the land to grow crops"
+    ],
+    "speech": "noun",
+    "sentence": "The heavy cultivation of the hillside led to soil erosion."
+  },
+  {
+    "name": "bonus",
+    "trans": [
+      "n. 奖金；额外津贴；红利"
+    ],
+    "usphone": "'boʊnəs",
+    "ukphone": "'boʊnəs",
+    "e_mean": [
+      "an additional payment (or other remuneration) to employees as a means of increasing output"
+    ],
+    "speech": "noun",
+    "sentence": "The employee of the week receives a bonus for his excellent work."
+  },
+  {
+    "name": "bilingual",
+    "trans": [
+      "adj. 双语的；会说两种语言的"
+    ],
+    "usphone": "baɪ'lɪŋgwəl",
+    "ukphone": "baɪ'lɪŋgwəl",
+    "e_mean": [
+      "using or knowing two languages"
+    ],
+    "speech": "adjective",
+    "sentence": "a bilingual dictionary"
+  },
+  {
+    "name": "commencement",
+    "trans": [
+      "n. 开始；开端；典礼"
+    ],
+    "usphone": "kə'mɛnsmənt",
+    "ukphone": "kə'mɛnsmənt",
+    "e_mean": [
+      "the act of starting something"
+    ],
+    "speech": "noun",
+    "sentence": "The time of Henry VII nearly coincides with the commencement of what is termed modern history."
+  },
+  {
+    "name": "trimester",
+    "trans": [
+      "n. 学期；三个月"
+    ],
+    "usphone": "'traɪmɛstər",
+    "ukphone": "'traɪmɛstər",
+    "e_mean": [
+      "a period of three months"
+    ],
+    "speech": "noun",
+    "sentence": "She is in the second trimester of her first pregnancy."
+  },
+  {
+    "name": "variant",
+    "trans": [
+      "n. 变体；变种；变化"
+    ],
+    "usphone": "'vɛriənt",
+    "ukphone": "'vɛriənt",
+    "e_mean": [
+      "something a little different from others of the same type"
+    ],
+    "speech": "noun",
+    "sentence": "All breeds of dog are variants of the species “Canis lupus familiaris”."
+  },
+  {
+    "name": "strengthen",
+    "trans": [
+      "v. 加强；巩固；增强"
+    ],
+    "usphone": "'strɛŋθn",
+    "ukphone": "'strɛŋθn",
+    "e_mean": [
+      "make strong or stronger"
+    ],
+    "speech": "verb",
+    "sentence": "strengthen a muscle"
+  },
+  {
+    "name": "exhibit",
+    "trans": [
+      "v. 展览；显示；表现",
+      "n. 展览品；展品"
+    ],
+    "usphone": "ɪg'zɪbɪt",
+    "ukphone": "ɪg'zɪbɪt",
+    "e_mean": [
+      "show; make visible or apparent"
+    ],
+    "speech": "verb",
+    "sentence": "The museum's new exhibit is drawing quite a crowd."
+  },
+  {
+    "name": "clockwise",
+    "trans": [
+      "adv. 顺时针方向"
+    ],
+    "usphone": "'klɑkwaɪz",
+    "ukphone": "'klɒkwaɪz",
+    "e_mean": [
+      "in the direction that the hands of a clock move"
+    ],
+    "speech": "adverb",
+    "sentence": "In the southern hemisphere the flow of air around a low-pressure system is clockwise."
+  },
+  {
+    "name": "recommendation",
+    "trans": [
+      "n. 推荐；介绍信；劝告"
+    ],
+    "usphone": "ˌrɛkəmɛnd'eɪʃn",
+    "ukphone": "ˌrɛkəmɛnd'eɪʃn",
+    "e_mean": [
+      "praise of a person or thing as worthy or desirable"
+    ],
+    "speech": "noun",
+    "sentence": "Your next employer may require a recommendation."
+  },
+  {
+    "name": "denomination",
+    "trans": [
+      "n. 名称；称号；面值"
+    ],
+    "usphone": "ˌdɛnəmə'neɪʃn",
+    "ukphone": "ˌdɛnəmɪ'neɪʃn",
+    "e_mean": [
+      "identifying word by which someone or something is called"
+    ],
+    "speech": "noun",
+    "sentence": "She follows the Ahmadiyya denomination of Islam."
+  },
+  {
+    "name": "highlight",
+    "trans": [
+      "v. 突出；强调；使显著",
+      "n. 突出的部分；最精彩的部分"
+    ],
+    "usphone": "'haɪlaɪt",
+    "ukphone": "'haɪlaɪt",
+    "e_mean": [
+      "an area of brightness in a picture"
+    ],
+    "speech": "noun",
+    "sentence": "Meeting my future wife was the highlight of my trip to Spain."
+  },
+  {
+    "name": "percentage",
+    "trans": [
+      "n. 百分数；百分比"
+    ],
+    "usphone": "pərs'ɛntɪdʒ",
+    "ukphone": "pərs'ɛntɪdʒ",
+    "e_mean": [
+      "a proportion in relation to a whole"
+    ],
+    "speech": "noun",
+    "sentence": "A high percentage of secondary school leavers take a gap year."
+  },
+  {
+    "name": "stress",
+    "trans": [
+      "v. 强调；使紧张；使焦虑",
+      "n. 压力；重音；重要性"
+    ],
+    "usphone": "strɛs",
+    "ukphone": "strɛs",
+    "e_mean": [
+      "special emphasis attached to something"
+    ],
+    "speech": "noun",
+    "sentence": "Go easy on him, he's been under a lot of stress lately."
+  },
+  {
+    "name": "underpin",
+    "trans": [
+      "v. 支持；加强；给…打下基础"
+    ],
+    "usphone": "ˌʌndər'pɪn",
+    "ukphone": "ˌʌndər'pɪn",
+    "e_mean": [
+      "confirm or support with evidence or authority"
+    ],
+    "speech": "verb",
+    "sentence": "You should underpin the mine roof to prevent further collapse."
+  },
+  {
+    "name": "annual",
+    "trans": [
+      "adj. 每年的；一年一度的",
+      "n. 年报；年鉴"
+    ],
+    "usphone": "'ænjuəl",
+    "ukphone": "'ænjuəl",
+    "e_mean": [
+      "occurring every year"
+    ],
+    "speech": "adjective",
+    "sentence": "I read the magazine, but I usually don't purchase the annuals."
+  },
+  {
+    "name": "repertoire",
+    "trans": [
+      "n. 曲目表；演出节目"
+    ],
+    "usphone": "rɛpər'twɑr",
+    "ukphone": "rɛpər'twɑːr",
+    "e_mean": [
+      "the range of skills in a particular field or occupation"
+    ],
+    "speech": "noun",
+    "sentence": "The conjurer expanded his repertoire with some new tricks."
+  },
+  {
+    "name": "extracurricular",
+    "trans": [
+      "adj. 课外的；非正式的"
+    ],
+    "usphone": "ˌɛkstrəkərɪ'kjulər",
+    "ukphone": "ˌɛkstrəkə'rɪkjulər",
+    "e_mean": [
+      "outside the regular academic course of studies"
+    ],
+    "speech": "adjective",
+    "sentence": "The students enjoy a number of extracurricular activities at weekends."
+  },
+  {
+    "name": "improvement",
+    "trans": [
+      "n. 改进；改善；进步"
+    ],
+    "usphone": "ɪm'pruvmənt",
+    "ukphone": "ɪm'pruvmənt",
+    "e_mean": [
+      "the act of making something better"
+    ],
+    "speech": "noun",
+    "sentence": "the new edition is an improvement on the old."
+  },
+  {
+    "name": "essence",
+    "trans": [
+      "n. 本质；实质；精华"
+    ],
+    "usphone": "'ɛsns",
+    "ukphone": "'ɛsns",
+    "e_mean": [
+      "the choicest or most vital part of some idea or experience"
+    ],
+    "speech": "noun",
+    "sentence": "essence of Jojoba"
+  },
+  {
+    "name": "transcend",
+    "trans": [
+      "v. 超越；胜过；超出"
+    ],
+    "usphone": "træn'sɛnd",
+    "ukphone": "træn'sɛnd",
+    "e_mean": [
+      "go beyond the scope or limits of"
+    ],
+    "speech": "verb",
+    "sentence": "lights in the heavens transcending the region of the clouds"
+  },
+  {
+    "name": "definition",
+    "trans": [
+      "n. 定义；解释；说明"
+    ],
+    "usphone": "dɪfɪ'nɪʃn",
+    "ukphone": "dɪfɪ'nɪʃn",
+    "e_mean": [
+      "a brief explanation of the meaning of a word or phrase"
+    ],
+    "speech": "noun",
+    "sentence": "Her comic genius is beyond definition."
+  },
+  {
+    "name": "dictation",
+    "trans": [
+      "n. 听写；口授；指令"
+    ],
+    "usphone": "dɪk'teɪʃn",
+    "ukphone": "dɪk'teɪʃn",
+    "e_mean": [
+      "an authoritative direction or instruction to do something"
+    ],
+    "speech": "noun",
+    "sentence": "Since I learned shorthand, I can take dictation at eighty words a minute."
+  },
+  {
+    "name": "certificate",
+    "trans": [
+      "n. 证书；执照；证明"
+    ],
+    "usphone": "sərtɪfɪkət",
+    "ukphone": "səːtɪfɪkət",
+    "e_mean": [
+      "a document attesting to the truth of certain stated facts"
+    ],
+    "speech": "noun",
+    "sentence": "The film is certificate 15."
+  },
+  {
+    "name": "studious",
+    "trans": [
+      "adj. 勤奋的；认真的；用功的"
+    ],
+    "usphone": "'stuːdiəs",
+    "ukphone": "'stuːdiəs",
+    "e_mean": [
+      "characterized by diligent study and fondness for reading"
+    ],
+    "speech": "adjective",
+    "sentence": "a studious scholar"
+  },
+  {
+    "name": "preface",
+    "trans": [
+      "n. 序言；前言；引言"
+    ],
+    "usphone": "'prifis",
+    "ukphone": "'prifes",
+    "e_mean": [
+      "a short introductory essay preceding the text of a book"
+    ],
+    "speech": "noun",
+    "sentence": "The book included a brief preface by a leading expert in the field."
+  },
+  {
+    "name": "summarise",
+    "trans": [
+      "v. 概括；摘要；总结"
+    ],
+    "usphone": "ˈsʌməraɪz",
+    "ukphone": "ˈsʌməraɪz",
+    "e_mean": [
+      "give a summary (of)"
+    ],
+    "speech": "verb",
+    "sentence": "Jim was asked to summarize the document by Wednesday."
+  },
+  {
+    "name": "headline",
+    "trans": [
+      "n. 大字标题；要闻；提纲"
+    ],
+    "usphone": "'hɛdlaɪn",
+    "ukphone": "'hɛdlaɪn",
+    "e_mean": [
+      "the title or caption of a newspaper article"
+    ],
+    "speech": "noun",
+    "sentence": "The headline on today's newspaper reads \"John Doe Wins Wood-Splitting Competition.\""
+  },
+  {
+    "name": "defence",
+    "trans": [
+      "n. 防御；保护；辩护"
+    ],
+    "usphone": "dɪ'fens",
+    "ukphone": "dɪ'fens",
+    "e_mean": [
+      "the act of shielding someone or something against attack"
+    ],
+    "speech": "noun",
+    "sentence": "Department of Defence"
+  },
+  {
+    "name": "transcript",
+    "trans": [
+      "n. 抄本；副本；成绩单"
+    ],
+    "usphone": "træns'krɪpt",
+    "ukphone": "træns'krɪpt",
+    "e_mean": [
+      "a written record of dictated or recorded speech"
+    ],
+    "speech": "noun",
+    "sentence": "the transcript of a trial"
+  },
+  {
+    "name": "centigrade",
+    "trans": [
+      "adj. 摄氏的；百分之一百的"
+    ],
+    "usphone": "sen'tɪgreɪd",
+    "ukphone": "sen'tɪgreɪd",
+    "e_mean": [
+      "temperature scale on which water freezes at 0 degrees"
+    ],
+    "speech": "adjective",
+    "sentence": "a temperature of 34 centigrades"
+  },
+  {
+    "name": "undergraduate",
+    "trans": [
+      "n. 大学生；本科生；学士生"
+    ],
+    "usphone": "ˌʌndər'greɪdʒuət",
+    "ukphone": "ˌʌndə'greɪdʒuət",
+    "e_mean": [
+      "a university student who has not yet received a first degree"
+    ],
+    "speech": "noun",
+    "sentence": "After completing my undergraduate studies, I embarked on a career in publishing."
+  },
+  {
+    "name": "lecture",
+    "trans": [
+      "n. 讲座；演讲；课堂讲授"
+    ],
+    "usphone": "'lɛktʃər",
+    "ukphone": "'lɛktʃər",
+    "e_mean": [
+      "a speech that is open to the public"
+    ],
+    "speech": "noun",
+    "sentence": "During class today the professor delivered an interesting lecture."
+  },
+  {
+    "name": "criticise",
+    "trans": [
+      "v. 批评；评论；指责"
+    ],
+    "usphone": "'krɪtɪsaɪz",
+    "ukphone": "'krɪtɪsaɪz",
+    "e_mean": [
+      "find fault with"
+    ],
+    "speech": "verb",
+    "sentence": "They criticized him for endangering people's lives."
+  },
+  {
+    "name": "frank",
+    "trans": [
+      "adj. 率直的；真诚的；坦白的"
+    ],
+    "usphone": "fræŋk",
+    "ukphone": "fræŋk",
+    "e_mean": [
+      "characterized by directness in manner or speech"
+    ],
+    "speech": "adjective",
+    "sentence": "May I be frank with you?"
+  },
+  {
+    "name": "inscribe",
+    "trans": [
+      "v. 题名；刻；铭刻"
+    ],
+    "usphone": "ɪn'skraɪb",
+    "ukphone": "ɪn'skraɪb",
+    "e_mean": [
+      "carve, cut, or etch into a material or surface"
+    ],
+    "speech": "verb",
+    "sentence": "I inscribed my name into the book."
+  },
+  {
+    "name": "interpretation",
+    "trans": [
+      "n. 解释；口译；诠释"
+    ],
+    "usphone": "ˌɪntərprə'teɪʃn",
+    "ukphone": "ˌɪntəprə'teɪʃn",
+    "e_mean": [
+      "the act of expressing something in an artistic performance"
+    ],
+    "speech": "noun",
+    "sentence": "the interpretation of a dream, or of an enigma."
+  },
+  {
+    "name": "remark",
+    "trans": [
+      "n. 话；言论；意见"
+    ],
+    "usphone": "rɪ'mɑrk",
+    "ukphone": "rɪ'mɑːk",
+    "e_mean": [
+      "make or write a comment on"
+    ],
+    "speech": "verb",
+    "sentence": "a biting remark"
+  },
+  {
+    "name": "option",
+    "trans": [
+      "n. 选择；选项；自由裁量权"
+    ],
+    "usphone": "'ɑpʃn",
+    "ukphone": "'ɒpʃn",
+    "e_mean": [
+      "one of a number of things from which only one can be chosen"
+    ],
+    "speech": "noun",
+    "sentence": "The new novel was optioned by the film studio, but they'll probably never decide to make a movie from it."
+  },
+  {
+    "name": "engross",
+    "trans": [
+      "v. 使全神贯注；使专心致志；占有"
+    ],
+    "usphone": "ɪn'grɑs",
+    "ukphone": "ɪn'grɒs",
+    "e_mean": [
+      "devote fully to"
+    ],
+    "speech": "verb",
+    "sentence": "She seems to be completely engrossed in that book."
+  },
+  {
+    "name": "elaboration",
+    "trans": [
+      "n. 阐述；详述；细致的制作"
+    ],
+    "usphone": "ˌiːləb(ə)r'eɪʃn",
+    "ukphone": "ˌiːləb(ə)r'eɪʃn",
+    "e_mean": [
+      "developing in intricate and painstaking detail"
+    ],
+    "speech": "noun",
+    "sentence": "the elaboration of chyle, or sap, or tissues"
+  },
+  {
+    "name": "dedicate",
+    "trans": [
+      "v. 献身；奉献；献给"
+    ],
+    "usphone": "'dɛdɪkeɪt",
+    "ukphone": "'dɛdɪkeɪt",
+    "e_mean": [
+      "give entirely to a specific person, activity, or cause"
+    ],
+    "speech": "verb",
+    "sentence": "dedicated their money to scientific research."
+  },
+  {
+    "name": "examine",
+    "trans": [
+      "v. 检查；调查；考核"
+    ],
+    "usphone": "ɪg'zæmɪn",
+    "ukphone": "ɪg'zæmɪn",
+    "e_mean": [
+      "observe, check out, and look over carefully or inspect"
+    ],
+    "speech": "verb",
+    "sentence": "He examined the crime scene for clues."
+  },
+  {
+    "name": "reputation",
+    "trans": [
+      "n. 名誉，名声"
+    ],
+    "usphone": "ˌrɛpjʊˈteɪʃ(ə)n",
+    "ukphone": "ˌrɛpjʊˈteɪʃ(ə)n",
+    "e_mean": [
+      "the general estimation that the public has for a person"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "notorious",
+    "trans": [
+      "adj. 臭名昭著的，声名狼藉的"
+    ],
+    "usphone": "noʊˈtɔːriəs",
+    "ukphone": "nəʊˈtɔːriəs",
+    "e_mean": [
+      "known widely and usually unfavorably"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "painstaking",
+    "trans": [
+      "adj. 辛勤的，认真的"
+    ],
+    "usphone": "'peɪnsteɪkɪŋ",
+    "ukphone": "'peɪnsteɪkɪŋ",
+    "e_mean": [
+      "characterized by extreme care and great effort"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "skill",
+    "trans": [
+      "n. 技能，技巧"
+    ],
+    "usphone": "skɪl",
+    "ukphone": "skɪl",
+    "e_mean": [
+      "an ability that has been acquired by training"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "scheme",
+    "trans": [
+      "n. 计划，方案"
+    ],
+    "usphone": "skiːm",
+    "ukphone": "skiːm",
+    "e_mean": [
+      "an elaborate and systematic plan of action"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "headmaster",
+    "trans": [
+      "n. 校长"
+    ],
+    "usphone": "'hɛdmæst(ə)r",
+    "ukphone": "'hɛdmɑːst(ə)r",
+    "e_mean": [
+      "presiding officer of a school"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "dean",
+    "trans": [
+      "n. 院长，系主任"
+    ],
+    "usphone": "diːn",
+    "ukphone": "diːn",
+    "e_mean": [
+      "an administrator at a university or college"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "professor",
+    "trans": [
+      "n. 教授"
+    ],
+    "usphone": "prəˈfɛs(ə)r",
+    "ukphone": "prəˈfɛs(ə)r",
+    "e_mean": [
+      "a member of the faculty at a college or university"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "scholar",
+    "trans": [
+      "n. 学者，研究员"
+    ],
+    "usphone": "'skɑːl(ə)r",
+    "ukphone": "'skɒl(ə)r",
+    "e_mean": [
+      "a learned person "
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "magazine",
+    "trans": [
+      "n. 杂志，期刊"
+    ],
+    "usphone": "mægə'ziːn",
+    "ukphone": "mægə'ziːn",
+    "e_mean": [
+      "a periodic publication containing articles and pictures"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "bibliography",
+    "trans": [
+      "n. 参考书目"
+    ],
+    "usphone": "ˌbɪbliˈɒgrəfi",
+    "ukphone": "ˌbɪbliˈɒgrəfi",
+    "e_mean": [
+      "a list of writings with time and place of publication"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "documentary",
+    "trans": [
+      "n. 记录片；文献"
+    ],
+    "usphone": "ˌdɒkjʊ'ment(ə)ri",
+    "ukphone": "ˌdɒkjʊ'ment(ə)ri",
+    "e_mean": [
+      "a film presenting the facts about a person or event"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "geometry",
+    "trans": [
+      "n. 几何学"
+    ],
+    "usphone": "dʒi'ɒm(ə)tri",
+    "ukphone": "dʒi'ɒm(ə)tri",
+    "e_mean": [
+      "the mathematics of points and lines and curves and surfaces"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "algebra",
+    "trans": [
+      "n. 代数"
+    ],
+    "usphone": "'ældʒ(ə)brə",
+    "ukphone": "'ældʒ(ə)brə",
+    "e_mean": [
+      "the mathematics of generalized arithmetical operations"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "identical",
+    "trans": [
+      "adj. 同一的；完全相同的"
+    ],
+    "usphone": "aɪ'dɛntɪk(ə)l",
+    "ukphone": "aɪ'dɛntɪk(ə)l",
+    "e_mean": [
+      "being the exact same one"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "emit",
+    "trans": [
+      "v. 放射；散发；发出"
+    ],
+    "usphone": "ɪ'mɪt",
+    "ukphone": "i'mɪt",
+    "e_mean": [
+      "give off, send forth, or discharge"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "ozone",
+    "trans": [
+      "n. 臭氧"
+    ],
+    "usphone": "ˈoʊzoʊn",
+    "ukphone": "ˈoʊzoʊn",
+    "e_mean": [
+      "a colorless gas that is a screen for ultraviolet radiation"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "friction",
+    "trans": [
+      "n. 摩擦；磨擦"
+    ],
+    "usphone": "'frɪkʃ(ə)n",
+    "ukphone": "'frɪkʃ(ə)n",
+    "e_mean": [
+      "the resistance when a body is moved in contact with another"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "ferment",
+    "trans": [
+      "v. 发酵；使...发酵",
+      "n. 发酵"
+    ],
+    "usphone": "'fərm(ə)nt",
+    "ukphone": "'fəːm(ə)nt",
+    "e_mean": [
+      "cause to undergo the breakdown of sugar into alcohol"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "noxious",
+    "trans": [
+      "adj. 有害的；有毒的"
+    ],
+    "usphone": "'nɒkʃəs",
+    "ukphone": "'nɒkʃəs",
+    "e_mean": [
+      "injurious to physical or mental health"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "static",
+    "trans": [
+      "adj. 静态的；不动的",
+      "n. 静电"
+    ],
+    "usphone": "ˈstætɪk",
+    "ukphone": "'stætɪk",
+    "e_mean": [
+      "not in physical motion"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "inert",
+    "trans": [
+      "adj. 惰性的；不活跃的"
+    ],
+    "usphone": "'ɪn(ə)rt",
+    "ukphone": "'ɪn(ə)rt",
+    "e_mean": [
+      "unable to move or resist motion"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "inherent",
+    "trans": [
+      "adj. 内在的；固有的"
+    ],
+    "usphone": "ɪn'hɪr(ə)nt",
+    "ukphone": "ɪn'hɪr(ə)nt",
+    "e_mean": [
+      "existing as an essential constituent or characteristic"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "consult",
+    "trans": [
+      "v. 咨询；查阅"
+    ],
+    "usphone": "kən'sʌlt",
+    "ukphone": "kən'sʌlt",
+    "e_mean": [
+      "seek information from"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "recite",
+    "trans": [
+      "v. 朗诵；背诵"
+    ],
+    "usphone": "rɪ'saɪt",
+    "ukphone": "rɪ'saɪt",
+    "e_mean": [
+      "repeat aloud from memory"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "examination",
+    "trans": [
+      "n. 考试；检查"
+    ],
+    "usphone": "ɪgzæmɪ'neɪʃ(ə)n",
+    "ukphone": "ɪgzæmɪ'neɪʃ(ə)n",
+    "e_mean": [
+      "the act of scrutinizing something closely (as for mistakes)"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "presentation",
+    "trans": [
+      "n. 介绍；陈述；提交"
+    ],
+    "usphone": "prɪz(ə)n'teɪʃ(ə)n",
+    "ukphone": "prɪz(ə)n'teɪʃ(ə)n",
+    "e_mean": [
+      "the act of formally giving something, as a prize"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "plagiarise",
+    "trans": [
+      "v. 抄袭；剽窃"
+    ],
+    "usphone": "'pleɪdʒ(i)əraɪz",
+    "ukphone": "'pleɪdʒ(i)əraɪz",
+    "e_mean": [
+      "take without referencing from someone else's writing or speech; of intellectual property"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "thesis",
+    "trans": [
+      "n. 论文；论题"
+    ],
+    "usphone": "ˈθiːsɪs",
+    "ukphone": "ˈθiːsɪs",
+    "e_mean": [
+      "an unproved statement advanced as a premise in an argument"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "essay",
+    "trans": [
+      "n. 文章；短文"
+    ],
+    "usphone": "ˈɛseɪ",
+    "ukphone": "ˈɛseɪ",
+    "e_mean": [
+      "an analytic or interpretive literary composition"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "dissertation",
+    "trans": [
+      "n. 论文；论题"
+    ],
+    "usphone": "ˌdɪs(ə)r'teɪʃ(ə)n",
+    "ukphone": "ˌdɪs(ə)r'teɪʃ(ə)n",
+    "e_mean": [
+      "a treatise advancing a point of view resulting from research"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "literate",
+    "trans": [
+      "adj. 有文化的；有读写能力的；精通文学的"
+    ],
+    "usphone": "'lɪtərət",
+    "ukphone": "'lɪt(ə)rət",
+    "e_mean": [
+      "able to read and write"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "numerate",
+    "trans": [
+      "v. 列举；统计；计算"
+    ],
+    "usphone": "'njuːmərət",
+    "ukphone": "'njuːm(ə)rət",
+    "e_mean": [
+      "determine the number or amount of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "controversial",
+    "trans": [
+      "adj. 有争议的；有争论的；引起争议的"
+    ],
+    "usphone": "kɑːntrə'vɜːrʃl",
+    "ukphone": "kɒntrə'vɜːʃ(ə)l",
+    "e_mean": [
+      "marked by or capable of causing disagreement"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "mentor",
+    "trans": [
+      "n. 导师；辅导员；向导"
+    ],
+    "usphone": "'mɛntɔr",
+    "ukphone": "'mɛntɔːr",
+    "e_mean": [
+      "a wise and trusted guide and advisor"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "lecturer",
+    "trans": [
+      "n. 讲师；演讲者"
+    ],
+    "usphone": "'lɛktʃərər",
+    "ukphone": "'lɛktʃərər",
+    "e_mean": [
+      "a public educator at certain universities"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "candidate",
+    "trans": [
+      "n. 候选人；应聘者"
+    ],
+    "usphone": "'kændɪdət",
+    "ukphone": "'kændɪdət",
+    "e_mean": [
+      "someone who is considered for something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "diploma",
+    "trans": [
+      "n. 文凭；学位证书"
+    ],
+    "usphone": "dɪ'pləʊmə",
+    "ukphone": "dɪ'pləʊmə",
+    "e_mean": [
+      "a document certifying the completion of a course of study"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "diplomat",
+    "trans": [
+      "n. 外交官；外交人员"
+    ],
+    "usphone": "dɪ'pləʊmæt",
+    "ukphone": "dɪ'pləʊmæt",
+    "e_mean": [
+      "an official engaged in international negotiations"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pupil",
+    "trans": [
+      "n. 学生；小学生；弟子"
+    ],
+    "usphone": "'pjuːp(ə)l",
+    "ukphone": "'pjuːp(ə)l",
+    "e_mean": [
+      "a learner who is enrolled in an educational institution"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "ceremony",
+    "trans": [
+      "n. 典礼；仪式；礼节"
+    ],
+    "usphone": "sə'rɛm(ə)nɪ",
+    "ukphone": "sə'rɛm(ə)nɪ",
+    "e_mean": [
+      "a formal event performed on a special occasion"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "bachelor",
+    "trans": [
+      "n. 学士；单身汉；学士学位"
+    ],
+    "usphone": "'bætʃ(ə)lər",
+    "ukphone": "'bætʃ(ə)lər",
+    "e_mean": [
+      "a man who has never been married"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "brochure",
+    "trans": [
+      "n. 小册子；宣传手册"
+    ],
+    "usphone": "ˈbroʊʃər",
+    "ukphone": "ˈbrəʊʃə",
+    "e_mean": [
+      "a small booklet with information about a product or service"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "catalogue",
+    "trans": [
+      "n. 目录，目录册；编目表",
+      "v. 分类；列入目录"
+    ],
+    "usphone": "'kætəlɔg",
+    "ukphone": "'kætəlɒg",
+    "e_mean": [
+      "a complete list of things, usually arranged systematically"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sociology",
+    "trans": [
+      "n. 社会学"
+    ],
+    "usphone": "soʊsi'ɑːlədʒi",
+    "ukphone": "səʊsi'ɒlədʒi",
+    "e_mean": [
+      "the study and classification of human societies"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "graph",
+    "trans": [
+      "n. 图；图解；图表",
+      "v. 用图表表示"
+    ],
+    "usphone": "græf",
+    "ukphone": "grɑːf",
+    "e_mean": [
+      "a visual representation of the relations between quantities"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "matrix",
+    "trans": [
+      "n. 矩阵；基底；母体；胚芽培养基"
+    ],
+    "usphone": "'meɪtrɪks",
+    "ukphone": "'meɪtrɪks",
+    "e_mean": [
+      "an enclosure within which something originates or develops"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "rectangle",
+    "trans": [
+      "n. 矩形；长方形"
+    ],
+    "usphone": "'rɛktæŋg(ə)l",
+    "ukphone": "'rɛktæŋg(ə)l",
+    "e_mean": [
+      "a parallelogram with four right angles"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "triangle",
+    "trans": [
+      "n. 三角形；三角；三部曲"
+    ],
+    "usphone": "'traɪæŋg(ə)l",
+    "ukphone": "'traɪæŋg(ə)l",
+    "e_mean": [
+      "a three-sided polygon"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "diagonal",
+    "trans": [
+      "adj. 对角的；斜的",
+      "n. 对角线；斜线"
+    ],
+    "usphone": "daɪ'æg(ə)n(ə)l",
+    "ukphone": "daɪ'æg(ə)n(ə)l",
+    "e_mean": [
+      "having an oblique or slanted direction"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "empirical",
+    "trans": [
+      "adj. 经验主义的；实证的；凭经验的"
+    ],
+    "usphone": "ɪm'pɪrɪk(ə)l",
+    "ukphone": "ɪm'pɪrɪk(ə)l",
+    "e_mean": [
+      "derived from experiment and observation rather than theory"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "discipline",
+    "trans": [
+      "n. 纪律；训练；学科；惩罚",
+      "v. 训练；调整；惩罚"
+    ],
+    "usphone": "'dɪs(ə)plɪn",
+    "ukphone": "'dɪs(ə)plɪn",
+    "e_mean": [
+      "a system of rules of conduct or method of practice"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "semester",
+    "trans": [
+      "n. 学期；半年"
+    ],
+    "usphone": "sɛ'mɛstər",
+    "ukphone": "sɪ'mɛstə",
+    "e_mean": [
+      "one of two divisions of an academic year"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "curriculum",
+    "trans": [
+      "n. 课程；教学计划；学习经历"
+    ],
+    "usphone": "kə'rɪkjʊləm",
+    "ukphone": "kə'rɪkjʊləm",
+    "e_mean": [
+      "an integrated course of academic studies"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "seminar",
+    "trans": [
+      "n. 研讨会；讲习班"
+    ],
+    "usphone": "sɛ'minɑːr",
+    "ukphone": "sɛ'mɪnɑː",
+    "e_mean": [
+      "a course offered for a small group of advanced students"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "gist",
+    "trans": [
+      "n. 要点；要义；要旨"
+    ],
+    "usphone": "gɪst",
+    "ukphone": "gɪst",
+    "e_mean": [
+      "the central meaning or theme of a speech or literary work"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "hypothesis",
+    "trans": [
+      "n. 假设；假说；猜想"
+    ],
+    "usphone": "haɪ'pɑːθ(ə)sɪs",
+    "ukphone": "haɪ'pɒθ(ə)sɪs",
+    "e_mean": [
+      "a tentative insight that is not yet verified or tested"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "postulate",
+    "trans": [
+      "v. 假定；假设；做出假设",
+      "n. 假设；假定"
+    ],
+    "usphone": "'pɑːstʃʊl(e)t",
+    "ukphone": "'pɒstʃʊl(e)t",
+    "e_mean": [
+      "maintain or assert"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "speculate",
+    "trans": [
+      "v. 推测；猜想；思考"
+    ],
+    "usphone": "spɛ'kjʊl(e)t",
+    "ukphone": "spɛ'kjʊl(e)t",
+    "e_mean": [
+      "reflect deeply on a subject"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "predict",
+    "trans": [
+      "v. 预测；预言；预示"
+    ],
+    "usphone": "prɪ'dɪkt",
+    "ukphone": "prɪ'dɪkt",
+    "e_mean": [
+      "make a guess about what will happen in the future"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "perceive",
+    "trans": [
+      "v. 感知；察觉；看出"
+    ],
+    "usphone": "pər'siːv",
+    "ukphone": "pə'siːv",
+    "e_mean": [
+      "become aware of through the senses"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "stimulate",
+    "trans": [
+      "v. 刺激；激励；鼓舞"
+    ],
+    "usphone": "stɪ'mjʊl(e)t",
+    "ukphone": "stɪ'mjʊl(e)t",
+    "e_mean": [
+      "cause to act in a specified manner"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "intelligible",
+    "trans": [
+      "adj. 可理解的；易懂的"
+    ],
+    "usphone": "ɪn't(ɛ)l(ə)dʒ(ə)b(ə)l",
+    "ukphone": "ɪn't(ɛ)l(ə)dʒ(ə)b(ə)l",
+    "e_mean": [
+      "capable of being apprehended or understood"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "all-round",
+    "trans": [
+      "adj. 全面的；全能的"
+    ],
+    "usphone": "ɔːl'raʊnd",
+    "ukphone": "ɔːl'raʊnd",
+    "e_mean": [
+      "many-sided"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "elite",
+    "trans": [
+      "n. 精华；精锐；精英"
+    ],
+    "usphone": "i'liːt",
+    "ukphone": "i'liːt",
+    "e_mean": [
+      "a group or class of persons enjoying superior status"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "idiot",
+    "trans": [
+      "n. 白痴；傻瓜"
+    ],
+    "usphone": "ˈɪdi.ət",
+    "ukphone": "ˈɪdi.ət",
+    "e_mean": [
+      "a person of subnormal intelligence"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "wisdom",
+    "trans": [
+      "n. 智慧；明智；聪明"
+    ],
+    "usphone": "ˈwɪzd(ə)m",
+    "ukphone": "ˈwɪzd(ə)m",
+    "e_mean": [
+      "accumulated knowledge or erudition or enlightenment"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "aptitude",
+    "trans": [
+      "n. 才能；天赋；倾向"
+    ],
+    "usphone": "ˈæp.tɪ.tuːd",
+    "ukphone": "ˈæp.tɪ.tuːd",
+    "e_mean": [
+      "inherent ability"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "matriculation",
+    "trans": [
+      "n. 入学；入会"
+    ],
+    "usphone": "ˌmæ.trɪ.kjuˈleɪ.ʃ(ə)n",
+    "ukphone": "ˌmæ.trɪ.kjuˈleɪ.ʃ(ə)n",
+    "e_mean": [
+      "admission to a group, especially a college or university"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "accommodation",
+    "trans": [
+      "n. 住处；膳宿；住房"
+    ],
+    "usphone": "ˌæk.oʊ.məˈdeɪ.ʃ(ə)n",
+    "ukphone": "ˌæk.oʊ.məˈdeɪ.ʃ(ə)n",
+    "e_mean": [
+      "making or becoming suitable; adjusting to circumstances"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "canteen",
+    "trans": [
+      "n. 食堂；小卖部；零售店"
+    ],
+    "usphone": "kæn'tiːn",
+    "ukphone": "kæn'tiːn",
+    "e_mean": [
+      "a room with food sold to personnel at an institution"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "laboratory",
+    "trans": [
+      "n. 实验室；研究室"
+    ],
+    "usphone": "ləˈbɔː.rə.t(ɔː)ri",
+    "ukphone": "ləˈbɔː.rə.t(ɔː)ri",
+    "e_mean": [
+      "a workplace for the conduct of scientific research"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "experiment",
+    "trans": [
+      "n. 实验；试验",
+      "v. 进行实验；试验"
+    ],
+    "usphone": "ɪk'spɛr.ə.m(ə)nt",
+    "ukphone": "ik'speriment",
+    "e_mean": [
+      "the act of conducting a controlled test or investigation"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "data",
+    "trans": [
+      "n. 数据；资料；信息"
+    ],
+    "usphone": "ˈdeɪ.tə",
+    "ukphone": "ˈdeɪ.tə",
+    "e_mean": [
+      "a collection of facts from which conclusions may be drawn"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "library",
+    "trans": [
+      "n. 图书馆；藏书"
+    ],
+    "usphone": "ˈlaɪ.br(ə)ri",
+    "ukphone": "ˈlaɪ.br(ə)ri",
+    "e_mean": [
+      "a place containing books and other materials for reading"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "economics",
+    "trans": [
+      "n. 经济学；经济规律"
+    ],
+    "usphone": "ˌiː.kəˈnɒm.ɪks",
+    "ukphone": "ˌiː.kəˈnɒm.ɪks",
+    "e_mean": [
+      "science dealing with the circulation of goods and services"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "psychology",
+    "trans": [
+      "n. 心理学；心理活动"
+    ],
+    "usphone": "saɪˈkɒl.ə.dʒi",
+    "ukphone": "saɪˈkɒl.ə.dʒi",
+    "e_mean": [
+      "the science of mental life"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "chemistry",
+    "trans": [
+      "n. 化学；化学作用；化学性质"
+    ],
+    "usphone": "ˈkɛm.ɪ.stri",
+    "ukphone": "ˈkɛm.ɪ.stri",
+    "e_mean": [
+      "the science of matter"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "agriculture",
+    "trans": [
+      "n. 农业；农艺"
+    ],
+    "usphone": "ˌæg.rəˈkʌl.tʃər",
+    "ukphone": "ˌæg.rɪˈkʌl.tʃər",
+    "e_mean": [
+      "the practice of cultivating the land or raising stock"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "logistics",
+    "trans": [
+      "n. 物流；后勤；后勤学"
+    ],
+    "usphone": "ləˈdʒɪs.tɪks",
+    "ukphone": "ləˈdʒɪs.tɪks",
+    "e_mean": [
+      "supplying an operation with labor and materials as needed"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "geography",
+    "trans": [
+      "n. 地理学；地形；地理位置"
+    ],
+    "usphone": "dʒiˈɒg.rə.fi",
+    "ukphone": "dʒiˈɒg.rə.fi",
+    "e_mean": [
+      "study of the earth's surface"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "engineering",
+    "trans": [
+      "n. 工程学；工程技术"
+    ],
+    "usphone": "ˌen.dʒɪˈnɪr.ɪŋ",
+    "ukphone": "ˌen.dʒɪˈnɪr.ɪŋ",
+    "e_mean": [
+      "applying scientific knowledge to practical problems"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sphere",
+    "trans": [
+      "n. 球；球体；范围；领域；使用范围"
+    ],
+    "usphone": "sfɪr",
+    "ukphone": "sfɪə(r)",
+    "e_mean": [
+      "a round three-dimensional closed surface"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "fraction",
+    "trans": [
+      "n. 分数，小数；小部分，微量，片段"
+    ],
+    "usphone": "ˈfrækʃ(ə)n",
+    "ukphone": "'frækʃn",
+    "e_mean": [
+      "a small part or item forming a piece of a whole"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "Fahrenheit",
+    "trans": [
+      "n. 华氏温度计"
+    ],
+    "usphone": "ˈfær(ə)nhaɪt",
+    "ukphone": "ˈfær(ə)nhaɪt",
+    "e_mean": [
+      "of or relating to a temperature scale proposed by the inventor of the mercury thermometer"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "mercury",
+    "trans": [
+      "n. 水银；水银温度计；商人"
+    ],
+    "usphone": "'mɜrskjuri",
+    "ukphone": "'mɜːkjʊri",
+    "e_mean": [
+      "a heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "volt",
+    "trans": [
+      "n. 伏特；电压"
+    ],
+    "usphone": "voʊlt",
+    "ukphone": "vəʊlt",
+    "e_mean": [
+      "a unit for measuring the force of an electric current"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "syllabus",
+    "trans": [
+      "n. 大纲；提纲；教学大纲"
+    ],
+    "usphone": "ˈsɪləb(ʊ)s",
+    "ukphone": "ˈsɪləb(ʊ)s",
+    "e_mean": [
+      "a summary or outline of what will be covered in an academic course"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "elementary",
+    "trans": [
+      "adj. 初级的；基本的；元素的"
+    ],
+    "usphone": "ˌɛl(ə)m(ə)n'tri",
+    "ukphone": "ˌɛl(ə)m(ə)n'trɪ",
+    "e_mean": [
+      "of or being the essential or basic part"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "preview",
+    "trans": [
+      "n. 预览；预展；预习",
+      "v. 预览；预展；预习"
+    ],
+    "usphone": "priː'vjuː",
+    "ukphone": "priː'vjuː",
+    "e_mean": [
+      "a preliminary introduction to or inspection of something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "detect",
+    "trans": [
+      "v. 发现；探测；侦察；侦查"
+    ],
+    "usphone": "dɪ'tɛkt",
+    "ukphone": "dɪ'tɛkt",
+    "e_mean": [
+      "discover or determine the existence, presence, or fact of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "persist",
+    "trans": [
+      "v. 坚持，持续"
+    ],
+    "usphone": "'pərsɪst",
+    "ukphone": "'pəːsɪst",
+    "e_mean": [
+      "refuse to stop"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "comprehend",
+    "trans": [
+      "v. 理解，领会"
+    ],
+    "usphone": "kəmprɪ'hɛnd",
+    "ukphone": "kəmprɪ'hɛnd",
+    "e_mean": [
+      "get the meaning of something"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "analyse",
+    "trans": [
+      "v. 分析"
+    ],
+    "usphone": "ˈænəlaɪz",
+    "ukphone": "ˈænəlaɪz",
+    "e_mean": [
+      "break down into components or essential features"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "diagnose",
+    "trans": [
+      "v. 诊断，判断"
+    ],
+    "usphone": "'daɪəɡnəʊz",
+    "ukphone": "'daɪəɡnəʊz",
+    "e_mean": [
+      "subject to a medical analysis"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "infer",
+    "trans": [
+      "v. 推断，推理"
+    ],
+    "usphone": "'ɪnfər",
+    "ukphone": "'ɪnfəː",
+    "e_mean": [
+      "conclude by reasoning"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "analogy",
+    "trans": [
+      "n. 类比，相似"
+    ],
+    "usphone": "ə'nælədʒi",
+    "ukphone": "ə'nælədʒi",
+    "e_mean": [
+      "drawing a comparison in order to show a similarity"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "inductive",
+    "trans": [
+      "adj. 演绎的，归纳的"
+    ],
+    "usphone": "ɪn'dʌktɪv",
+    "ukphone": "ɪn'dʌktɪv",
+    "e_mean": [
+      "influencing or causing to arise"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "example",
+    "trans": [
+      "n. 例子，榜样",
+      "v. 举例，作为...的样本"
+    ],
+    "usphone": "ɪg'zæmpl",
+    "ukphone": "ɪg'zæmpl",
+    "e_mean": [
+      "an item of information that is typical of a class or group"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "confirm",
+    "trans": [
+      "v. 证实，确认"
+    ],
+    "usphone": "kən'fərm",
+    "ukphone": "kən'fəːm",
+    "e_mean": [
+      "strengthen"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "inquire",
+    "trans": [
+      "v. 询问，打听"
+    ],
+    "usphone": "ɪn'kwaɪr",
+    "ukphone": "ɪn'kwaɪə",
+    "e_mean": [
+      "conduct an investigation of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "questionnaire",
+    "trans": [
+      "n. 调查问卷"
+    ],
+    "usphone": "ˌkwesCHnˈer",
+    "ukphone": "ˌkwesCHnˈer",
+    "e_mean": [
+      "a form with a set of queries to gain statistical information"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "queue",
+    "trans": [
+      "n. 队列，排队"
+    ],
+    "usphone": "kjuː",
+    "ukphone": "kjuː",
+    "e_mean": [
+      "a line of people or vehicles waiting for something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "underestimate",
+    "trans": [
+      "v. 低估，小看"
+    ],
+    "usphone": "ˌʌndərˈestɪmeɪt",
+    "ukphone": "ˌʌndərˈestɪmeɪt",
+    "e_mean": [
+      "make too low an approximation of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "scholarship",
+    "trans": [
+      "n. 奖学金，学术成就"
+    ],
+    "usphone": "'skɑːlərʃɪp",
+    "ukphone": "'skɒlərʃɪp",
+    "e_mean": [
+      "profound learned knowledge"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "fee",
+    "trans": [
+      "n. 费用，费"
+    ],
+    "usphone": "fiː",
+    "ukphone": "fiː",
+    "e_mean": [
+      "a fixed charge for a privilege or for professional services"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tutorial",
+    "trans": [
+      "n. 辅导，讲座"
+    ],
+    "usphone": "tuː'tɔːrɪəl",
+    "ukphone": "tuː'tɔːrɪəl",
+    "e_mean": [
+      "a session of intensive instruction"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "microbiology",
+    "trans": [
+      "n. 微生物学"
+    ],
+    "usphone": "maɪkroʊbaɪ'ɑːlədʒi",
+    "ukphone": "maɪkrəʊbaɪ'ɒlədʒi",
+    "e_mean": [
+      "the branch of biology that studies microorganisms and their effects on humans"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "irrelevant",
+    "trans": [
+      "adj. 不相关的，无关紧要的，离题的"
+    ],
+    "usphone": "ˌɪrɪ'lɛvənt",
+    "ukphone": "ˌɪrɪ'lɛvənt",
+    "e_mean": [
+      "having no bearing on or connection with the subject at issue"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "function",
+    "trans": [
+      "n. 功能，作用",
+      "v. 起作用"
+    ],
+    "usphone": "'fʌŋkʃn",
+    "ukphone": "'fʌŋkʃn",
+    "e_mean": [
+      "what something is used for"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pardon",
+    "trans": [
+      "n. 原谅，谅解",
+      "v. 原谅，宽恕"
+    ],
+    "usphone": "'pɑːrdn",
+    "ukphone": "'pɑːdn",
+    "e_mean": [
+      "accept an excuse for"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "refrain",
+    "trans": [
+      "v. 忍住，克制",
+      "n. 副歌，反复唱的一段"
+    ],
+    "usphone": "rɪ'freɪn",
+    "ukphone": "rɪ'freɪn",
+    "e_mean": [
+      "resist doing something"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "doctoral",
+    "trans": [
+      "adj. 博士的，博士学位的"
+    ],
+    "usphone": "ˈdɑːktrəl",
+    "ukphone": "ˈdɒktərəl",
+    "e_mean": [
+      "of or relating to a doctor or doctorate"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "concept",
+    "trans": [
+      "n. 概念，观念"
+    ],
+    "usphone": "'kɑːnsɛpt",
+    "ukphone": "'kɒnsɛpt",
+    "e_mean": [
+      "an abstract or general idea inferred from specific instances"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "encapsulate",
+    "trans": [
+      "v. 封装，包装"
+    ],
+    "usphone": "en'kæpsjuleɪt",
+    "ukphone": "en'kæpsjuleɪt",
+    "e_mean": [
+      "enclose in or as if in a small container"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "graphology",
+    "trans": [
+      "n. 笔迹学；书法学"
+    ],
+    "usphone": "græ'fɑlədʒi",
+    "ukphone": "græ'fɑlədʒi",
+    "e_mean": [
+      "the study of handwriting"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "dormitory",
+    "trans": [
+      "n. 宿舍；寝室"
+    ],
+    "usphone": "'dɔrmətri",
+    "ukphone": "'dɔːmətri",
+    "e_mean": [
+      "a large sleeping room containing several beds"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "adjunct",
+    "trans": [
+      "n. 附属物；附加物；辅助物"
+    ],
+    "usphone": "'ædʒʌŋkt",
+    "ukphone": "'ædʒʌŋkt",
+    "e_mean": [
+      "something added to another thing but not essential to it"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "autobiography",
+    "trans": [
+      "n. 自传；自传体小说"
+    ],
+    "usphone": "ɔːtoʊbaɪ'ɒgrəfi",
+    "ukphone": "ɔːtəʊbaɪ'ɒgrəfi",
+    "e_mean": [
+      "a book or account of your own life"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "symbolism",
+    "trans": [
+      "n. 象征主义；象征意义"
+    ],
+    "usphone": "'sɪmbəlɪzm",
+    "ukphone": "'sɪmbəlɪzm",
+    "e_mean": [
+      "the practice of investing things with arbitrary meaning"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "directory",
+    "trans": [
+      "n. 目录；电话簿；管理人员"
+    ],
+    "usphone": "də'rekt(ə)ri",
+    "ukphone": "dɪ'rekt(ə)rɪ",
+    "e_mean": [
+      "an alphabetical list of names and contact information"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "begrudge",
+    "trans": [
+      "v. 嫉妒；羡慕；舍不得"
+    ],
+    "usphone": "bɪ'grʌdʒ",
+    "ukphone": "bɪ'grʌdʒ",
+    "e_mean": [
+      "be envious of or feel annoyance toward"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "treatise",
+    "trans": [
+      "n. 论文；著作；论述"
+    ],
+    "usphone": "'triːtɪs",
+    "ukphone": "'triːtɪs",
+    "e_mean": [
+      "a formal text that treats a particular topic systematically"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "prowess",
+    "trans": [
+      "n. 本领；能力；技巧"
+    ],
+    "usphone": "'praʊɪs",
+    "ukphone": "'praʊɪs",
+    "e_mean": [
+      "a superior skill learned by study and practice "
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "laterality",
+    "trans": [
+      "n. 偏见；偏向；单方面"
+    ],
+    "usphone": "ˌleɪtər'æləti",
+    "ukphone": "ˌleɪtər'æləti",
+    "e_mean": [
+      "localization of function on either the right or left sides of the brain"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "doctorate",
+    "trans": [
+      "n. 博士学位；博士头衔"
+    ],
+    "usphone": "'dɑkt(ə)rɪt",
+    "ukphone": "'dɒkt(ə)rɪt",
+    "e_mean": [
+      "one of the highest earned degrees conferred by a university"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "microcosm",
+    "trans": [
+      "n. 微观世界；小宇宙；缩影"
+    ],
+    "usphone": "'maɪkrəkɑzm",
+    "ukphone": "'maɪkrəkɒzm",
+    "e_mean": [
+      "a miniature model of something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "lexicographer",
+    "trans": [
+      "n. 词典编纂者"
+    ],
+    "usphone": "ˌlɛksɪ'kɑgrəfər",
+    "ukphone": "ˌlɛksɪ'kɒgrəfər",
+    "e_mean": [
+      "a compiler or writer of a dictionary"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "bulletin",
+    "trans": [
+      "n. 公告；通讯；新闻简报"
+    ],
+    "usphone": "'bʊlɪtn",
+    "ukphone": "'bʊlɪtɪn",
+    "e_mean": [
+      "a brief report or public statement"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "biological",
+    "trans": [
+      "adj. 生物的；生命的；生物学的"
+    ],
+    "usphone": "ˌbaɪoʊ'lɑdʒɪkl",
+    "ukphone": "ˌbaɪəʊ'lɒdʒɪkl",
+    "e_mean": [
+      "pertaining to life and living things"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "corpus",
+    "trans": [
+      "n. 全体；本体；语料库"
+    ],
+    "usphone": "'kɔrpəs",
+    "ukphone": "'kɔːpəs",
+    "e_mean": [
+      "a collection of writings"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "overview",
+    "trans": [
+      "n. 概览；概述；总览"
+    ],
+    "usphone": "ˌoʊvər'viw",
+    "ukphone": "ˌəʊvə'viː",
+    "e_mean": [
+      "a general summary of a subject"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "illustration",
+    "trans": [
+      "n. 插图；图解；说明"
+    ],
+    "usphone": "ˌɪləs'treɪʃn",
+    "ukphone": "ˌɪləs'treɪʃn",
+    "e_mean": [
+      "a visual representation to make a subject easy to understand"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "prominence",
+    "trans": [
+      "n. 突出；显著；权威"
+    ],
+    "usphone": "'prɑmənəns",
+    "ukphone": "'prɒmɪnəns",
+    "e_mean": [
+      "the state of being widely known or eminent"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "transcription",
+    "trans": [
+      "n. 转录；抄写；抄本"
+    ],
+    "usphone": "træns'krɪpʃn",
+    "ukphone": "træns'krɪpʃn",
+    "e_mean": [
+      "something written, copied from one medium to another"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "postgraduate",
+    "trans": [
+      "adj. 研究生的；研究所的；继续教育的"
+    ],
+    "usphone": "poʊst'grædʒuət",
+    "ukphone": "pəʊst'grædʒuət",
+    "e_mean": [
+      "of or relating to studies beyond a bachelor's degree"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "absenteeism",
+    "trans": [
+      "n. 旷工；缺席；旷课"
+    ],
+    "usphone": "ˌæbs(ə)n'tiːz(ə)m",
+    "ukphone": "ˌæbs(ə)n'tiːz(ə)m",
+    "e_mean": [
+      "habitual failure to be present from work"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "glossary",
+    "trans": [
+      "n. 词汇表；术语表；语言表"
+    ],
+    "usphone": "'glɑs(ə)ri",
+    "ukphone": "'glɒs(ə)rɪ",
+    "e_mean": [
+      "an alphabetical list of technical terms in a field"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tome",
+    "trans": [
+      "n. 厚书；卷；册"
+    ],
+    "usphone": "toʊm",
+    "ukphone": "təʊm",
+    "e_mean": [
+      "a large and scholarly book"
+    ],
+    "speech": "noun"
+  }
+]

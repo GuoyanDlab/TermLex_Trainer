@@ -1,0 +1,4511 @@
+[
+  {
+    "name": "valuable",
+    "trans": [
+      "贵重的，有价值的",
+      "贵重物品， 财宝"
+    ],
+    "usphone": "ˈvæljuəbəl; ˈvæljə-",
+    "ukphone": "'væljuəbl",
+    "e_mean": [
+      "having worth or merit"
+    ],
+    "speech": "adjective",
+    "sentence": "valuable gemstones"
+  },
+  {
+    "name": "incentive",
+    "trans": [
+      "刺激； 激励"
+    ],
+    "usphone": "ɪn'sɛntɪv",
+    "ukphone": "ɪn'sentɪv",
+    "e_mean": [
+      "a positive motivational influence"
+    ],
+    "speech": "noun",
+    "sentence": "I have no incentive to do housework right now."
+  },
+  {
+    "name": "accelerate",
+    "trans": [
+      "加速； 促进"
+    ],
+    "usphone": "əkˈsɛləˌret",
+    "ukphone": "ək'seləreɪt",
+    "e_mean": [
+      "move faster"
+    ],
+    "speech": "verb",
+    "sentence": "to accelerate the growth of a plant, the increase of wealth, etc."
+  },
+  {
+    "name": "prompt",
+    "trans": [
+      "迅速的;促使promptlyad立即"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "according to schedule or without delay"
+    ],
+    "speech": "adjective",
+    "sentence": "I filled in my name where the prompt appeared on the computer screen but my account wasn't recognized."
+  },
+  {
+    "name": "sanction",
+    "trans": [
+      "批准，认可",
+      "批准，认可；约束因素，约束力；"
+    ],
+    "usphone": "'sæŋkʃən",
+    "ukphone": "'sæŋkʃn",
+    "e_mean": [
+      "official permission or approval"
+    ],
+    "speech": "noun",
+    "sentence": "The whalers had been operating in the contested waters off the island with sanction from the Japanese government."
+  },
+  {
+    "name": "coordinate",
+    "trans": [
+      "调整，协调[kəʊ'ɔːdɪnət]",
+      "同等的， 并列的",
+      "同等者，同等物"
+    ],
+    "usphone": "ko'ɔrdɪnet",
+    "ukphone": "kəu'ɔːdɪneɪt",
+    "e_mean": [
+      "of equal importance, rank, or degree"
+    ],
+    "speech": "adjective",
+    "sentence": "Give me your coordinates and we'll come and rescue you."
+  },
+  {
+    "name": "collaborate",
+    "trans": [
+      "合作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "work together on a common enterprise or project"
+    ],
+    "speech": "verb",
+    "sentence": "Let's collaborate on this project, and get it finished faster."
+  },
+  {
+    "name": "purchase",
+    "trans": [
+      "买，购买",
+      "购买的物品"
+    ],
+    "usphone": "'pɝtʃəs",
+    "ukphone": "'pɜːtʃəs",
+    "e_mean": [
+      "acquire by means of a financial transaction"
+    ],
+    "speech": "verb",
+    "sentence": "They offer a free hamburger with the purchase of a drink."
+  },
+  {
+    "name": "afford",
+    "trans": [
+      "负担得起"
+    ],
+    "usphone": "ə'fɔrd",
+    "ukphone": "ə'fɔːd",
+    "e_mean": [
+      "have the financial means to do something or buy something"
+    ],
+    "speech": "verb",
+    "sentence": "I think we can afford the extra hour it will take. We can only afford to buy a small car at the moment."
+  },
+  {
+    "name": "affordable",
+    "trans": [
+      "买得起的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "reasonably priced"
+    ],
+    "speech": "adjective",
+    "sentence": "an affordable vacation in the local area"
+  },
+  {
+    "name": "retail",
+    "trans": [
+      "零售， 以…价格销售",
+      "零售"
+    ],
+    "usphone": "'ritel",
+    "ukphone": "'riːteɪl",
+    "e_mean": [
+      "the selling of goods to consumers"
+    ],
+    "speech": "noun",
+    "sentence": "She works in retail."
+  },
+  {
+    "name": "chain",
+    "trans": [
+      "连锁店；一连串(人或事物)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a series of (usually metal) rings or links fitted into one another to make a flexible ligament"
+    ],
+    "speech": "noun",
+    "sentence": "He wore a gold chain around the neck."
+  },
+  {
+    "name": "discount",
+    "trans": [
+      "折扣",
+      "给…打折； 漠视， 低估"
+    ],
+    "usphone": "dɪs'kaʊnt",
+    "ukphone": "'dɪskaʊnt",
+    "e_mean": [
+      "an amount or percentage deducted"
+    ],
+    "speech": "noun",
+    "sentence": "This store offers discounts on all its wares. That store specializes in discount wares, too."
+  },
+  {
+    "name": "promotion",
+    "trans": [
+      "提升， 晋级； 促进， 增进； 发起， 发扬； 宣传， 推销"
+    ],
+    "usphone": "prə'moʃən",
+    "ukphone": "prə'məuʃn",
+    "e_mean": [
+      "the act of raising in rank or position"
+    ],
+    "speech": "noun",
+    "sentence": "I'll have to give myself a promotion!"
+  },
+  {
+    "name": "currency",
+    "trans": [
+      "货币； 通用， 流行"
+    ],
+    "usphone": "ˈkɜrənsi",
+    "ukphone": "'kʌrənsɪ",
+    "e_mean": [
+      "the metal or paper medium of exchange that is presently used"
+    ],
+    "speech": "noun",
+    "sentence": "Wampum was used as a currency by Amerindians."
+  },
+  {
+    "name": "swap",
+    "trans": [
+      "交换"
+    ],
+    "usphone": "swɑp",
+    "ukphone": "swɒp",
+    "e_mean": [
+      "exchange or give in exchange for"
+    ],
+    "speech": "verb",
+    "sentence": "How much swap do you need?"
+  },
+  {
+    "name": "tax",
+    "trans": [
+      "税；对…征税taxation征税；税"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a charge that a citizen pays to support government programs"
+    ],
+    "speech": "noun",
+    "sentence": "a heavy tax on time or health"
+  },
+  {
+    "name": "levy",
+    "trans": [
+      "税款;征收/征(税)\nmposea~onsth.对某物征税"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "impose and collect"
+    ],
+    "speech": "verb",
+    "sentence": "to levy a tax"
+  },
+  {
+    "name": "opportunity",
+    "trans": [
+      "机会， 时机"
+    ],
+    "usphone": "ˌɑpɚˈtunətɪ",
+    "ukphone": "ˌɒpə'tjuːnəti",
+    "e_mean": [
+      "a possibility from a favorable combination of circumstances"
+    ],
+    "speech": "noun",
+    "sentence": "The world is full of opportunities and it's up to me to see them and pursue them."
+  },
+  {
+    "name": "chance",
+    "trans": [
+      "机会,可能性bychance偶然"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an unknown and unpredictable phenomenon"
+    ],
+    "speech": "noun",
+    "sentence": "We had the chance to meet the president last week."
+  },
+  {
+    "name": "budget",
+    "trans": [
+      "做预算",
+      "预算，预算经费"
+    ],
+    "usphone": "'bʌdʒɪt",
+    "ukphone": "'bʌdʒɪt",
+    "e_mean": [
+      "a summary of intended expenditures"
+    ],
+    "speech": "noun",
+    "sentence": "Budgeting is even harder in times of recession"
+  },
+  {
+    "name": "finance",
+    "trans": [
+      "为…提供资金",
+      "财政，金融；"
+    ],
+    "usphone": "'faɪnæns",
+    "ukphone": "'faɪnæns;faɪ'næns",
+    "e_mean": [
+      "the commercial activity of providing funds and capital"
+    ],
+    "speech": "noun",
+    "sentence": "Who's really in charge of a democracy's finances?"
+  },
+  {
+    "name": "payable",
+    "trans": [
+      "可支付的； 应支付的"
+    ],
+    "usphone": "'peəbl",
+    "ukphone": "'peɪəbl",
+    "e_mean": [
+      "subject to or requiring payment especially as specified"
+    ],
+    "speech": "adjective",
+    "sentence": "Is value-added tax payable on planning application fees?"
+  },
+  {
+    "name": "balance",
+    "trans": [
+      "平衡；余额",
+      "平衡"
+    ],
+    "usphone": "'bæləns",
+    "ukphone": "'bæləns",
+    "e_mean": [
+      "harmonious arrangement or relation of parts within a whole "
+    ],
+    "speech": "noun",
+    "sentence": "Blair thought he could provide a useful balance to Bush's policies."
+  },
+  {
+    "name": "fingerprint",
+    "trans": [
+      "指纹， 手印"
+    ],
+    "usphone": "'fɪŋɡɚprɪnt",
+    "ukphone": "'fɪŋgəprɪnt",
+    "e_mean": [
+      "a print made by an impression of the ridges in the skin of a finger; often used for biometric identification in criminal investigations"
+    ],
+    "speech": "noun",
+    "sentence": "The jail staff fingerprints its inmates routinely"
+  },
+  {
+    "name": "monopoly",
+    "trans": [
+      "垄断， 专卖； 垄断商品， 专卖商品"
+    ],
+    "usphone": "mə'nɑpəli",
+    "ukphone": "mə'nɒpəli",
+    "e_mean": [
+      "a market in which there are many buyers but only one seller"
+    ],
+    "speech": "noun",
+    "sentence": "A land monopoly renders its holder(s) nearly almighty in an agricultural society."
+  },
+  {
+    "name": "tab",
+    "trans": [
+      "标签"
+    ],
+    "usphone": "tæb",
+    "ukphone": "tæb",
+    "e_mean": [
+      "a short strip of material attached to or projecting from something in order to facilitate opening or identifying or handling it"
+    ],
+    "speech": "noun",
+    "sentence": "How many tabs are open in your Web browser?"
+  },
+  {
+    "name": "overhead",
+    "trans": [
+      "在空中， 在头顶上， 在高处",
+      "在头顶上的；高架的",
+      "天花板； 企业管理费用"
+    ],
+    "usphone": ",ovɚ'hɛd",
+    "ukphone": "əʊvə'hed",
+    "e_mean": [
+      "located or originating from above"
+    ],
+    "speech": "adjective",
+    "sentence": "Network overhead is the header data that is required to route and transport data over network, whereas fork overhead is the additional time and memory cost of creating and managing new processes within operating system."
+  },
+  {
+    "name": "inclusive",
+    "trans": [
+      "包括一切费用在内的； 所有数目包括在内的； 包容广阔的"
+    ],
+    "usphone": "ɪn'klusɪv",
+    "ukphone": "ɪn'kluːsɪv",
+    "e_mean": [
+      "encompassing much or everything"
+    ],
+    "speech": "adjective",
+    "sentence": "an inclusive list of data formats"
+  },
+  {
+    "name": "consumption",
+    "trans": [
+      "消耗； 消费"
+    ],
+    "usphone": "kən'sʌmpʃən",
+    "ukphone": "kən'sʌmpʃn",
+    "e_mean": [
+      "the act of using something up"
+    ],
+    "speech": "noun",
+    "sentence": "The consumption of snails as food is more common in France than in England."
+  },
+  {
+    "name": "shareholder",
+    "trans": [
+      "股票持有人； 股东"
+    ],
+    "usphone": "'ʃɛrholdɚ",
+    "ukphone": "'ʃeəhəuldə(r)",
+    "e_mean": [
+      "someone who owns stock in a corporation"
+    ],
+    "speech": "noun",
+    "sentence": "Shareholders are the real owners of a publicly traded business, but management runs it."
+  },
+  {
+    "name": "precede",
+    "trans": [
+      "领先， 先于"
+    ],
+    "usphone": "prɪ'sid",
+    "ukphone": "prɪ'siːd",
+    "e_mean": [
+      "be earlier in time"
+    ],
+    "speech": "verb",
+    "sentence": "Cultural genocide precedes physical genocide."
+  },
+  {
+    "name": "profit",
+    "trans": [
+      "有利于； 获益",
+      "利润；益处"
+    ],
+    "usphone": "'prɑfɪt",
+    "ukphone": "'prɒfɪt",
+    "e_mean": [
+      "the advantageous quality of being beneficial"
+    ],
+    "speech": "noun",
+    "sentence": "Reading such an enlightening book on the subject was of much profit to his studies."
+  },
+  {
+    "name": "aspiration",
+    "trans": [
+      "强烈的愿望； 志向"
+    ],
+    "usphone": "æspəˈreʃən",
+    "ukphone": "ˌæspə'reɪʃn",
+    "e_mean": [
+      "a cherished desire"
+    ],
+    "speech": "noun",
+    "sentence": "Morgan has an aspiration of winning the game."
+  },
+  {
+    "name": "abate",
+    "trans": [
+      "减轻； 降价"
+    ],
+    "usphone": "ə'bet",
+    "ukphone": "ə'beɪt",
+    "e_mean": [
+      "become less in amount or intensity"
+    ],
+    "speech": "verb",
+    "sentence": "to abate a nuisance"
+  },
+  {
+    "name": "prohibitive",
+    "trans": [
+      "禁止的， 抑制的； 令人望而却步的"
+    ],
+    "usphone": "prə'hɪbətɪv",
+    "ukphone": "prə'hɪbətɪv",
+    "e_mean": [
+      "tending to discourage, especially of prices"
+    ],
+    "speech": "adjective",
+    "sentence": "Some countries are more prohibitive than others when it comes to hot topics like euthanasia and cloning."
+  },
+  {
+    "name": "attentive",
+    "trans": [
+      "注意的， 专心的； 关心的， 体贴的； 留意的"
+    ],
+    "usphone": "ə'tɛntɪv",
+    "ukphone": "ə'tentɪv",
+    "e_mean": [
+      "taking heed"
+    ],
+    "speech": "adjective",
+    "sentence": "She is an attentive listener, but does not like to talk much."
+  },
+  {
+    "name": "summit",
+    "trans": [
+      "最高点， 峰顶"
+    ],
+    "usphone": "'sʌmɪt",
+    "ukphone": "'sʌmɪt",
+    "e_mean": [
+      "the top or extreme point of something"
+    ],
+    "speech": "noun",
+    "sentence": "In summer, it is possible to hike to the summit of Mount Shasta."
+  },
+  {
+    "name": "refresher",
+    "trans": [
+      "提神物； 帮助记忆的东西或人； 补习课程"
+    ],
+    "usphone": "",
+    "ukphone": "rɪ'freʃə(r)",
+    "e_mean": [
+      "a drink that refreshes"
+    ],
+    "speech": "noun",
+    "sentence": "The nap was a welcome refresher."
+  },
+  {
+    "name": "economy",
+    "trans": [
+      "经济/节约economic经济的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the system of production and distribution and consumption"
+    ],
+    "speech": "noun",
+    "sentence": "economy of word"
+  },
+  {
+    "name": "trade",
+    "trans": [
+      "贸易/交换.develop~发展贸易"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the commercial exchange of goods and services"
+    ],
+    "speech": "noun",
+    "sentence": "I did no trades with them once the rumors started."
+  },
+  {
+    "name": "market",
+    "trans": [
+      "市场，市场需求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a store where groceries are sold"
+    ],
+    "speech": "noun",
+    "sentence": "The privilege to hold a weekly market was invaluable for any feudal era burgh."
+  },
+  {
+    "name": "industry",
+    "trans": [
+      "工/产业/勤劳.industrial产业的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the action of making of goods and services for sale"
+    ],
+    "speech": "noun",
+    "sentence": "Over the years, their industry and business sense made them wealthy."
+  },
+  {
+    "name": "merchant",
+    "trans": [
+      "商人；商业的aretail~零售商"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a businessperson engaged in retail trade"
+    ],
+    "speech": "noun",
+    "sentence": "a merchanting service"
+  },
+  {
+    "name": "financial",
+    "trans": [
+      "财政/金融的finance金融/财政"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "involving fiscal matters"
+    ],
+    "speech": "adjective",
+    "sentence": "For financial reasons, we're not going to be able to continue to fund this program."
+  },
+  {
+    "name": "fund",
+    "trans": [
+      "基金，专款；储备，蕴藏；",
+      "为…提供资金， 给…拨款"
+    ],
+    "usphone": "fʌnd",
+    "ukphone": "fʌnd",
+    "e_mean": [
+      "a reserve of money set aside for some purpose"
+    ],
+    "speech": "noun",
+    "sentence": "a fund for the maintenance of underprivileged students"
+  },
+  {
+    "name": "donate",
+    "trans": [
+      "捐赠， 赠送"
+    ],
+    "usphone": "'donet",
+    "ukphone": "dəu'neɪt",
+    "e_mean": [
+      "give to a charity or good cause"
+    ],
+    "speech": "verb",
+    "sentence": "He donated an etching from his own collection to the new art gallery."
+  },
+  {
+    "name": "endow",
+    "trans": [
+      "捐赠/赋予.endowment捐赠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "give qualities or abilities to"
+    ],
+    "speech": "verb",
+    "sentence": "She was endowed with a beautiful voice."
+  },
+  {
+    "name": "advertise",
+    "trans": [
+      "为…做广告； 宣传； 公告， 公布"
+    ],
+    "usphone": "'ædvɚtaɪz",
+    "ukphone": "'ædvətaɪz",
+    "e_mean": [
+      "make publicity for; try to sell"
+    ],
+    "speech": "verb",
+    "sentence": "For personal needs, advertise on the internet or in a local newspaper."
+  },
+  {
+    "name": "decrease",
+    "trans": [
+      "减少，减小['dɪːkriːs]",
+      "减少； 减少量"
+    ],
+    "usphone": "dɪ'kris",
+    "ukphone": "dɪ'kriːs",
+    "e_mean": [
+      "a change downward"
+    ],
+    "speech": "noun",
+    "sentence": "One research team has recorded Baishui’s decrease at about 27 meters per year over the last 10 years."
+  },
+  {
+    "name": "downsize",
+    "trans": [
+      "缩小， 紧缩"
+    ],
+    "usphone": "'daʊnsaɪz",
+    "ukphone": "'daunsaɪz",
+    "e_mean": [
+      "reduce in magnitude or number"
+    ],
+    "speech": "verb",
+    "sentence": "Joe and Edna moved to a bungalow after deciding to downsize when the children had left home."
+  },
+  {
+    "name": "decline",
+    "trans": [
+      "下降， 减少； 衰退， 衰落"
+    ],
+    "usphone": "dɪ'klaɪn",
+    "ukphone": "dɪ'klaɪn",
+    "e_mean": [
+      "grow worse"
+    ],
+    "speech": "verb",
+    "sentence": "The dollar has declined rapidly since 2001."
+  },
+  {
+    "name": "declination",
+    "trans": [
+      "倾斜/背离/谢绝"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a condition inferior to an earlier condition"
+    ],
+    "speech": "noun",
+    "sentence": "declination of the head"
+  },
+  {
+    "name": "reduce",
+    "trans": [
+      "减少， 缩小； 简化"
+    ],
+    "usphone": "rɪ'dʊs",
+    "ukphone": "rɪ'djuːs",
+    "e_mean": [
+      "make smaller"
+    ],
+    "speech": "verb",
+    "sentence": "to reduce weight, speed, heat, expenses, price, personnel etc."
+  },
+  {
+    "name": "increase",
+    "trans": [
+      "增加/长.increasing日益增加的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a process of becoming larger or longer or more numerous"
+    ],
+    "speech": "noun",
+    "sentence": "His rage only increased when I told him of the lost money."
+  },
+  {
+    "name": "growth",
+    "trans": [
+      "增长/生长.considerable~相当大增长"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "changing gradually from a simple to a more complex level"
+    ],
+    "speech": "noun",
+    "sentence": "Growth was dampened by a softening of the global economy in 2001, but picked up in the subsequent years due to strong growth in China."
+  },
+  {
+    "name": "gradual",
+    "trans": [
+      "逐渐/步的,平缓的~growth逐步增长"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "proceeding in small stages"
+    ],
+    "speech": "adjective",
+    "sentence": "a gradual increase of knowledge; a gradual decline"
+  },
+  {
+    "name": "escalate",
+    "trans": [
+      "逐步增长或发展， 逐步升级"
+    ],
+    "usphone": "'ɛskəlet",
+    "ukphone": "'eskəleɪt",
+    "e_mean": [
+      "increase in extent or intensity"
+    ],
+    "speech": "verb",
+    "sentence": "The shooting escalated the existing hostility."
+  },
+  {
+    "name": "expand",
+    "trans": [
+      "膨胀， 扩张； 张开， 展开； 详述"
+    ],
+    "usphone": "ɪk'spænd",
+    "ukphone": "ɪk'spænd",
+    "e_mean": [
+      "extend in one or more directions"
+    ],
+    "speech": "verb",
+    "sentence": "You can expand this compact umbrella to cover a large table."
+  },
+  {
+    "name": "influx",
+    "trans": [
+      "流入/涌进~ofcapital资本的涌进"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the process of flowing in"
+    ],
+    "speech": "noun",
+    "sentence": "I'll buy a new computer when I get an influx of cash."
+  },
+  {
+    "name": "affluent",
+    "trans": [
+      "丰富的， 富裕的"
+    ],
+    "usphone": "'æfluənt",
+    "ukphone": "'æflʊənt",
+    "e_mean": [
+      "having an abundant supply of money or possessions of value"
+    ],
+    "speech": "adjective",
+    "sentence": "They were affluent, but aspired to true wealth."
+  },
+  {
+    "name": "enrich",
+    "trans": [
+      "充实， 使丰富； 使富裕"
+    ],
+    "usphone": "ɪn'rɪtʃ",
+    "ukphone": "ɪn'rɪtʃ",
+    "e_mean": [
+      "make better or improve in quality"
+    ],
+    "speech": "verb",
+    "sentence": "Hobbies enrich lives."
+  },
+  {
+    "name": "sufficient",
+    "trans": [
+      "足够的， 充分的"
+    ],
+    "usphone": "səˈfɪʃənt",
+    "ukphone": "sə'fɪʃnt",
+    "e_mean": [
+      "of a quantity that can fulfill a need or requirement"
+    ],
+    "speech": "adjective",
+    "sentence": "There is not sufficient access to the internet in many small rural villages."
+  },
+  {
+    "name": "adequate",
+    "trans": [
+      "充足的； 合适的， 合格的"
+    ],
+    "usphone": "ˈædɪkwət",
+    "ukphone": "'ædɪkwət",
+    "e_mean": [
+      "having the requisite qualities or resources to meet a task"
+    ],
+    "speech": "adjective",
+    "sentence": "an adequate definition"
+  },
+  {
+    "name": "spare",
+    "trans": [
+      "闲置的；备用的，外加的；空闲的",
+      "省出，抽出；饶恕，赦免；免去；不吝惜",
+      "备用品；"
+    ],
+    "usphone": "spɛr",
+    "ukphone": "speə(r)",
+    "e_mean": [
+      "more than is needed, desired, or required"
+    ],
+    "speech": "adjective",
+    "sentence": "a spare diet"
+  },
+  {
+    "name": "redundant",
+    "trans": [
+      "被解雇的； 多余的， 过剩的； 累赘的， 冗长的"
+    ],
+    "usphone": "rɪ'dʌndənt",
+    "ukphone": "rɪ'dʌndənt",
+    "e_mean": [
+      "more than is needed, desired, or required"
+    ],
+    "speech": "adjective",
+    "sentence": "Four employees were made redundant."
+  },
+  {
+    "name": "deposit",
+    "trans": [
+      "存放；储蓄；使沉淀；付",
+      "存款； 保证金， 押金； 沉积物"
+    ],
+    "usphone": "dɪ'pɑzɪt",
+    "ukphone": "dɪ'pɒzɪt",
+    "e_mean": [
+      "the act of putting something somewhere"
+    ],
+    "speech": "noun",
+    "sentence": "a deposit of seaweed on the shore"
+  },
+  {
+    "name": "cheque",
+    "trans": [
+      "(check)支票casha~兑现支"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a written order directing a bank to pay money"
+    ],
+    "speech": "noun",
+    "sentence": "I was not carrying cash, so I wrote a cheque for the amount."
+  },
+  {
+    "name": "coin",
+    "trans": [
+      "硬币;铸币/创造coiner创造新词语的\n人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a flat metal piece (usually a disc) used as money"
+    ],
+    "speech": "noun",
+    "sentence": "She spent some serious coin on that car!"
+  },
+  {
+    "name": "shilling",
+    "trans": [
+      "先令"
+    ],
+    "usphone": "'ʃɪlɪŋ",
+    "ukphone": "'ʃɪlɪŋ",
+    "e_mean": [
+      "a former monetary unit in Great Britain"
+    ],
+    "speech": "noun",
+    "sentence": "The shilling was worth twelve old pence, or one twentieth of a pound sterling."
+  },
+  {
+    "name": "treasure",
+    "trans": [
+      "金银财宝/珍品treasury财政部"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any possession that is highly valued by its owner"
+    ],
+    "speech": "noun",
+    "sentence": "Oh, this ring is beautiful! I’ll treasure it forever."
+  },
+  {
+    "name": "wealth",
+    "trans": [
+      "财富/丰富accumulate~积聚财富"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "property that has economic value"
+    ],
+    "speech": "noun",
+    "sentence": "She brings a wealth of knowledge to the project."
+  },
+  {
+    "name": "estate",
+    "trans": [
+      "个人财产， 遗产； 土地， 地产， 庄园"
+    ],
+    "usphone": "ɪ'stet",
+    "ukphone": "ɪ'steɪt",
+    "e_mean": [
+      "extensive landed property retained by the owner"
+    ],
+    "speech": "noun",
+    "sentence": "an estate diamond; estate jewelry"
+  },
+  {
+    "name": "possess",
+    "trans": [
+      "具有； 拥有"
+    ],
+    "usphone": "pə'zɛs",
+    "ukphone": "pə'zes",
+    "e_mean": [
+      "have ownership of"
+    ],
+    "speech": "verb",
+    "sentence": "He does not even possess a working telephone."
+  },
+  {
+    "name": "possessive",
+    "trans": [
+      "占有欲强的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "serving to express or indicate the act of having"
+    ],
+    "speech": "adjective",
+    "sentence": "He is very possessive of his car."
+  },
+  {
+    "name": "legacy",
+    "trans": [
+      "遗产； 遗赠"
+    ],
+    "usphone": "'lɛgəsi",
+    "ukphone": "'legəsi",
+    "e_mean": [
+      "a gift of personal property by will"
+    ],
+    "speech": "noun",
+    "sentence": "John Muir left as his legacy an enduring spirit of respect for the environment."
+  },
+  {
+    "name": "descend",
+    "trans": [
+      "下来， 下降； 遗传"
+    ],
+    "usphone": "dɪ'sɛnd",
+    "ukphone": "dɪ'send",
+    "e_mean": [
+      "move downward and lower, but not necessarily all the way"
+    ],
+    "speech": "verb",
+    "sentence": "The rain descended, and the floods came."
+  },
+  {
+    "name": "retailing",
+    "trans": [
+      "零售业"
+    ],
+    "usphone": "'ritelɪŋ",
+    "ukphone": "'riːteɪlɪŋ",
+    "e_mean": [
+      "the activities involved in selling commodities directly to consumers"
+    ],
+    "speech": "noun",
+    "sentence": "She works in retail."
+  },
+  {
+    "name": "coupon",
+    "trans": [
+      "优惠券； 票证； 配给券； 参赛表， 订货单"
+    ],
+    "usphone": "'kupɑn",
+    "ukphone": "'kuːpɒn",
+    "e_mean": [
+      "a certificate that can be redeemed for value as needed"
+    ],
+    "speech": "noun",
+    "sentence": "Jenna coupons and she goes through three magazines a day to find the coupons."
+  },
+  {
+    "name": "exchange",
+    "trans": [
+      "交换，调换；交易；兑换；交流；谈话，争论",
+      "交换， 调换； 交易； 兑换； 交流"
+    ],
+    "usphone": "ɪks'tʃendʒ",
+    "ukphone": "ɪks'tʃeɪndʒ",
+    "e_mean": [
+      "the act of changing one thing for another thing"
+    ],
+    "speech": "noun",
+    "sentence": "All in all, it was an even exchange."
+  },
+  {
+    "name": "receipt",
+    "trans": [
+      "收到，接到；发票，收据；"
+    ],
+    "usphone": "rɪ'sit",
+    "ukphone": "rɪ'siːt",
+    "e_mean": [
+      "the act of receiving"
+    ],
+    "speech": "noun",
+    "sentence": "A balance payable on receipt of the goods."
+  },
+  {
+    "name": "invoice",
+    "trans": [
+      "发票",
+      "给…开发票"
+    ],
+    "usphone": "'ɪnvɔɪs",
+    "ukphone": "'ɪnvɔɪs",
+    "e_mean": [
+      "an itemized statement of money owed for goods or services"
+    ],
+    "speech": "noun",
+    "sentence": "The merchant receives a large invoice of goods."
+  },
+  {
+    "name": "lack",
+    "trans": [
+      "缺乏， 不足， 没有"
+    ],
+    "usphone": "læk",
+    "ukphone": "læk",
+    "e_mean": [
+      "the state of needing something that is absent or unavailable"
+    ],
+    "speech": "noun",
+    "sentence": "My life lacks excitement."
+  },
+  {
+    "name": "company",
+    "trans": [
+      "公司/陪伴keepsb.~陪伴某人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an institution created to conduct business"
+    ],
+    "speech": "noun",
+    "sentence": "Keep the house clean; I have company coming."
+  },
+  {
+    "name": "accompany",
+    "trans": [
+      "陪伴； 伴随， 与…同时发生； 伴奏"
+    ],
+    "usphone": "ə'kʌmpəni",
+    "ukphone": "ə'kʌmpənɪ",
+    "e_mean": [
+      "go or travel along with"
+    ],
+    "speech": "verb",
+    "sentence": "Geoffrey accompanied the group on their pilgrimage."
+  },
+  {
+    "name": "firm",
+    "trans": [
+      "坚实的， 稳固的， 坚定的",
+      "公司"
+    ],
+    "usphone": "fɝm",
+    "ukphone": "fɜːm",
+    "e_mean": [
+      "not soft or yielding to pressure"
+    ],
+    "speech": "adjective",
+    "sentence": "It's good to have a firm grip when shaking hands."
+  },
+  {
+    "name": "enterprise",
+    "trans": [
+      "企业， 公司； 事业"
+    ],
+    "usphone": "'ɛntɚ'praɪz",
+    "ukphone": "'entəpraɪz",
+    "e_mean": [
+      "a purposeful or industrious undertaking"
+    ],
+    "speech": "noun",
+    "sentence": "A micro-enterprise is defined as a business having 5 or fewer employees and a low seed capital."
+  },
+  {
+    "name": "entity",
+    "trans": [
+      "实体，独立存在物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "that which is perceived to have its own distinct existence "
+    ],
+    "speech": "noun",
+    "sentence": "The group successfully maintains its tribal entity."
+  },
+  {
+    "name": "invest",
+    "trans": [
+      "投资； 投入； 授予， 赋予"
+    ],
+    "usphone": "ɪn'vɛst",
+    "ukphone": "ɪn'vest",
+    "e_mean": [
+      "lay out money or resources in an enterprise"
+    ],
+    "speech": "verb",
+    "sentence": "We'd like to thank all the contributors who have invested countless hours into this event."
+  },
+  {
+    "name": "input",
+    "trans": [
+      "投入，输入；输入的数据",
+      "把…输入计算机"
+    ],
+    "usphone": "'ɪn'pʊt",
+    "ukphone": "'ɪnput",
+    "e_mean": [
+      "signal going into an electronic system"
+    ],
+    "speech": "noun",
+    "sentence": "The user inputs his date of birth and the computer displays his age."
+  },
+  {
+    "name": "product",
+    "trans": [
+      "产品/物.production生产/产量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an artifact that has been created by someone or some process"
+    ],
+    "speech": "noun",
+    "sentence": "That store offers a variety of products. We've got to sell a lot of product by the end of the month."
+  },
+  {
+    "name": "productive",
+    "trans": [
+      "生产性的； 多产的； 富有成效的"
+    ],
+    "usphone": "prə'dʌktɪv",
+    "ukphone": "prə'dʌktɪv",
+    "e_mean": [
+      "capable of bringing forth, especially abundantly"
+    ],
+    "speech": "adjective",
+    "sentence": "a productive set"
+  },
+  {
+    "name": "acquisition",
+    "trans": [
+      "取得； 获得物"
+    ],
+    "usphone": ",ækwɪ'zɪʃən",
+    "ukphone": "ˌækwɪ'zɪʃn",
+    "e_mean": [
+      "something gained"
+    ],
+    "speech": "noun",
+    "sentence": "The acquisition of sports equipment can be fun in itself."
+  },
+  {
+    "name": "insure",
+    "trans": [
+      "确保/给…上保险.insurance保险"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "protect by a contract of reimbursement in case of loss"
+    ],
+    "speech": "verb",
+    "sentence": "I use an alarm clock to ensure that I get up on time."
+  },
+  {
+    "name": "guarantee",
+    "trans": [
+      "保证；"
+    ],
+    "usphone": ",ɡærən'ti",
+    "ukphone": "ˌgærən'tiː",
+    "e_mean": [
+      "an unconditional commitment that something will happen"
+    ],
+    "speech": "noun",
+    "sentence": "Can you give me a guarantee that he will be fit for the match?"
+  },
+  {
+    "name": "reliable",
+    "trans": [
+      "可靠的， 可信赖的"
+    ],
+    "usphone": "rɪ'laɪəbl",
+    "ukphone": "rɪ'laɪəbl",
+    "e_mean": [
+      "able to be depended on; consistent or steady"
+    ],
+    "speech": "adjective",
+    "sentence": "the old reliables"
+  },
+  {
+    "name": "wage",
+    "trans": [
+      "工资；"
+    ],
+    "usphone": "wedʒ",
+    "ukphone": "weɪdʒ",
+    "e_mean": [
+      "payment for work"
+    ],
+    "speech": "noun",
+    "sentence": "Before her promotion, her wages were 20% less."
+  },
+  {
+    "name": "refund",
+    "trans": [
+      "退款[rɪ'fʌnd]",
+      "退还， 偿付"
+    ],
+    "usphone": "ˈrifʌnd",
+    "ukphone": "'riːfʌnd",
+    "e_mean": [
+      "pay back"
+    ],
+    "speech": "verb",
+    "sentence": "If the camera is faulty, you can return it to the store where you bought it for a full refund."
+  },
+  {
+    "name": "reimburse",
+    "trans": [
+      "赔偿/补偿~sbforsth.向某人赔偿损失"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "pay back for some expense incurred"
+    ],
+    "speech": "verb",
+    "sentence": "The company will reimburse you for your expenses for the business trip."
+  },
+  {
+    "name": "subsidy",
+    "trans": [
+      "津贴， 补助金"
+    ],
+    "usphone": "'sʌbsədi",
+    "ukphone": "'sʌbsədi",
+    "e_mean": [
+      "a grant of financial assistance, especially by a government"
+    ],
+    "speech": "noun",
+    "sentence": "Manufacturing firms are supported by government subsidies in some countries."
+  },
+  {
+    "name": "earn",
+    "trans": [
+      "赚得,获得earnaliving谋生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "acquire or deserve by one's efforts or actions"
+    ],
+    "speech": "verb",
+    "sentence": "You can have the s'mores: you earned them, clearing the walkway of snow so well."
+  },
+  {
+    "name": "undertaking",
+    "trans": [
+      "任务，事业；许诺，保证"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any piece of work that is attempted"
+    ],
+    "speech": "noun",
+    "sentence": "He undertook to exercise more in future."
+  },
+  {
+    "name": "career",
+    "trans": [
+      "生涯； 经历； 职业"
+    ],
+    "usphone": "kə'rɪr",
+    "ukphone": "kə'rɪə(r)",
+    "e_mean": [
+      "the particular occupation for which you are trained"
+    ],
+    "speech": "noun",
+    "sentence": "Washington's career as a soldier"
+  },
+  {
+    "name": "profession",
+    "trans": [
+      "行业， 职业； 宣称， 表白"
+    ],
+    "usphone": "prə'fɛʃən",
+    "ukphone": "prə'feʃn",
+    "e_mean": [
+      "an occupation requiring special education"
+    ],
+    "speech": "noun",
+    "sentence": "Despite his continued professions of innocence, the court eventually sentenced him to five years."
+  },
+  {
+    "name": "labour",
+    "trans": [
+      "劳动； 努力",
+      "劳动；劳动力，工人"
+    ],
+    "usphone": "'leibə",
+    "ukphone": "'leɪbə(r)",
+    "e_mean": [
+      "productive work (especially physical work done for wages)"
+    ],
+    "speech": "noun",
+    "sentence": "I think we've all got the idea. There's no need to labour the point."
+  },
+  {
+    "name": "workaholic",
+    "trans": [
+      "工作狂"
+    ],
+    "usphone": "ˌwɜrkəˈhɔlɪk",
+    "ukphone": "ˌwɜːkə'hɒlɪk",
+    "e_mean": [
+      "person with a compulsive need to work"
+    ],
+    "speech": "noun",
+    "sentence": "All workaholics should move to Hong Kong, where working hours average over 50 per week."
+  },
+  {
+    "name": "clerk",
+    "trans": [
+      "办事员； 职员"
+    ],
+    "usphone": "klɝk",
+    "ukphone": "klɑːk",
+    "e_mean": [
+      "an employee who performs office work"
+    ],
+    "speech": "noun",
+    "sentence": "The law school graduate clerked for the supreme court judge for the summer."
+  },
+  {
+    "name": "interview",
+    "trans": [
+      "接见， 会见； 采访； 面试"
+    ],
+    "usphone": "'ɪntɚvju",
+    "ukphone": "'ɪntəvjuː",
+    "e_mean": [
+      "the questioning of a person, often conducted by journalists"
+    ],
+    "speech": "noun",
+    "sentence": "The reporter gave the witness an interview."
+  },
+  {
+    "name": "resume",
+    "trans": [
+      "重新开始， 继续恢复"
+    ],
+    "usphone": "",
+    "ukphone": "rɪ'zjuːm",
+    "e_mean": [
+      "take up or begin anew"
+    ],
+    "speech": "verb",
+    "sentence": "We will resume this discussion tomorrow at nine."
+  },
+  {
+    "name": "duty",
+    "trans": [
+      "职责/关税beexemptfrom~免除关税"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the social force that obliges you to behave in a certain way"
+    ],
+    "speech": "noun",
+    "sentence": "We don't have a duty to keep you here."
+  },
+  {
+    "name": "impose",
+    "trans": [
+      "把…强加于； 征； 处以"
+    ],
+    "usphone": "ɪm'poz",
+    "ukphone": "ɪm'pəuz",
+    "e_mean": [
+      "charge and collect payment"
+    ],
+    "speech": "verb",
+    "sentence": "Congress imposed new tariffs."
+  },
+  {
+    "name": "consume",
+    "trans": [
+      "消耗/吃喝consumption"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "take in as food"
+    ],
+    "speech": "verb",
+    "sentence": "The power plant consumes 30 tons of coal per hour."
+  },
+  {
+    "name": "spend",
+    "trans": [
+      "花费;开支~time/money(in)doingsth"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "pass time in a specific way"
+    ],
+    "speech": "verb",
+    "sentence": "I’m sorry, boss, but the advertising spend exceeded the budget again this month."
+  },
+  {
+    "name": "cost",
+    "trans": [
+      "需付;费用/代价ata~of付出..的代价"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "be priced at"
+    ],
+    "speech": "verb",
+    "sentence": "It will cost you a lot of money to take a trip around the world."
+  },
+  {
+    "name": "expense",
+    "trans": [
+      "花费， 开支； 消费， 消耗； 代价， 损失"
+    ],
+    "usphone": "ɪk'spɛns",
+    "ukphone": "ɪk'spens",
+    "e_mean": [
+      "a financial burden; money that must be paid out"
+    ],
+    "speech": "noun",
+    "sentence": "Buying the car was a big expense, but will be worth it in the long run."
+  },
+  {
+    "name": "gross",
+    "trans": [
+      "总的， 毛的"
+    ],
+    "usphone": "ɡros",
+    "ukphone": "grəus",
+    "e_mean": [
+      "lacking fine distinctions or detail"
+    ],
+    "speech": "adjective",
+    "sentence": "The movie grossed three million on the first weekend."
+  },
+  {
+    "name": "depression",
+    "trans": [
+      "忧愁， 消沉； 低气压， 低压； 不景气， 萧条"
+    ],
+    "usphone": "dɪ'prɛʃən",
+    "ukphone": "dɪ'preʃn",
+    "e_mean": [
+      "a sunken or lowered geological formation"
+    ],
+    "speech": "noun",
+    "sentence": "I used to suffer from depression, but now I'm mostly content with my life."
+  },
+  {
+    "name": "depress",
+    "trans": [
+      "使沮丧； 使不景气； 降低， 减少"
+    ],
+    "usphone": "dɪ'prɛs",
+    "ukphone": "dɪ'pres",
+    "e_mean": [
+      "push down"
+    ],
+    "speech": "verb",
+    "sentence": "Depress the upper lever to start the machine."
+  },
+  {
+    "name": "bond",
+    "trans": [
+      "债券"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a connection that fastens things together"
+    ],
+    "speech": "noun",
+    "sentence": "Investors face a quandary. Cash offers a return of virtually zero in many developed countries; government-bond yields may have risen in recent weeks but they are still unattractive. Equities have suffered two big bear markets since 2000 and are wobbling again. It is hardly surprising that pension funds, insurers and endowments are searching for new sources of return."
+  },
+  {
+    "name": "debt",
+    "trans": [
+      "债， 债务"
+    ],
+    "usphone": "dɛt",
+    "ukphone": "det",
+    "e_mean": [
+      "the state of owing something, especially money"
+    ],
+    "speech": "noun",
+    "sentence": "I am in your debt."
+  },
+  {
+    "name": "inflation",
+    "trans": [
+      "通货膨胀"
+    ],
+    "usphone": "ɪn'fleʃən",
+    "ukphone": "ɪn'fleɪʃn",
+    "e_mean": [
+      "the act of filling something with air"
+    ],
+    "speech": "noun",
+    "sentence": "The inflation of the balloon took five hours."
+  },
+  {
+    "name": "attend",
+    "trans": [
+      "出席， 参加； 随同， 陪同； 专心， 注意"
+    ],
+    "usphone": "ə'tɛnd",
+    "ukphone": "ə'tend",
+    "e_mean": [
+      "be present"
+    ],
+    "speech": "verb",
+    "sentence": "Secretaries attend to correspondence."
+  },
+  {
+    "name": "absent",
+    "trans": [
+      "不在场的； 心不在焉的"
+    ],
+    "usphone": "ˈæbsnt;(for v.)əbˈsɛnt",
+    "ukphone": "'æbsənt",
+    "e_mean": [
+      "not being in a specified place"
+    ],
+    "speech": "adjective",
+    "sentence": "The part was rudimental or absent."
+  },
+  {
+    "name": "wholesale",
+    "trans": [
+      "批发"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the selling of goods to merchants"
+    ],
+    "speech": "noun",
+    "sentence": "The bombing resulted in wholesale destruction."
+  },
+  {
+    "name": "bid",
+    "trans": [
+      "出价； 投标"
+    ],
+    "usphone": "bɪd",
+    "ukphone": "bɪd",
+    "e_mean": [
+      "propose a payment"
+    ],
+    "speech": "verb",
+    "sentence": "He bade me come in."
+  },
+  {
+    "name": "deal",
+    "trans": [
+      "买卖/应付;协议/交易/大量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "be in charge of, act on, or dispose of"
+    ],
+    "speech": "verb",
+    "sentence": "We gave three deals of grain in tribute to the king."
+  },
+  {
+    "name": "transaction",
+    "trans": [
+      "办理；处理；交易，业务；"
+    ],
+    "usphone": "træn'zækʃən",
+    "ukphone": "træn'zækʃn",
+    "e_mean": [
+      "conducting business within or between groups"
+    ],
+    "speech": "noun",
+    "sentence": "The transaction was made on Friday with the supplier."
+  },
+  {
+    "name": "turnover",
+    "trans": [
+      "营业额； 人事变动率； 货物周转率"
+    ],
+    "usphone": "'tɝn'ovɚ",
+    "ukphone": "'tɜːnəuvə(r)",
+    "e_mean": [
+      "the rate at which workers have to be replaced"
+    ],
+    "speech": "noun",
+    "sentence": "The company had an annual turnover of $500,000."
+  },
+  {
+    "name": "dump",
+    "trans": [
+      "倾卸，倾倒",
+      "垃圾场"
+    ],
+    "usphone": "dʌmp",
+    "ukphone": "dʌmp",
+    "e_mean": [
+      "a piece of land where waste materials are dumped"
+    ],
+    "speech": "noun",
+    "sentence": "A toxic waste dump."
+  },
+  {
+    "name": "export",
+    "trans": [
+      "出口；输出，传播['3kspɔːt]",
+      "出口； 输出； 出口商品"
+    ],
+    "usphone": "ˈekspɔːrt；ɪkˈ-",
+    "ukphone": "ɪk'spɔːt",
+    "e_mean": [
+      "sell or transfer abroad"
+    ],
+    "speech": "verb",
+    "sentence": "Oil is the main export of Saudi Arabia."
+  },
+  {
+    "name": "import",
+    "trans": [
+      "进口;进口商品~duty进口税"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "bring in from abroad"
+    ],
+    "speech": "verb",
+    "sentence": "It was a matter of great import."
+  },
+  {
+    "name": "share",
+    "trans": [
+      "分享；股份/票.market~市场份额"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "assets belonging to an individual person or group"
+    ],
+    "speech": "noun",
+    "sentence": "Upload media from the browser or directly to the file share."
+  },
+  {
+    "name": "benefit",
+    "trans": [
+      "使受益；有益于，"
+    ],
+    "usphone": "'bɛnɪfɪt",
+    "ukphone": "'benɪfɪt",
+    "e_mean": [
+      "something that aids or promotes well-being"
+    ],
+    "speech": "noun",
+    "sentence": "It was for her benefit. His benefit was free beer."
+  },
+  {
+    "name": "dividend",
+    "trans": [
+      "股息/红利paydividends产生效益"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a number to be divided by another number"
+    ],
+    "speech": "noun",
+    "sentence": "In \"42 ÷ 3\" the dividend is the 42."
+  },
+  {
+    "name": "stock",
+    "trans": [
+      "储备",
+      "常备的",
+      "储备品；股票；〈总称〉家畜"
+    ],
+    "usphone": "stɑk",
+    "ukphone": "stɒk",
+    "e_mean": [
+      "a supply of something available for future use"
+    ],
+    "speech": "noun",
+    "sentence": "The store stocks all kinds of dried vegetables."
+  },
+  {
+    "name": "recommend",
+    "trans": [
+      "推荐； 劝告； 使受欢迎"
+    ],
+    "usphone": "'rɛkə'mɛnd",
+    "ukphone": "ˌrekə'mend",
+    "e_mean": [
+      "express a good opinion of"
+    ],
+    "speech": "verb",
+    "sentence": "The board recommends Philips, given his ample experience in similar positions."
+  },
+  {
+    "name": "employ",
+    "trans": [
+      "雇用； 用， 使用"
+    ],
+    "usphone": "ɪm'plɔɪ",
+    "ukphone": "ɪm'plɔɪ",
+    "e_mean": [
+      "put into service"
+    ],
+    "speech": "verb",
+    "sentence": "The school district has six thousand teachers in its employ."
+  },
+  {
+    "name": "hire",
+    "trans": [
+      "租用； 雇用"
+    ],
+    "usphone": "'haɪɚ",
+    "ukphone": "'haɪə(r)",
+    "e_mean": [
+      "engage or hire for work"
+    ],
+    "speech": "verb",
+    "sentence": "The sign offered pedalos on hire."
+  },
+  {
+    "name": "dismiss",
+    "trans": [
+      "解雇， 解散； 驳回， 不受理"
+    ],
+    "usphone": "dɪs'mɪs",
+    "ukphone": "dɪs'mɪs",
+    "e_mean": [
+      "stop associating with"
+    ],
+    "speech": "verb",
+    "sentence": "The company dismissed me after less than a year."
+  },
+  {
+    "name": "discharge",
+    "trans": [
+      "解雇； 释放； 排出， 放出； 放； 完成， 履行",
+      "排出；获准离开，免职；履行，执行；清偿[dɪs'tʃɑːdʒ]"
+    ],
+    "usphone": "dɪs'tʃɑrdʒ",
+    "ukphone": "'dɪstʃɑːdʒ",
+    "e_mean": [
+      "remove the unbalanced electricity from"
+    ],
+    "speech": "verb",
+    "sentence": "to discharge a prisoner"
+  },
+  {
+    "name": "resign",
+    "trans": [
+      "辞职； 辞去； 放弃"
+    ],
+    "usphone": "rɪ'zaɪn",
+    "ukphone": "rɪ'zaɪn",
+    "e_mean": [
+      "accept as inevitable"
+    ],
+    "speech": "verb",
+    "sentence": "He resigned the crown to follow his heart."
+  },
+  {
+    "name": "sack",
+    "trans": [
+      "麻袋，粗布袋；解雇；劫掠",
+      "解雇； 劫掠"
+    ],
+    "usphone": "sæk",
+    "ukphone": "sæk",
+    "e_mean": [
+      "a bag made of paper or plastic for holding purchases"
+    ],
+    "speech": "noun",
+    "sentence": "The American sack of salt is 215 pounds; the sack of wheat, two bushels. — McElrath."
+  },
+  {
+    "name": "retire",
+    "trans": [
+      "退休； 引退， 退隐， 撤退"
+    ],
+    "usphone": "rɪ'taɪɚ",
+    "ukphone": "rɪ'taɪə(r)",
+    "e_mean": [
+      "withdraw from active participation"
+    ],
+    "speech": "verb",
+    "sentence": "At the retire, the cavalry fell back."
+  },
+  {
+    "name": "result",
+    "trans": [
+      "后果;导致.~in导致;~from由.引起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "something that follows as a consequence"
+    ],
+    "speech": "noun",
+    "sentence": "the result of a course of action; the result of a mathematical operation"
+  },
+  {
+    "name": "choose",
+    "trans": [
+      "选择,抉择.asyouchoose随你选择"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "pick out from a number of alternatives"
+    ],
+    "speech": "verb",
+    "sentence": "I chose a nice ripe apple from the fruit bowl."
+  },
+  {
+    "name": "regulate",
+    "trans": [
+      "管理,调整"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "bring into conformity with rules, principles, or usage"
+    ],
+    "speech": "verb",
+    "sentence": "to regulate a watch, i.e. adjust its rate of running so that it will keep approximately standard time"
+  },
+  {
+    "name": "economical",
+    "trans": [
+      "节约的； 经济的"
+    ],
+    "usphone": ",ɛkə'nɑmɪkl",
+    "ukphone": "ˌiːkə'nɒmɪkl",
+    "e_mean": [
+      "using the minimum of time or resources for effectiveness"
+    ],
+    "speech": "adjective",
+    "sentence": "He was an economical person by nature."
+  },
+  {
+    "name": "insurance",
+    "trans": [
+      "保险； 保险费； 保险业"
+    ],
+    "usphone": "ɪn'ʃʊrəns",
+    "ukphone": "ɪn'ʃuərəns",
+    "e_mean": [
+      "protection against future loss"
+    ],
+    "speech": "noun",
+    "sentence": "The car was totalled, but fortunately I had insurance."
+  },
+  {
+    "name": "loan",
+    "trans": [
+      "贷款， 借"
+    ],
+    "usphone": "lon",
+    "ukphone": "ləun",
+    "e_mean": [
+      "the temporary provision of money (usually at interest)"
+    ],
+    "speech": "noun",
+    "sentence": "Because of the loan that John made to me, I was able to pay my tuition for the upcoming semester."
+  },
+  {
+    "name": "consumer",
+    "trans": [
+      "消费者； 用户"
+    ],
+    "usphone": "kən'sumɚ",
+    "ukphone": "kən'sjuːmə(r)",
+    "e_mean": [
+      "a person who uses goods or services"
+    ],
+    "speech": "noun",
+    "sentence": "This new system favours the consumer over the producer."
+  },
+  {
+    "name": "amount",
+    "trans": [
+      "合计",
+      "总额"
+    ],
+    "usphone": "ə'maʊnt",
+    "ukphone": "ə'maunt",
+    "e_mean": [
+      "how much there is of something that you can quantify"
+    ],
+    "speech": "noun",
+    "sentence": "The amount of atmospheric pollution threatens a health crisis."
+  },
+  {
+    "name": "cash",
+    "trans": [
+      "现金，"
+    ],
+    "usphone": "kæʃ",
+    "ukphone": "kæʃ",
+    "e_mean": [
+      "money in the form of bills or coins"
+    ],
+    "speech": "noun",
+    "sentence": "After you bounced those checks last time, they want to be paid in cash."
+  },
+  {
+    "name": "rent",
+    "trans": [
+      "租借；出租",
+      "租金"
+    ],
+    "usphone": "rɛnt",
+    "ukphone": "rent",
+    "e_mean": [
+      "a payment or series of payments made by a lessee to an owner"
+    ],
+    "speech": "noun",
+    "sentence": "A New York city taxicab license earns more than $10,000 a year in rent."
+  },
+  {
+    "name": "statistic",
+    "trans": [
+      "统计数值； 统计学"
+    ],
+    "usphone": "stə'tɪstɪk",
+    "ukphone": "stə'tɪstɪk",
+    "e_mean": [
+      "a datum that can be represented numerically"
+    ],
+    "speech": "noun",
+    "sentence": "By dying from an overdose, he became just another statistic."
+  },
+  {
+    "name": "apt",
+    "trans": [
+      "易于…的； 适宜的； 敏捷的"
+    ],
+    "usphone": "æpt",
+    "ukphone": "æpt",
+    "e_mean": [
+      "being of striking appropriateness and relevance"
+    ],
+    "speech": "adjective",
+    "sentence": "an apt metaphor"
+  },
+  {
+    "name": "meantime",
+    "trans": [
+      "同时， 当时",
+      "其时"
+    ],
+    "usphone": "'min'taɪm",
+    "ukphone": "'miːntaim",
+    "e_mean": [
+      "the time between one event, process, or period and another"
+    ],
+    "speech": "noun",
+    "sentence": "I'll get started tomorrow but, in the meantime, let's see if we can get a few more opinions."
+  },
+  {
+    "name": "property",
+    "trans": [
+      "财产， 所有物； 性质， 特性； 房产， 地产"
+    ],
+    "usphone": "'prɑpɚti",
+    "ukphone": "'prɒpəti",
+    "e_mean": [
+      "something owned"
+    ],
+    "speech": "noun",
+    "sentence": "Important types of property include real property (land), personal property (other physical possessions), and intellectual property (rights over artistic creations, inventions, etc.)."
+  },
+  {
+    "name": "scope",
+    "trans": [
+      "眼界， 见识； 范围； 余地， 机会"
+    ],
+    "usphone": "skop",
+    "ukphone": "skəup",
+    "e_mean": [
+      "the state of the environment in which a situation exists"
+    ],
+    "speech": "noun",
+    "sentence": "the scope of an adverb"
+  },
+  {
+    "name": "mysterious",
+    "trans": [
+      "神秘的， 诡秘的"
+    ],
+    "usphone": "mɪ'stɪrɪəs",
+    "ukphone": "mɪ'stɪəriəs",
+    "e_mean": [
+      "beyond ordinary understanding"
+    ],
+    "speech": "adjective",
+    "sentence": "He received a mysterious phone call this morning."
+  },
+  {
+    "name": "agency",
+    "trans": [
+      "机构； 代理， 代办"
+    ],
+    "usphone": "'edʒənsi",
+    "ukphone": "'eɪdʒənsi",
+    "e_mean": [
+      "the state of being in action or exerting power"
+    ],
+    "speech": "noun",
+    "sentence": "individual agency"
+  },
+  {
+    "name": "short-term",
+    "trans": [
+      "短期的"
+    ],
+    "usphone": ",ʃɔrt'tɝm",
+    "ukphone": "'ʃɔːttɜːm",
+    "e_mean": [
+      "relating to or extending over a limited period"
+    ],
+    "speech": "adjective",
+    "sentence": "This short-term plan deals with the next few days."
+  },
+  {
+    "name": "blank",
+    "trans": [
+      "空白的"
+    ],
+    "usphone": "blæŋk",
+    "ukphone": "blæŋk",
+    "e_mean": [
+      "(of a surface) not written or printed on"
+    ],
+    "speech": "adjective",
+    "sentence": "the double blank"
+  },
+  {
+    "name": "beneficial",
+    "trans": [
+      "有利的， 有益的"
+    ],
+    "usphone": ",bɛnɪ'fɪʃl",
+    "ukphone": "ˌbenɪ'fɪʃl",
+    "e_mean": [
+      "promoting or enhancing well-being"
+    ],
+    "speech": "adjective",
+    "sentence": "Recycling and reusing garbage can be beneficial to the environment."
+  },
+  {
+    "name": "subsidiary",
+    "trans": [
+      "次要的； 辅助的， 附设的",
+      "子公司；附属机构；支流"
+    ],
+    "usphone": "səb'sɪdɪɛri",
+    "ukphone": "səb'sɪdiəri",
+    "e_mean": [
+      "functioning in a supporting capacity"
+    ],
+    "speech": "adjective",
+    "sentence": "a subsidiary stream"
+  },
+  {
+    "name": "overdraft",
+    "trans": [
+      "透支； 透支额"
+    ],
+    "usphone": "'ovɚdræft",
+    "ukphone": "'əuvədrɑːft",
+    "e_mean": [
+      "a draft in excess of the credit balance"
+    ],
+    "speech": "noun",
+    "sentence": "I have an overdraft of £1234."
+  },
+  {
+    "name": "impossible",
+    "trans": [
+      "不可能的， 办不到的"
+    ],
+    "usphone": "ɪm'pɑsəbl",
+    "ukphone": "ɪm'pɒsəbl",
+    "e_mean": [
+      "not capable of happening or being done or dealt with"
+    ],
+    "speech": "adjective",
+    "sentence": "Late 14th century: “Madame,” quod he, “this were an impossible!” — Geoffrey Chaucer, ‘The Franklin's Tale’, Canterbury Tales"
+  },
+  {
+    "name": "booming",
+    "trans": [
+      "发展迅速的； 激增的"
+    ],
+    "usphone": "'bʊmɪŋ",
+    "ukphone": "'buːmɪŋ",
+    "e_mean": [
+      "having a loud and deep sound"
+    ],
+    "speech": "adjective",
+    "sentence": "I can hear the organ slowly booming from the chapel."
+  },
+  {
+    "name": "impoverished",
+    "trans": [
+      "穷困的， 赤贫的； 贫乏的， 贫瘠的； 枯竭的"
+    ],
+    "usphone": "ɪm'pɑvərɪʃt",
+    "ukphone": "ɪm'pɒvərɪʃt",
+    "e_mean": [
+      "poor enough to need help from others"
+    ],
+    "speech": "adjective",
+    "sentence": "That exuberant crop quickly impoverishes any fertile soil."
+  },
+  {
+    "name": "entrust",
+    "trans": [
+      "委托， 交付， 托付"
+    ],
+    "usphone": "ɪn'trʌst",
+    "ukphone": "ɪn'trʌst",
+    "e_mean": [
+      "put into the care or protection of someone"
+    ],
+    "speech": "verb",
+    "sentence": "Can I entrust you with a secret?"
+  },
+  {
+    "name": "clientele",
+    "trans": [
+      "顾客， 主顾， 客户"
+    ],
+    "usphone": "'klaɪən'tɛl",
+    "ukphone": "ˌkliːən'tel",
+    "e_mean": [
+      "customers collectively"
+    ],
+    "speech": "noun",
+    "sentence": "Helen's clientele encompasses a broad range of different ages, races and social statuses."
+  },
+  {
+    "name": "penetration",
+    "trans": [
+      "进入， 穿过； 洞察力， 领悟力"
+    ],
+    "usphone": ",pɛnɪ'treʃən",
+    "ukphone": "ˌpenɪ'treɪʃn",
+    "e_mean": [
+      "the act of entering into or through something"
+    ],
+    "speech": "noun",
+    "sentence": "Any penetration, however slight, is sufficient to complete the offense."
+  },
+  {
+    "name": "forfeit",
+    "trans": [
+      "丧失，失去",
+      "罚款； 代价"
+    ],
+    "usphone": "'fɔrfət",
+    "ukphone": "'fɔːfɪt",
+    "e_mean": [
+      "lose the right to or lose by some error, offense, or crime"
+    ],
+    "speech": "verb",
+    "sentence": "He who murders pays the forfeit of his own life."
+  },
+  {
+    "name": "reciprocate",
+    "trans": [
+      "回报， 回应； 报答"
+    ],
+    "usphone": "rɪ'sɪprəket",
+    "ukphone": "rɪ'sɪprəkeɪt",
+    "e_mean": [
+      "act, feel, or give mutually or in return"
+    ],
+    "speech": "verb",
+    "sentence": "I gave them apples from my tree; they reciprocated with a pie and some apple jelly."
+  },
+  {
+    "name": "surge",
+    "trans": [
+      "蜂拥而出；波动，涌动",
+      "洋溢； 猛增"
+    ],
+    "usphone": "sɝdʒ",
+    "ukphone": "sɜːdʒ",
+    "e_mean": [
+      "rise and move, as in waves or billows"
+    ],
+    "speech": "verb",
+    "sentence": "He felt a surge of excitement."
+  },
+  {
+    "name": "particularly",
+    "trans": [
+      "特别， 尤其"
+    ],
+    "usphone": "pɚ'tɪkjəlɚlɪ",
+    "ukphone": "pə'tɪkjələli",
+    "e_mean": [
+      "to a distinctly greater extent or degree than is common"
+    ],
+    "speech": "adverb",
+    "sentence": "The apéritifs were particularly stimulating."
+  },
+  {
+    "name": "dominant",
+    "trans": [
+      "占优势的； 统治的； 居高临下的"
+    ],
+    "usphone": "'dɑmɪnənt",
+    "ukphone": "'dɒmɪnənt",
+    "e_mean": [
+      "most frequent or common"
+    ],
+    "speech": "adjective",
+    "sentence": "The dominant party controlled the government."
+  },
+  {
+    "name": "misjudge",
+    "trans": [
+      "判断错误"
+    ],
+    "usphone": ",mɪs'dʒʌdʒ",
+    "ukphone": "ˌmɪs'dʒʌdʒ",
+    "e_mean": [
+      "form an incorrect opinion"
+    ],
+    "speech": "verb",
+    "sentence": "I misjudged you. I don't like your politics but I appreciate your loyalty to your friends."
+  },
+  {
+    "name": "conversation",
+    "trans": [
+      "会话， 谈话"
+    ],
+    "usphone": ",kɑnvɚ'seʃən",
+    "ukphone": "ˌkɒnvə'seɪʃn",
+    "e_mean": [
+      "the use of speech for informal exchange of views or ideas"
+    ],
+    "speech": "noun",
+    "sentence": "I had an interesting conversation with Nicolas yesterday about how much he's getting paid."
+  },
+  {
+    "name": "resource",
+    "trans": [
+      "资源〔指土地、矿产等〕",
+      "向…提供资源"
+    ],
+    "usphone": "'risɔrs",
+    "ukphone": "rɪ'sɔːs; rɪ'zɔːs",
+    "e_mean": [
+      "aid or support that may be drawn upon when needed"
+    ],
+    "speech": "noun",
+    "sentence": "a man/woman of resource"
+  },
+  {
+    "name": "asset",
+    "trans": [
+      "财产； 优点"
+    ],
+    "usphone": "'æsɛt",
+    "ukphone": "'æset",
+    "e_mean": [
+      "a useful or valuable quality"
+    ],
+    "speech": "noun",
+    "sentence": "These shares are a valuable asset."
+  },
+  {
+    "name": "fruitful",
+    "trans": [
+      "多产的， 富饶的； 富有成效的"
+    ],
+    "usphone": "'frutfl",
+    "ukphone": "'fruːtfl",
+    "e_mean": [
+      "productive or conducive to producing in abundance"
+    ],
+    "speech": "adjective",
+    "sentence": "The extra work in the office turned out to be fruitful after all—I got promoted"
+  },
+  {
+    "name": "beyond",
+    "trans": [
+      "在…较远的一边； 超出， 除…之外"
+    ],
+    "usphone": "bɪ'jɑnd",
+    "ukphone": "bɪ'jɒnd",
+    "e_mean": [
+      "farther along in space or time or degree"
+    ],
+    "speech": "adverb",
+    "sentence": "2017 July 13, Joseph Gamp \"Marvel release stirring new set images of Black Panther and we are BEYOND excited\" Metro (UK)"
+  },
+  {
+    "name": "voluntary",
+    "trans": [
+      "自愿的， 志愿的"
+    ],
+    "usphone": "'vɑləntɛri",
+    "ukphone": "'vɒləntrɪ",
+    "e_mean": [
+      "of your own free will or design"
+    ],
+    "speech": "adjective",
+    "sentence": "If a man accidentally kills another by lopping a tree, it is not voluntary manslaughter."
+  },
+  {
+    "name": "connection",
+    "trans": [
+      "连接； 关系"
+    ],
+    "usphone": "kə'nɛkʃən",
+    "ukphone": "kə'nekʃn",
+    "e_mean": [
+      "a relation between things or events"
+    ],
+    "speech": "noun",
+    "sentence": "My headache has no connection with me going out last night."
+  },
+  {
+    "name": "presence",
+    "trans": [
+      "出席； 存在； 仪态"
+    ],
+    "usphone": "'prɛzns",
+    "ukphone": "'prezns",
+    "e_mean": [
+      "current existence"
+    ],
+    "speech": "noun",
+    "sentence": "Any painter can benefit from the presence of a live model from which to draw."
+  },
+  {
+    "name": "contract",
+    "trans": [
+      "缩小； 签约",
+      "契约，合同[kən'trækt]"
+    ],
+    "usphone": "'kɑntrækt",
+    "ukphone": "'kɒntrækt",
+    "e_mean": [
+      "a binding agreement that is enforceable by law"
+    ],
+    "speech": "noun",
+    "sentence": "Marriage is a contract."
+  },
+  {
+    "name": "bankrupt",
+    "trans": [
+      "破产的"
+    ],
+    "usphone": "'bæŋkrʌpt",
+    "ukphone": "'bæŋkrʌpt",
+    "e_mean": [
+      "financially ruined"
+    ],
+    "speech": "adjective",
+    "sentence": "a bankrupt merchant"
+  },
+  {
+    "name": "superior",
+    "trans": [
+      "上级的，较高的；优越的，优于…的，较…多的；优良的，卓越的；有优越感的，高傲的",
+      "上级， 长官"
+    ],
+    "usphone": "sʊˈpɪrɪɚ",
+    "ukphone": "suː'pɪərɪə(r)",
+    "e_mean": [
+      "of high quality or performance"
+    ],
+    "speech": "adjective",
+    "sentence": "Rebecca had always thought shorts were far superior to pants, as they didn't constantly make her legs itch."
+  },
+  {
+    "name": "argue",
+    "trans": [
+      "争论； 说服"
+    ],
+    "usphone": "'ɑrgjʊ",
+    "ukphone": "'ɑːgjuː",
+    "e_mean": [
+      "have a disagreement about something"
+    ],
+    "speech": "verb",
+    "sentence": "He also argued for stronger methods to be used against China."
+  },
+  {
+    "name": "dealer",
+    "trans": [
+      "商人， 经销商"
+    ],
+    "usphone": "'dilɚ",
+    "ukphone": "'diːlə(r)",
+    "e_mean": [
+      "someone who purchases and maintains an inventory of goods to be sold"
+    ],
+    "speech": "noun",
+    "sentence": "That used car dealer gave me a great deal on my 1962 rusted-out Volkswagen bug!"
+  },
+  {
+    "name": "elastic",
+    "trans": [
+      "有弹性的；"
+    ],
+    "usphone": "ɪ'læstɪk",
+    "ukphone": "ɪ'læstɪk",
+    "e_mean": [
+      "capable of resuming shape after stretching or compression"
+    ],
+    "speech": "adjective",
+    "sentence": "running shorts use elastic to eliminate the need for a belt"
+  },
+  {
+    "name": "consequent",
+    "trans": [
+      "作为结果的； 随之发生的"
+    ],
+    "usphone": "'kɑnsəkwənt",
+    "ukphone": "'kɒnsɪkwənt",
+    "e_mean": [
+      "following or accompanying as a result"
+    ],
+    "speech": "adjective",
+    "sentence": "His retirement and consequent spare time enabled him to travel more."
+  },
+  {
+    "name": "monster",
+    "trans": [
+      "怪物； 巨人， 庞然大物"
+    ],
+    "usphone": "'mɑnstɚ",
+    "ukphone": "'mɒnstə(r)",
+    "e_mean": [
+      "an imaginary creature usually having human and animal parts"
+    ],
+    "speech": "noun",
+    "sentence": "The children decided Grover was a cuddly monster."
+  },
+  {
+    "name": "brand",
+    "trans": [
+      "商标；品牌",
+      "铭刻， 打烙印于； 丑化"
+    ],
+    "usphone": "brænd",
+    "ukphone": "brænd",
+    "e_mean": [
+      "a name given to a product or service"
+    ],
+    "speech": "noun",
+    "sentence": "To burn something to brands and ashes."
+  },
+  {
+    "name": "productivity",
+    "trans": [
+      "生产力； 生产率"
+    ],
+    "usphone": ",prodʌk'tɪvəti",
+    "ukphone": "ˌprɒdʌk'tɪvəti",
+    "e_mean": [
+      "the quality of yielding positive results"
+    ],
+    "speech": "noun",
+    "sentence": "You can see the computer age everywhere but in the productivity statistics."
+  },
+  {
+    "name": "compensate",
+    "trans": [
+      "补偿， 赔偿； 弥补"
+    ],
+    "usphone": "'kɑmpɛnset",
+    "ukphone": "'kɒmpenseɪt",
+    "e_mean": [
+      "make amends for"
+    ],
+    "speech": "verb",
+    "sentence": "It is hard work, but they will compensate you well for it."
+  },
+  {
+    "name": "subscription",
+    "trans": [
+      "订阅， 订购； 订阅费， 订购款； 捐赠， 捐助； 签字， 签署"
+    ],
+    "usphone": "səb'skrɪpʃən",
+    "ukphone": "səb'skrɪpʃn",
+    "e_mean": [
+      "agreement expressed by signing your name"
+    ],
+    "speech": "noun",
+    "sentence": "I have a monthly subscription to the Daily Telegraph newspaper."
+  },
+  {
+    "name": "slump",
+    "trans": [
+      "大幅度下降，暴跌；突然倒下，猛然落下",
+      "萧条期； 低潮状态"
+    ],
+    "usphone": "slʌmp",
+    "ukphone": "slʌmp",
+    "e_mean": [
+      "fall or sink heavily"
+    ],
+    "speech": "verb",
+    "sentence": "Exhausted, he slumped down onto the sofa."
+  },
+  {
+    "name": "humanity",
+    "trans": [
+      "人类，人；人性；人道，仁慈；"
+    ],
+    "usphone": "hjʊ'mænəti",
+    "ukphone": "hjuː'mænəti",
+    "e_mean": [
+      "all of the living inhabitants of the earth"
+    ],
+    "speech": "noun",
+    "sentence": "Philosophy is a humanity while psychology is a science."
+  },
+  {
+    "name": "innovation",
+    "trans": [
+      "革新， 创新"
+    ],
+    "usphone": ",ɪnə'veʃən",
+    "ukphone": "ˌɪnə'veɪʃn",
+    "e_mean": [
+      "the act of starting something for the first time"
+    ],
+    "speech": "noun",
+    "sentence": "The others, whose time had been more actively employed, began to shew symptoms of innovation,—\"the good wine did its good office.\" The frost of etiquette, and pride of birth, began to give way before the genial blessings of this benign constellation, and the formal appellatives with which the three dignitaries had hitherto addressed each other, were now familiarly abbreviated into Tully, Bally, and Killie."
+  },
+  {
+    "name": "charge",
+    "trans": [
+      "索取， 要价； 控告， 指控； 委以； 指示； 充电",
+      "价钱，费用；管理；照管；掌管；控告，指控；电荷，电量"
+    ],
+    "usphone": "tʃɑrdʒ",
+    "ukphone": "tʃɑːdʒ",
+    "e_mean": [
+      "assign a duty, responsibility or obligation to"
+    ],
+    "speech": "verb",
+    "sentence": "There will be a charge of five dollars."
+  },
+  {
+    "name": "exclusive",
+    "trans": [
+      "奢华的；独有的；"
+    ],
+    "usphone": "ɪk'sklusɪv",
+    "ukphone": "ɪk'skluːsɪv",
+    "e_mean": [
+      "admitting or accepting only a particular group"
+    ],
+    "speech": "adjective",
+    "sentence": "The editor agreed to keep a lid on a potentially disastrous political scoop in exchange for an exclusive of a happier nature."
+  },
+  {
+    "name": "poverty",
+    "trans": [
+      "贫穷"
+    ],
+    "usphone": "'pɑvɚti",
+    "ukphone": "'pɒvəti",
+    "e_mean": [
+      "the state of having little or no money and possessions"
+    ],
+    "speech": "noun",
+    "sentence": "poverty of soil"
+  },
+  {
+    "name": "counterpart",
+    "trans": [
+      "与对方地位相当的人； 配对物； 副本"
+    ],
+    "usphone": "'kaʊntɚpɑrt",
+    "ukphone": "'kauntəpɑːt",
+    "e_mean": [
+      "a person or thing having the same function as another"
+    ],
+    "speech": "noun",
+    "sentence": "Those brass knobs and their hollow counterparts interlock perfectly"
+  },
+  {
+    "name": "incorporate",
+    "trans": [
+      "把…合并， 纳入； 包含， 吸收"
+    ],
+    "usphone": "",
+    "ukphone": "ɪn'kɔːpəreɪt",
+    "e_mean": [
+      "make into a whole or make part of a whole"
+    ],
+    "speech": "verb",
+    "sentence": "The design of his house incorporates a spiral staircase."
+  },
+  {
+    "name": "recapture",
+    "trans": [
+      "重获， 收复"
+    ],
+    "usphone": ",ri'kæptʃɚ",
+    "ukphone": "ˌriː'kæptʃə(r)",
+    "e_mean": [
+      "the act of taking something back"
+    ],
+    "speech": "noun",
+    "sentence": "The recapture of the escaped prisoner made the news."
+  },
+  {
+    "name": "reiterate",
+    "trans": [
+      "重复， 反复； 反复地说， 重申"
+    ],
+    "usphone": "rɪ'ɪtəret",
+    "ukphone": "ri'ɪtəreɪt",
+    "e_mean": [
+      "say, state, or perform again"
+    ],
+    "speech": "verb",
+    "sentence": "Let me reiterate my opinion."
+  },
+  {
+    "name": "literal",
+    "trans": [
+      "照字面的； 逐字的"
+    ],
+    "usphone": "'lɪtərəl",
+    "ukphone": "'lɪtərəl",
+    "e_mean": [
+      "limited to the explicit meaning of a word or text"
+    ],
+    "speech": "adjective",
+    "sentence": "The literal translation is “hands full of bananas” but it means empty-handed."
+  },
+  {
+    "name": "indolent",
+    "trans": [
+      "懒惰的， 倦怠的； 不活跃的， 无行动的"
+    ],
+    "usphone": "'ɪndələnt",
+    "ukphone": "'ɪndələnt",
+    "e_mean": [
+      "disinclined to work or exertion"
+    ],
+    "speech": "adjective",
+    "sentence": "The indolent girl resisted doing her homework."
+  },
+  {
+    "name": "advertisement",
+    "trans": [
+      "广告， 公告； 广告活动， 宣传"
+    ],
+    "usphone": ",ædvɚ'taɪzmənt",
+    "ukphone": "əd'vɜːtɪsmənt",
+    "e_mean": [
+      "a public promotion of some product or service"
+    ],
+    "speech": "noun",
+    "sentence": "Companies try to sell their products using advertisements in form of placards, television spots and print publications."
+  },
+  {
+    "name": "abstraction",
+    "trans": [
+      "抽象"
+    ],
+    "usphone": "æb'strækʃən",
+    "ukphone": "æb'strækʃn",
+    "e_mean": [
+      "the process of formulating general concepts"
+    ],
+    "speech": "noun",
+    "sentence": "Abstraction is necessary for the classification of things into genera and species."
+  },
+  {
+    "name": "transport",
+    "trans": [
+      "运输， 运送； 运输系统， 运载工具",
+      "运输， 运送， 搬运"
+    ],
+    "usphone": "'trænspɔrt",
+    "ukphone": "træn'spɔːt; trɑːn-",
+    "e_mean": [
+      "move something or somebody around"
+    ],
+    "speech": "verb",
+    "sentence": "The transport of goods is not included in the price given on the website."
+  },
+  {
+    "name": "requirement",
+    "trans": [
+      "需要， 需求， 要求； 需要的东西； 必要条件"
+    ],
+    "usphone": "rɪ'kwaɪɚmənt",
+    "ukphone": "rɪ'kwaɪəmənt",
+    "e_mean": [
+      "necessary activity"
+    ],
+    "speech": "noun",
+    "sentence": "There was a requirement of the government on citizens for paying taxes."
+  },
+  {
+    "name": "exploitation",
+    "trans": [
+      "开采， 开发； 剥削， 榨取； 自私的利用"
+    ],
+    "usphone": ",ɛksplɔɪ'teʃən",
+    "ukphone": "ˌeksplɔɪ'teɪʃn",
+    "e_mean": [
+      "an act that victimizes someone "
+    ],
+    "speech": "noun",
+    "sentence": "the exploitation of children in beauty pageants"
+  },
+  {
+    "name": "accreditation",
+    "trans": [
+      "证明合格， 鉴定合格"
+    ],
+    "usphone": "ə'krɛdə'teʃən",
+    "ukphone": "əˌkredɪ'teɪʃn",
+    "e_mean": [
+      "the act of granting official approval or recognition"
+    ],
+    "speech": "noun",
+    "sentence": "letters of accreditation."
+  },
+  {
+    "name": "companion",
+    "trans": [
+      "共事者； 同伴"
+    ],
+    "usphone": "kəm'pænɪən",
+    "ukphone": "kəm'pænɪən",
+    "e_mean": [
+      "a friend who is frequently with another"
+    ],
+    "speech": "noun",
+    "sentence": "His dog has been his trusted companion for the last five years."
+  },
+  {
+    "name": "culminate",
+    "trans": [
+      "告终； 结束"
+    ],
+    "usphone": "'kʌlmɪnet",
+    "ukphone": "'kʌlmɪneɪt",
+    "e_mean": [
+      "end, especially to reach a final or climactic stage"
+    ],
+    "speech": "verb",
+    "sentence": "The class will culminate with a rigorous examination."
+  },
+  {
+    "name": "breakdown",
+    "trans": [
+      "垮台， 倒塌， 破裂； 衰竭， 衰弱； 损坏， 故障； 分类"
+    ],
+    "usphone": "'brek'daʊn",
+    "ukphone": "'breɪkdaun",
+    "e_mean": [
+      "the act of disrupting an established order so it fails to continue"
+    ],
+    "speech": "noun",
+    "sentence": "We saw a breakdown by the side of the road."
+  },
+  {
+    "name": "exploitative",
+    "trans": [
+      "开发的， 利用的； 剥削的"
+    ],
+    "usphone": "ɪk'splɔɪtətɪv",
+    "ukphone": "ɪk'splɔɪtətɪv",
+    "e_mean": [
+      "tending to exploit or make use of"
+    ],
+    "speech": "adjective",
+    "sentence": "We are protesting the company's exploitative policies."
+  },
+  {
+    "name": "private",
+    "trans": [
+      "私人的； 私下的； 私立的"
+    ],
+    "usphone": "ˈpraɪvɪt",
+    "ukphone": "'praɪvət",
+    "e_mean": [
+      "confined to particular persons or groups"
+    ],
+    "speech": "adjective",
+    "sentence": "If you want to learn ballet, consider taking privates."
+  },
+  {
+    "name": "appropriate",
+    "trans": [
+      "适当的[ə'prəuprieɪt]",
+      "占有， 挪用； 拨出"
+    ],
+    "usphone": "əˈproprɪət;(for v.) əˈproprɪet",
+    "ukphone": "ə'prəupriət",
+    "e_mean": [
+      "suitable for a particular person, place, or situation"
+    ],
+    "speech": "adjective",
+    "sentence": "Let no man appropriate the use of a common benefit."
+  },
+  {
+    "name": "advantage",
+    "trans": [
+      "优点， 优势"
+    ],
+    "usphone": "əd'væntɪdʒ",
+    "ukphone": "əd'vɑːntɪdʒ",
+    "e_mean": [
+      "the quality of having a superior or more favorable position"
+    ],
+    "speech": "noun",
+    "sentence": "The enemy had the advantage of a more elevated position."
+  },
+  {
+    "name": "include",
+    "trans": [
+      "包括， 包含； 计入"
+    ],
+    "usphone": "ɪn'klud",
+    "ukphone": "ɪn'kluːd",
+    "e_mean": [
+      "have as a part; be made up out of"
+    ],
+    "speech": "verb",
+    "sentence": "I will purchase the vacation package if you will include car rental."
+  },
+  {
+    "name": "perquisite",
+    "trans": [
+      "利益； 特权"
+    ],
+    "usphone": "'pɝkwəzɪt",
+    "ukphone": "'pɜːkwɪzɪt",
+    "e_mean": [
+      "an incidental benefit for certain types of employment "
+    ],
+    "speech": "noun",
+    "sentence": "The perquisites of this job include health insurance and a performance bonus."
+  },
+  {
+    "name": "continental",
+    "trans": [
+      "欧洲大陆的；大陆性的",
+      "欧洲大陆人"
+    ],
+    "usphone": ",kɑntɪ'nɛntl",
+    "ukphone": "ˌkɒntɪ'nentl",
+    "e_mean": [
+      "of or relating to or characteristic of a continent"
+    ],
+    "speech": "adjective",
+    "sentence": "I don't care a continental!"
+  },
+  {
+    "name": "extension",
+    "trans": [
+      "伸展； 延长部分； 电话分机"
+    ],
+    "usphone": "ɪk'stɛnʃən",
+    "ukphone": "ɪk'stenʃn",
+    "e_mean": [
+      "act of expanding in scope"
+    ],
+    "speech": "noun",
+    "sentence": "Files with the .txt extension usually contain text."
+  },
+  {
+    "name": "signature",
+    "trans": [
+      "签名， 签字； 签署"
+    ],
+    "usphone": "'sɪgnətʃɚ",
+    "ukphone": "'sɪgnətʃə(r)",
+    "e_mean": [
+      "your name written in your own handwriting"
+    ],
+    "speech": "noun",
+    "sentence": "Your signature must not exceed 600 pixels."
+  },
+  {
+    "name": "interest",
+    "trans": [
+      "兴趣；利息；利益",
+      "使感兴趣"
+    ],
+    "usphone": "'ɪntrəst",
+    "ukphone": "'ɪntrəst",
+    "e_mean": [
+      "a sense of concern with and curiosity about something"
+    ],
+    "speech": "noun",
+    "sentence": "Our bank offers borrowers an annual interest of 5%."
+  },
+  {
+    "name": "incredible",
+    "trans": [
+      "不可信的； 难以置信的"
+    ],
+    "usphone": "ɪn'krɛdəbl",
+    "ukphone": "ɪn'kredəbl",
+    "e_mean": [
+      "amazing; extraordinarily good or great"
+    ],
+    "speech": "adjective",
+    "sentence": "He was so wrapped up in watching the incredible special effects that he couldn't keep track of the story."
+  },
+  {
+    "name": "hypothetical",
+    "trans": [
+      "假设的， 假定的； 爱猜想的"
+    ],
+    "usphone": ",haɪpə'θɛtɪkl",
+    "ukphone": "ˌhaɪpə'θetɪkl",
+    "e_mean": [
+      "a conjectural possibility or circumstance"
+    ],
+    "speech": "noun",
+    "sentence": "These hypotheticals serve no purpose until we have more information."
+  },
+  {
+    "name": "converse",
+    "trans": [
+      "谈话，会谈['kɒnvɜːs]",
+      "逆向的",
+      "相反的事物； 反面"
+    ],
+    "usphone": "kən'vəʳs",
+    "ukphone": "kən'vɜːs",
+    "e_mean": [
+      "carry on a discussion"
+    ],
+    "speech": "verb",
+    "sentence": "All trees are plants, but the converse, that all plants are trees, is not true."
+  },
+  {
+    "name": "mass",
+    "trans": [
+      "大量的",
+      "聚集",
+      "团，众多；【物】质量；"
+    ],
+    "usphone": "mæs",
+    "ukphone": "mæs",
+    "e_mean": [
+      "the property of a body that causes it to have weight"
+    ],
+    "speech": "noun",
+    "sentence": "I mass 70 kilograms."
+  },
+  {
+    "name": "stationary",
+    "trans": [
+      "静止的， 不动的， 固定的； 稳定的"
+    ],
+    "usphone": "'steʃənɛri",
+    "ukphone": "'steɪʃənrɪ",
+    "e_mean": [
+      "not capable of being moved"
+    ],
+    "speech": "adjective",
+    "sentence": "The train remained stationary for a few moments, before lurching forward along the track."
+  },
+  {
+    "name": "overwork",
+    "trans": [
+      "使劳累过分；对…使用过度；滥用",
+      "过重的工作； 工作过度"
+    ],
+    "usphone": "'ovɚ'wɝk",
+    "ukphone": "ˌəuvə'wɜːk",
+    "e_mean": [
+      "work excessively hard"
+    ],
+    "speech": "verb",
+    "sentence": "to overwork a horse"
+  },
+  {
+    "name": "approximate",
+    "trans": [
+      "近似的[ə'prɒksɪm3ɪt]",
+      "近似"
+    ],
+    "usphone": "ə'prɑksɪmət",
+    "ukphone": "ə'prɒksɪmət",
+    "e_mean": [
+      "not quite exact or correct"
+    ],
+    "speech": "adjective",
+    "sentence": "NASA's Genesis spacecraft has on board an ion monitor to record the speed, density, temperature and approximate composition of the solar wind ions."
+  },
+  {
+    "name": "extensive",
+    "trans": [
+      "广大的， 广阔的； 广泛的"
+    ],
+    "usphone": "ɪk'stɛnsɪv",
+    "ukphone": "ɪk'stensɪv",
+    "e_mean": [
+      "large in spatial extent or range or scope or quantity"
+    ],
+    "speech": "adjective",
+    "sentence": "I have done extensive research on the subject."
+  },
+  {
+    "name": "collaboration",
+    "trans": [
+      "合作， 协作； 勾结， 通敌"
+    ],
+    "usphone": "kə,læbə'reʃən",
+    "ukphone": "kəˌlæbə'reɪʃn",
+    "e_mean": [
+      "act of working jointly"
+    ],
+    "speech": "noun",
+    "sentence": "Collaboration can be a useful part of the creative process."
+  },
+  {
+    "name": "boost",
+    "trans": [
+      "使增长，使兴旺；鼓励，促进；为…作宣传，宣扬",
+      "增加， 提高； 帮助， 激励"
+    ],
+    "usphone": "bʊst",
+    "ukphone": "buːst",
+    "e_mean": [
+      "increase"
+    ],
+    "speech": "verb",
+    "sentence": "The controversy gave a boost to the author's sales."
+  },
+  {
+    "name": "depend",
+    "trans": [
+      "依靠， 依赖； 信赖， 相信； 决定于， 视…而定"
+    ],
+    "usphone": "dɪ'pɛnd",
+    "ukphone": "dɪ'pend",
+    "e_mean": [
+      "be determined by something else"
+    ],
+    "speech": "verb",
+    "sentence": "We would like to go skiing, but it depends on the amount of snow."
+  },
+  {
+    "name": "economics",
+    "trans": [
+      "经济学.economical节约/实惠的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "science dealing with the circulation of goods and services"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "industrialise",
+    "trans": [
+      "工业化"
+    ],
+    "usphone": "",
+    "ukphone": "ɪn'dʌstrɪəlaɪz",
+    "e_mean": [
+      "organize (the production of something) into an industry"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "commercial",
+    "trans": [
+      "商业的，商品化的，贸易的",
+      "商业广告"
+    ],
+    "usphone": "kə'mɝʃəl",
+    "ukphone": "kə'mɜːʃl",
+    "e_mean": [
+      "connected with or engaged in the exchange of goods"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "commercialise",
+    "trans": [
+      "使商业化[kəˈmɜːʃəlaɪz]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "make commercial"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "diminish",
+    "trans": [
+      "减少； 降低； 贬低， 轻视"
+    ],
+    "usphone": "dɪ'mɪnɪʃ",
+    "ukphone": "dɪ'mɪnɪʃ",
+    "e_mean": [
+      "decrease in size, extent, or range"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "increment",
+    "trans": [
+      "增加量/定期加薪\nyearly/annual~年增长量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the amount by which something increases"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "redundancy",
+    "trans": [
+      "裁员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the attribute of being superfluous and unneeded"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "instalment",
+    "trans": [
+      "一期付款"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a part of a broadcast serial"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "copper",
+    "trans": [
+      "铜；铜币；警察"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a ductile malleable reddish-brown corrosion-resistant diamagnetic metallic element; occurs in various minerals but is the only metal that occurs abundantly in large masses; used as an electrical and thermal conductor"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "worthy",
+    "trans": [
+      "有价值的； 值得的"
+    ],
+    "usphone": "wɜði",
+    "ukphone": "'wɜːði",
+    "e_mean": [
+      "an important, honorable person"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "salary",
+    "trans": [
+      "薪水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "fixed payment for services"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "income",
+    "trans": [
+      "收入"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the amount of money one makes over a period of time"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cooperate",
+    "trans": [
+      "合作， 协作"
+    ],
+    "usphone": "koʊˈɑːpəreɪt",
+    "ukphone": "kəu'ɒpəreɪt",
+    "e_mean": [
+      "work together on a common enterprise or project"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "slogan",
+    "trans": [
+      "标语， 口号"
+    ],
+    "usphone": "'slogən",
+    "ukphone": "'sləugən",
+    "e_mean": [
+      "a favorite saying of a sect or political group"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "lease",
+    "trans": [
+      "租约",
+      "出租， 租用"
+    ],
+    "usphone": "lis",
+    "ukphone": "liːs",
+    "e_mean": [
+      "a contract granting use or occupation of property"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "grocery",
+    "trans": [
+      "杂货店； 食品， 杂货"
+    ],
+    "usphone": "'ɡrosəri",
+    "ukphone": "'grəusəri",
+    "e_mean": [
+      "(usually plural) consumer goods sold by a grocer"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "voucher",
+    "trans": [
+      "代金券"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "someone who guarantees another"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "entrepreneur",
+    "trans": [
+      "企业家； 承包人"
+    ],
+    "usphone": "ˌɑntrəprəˈnɝ​",
+    "ukphone": "ˌɒntrəprə'nɜː(r)",
+    "e_mean": [
+      "someone who organizes a business venture"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "agent",
+    "trans": [
+      "代理人/商。soleagent独家代理商"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a representative who acts on behalf of others"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "investor",
+    "trans": [
+      "投资者。investment投资"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "someone who commits capital to gain financial returns"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cargo",
+    "trans": [
+      "货物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "goods carried by a large vehicle"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "rely",
+    "trans": [
+      "依靠； 信赖"
+    ],
+    "usphone": "rɪ'laɪ",
+    "ukphone": "rɪ'laɪ",
+    "e_mean": [
+      "have confidence or faith in"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "payment",
+    "trans": [
+      "支付； 支付的款项"
+    ],
+    "usphone": "'pemənt",
+    "ukphone": "'peɪmənt",
+    "e_mean": [
+      "the act of giving money in exchange for something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "payroll",
+    "trans": [
+      "工资名单.payrolltax工资税"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a list of employees and their salaries"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "remuneration",
+    "trans": [
+      "报酬"
+    ],
+    "usphone": "rɪ,mjunə'reʃən",
+    "ukphone": "rɪˌmjuːnə'reɪʃn",
+    "e_mean": [
+      "paying for goods or services or to recompense for losses"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "occupation",
+    "trans": [
+      "占领； 职业； 消遣"
+    ],
+    "usphone": ",ɑkju'peʃən",
+    "ukphone": "ˌɒkju'peɪʃn",
+    "e_mean": [
+      "the principal activity in one's life to earn money"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "vocation",
+    "trans": [
+      "职业；使命感"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the particular occupation for which you are trained"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "workforce",
+    "trans": [
+      "受雇的或现有的工作人员总数； 劳动人口"
+    ],
+    "usphone": "'wɝkfɔrs",
+    "ukphone": "'wɜːkfɔːs",
+    "e_mean": [
+      "the people employed or available for employment"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "personnel",
+    "trans": [
+      "全体人员， 员工"
+    ],
+    "usphone": ",pɝsə'nɛl",
+    "ukphone": "ˌpɜːsə'nel",
+    "e_mean": [
+      "group of people willing to obey orders"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tariff",
+    "trans": [
+      "关税， 税率； 价目表"
+    ],
+    "usphone": "'tærɪf",
+    "ukphone": "'tærɪf",
+    "e_mean": [
+      "a government tax on imports or exports"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "revenue",
+    "trans": [
+      "收入； 税收"
+    ],
+    "usphone": "'rɛvənu",
+    "ukphone": "'revənjuː",
+    "e_mean": [
+      "the entire amount of income before any deductions are made"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "recession",
+    "trans": [
+      "衰退， 衰退时期； 撤回， 退回"
+    ],
+    "usphone": "rɪ'sɛʃən",
+    "ukphone": "rɪ'seʃn",
+    "e_mean": [
+      "the act of returning control"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "crisis",
+    "trans": [
+      "危机； 紧要关头， 关键阶段"
+    ],
+    "usphone": "'kraɪsɪs",
+    "ukphone": "'kraɪsɪs",
+    "e_mean": [
+      "a crucial stage or turning point in the course of something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "security",
+    "trans": [
+      "安全，保障；抵押品；"
+    ],
+    "usphone": "sə'kjʊrəti",
+    "ukphone": "sɪ'kjuərəti",
+    "e_mean": [
+      "the state of being free from danger or injury"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "deficit",
+    "trans": [
+      "不足额， 赤字"
+    ],
+    "usphone": "'dɛfəsɪt",
+    "ukphone": "'defɪsɪt",
+    "e_mean": [
+      "an amount that is less than expected or required"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "dwindle",
+    "trans": [
+      "变小， 缩小"
+    ],
+    "usphone": "'dwɪndl",
+    "ukphone": "'dwɪndl",
+    "e_mean": [
+      "become smaller or lose substance"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "negotiation",
+    "trans": [
+      "谈判，协商negotiate谈判"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a discussion intended to produce an agreement"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "auction",
+    "trans": [
+      "拍卖putsth.upfor~将某物拍卖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the public sale of something to the highest bidder"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "quota",
+    "trans": [
+      "定额， 限额， 配额"
+    ],
+    "usphone": "'kwotə",
+    "ukphone": "'kwəutə",
+    "e_mean": [
+      "a prescribed number"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "stockbroker",
+    "trans": [
+      "股票经纪人.stockholder股东"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an agent in the buying and selling of stocks and bonds"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "failure",
+    "trans": [
+      "失败,失败的人/事.endin~以失败告终"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an act that does not succeed"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "abortion",
+    "trans": [
+      "人工流产,(计划等)中途失败"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "termination of pregnancy"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "solve",
+    "trans": [
+      "解答； 解决"
+    ],
+    "usphone": "sɑlv",
+    "ukphone": "sɒlv",
+    "e_mean": [
+      "find the answer to or understand the meaning of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "sustainable",
+    "trans": [
+      "可以忍受的； 足以支撑的； 养得起的"
+    ],
+    "usphone": "sə'stenəbl",
+    "ukphone": "sə'steɪnəbl",
+    "e_mean": [
+      "capable of being prolonged"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "combination",
+    "trans": [
+      "结合， 联合； 化合"
+    ],
+    "usphone": ",kɑmbɪ'neʃən",
+    "ukphone": "ˌkɒmbɪ'neɪʃn",
+    "e_mean": [
+      "the act of bringing things together to form a new whole"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "eligible",
+    "trans": [
+      "符合条件的； 合适的"
+    ],
+    "usphone": "'ɛlɪdʒəbl",
+    "ukphone": "'elɪdʒəbl",
+    "e_mean": [
+      "qualified for or allowed or worthy of being chosen"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "appraisal",
+    "trans": [
+      "评估， 评价"
+    ],
+    "usphone": "ə'prezl",
+    "ukphone": "ə'preɪzəl",
+    "e_mean": [
+      "the classification of something with respect to its worth"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "briefcase",
+    "trans": [
+      "公文包"
+    ],
+    "usphone": "'brifkes",
+    "ukphone": "'briːfkeɪs",
+    "e_mean": [
+      "a case with a handle; for carrying papers or files or books"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "observation",
+    "trans": [
+      "观察， 观测； 监视； 评述， 评论"
+    ],
+    "usphone": ",ɑbzɚ'veʃən",
+    "ukphone": "ˌɒbzə'veɪʃn",
+    "e_mean": [
+      "the act of taking a patient look"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "managerial",
+    "trans": [
+      "经理的； 管理的， 经营的"
+    ],
+    "usphone": ",mænə'dʒɪrɪəl",
+    "ukphone": "ˌmænə'dʒɪəriəl",
+    "e_mean": [
+      "of or relating to the function or responsibility or activity of management"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "in vain",
+    "trans": [
+      "徒然；无效"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "without a successful result or effect"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "periodical",
+    "trans": [
+      "周期的， 定期的",
+      "期刊，杂志"
+    ],
+    "usphone": ",pɪrɪ'ɑdɪkl",
+    "ukphone": "ˌpɪərɪ'ɒdɪkl",
+    "e_mean": [
+      "happening or recurring at regular intervals"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "weaken",
+    "trans": [
+      "变弱， 减弱"
+    ],
+    "usphone": "'wikən",
+    "ukphone": "'wiːkən",
+    "e_mean": [
+      "lessen the strength of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "bankruptcy",
+    "trans": [
+      "破产； 彻底失败"
+    ],
+    "usphone": "'bæŋkrʌptsi",
+    "ukphone": "'bæŋkrʌptsi",
+    "e_mean": [
+      "a legal process for a corporation declared to be insolvent"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "guinea",
+    "trans": [
+      "n. 几内亚；基尼（英国旧时金币名）"
+    ],
+    "usphone": "ˈɡɪni",
+    "ukphone": "'gɪni",
+    "e_mean": [
+      "a former British gold coin worth 21 shillings"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "speculation",
+    "trans": [
+      "推测， 思索； 投机活动， 投机买卖"
+    ],
+    "usphone": ",spɛkju'leʃən",
+    "ukphone": "ˌspekjʊ'leɪʃn",
+    "e_mean": [
+      "continuous contemplation on a subject of a deep nature"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "vocational",
+    "trans": [
+      "职业的， 业务的"
+    ],
+    "usphone": "vo'keʃənl",
+    "ukphone": "vəu'keɪʃənl",
+    "e_mean": [
+      "of or relating to an occupation"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "outsell",
+    "trans": [
+      "卖得比…多"
+    ],
+    "usphone": ",aʊt'sɛl",
+    "ukphone": "ˌaut'sel",
+    "e_mean": [
+      "sell more than others"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "shortage",
+    "trans": [
+      "不足， 缺少"
+    ],
+    "usphone": "'ʃɔrtɪdʒ",
+    "ukphone": "'ʃɔːtɪdʒ",
+    "e_mean": [
+      "an amount that is less than expected or required"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "agenda",
+    "trans": [
+      "议程； 议程表"
+    ],
+    "usphone": "ə'dʒɛndə",
+    "ukphone": "ə'dʒendə",
+    "e_mean": [
+      "a list of matters to be taken up, as at a meeting"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "commerce",
+    "trans": [
+      "贸易， 商业； 交往， 交流"
+    ],
+    "usphone": "'kɑmɝs",
+    "ukphone": "'kɒmɜːs",
+    "e_mean": [
+      "transactions supplying goods and services"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "assistance",
+    "trans": [
+      "协助， 援助"
+    ],
+    "usphone": "ə'sɪstəns",
+    "ukphone": "ə'sɪstəns",
+    "e_mean": [
+      "the activity of contributing to the fulfillment of a need"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "additional",
+    "trans": [
+      "附加的； 追加的"
+    ],
+    "usphone": "ə'dɪʃənl",
+    "ukphone": "ə'dɪʃənl",
+    "e_mean": [
+      "further or extra"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "generalise",
+    "trans": [
+      "概括； 推广"
+    ],
+    "usphone": "'dʒenərəlaiz",
+    "ukphone": "'dʒenrəlaɪz",
+    "e_mean": [
+      "draw from specific cases for more general cases"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "imaginative",
+    "trans": [
+      "富有想象力的； 创新的"
+    ],
+    "usphone": "ɪ'mædʒɪnətɪv",
+    "ukphone": "ɪ'mædʒɪnətɪv",
+    "e_mean": [
+      "marked by independence and creativity in thought or action"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "treadmill",
+    "trans": [
+      "踏车； 累人的活； 单调的例行工作， 乏味繁重的工作"
+    ],
+    "usphone": "'trɛdmɪl",
+    "ukphone": "'tredmɪl",
+    "e_mean": [
+      "an exercise machine on which a person can walk or run"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "goodwill",
+    "trans": [
+      "友好， 善意； 信誉"
+    ],
+    "usphone": "'gʊd'wɪl",
+    "ukphone": "ˌgud'wɪl",
+    "e_mean": [
+      "a disposition to kindness and compassion"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "accountant",
+    "trans": [
+      "会计师"
+    ],
+    "usphone": "ə'kaʊntənt",
+    "ukphone": "ə'kauntənt",
+    "e_mean": [
+      "someone who maintains and audits financial records"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "evaluation",
+    "trans": [
+      "估价， 评价"
+    ],
+    "usphone": "ɪ,væljʊ'eʃən",
+    "ukphone": "ɪˌvæljʊ'eɪʃn",
+    "e_mean": [
+      "the act of ascertaining or judging the quality of"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "substitution",
+    "trans": [
+      "代替， 置换； 代入法"
+    ],
+    "usphone": ",sʌbstə'tjʊʃən",
+    "ukphone": "ˌsʌbstɪ'tjuːʃn",
+    "e_mean": [
+      "putting one thing or person in the place of another"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "internationalist",
+    "trans": [
+      "国际主义者的",
+      "国际主义者"
+    ],
+    "usphone": ",ɪntɚ'næʃnəlɪst",
+    "ukphone": "ˌɪntə'næʃnəlɪst",
+    "e_mean": [
+      "influenced by or advocating internationalism"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "notice board",
+    "trans": [
+      "[管理] 布告牌；警告牌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a board that hangs on a wall; displays announcements"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "conformity",
+    "trans": [
+      "符合， 一致"
+    ],
+    "usphone": "kən'fɔrməti",
+    "ukphone": "kən'fɔːməti",
+    "e_mean": [
+      "correspondence in form, type, or appearance"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "foremost",
+    "trans": [
+      "最好的； 最重要的"
+    ],
+    "usphone": "'fɔr'most",
+    "ukphone": "'fɔːməust",
+    "e_mean": [
+      "ranking above all others"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "entrepreneurial",
+    "trans": [
+      "创业的"
+    ],
+    "usphone": ",ɑntrəprə'njʊrɪəl",
+    "ukphone": "ˌɒntrəprə'nɜːriəl",
+    "e_mean": [
+      "of or relating to someone who starts a new business"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "detract",
+    "trans": [
+      "去掉， 减损"
+    ],
+    "usphone": "dɪ'trækt",
+    "ukphone": "dɪ'trækt",
+    "e_mean": [
+      "take away a part from; diminish"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "devalue",
+    "trans": [
+      "使贬值； 贬低"
+    ],
+    "usphone": ",di'vælju",
+    "ukphone": "ˌdiː'væljuː",
+    "e_mean": [
+      "lower the worth or quality of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "coffer",
+    "trans": [
+      "保险箱"
+    ],
+    "usphone": "'kɔfɚ",
+    "ukphone": "'kɒfə(r)",
+    "e_mean": [
+      "the funds of a government, institution, or individual"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "shipment",
+    "trans": [
+      "装运， 运输； 装载的货物， 装货量"
+    ],
+    "usphone": "'ʃɪpmənt",
+    "ukphone": "'ʃɪpmənt",
+    "e_mean": [
+      "the act of sending off something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "militant",
+    "trans": [
+      "好战的，好斗的；激进的",
+      "好斗的人， 激进分子"
+    ],
+    "usphone": "'mɪlɪtənt",
+    "ukphone": "'mɪlɪtənt",
+    "e_mean": [
+      "engaged in war"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "profitable",
+    "trans": [
+      "有利可图的， 赚钱的； 有益的"
+    ],
+    "usphone": "'prɑfɪtəbl",
+    "ukphone": "'prɒfɪtəbl",
+    "e_mean": [
+      "yielding material gain"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "location",
+    "trans": [
+      "位置， 场所； 外景拍摄地"
+    ],
+    "usphone": "lo'keʃən",
+    "ukphone": "ləu'keɪʃn",
+    "e_mean": [
+      "the act of putting something in a certain place"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "compensation",
+    "trans": [
+      "补偿， 赔偿； 赔偿物， 赔偿金"
+    ],
+    "usphone": ",kɑmpɛn'seʃən",
+    "ukphone": "ˌkɒmpen'seɪʃn",
+    "e_mean": [
+      "the act of making amends for service, loss, or injury"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "teamwork",
+    "trans": [
+      "协力合作， 团队合作； 配合"
+    ],
+    "usphone": "'timwɝk",
+    "ukphone": "'tiːmwɜːk",
+    "e_mean": [
+      "cooperative labor done by a group"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "disillusionment",
+    "trans": [
+      "幻灭； 觉醒， 醒悟"
+    ],
+    "usphone": ",dɪsɪ'luʒnmənt",
+    "ukphone": "ˌdɪsɪ'luːʒnmənt",
+    "e_mean": [
+      "freeing from false belief"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "dismantle",
+    "trans": [
+      "拆除； 废除， 取消"
+    ],
+    "usphone": "dɪs'mæntl",
+    "ukphone": "dɪs'mæntl",
+    "e_mean": [
+      "take off or remove"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "personalize",
+    "trans": [
+      "使成为私人的； 在上标出主人姓名； 个人化"
+    ],
+    "usphone": "'pɝsənəlaɪz",
+    "ukphone": "'pɜːsənəlaɪz",
+    "e_mean": [
+      "make personal or more personal"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "disposal",
+    "trans": [
+      "处理， 处置； 布置， 安排"
+    ],
+    "usphone": "dɪ'spozl",
+    "ukphone": "dɪ'spəuzl",
+    "e_mean": [
+      "the act or means of getting rid of something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "popularize",
+    "trans": [
+      "宣扬， 宣传， 推广； 使普及， 使通俗化"
+    ],
+    "usphone": "'pɑpjələraɪz",
+    "ukphone": "'pɒpjələraɪz",
+    "e_mean": [
+      "cater to popular taste to make popular and present to the general public; bring into general or common use"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "computerize",
+    "trans": [
+      "使计算机化； 用计算机做； 用计算机储存"
+    ],
+    "usphone": "kəm'pjutəraɪz",
+    "ukphone": "kəm'pjuːtəraɪz",
+    "e_mean": [
+      "provide with computers"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "confuse",
+    "trans": [
+      "使混乱， 混淆； 使迷惑， 使糊涂"
+    ],
+    "usphone": "kən'fjʊz",
+    "ukphone": "kən'fjuːz",
+    "e_mean": [
+      "mistake one thing for another"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "acumen",
+    "trans": [
+      "敏锐； 精明"
+    ],
+    "usphone": "əˈkjumən",
+    "ukphone": "'ækjəmən",
+    "e_mean": [
+      "shrewdness shown by keen insight"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "occupy",
+    "trans": [
+      "占用， 占领； 忙碌于； 从事"
+    ],
+    "usphone": "'ɑkjupaɪ",
+    "ukphone": "'ɒkjʊpaɪ",
+    "e_mean": [
+      "live in (a certain place)"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "preventative",
+    "trans": [
+      "预防性的"
+    ],
+    "usphone": "prɪ'vɛntətɪv",
+    "ukphone": "prɪ'ventətɪv",
+    "e_mean": [
+      "tending to hinder"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "installment",
+    "trans": [
+      "分期付款； 一集"
+    ],
+    "usphone": "ɪn'stɔlmənt",
+    "ukphone": "ɪn'stɔːlmənt",
+    "e_mean": [
+      "a payment of part of a debt"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "wealthy",
+    "trans": [
+      "富的， 富裕的； 充裕的"
+    ],
+    "usphone": "'wɛlθi",
+    "ukphone": "'welθi",
+    "e_mean": [
+      "having an abundant supply of money or possessions of value"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "automatically",
+    "trans": [
+      "自动地； 无意识地"
+    ],
+    "usphone": "",
+    "ukphone": "ɔːtə'mætɪklɪ",
+    "e_mean": [
+      "in a mechanical manner; by a mechanism"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "entwine",
+    "trans": [
+      "使缠住， 使盘绕"
+    ],
+    "usphone": "ɪn'twaɪn",
+    "ukphone": "ɪn'twaɪn",
+    "e_mean": [
+      "wind or twist together"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "indigenous",
+    "trans": [
+      "土产的， 本地的， 本土的"
+    ],
+    "usphone": "ɪn'dɪdʒənəs",
+    "ukphone": "ɪn'dɪdʒənəs",
+    "e_mean": [
+      "originating where it is found"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "elucidate",
+    "trans": [
+      "阐明， 使…清楚"
+    ],
+    "usphone": "ɪ'lusɪdet",
+    "ukphone": "i'luːsɪdeɪt",
+    "e_mean": [
+      "make clear and comprehensible"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "manufacturer",
+    "trans": [
+      "制造商， 制造厂， 生产者"
+    ],
+    "usphone": ",mænju'fæktʃərɚ",
+    "ukphone": "ˌmænju'fæktʃərə(r)",
+    "e_mean": [
+      "someone who constructs or produces something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "disharmony",
+    "trans": [
+      "不一致； 不和谐"
+    ],
+    "usphone": "dɪs'hɑrməni",
+    "ukphone": "ˌdɪs'hɑːməni",
+    "e_mean": [
+      "a lack of harmony"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "beware",
+    "trans": [
+      "谨防， 当心"
+    ],
+    "usphone": "bɪ'wɛr",
+    "ukphone": "bɪ'weə(r)",
+    "e_mean": [
+      "be on one's guard; be cautious or wary about; be alert to"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "for instance",
+    "trans": [
+      "例如"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "as an example"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "threshold",
+    "trans": [
+      "入门， 门槛； 界限； 开端， 起点"
+    ],
+    "usphone": "'θrɛʃhold",
+    "ukphone": "'θreʃhəuld",
+    "e_mean": [
+      "the starting point for a new state or experience"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "snobbish",
+    "trans": [
+      "势利的， 谄上欺下的； 自命不凡的"
+    ],
+    "usphone": "'snɑbɪʃ",
+    "ukphone": "'snɒbɪʃ",
+    "e_mean": [
+      "characteristic of those who incline to social exclusiveness"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "inaugurate",
+    "trans": [
+      "开始， 开创； 为…举行就职典礼； 为…举行开幕式； 为…举行落成仪式"
+    ],
+    "usphone": "ɪ'nɔɡjəret",
+    "ukphone": "ɪ'nɔːgjəreɪt",
+    "e_mean": [
+      "commence officially"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "jargon",
+    "trans": [
+      "行话， 行业术语； 黑话"
+    ],
+    "usphone": "'dʒɑrɡən",
+    "ukphone": "'dʒɑːgən",
+    "e_mean": [
+      "technical terminology characteristic of a particular subject"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "monotonous",
+    "trans": [
+      "单调的， 无聊的"
+    ],
+    "usphone": "mə'nɑtənəs",
+    "ukphone": "mə'nɒtənəs",
+    "e_mean": [
+      "sounded or spoken in a tone unvarying in pitch"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "intermix",
+    "trans": [
+      "混入， 混杂"
+    ],
+    "usphone": ",ɪntɚ'mɪks",
+    "ukphone": "ˌɪntə'mɪks",
+    "e_mean": [
+      "combine into one"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "dearth",
+    "trans": [
+      "缺乏， 短缺"
+    ],
+    "usphone": "də:θ",
+    "ukphone": "dɜːθ",
+    "e_mean": [
+      "an insufficient quantity or number"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "outdo",
+    "trans": [
+      "超越， 胜过"
+    ],
+    "usphone": ",aʊt'du",
+    "ukphone": "ˌaut'duː",
+    "e_mean": [
+      "be or do something to a greater degree"
+    ],
+    "speech": "verb"
+  }
+]

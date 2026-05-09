@@ -1,0 +1,3730 @@
+[
+  {
+    "name": "sibling",
+    "trans": [
+      "兄；弟；姐；妹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person's brother or sister"
+    ],
+    "speech": "noun",
+    "sentence": "None of my siblings are married yet."
+  },
+  {
+    "name": "neighbourhood",
+    "trans": [
+      "街坊，居住区，周边地区"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a surrounding or nearby region"
+    ],
+    "speech": "noun",
+    "sentence": "Our neighborhood was our only reason to exchange hollow greetings."
+  },
+  {
+    "name": "member",
+    "trans": [
+      "成员，会员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "anything that belongs to a set or class"
+    ],
+    "speech": "noun",
+    "sentence": "The I-beams were to become structural members of a pedestrian bridge."
+  },
+  {
+    "name": "manager",
+    "trans": [
+      "经理，管理人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "someone who controls resources and expenditures"
+    ],
+    "speech": "noun",
+    "sentence": "a file manager; a task manager; Program Manager"
+  },
+  {
+    "name": "subordinate",
+    "trans": [
+      "下级的； 次要的",
+      "下属",
+      "使处于次要地位， 把…列在下级； 使服从"
+    ],
+    "usphone": "səˈbɔːdɪnɪt (for n. &adj.) ; səˈbɔːdɪˌnet (for v.)",
+    "ukphone": "sə'bɔːdɪnət",
+    "e_mean": [
+      "an assistant subject to the authority or control of another"
+    ],
+    "speech": "noun",
+    "sentence": "In the sentence “The barbecue finished before John arrived”, the subordinate clause “before John arrived” specifies the time of the main clause, “The barbecue finished”."
+  },
+  {
+    "name": "colleague",
+    "trans": [
+      "同事，同僚，同人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an associate that one works with"
+    ],
+    "speech": "noun",
+    "sentence": "Young Fortinbras,/ Holding a weak supposal of our worth/...Colleagued with the dream of his advantage,/...hath not failed to pester us with message/ Importing the surrender of those lands/Lost by his father. - Hamlet (Act I, Scene 2)"
+  },
+  {
+    "name": "comrade",
+    "trans": [
+      "(尤指共患难的)同伴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a friend who is frequently in the company of another"
+    ],
+    "speech": "noun",
+    "sentence": "Hello, comrade. Are you going to the Communist Party meeting tonight?"
+  },
+  {
+    "name": "acquaintance",
+    "trans": [
+      "熟人； 认识， 了解"
+    ],
+    "usphone": "ə'kwentəns",
+    "ukphone": "ə'kweɪntəns",
+    "e_mean": [
+      "personal knowledge or information about someone or something"
+    ],
+    "speech": "noun",
+    "sentence": "I know of the man; but have no acquaintance with him."
+  },
+  {
+    "name": "affection",
+    "trans": [
+      "喜爱，喜欢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a positive feeling of liking"
+    ],
+    "speech": "noun",
+    "sentence": "I have a lot of affection for my little sister."
+  },
+  {
+    "name": "apprentice",
+    "trans": [
+      "学徒，徒弟；使当…的学徒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "someone who works for an expert to learn a trade"
+    ],
+    "speech": "noun",
+    "sentence": "He was apprenticed to a local employer."
+  },
+  {
+    "name": "hero",
+    "trans": [
+      "男主角，英雄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "someone who fights for a cause"
+    ],
+    "speech": "noun",
+    "sentence": "Let's discuss how to play if the hero has KK, and there's an ace on board."
+  },
+  {
+    "name": "chancellor",
+    "trans": [
+      "大臣； 总理； 首席法官； 大学校长"
+    ],
+    "usphone": "'tʃænsəlɚ",
+    "ukphone": "'tʃɑːnsələ(r)",
+    "e_mean": [
+      "the person who is head of state (in several countries)"
+    ],
+    "speech": "noun",
+    "sentence": "Chancellor of the Duchy of Lancaster Lord Chancellor"
+  },
+  {
+    "name": "orphan",
+    "trans": [
+      "孤儿；使成为孤儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a child who has lost both parents"
+    ],
+    "speech": "noun",
+    "sentence": "What do you do when you come across two orphaned polar bear cubs?"
+  },
+  {
+    "name": "youth",
+    "trans": [
+      "青年时期；youthful年轻的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person who is not yet old"
+    ],
+    "speech": "noun",
+    "sentence": "Her youth and beauty attracted him to her."
+  },
+  {
+    "name": "gang",
+    "trans": [
+      "结成一伙",
+      "一帮"
+    ],
+    "usphone": "ɡæŋ",
+    "ukphone": "gæŋ",
+    "e_mean": [
+      "an association of criminals"
+    ],
+    "speech": "noun",
+    "sentence": "The gang from our office is going out for drinks Friday night."
+  },
+  {
+    "name": "vice versa",
+    "trans": [
+      "反过来也是如此，反之亦然"
+    ],
+    "usphone": ",vaisi'və:sə",
+    "ukphone": ",vaisi'və:sə",
+    "e_mean": [
+      "with the order reversed"
+    ],
+    "speech": "adverb",
+    "sentence": "As long as my friend Mike places first and my friend Joe places second, or vice versa, I will be happy!"
+  },
+  {
+    "name": "generous",
+    "trans": [
+      "慷慨的； 大量的"
+    ],
+    "usphone": "'dʒɛnərəs",
+    "ukphone": "'dʒenərəs",
+    "e_mean": [
+      "willing to give and share unstintingly"
+    ],
+    "speech": "adjective",
+    "sentence": "Thank you for your generous words."
+  },
+  {
+    "name": "humour",
+    "trans": [
+      "幽默， 幽默感"
+    ],
+    "usphone": "'hju:mə",
+    "ukphone": "'hjuːmə(r)",
+    "e_mean": [
+      "the quality of being funny"
+    ],
+    "speech": "noun",
+    "sentence": "She has a great sense of humour, and I always laugh a lot whenever we get together."
+  },
+  {
+    "name": "fraught",
+    "trans": [
+      "充满…的； 担心的， 烦恼的"
+    ],
+    "usphone": "frɔt",
+    "ukphone": "frɔːt",
+    "e_mean": [
+      "filled with or attended with"
+    ],
+    "speech": "adjective",
+    "sentence": "fraught money."
+  },
+  {
+    "name": "smell",
+    "trans": [
+      "散发…的气味； 闻到， 嗅到"
+    ],
+    "usphone": "smɛl",
+    "ukphone": "smel",
+    "e_mean": [
+      "the faculty that enables us to distinguish scents"
+    ],
+    "speech": "noun",
+    "sentence": "I love the smell of fresh bread."
+  },
+  {
+    "name": "participant",
+    "trans": [
+      "参加者， 参与者"
+    ],
+    "usphone": "pɑr'tɪsəpənt",
+    "ukphone": "pɑː'tɪsɪpənt",
+    "e_mean": [
+      "someone who is involved in an activity"
+    ],
+    "speech": "noun",
+    "sentence": "All participants must adhere to the rules of the competition."
+  },
+  {
+    "name": "actual",
+    "trans": [
+      "实际的； 真实的"
+    ],
+    "usphone": "'æktʃuəl",
+    "ukphone": "'æktʃʊəl",
+    "e_mean": [
+      "existing in act or fact"
+    ],
+    "speech": "adjective",
+    "sentence": "The actual government expenses dramatically exceed the budget."
+  },
+  {
+    "name": "ultimate",
+    "trans": [
+      "最后的，最终的；根本的",
+      "最好的事物， 极品， 精华"
+    ],
+    "usphone": "ˈʌltəmɪt",
+    "ukphone": "'ʌltɪmət",
+    "e_mean": [
+      "furthest or highest in degree or order; utmost or extreme"
+    ],
+    "speech": "adjective",
+    "sentence": "the ultimate disappointment"
+  },
+  {
+    "name": "band",
+    "trans": [
+      "乐队； 群， 伙； 带， 箍； 条纹； 波段， 频带",
+      "用带绑扎"
+    ],
+    "usphone": "bænd",
+    "ukphone": "bænd",
+    "e_mean": [
+      "an unofficial association of people or groups"
+    ],
+    "speech": "noun",
+    "sentence": "valence band; conduction band"
+  },
+  {
+    "name": "chore",
+    "trans": [
+      "n. 家庭杂务，杂活；累活，苦差事"
+    ],
+    "usphone": "tʃɔːr",
+    "ukphone": "tʃɔː(r)",
+    "e_mean": [
+      "a specific piece of work required to be done"
+    ],
+    "speech": "noun",
+    "sentence": "Washing dishes is a chore, but we cannot just stop eating."
+  },
+  {
+    "name": "host",
+    "trans": [
+      "n. 主人；主持人；主办者，东道主；寄主，宿主；接受移植组织（或器官）的受体；主机；",
+      "v. 主办，做……的东道主；做节目主持人；作为主人组织（聚会），做东；（互联网连接的计算机上）存储网站"
+    ],
+    "usphone": "hoʊst",
+    "ukphone": "həust",
+    "e_mean": [
+      "a person who invites guests to a social event"
+    ],
+    "speech": "noun",
+    "sentence": "A good host is always considerate of the guest’s needs."
+  },
+  {
+    "name": "customer",
+    "trans": [
+      "n. 顾客；（某一类型的）家伙,客户"
+    ],
+    "usphone": "ˈkʌstəmər",
+    "ukphone": "ˈkʌstəmə(r)",
+    "e_mean": [
+      "someone who pays for goods or services"
+    ],
+    "speech": "noun",
+    "sentence": "Every person who passes by is a potential customer."
+  },
+  {
+    "name": "encounter",
+    "trans": [
+      "v. 遭遇；偶遇，邂逅",
+      "n. 偶遇，邂逅；经历，体验；冲突；比赛，交锋"
+    ],
+    "usphone": "ɪnˈkaʊntər",
+    "ukphone": "ɪn'kauntə(r)",
+    "e_mean": [
+      "come together"
+    ],
+    "speech": "verb",
+    "sentence": "Their encounter was a matter of chance."
+  },
+  {
+    "name": "chase",
+    "trans": [
+      "v. 追逐，追赶；匆忙赶往，急奔；追求，努力争取；求爱；驱逐，赶走；撤职；催促；镂刻，雕刻",
+      "n. 追赶，追逐；争取，努力获得；狩猎，猎捕；越野赛马，障碍赛马"
+    ],
+    "usphone": "tʃeɪs",
+    "ukphone": "tʃeɪs",
+    "e_mean": [
+      "go after with the intent to catch"
+    ],
+    "speech": "verb",
+    "sentence": "I need something to chase this shot with."
+  },
+  {
+    "name": "appointment",
+    "trans": [
+      "n. 约会，约定；任命，委派；职务，职位；家具，陈设"
+    ],
+    "usphone": "əˈpɔɪntmənt",
+    "ukphone": "ə'pɔɪntmənt",
+    "e_mean": [
+      "a meeting arranged in advance"
+    ],
+    "speech": "noun",
+    "sentence": "His appointment was deemed suitable"
+  },
+  {
+    "name": "accompany",
+    "trans": [
+      "v. 陪伴，陪同；伴随，与……一起发生；为……伴奏（或伴唱）；附带，补充"
+    ],
+    "usphone": "əˈkʌmpəni",
+    "ukphone": "əˈkʌmpəni",
+    "e_mean": [
+      "go or travel along with"
+    ],
+    "speech": "verb",
+    "sentence": "Geoffrey accompanied the group on their pilgrimage."
+  },
+  {
+    "name": "dependent",
+    "trans": [
+      "adj. 依赖的，依靠的；取决于；有瘾的",
+      "n. 受供养者"
+    ],
+    "usphone": "dɪˈpendənt",
+    "ukphone": "dɪˈpendənt",
+    "e_mean": [
+      "a person who relies on another person for support"
+    ],
+    "speech": "noun",
+    "sentence": "With two children and an ailing mother, she had three dependents in all."
+  },
+  {
+    "name": "propose",
+    "trans": [
+      "v. 提议，建议；提出（理论或解释）；提名，推荐；计划，打算；求婚；（向立法机构或委员会）提交（动议）；提议祝（酒）"
+    ],
+    "usphone": "prəˈpoʊz",
+    "ukphone": "prə'pəuz",
+    "e_mean": [
+      "present for consideration, examination, or criticism"
+    ],
+    "speech": "verb",
+    "sentence": "I propose going to see a film."
+  },
+  {
+    "name": "engagement",
+    "trans": [
+      "n. 婚约，订婚；约会，约定；交战，战斗；演出任务；聘用，雇用；参加，从事；(与……的)密切关系，(对……的)了解；啮合；（与……的）密切关系，（对……的）了解"
+    ],
+    "usphone": "ɪnˈɡeɪdʒmənt",
+    "ukphone": "ɪnˈɡeɪdʒmənt",
+    "e_mean": [
+      "a meeting arranged in advance"
+    ],
+    "speech": "noun",
+    "sentence": "The lecturer has three speaking engagements this week."
+  },
+  {
+    "name": "marry",
+    "trans": [
+      "v. 结婚，嫁，娶；为……主持婚礼；把……嫁给，为……娶亲；使结合在一起；拼接缆绳"
+    ],
+    "usphone": "ˈmæri",
+    "ukphone": "ˈmæri",
+    "e_mean": [
+      "become someone's spouse"
+    ],
+    "speech": "verb",
+    "sentence": "Neither of her daughters showed any desire to marry."
+  },
+  {
+    "name": "divorce",
+    "trans": [
+      "n. 离婚；离婚判决；分开，脱离",
+      "v. 与（某人）离婚；使分离，割裂"
+    ],
+    "usphone": "dɪˈvɔːrs",
+    "ukphone": "dɪˈvɔːrs",
+    "e_mean": [
+      "the legal dissolution of a marriage"
+    ],
+    "speech": "noun",
+    "sentence": "Richard obtained a divorce from his wife some years ago, but hasn't returned to the dating scene."
+  },
+  {
+    "name": "separate",
+    "trans": [
+      "adj. 单独的，分开的；不同的，不相关的",
+      "v. （使）分离；（把……）分成不同部分；隔开，阻隔；（夫妻）分居，（同居情侣）分手；区分，区别；<美>解雇，辞退",
+      "n. 可搭配穿着的单件衣服（separates）；独立音响设备"
+    ],
+    "usphone": "ˈseprət",
+    "ukphone": "ˈseprət",
+    "e_mean": [
+      "standing apart; not attached to or supported by anything"
+    ],
+    "speech": "adjective",
+    "sentence": "Separate the articles from the headings."
+  },
+  {
+    "name": "respective",
+    "trans": [
+      "adj. 分别的，各自的"
+    ],
+    "usphone": "rɪˈspektɪv",
+    "ukphone": "rɪˈspektɪv",
+    "e_mean": [
+      "considered individually"
+    ],
+    "speech": "adjective",
+    "sentence": "They returned to their respective places of abode."
+  },
+  {
+    "name": "herald",
+    "trans": [
+      "v. 预示……的来临；宣布，宣传；热烈欢迎；公开称赞",
+      "n. 预兆；使者，先驱；棘翅夜蛾；<古> 掌礼官，（负责比武大会的）纹章官；"
+    ],
+    "usphone": "ˈherəld",
+    "ukphone": "ˈherəld",
+    "e_mean": [
+      "a person who announces important news"
+    ],
+    "speech": "noun",
+    "sentence": "The herald blew his trumpet and shouted that the King was dead."
+  },
+  {
+    "name": "successor",
+    "trans": [
+      "n. 继承者，接替的事物；（组织、机器等的）接替物"
+    ],
+    "usphone": "səkˈsesər",
+    "ukphone": "səkˈsesə(r)",
+    "e_mean": [
+      "a person who follows next in order"
+    ],
+    "speech": "noun",
+    "sentence": "George W. Bush was successor to Bill Clinton as President of the US."
+  },
+  {
+    "name": "generation",
+    "trans": [
+      "n. 一代（人）；一代人的时间；（产品发展的）代；产生"
+    ],
+    "usphone": "ˌdʒenəˈreɪʃ(ə)n",
+    "ukphone": "ˌdʒenəˈreɪʃ(ə)n",
+    "e_mean": [
+      "group of genetically related organisms in a line of descent"
+    ],
+    "speech": "noun",
+    "sentence": "This is the book of the generations of Adam - Genesis 5:1"
+  },
+  {
+    "name": "gender",
+    "trans": [
+      "n. 性别；（语法中的）性；（总称）男性，女性"
+    ],
+    "usphone": "ˈdʒendər",
+    "ukphone": "'dʒendə(r)",
+    "e_mean": [
+      "properties that distinguish organisms on the basis of sex"
+    ],
+    "speech": "noun",
+    "sentence": "The effect of the medication is dependent upon age, gender, and other factors."
+  },
+  {
+    "name": "female",
+    "trans": [
+      "adj. 女性的，妇女的；女性特有的；由女性组成的；内孔的；雌性的，母的；雌蕊的",
+      "n. 雌性动物，雌性植物；女子"
+    ],
+    "usphone": "ˈfiːmeɪl",
+    "ukphone": "'fiːmeɪl",
+    "e_mean": [
+      "of the sex that produces eggs from which offspring develop"
+    ],
+    "speech": "adjective",
+    "sentence": "female authors, the leading male and female artists, a female bird cooing at a male, intersex female patients, a trans female vlogger"
+  },
+  {
+    "name": "couple",
+    "trans": [
+      "n. 两个，几个；一对夫妇，一对情侣",
+      "v. 加上，结合；（把设备等）连接；形成一双，配成一对；（用电磁感应，静电荷或光学通信线路）将（电路元件）耦合"
+    ],
+    "usphone": "ˈkʌp(ə)l",
+    "ukphone": "ˈkʌp(ə)l",
+    "e_mean": [
+      "two items of the same kind"
+    ],
+    "speech": "noun",
+    "sentence": "I've coupled our system to theirs."
+  },
+  {
+    "name": "spouse",
+    "trans": [
+      "n. 配偶",
+      "v. 和……结婚"
+    ],
+    "usphone": "spaʊs",
+    "ukphone": "spaus",
+    "e_mean": [
+      "a person's partner in marriage"
+    ],
+    "speech": "noun",
+    "sentence": "People should treat their spouses with respect."
+  },
+  {
+    "name": "cousin",
+    "trans": [
+      "堂(或表)兄(或弟、姐、妹)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the child of your aunt or uncle"
+    ],
+    "speech": "noun",
+    "sentence": "I think my cousin is a good man."
+  },
+  {
+    "name": "niece",
+    "trans": [
+      "侄女，外甥女"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a daughter of your sibling"
+    ],
+    "speech": "noun",
+    "sentence": "My niece just celebrated her 15th birthday."
+  },
+  {
+    "name": "mate",
+    "trans": [
+      "伙伴，[构成复合词]同伴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person's partner in marriage"
+    ],
+    "speech": "noun",
+    "sentence": "He's my best mate."
+  },
+  {
+    "name": "adolescence",
+    "trans": [
+      "青春， 青春期"
+    ],
+    "usphone": ",ædə'lɛsns",
+    "ukphone": "ˌædə'lesns",
+    "e_mean": [
+      "the period between the beginning of puberty and adulthood"
+    ],
+    "speech": "noun",
+    "sentence": "During adolescence, the body and mind go through many complex changes, some of which are difficult to deal with."
+  },
+  {
+    "name": "kin",
+    "trans": [
+      "家属，亲戚；有血缘关系的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person related to another or others"
+    ],
+    "speech": "noun",
+    "sentence": "It turns out my back-fence neighbor is kin to one of my co-workers."
+  },
+  {
+    "name": "folk",
+    "trans": [
+      "人们，家属，亲属"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "people in general (often used in the plural)"
+    ],
+    "speech": "noun",
+    "sentence": "Young folk, old folk, everybody come, / To our little Sunday School and have a lot of fun."
+  },
+  {
+    "name": "relative",
+    "trans": [
+      "相对的；比较的；有关的，相关的",
+      "亲属， 亲戚"
+    ],
+    "usphone": "'rɛlətɪv",
+    "ukphone": "'relətɪv",
+    "e_mean": [
+      "not absolute or complete"
+    ],
+    "speech": "adjective",
+    "sentence": "Why do my relatives always talk about sex?"
+  },
+  {
+    "name": "relate",
+    "trans": [
+      "有关联； 讲述， 叙述"
+    ],
+    "usphone": "rɪ'let",
+    "ukphone": "rɪ'leɪt",
+    "e_mean": [
+      "give an account of"
+    ],
+    "speech": "verb",
+    "sentence": "Please relate the circumstances of your journey here today."
+  },
+  {
+    "name": "intimate",
+    "trans": [
+      "亲密的，密切的；私人的，个人的；小圈子内的",
+      "至交，密友['ɪntɪm3ɪt]",
+      "暗示， 提示， 透露"
+    ],
+    "usphone": "ˈɪntəmɪt",
+    "ukphone": "'ɪntɪmət",
+    "e_mean": [
+      "marked by close acquaintance, association, or familiarity"
+    ],
+    "speech": "adjective",
+    "sentence": "Only a couple of intimates had ever read his writing."
+  },
+  {
+    "name": "hostess",
+    "trans": [
+      "女主人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a woman host"
+    ],
+    "speech": "noun",
+    "sentence": "The host and hostess greeted their guests at the door."
+  },
+  {
+    "name": "mistress",
+    "trans": [
+      "情妇"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an adulterous woman"
+    ],
+    "speech": "noun",
+    "sentence": "(male equivalent) master"
+  },
+  {
+    "name": "maiden",
+    "trans": [
+      "少女，姑娘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an unmarried woman or girl"
+    ],
+    "speech": "noun",
+    "sentence": "She's unmarried and still a maiden."
+  },
+  {
+    "name": "specialist",
+    "trans": [
+      "专家； 专科医生"
+    ],
+    "usphone": "'spɛʃəlɪst",
+    "ukphone": "'speʃəlɪst",
+    "e_mean": [
+      "an expert devoted to one occupation or branch of learning"
+    ],
+    "speech": "noun",
+    "sentence": "The tree Lepidothamnus laxifolius is a high alpine specialist found in high-altitude bog communities and in scrub."
+  },
+  {
+    "name": "umpire",
+    "trans": [
+      "裁判员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an official at a sporting event"
+    ],
+    "speech": "noun",
+    "sentence": "The umpire called the pitch a strike."
+  },
+  {
+    "name": "nurse",
+    "trans": [
+      "护士/保姆/护理nursing护理工作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "one skilled in caring for young children or the sick"
+    ],
+    "speech": "noun",
+    "sentence": "They hired a nurse to care for their young boy."
+  },
+  {
+    "name": "gardener",
+    "trans": [
+      "园丁，花匠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "someone who takes care of a garden"
+    ],
+    "speech": "noun",
+    "sentence": "\"Ponder the fact that God has made you a gardener, to root out vice and to plant virtue.\" — St. Catherine of Siena"
+  },
+  {
+    "name": "butcher",
+    "trans": [
+      "屠夫；杀人狂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person who slaughters or dresses meat for market"
+    ],
+    "speech": "noun",
+    "sentence": "The band at that bar really butchered \"Hotel California\"."
+  },
+  {
+    "name": "groom",
+    "trans": [
+      "马夫,新郎;(给动物)刷洗,理毛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "someone employed in a stable to take care of the horses"
+    ],
+    "speech": "noun",
+    "sentence": "the groom of the chamber; the groom of the stole"
+  },
+  {
+    "name": "beggar",
+    "trans": [
+      "乞丐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an impoverished person who lives by asking for charity"
+    ],
+    "speech": "noun",
+    "sentence": "What does that silly beggar think he's doing?"
+  },
+  {
+    "name": "slave",
+    "trans": [
+      "奴隶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person who is forcibly held in servitude"
+    ],
+    "speech": "noun",
+    "sentence": "a slave to passion, to strong drink, or to ambition"
+  },
+  {
+    "name": "surgeon",
+    "trans": [
+      "外科医生"
+    ],
+    "usphone": "'sɝdʒən",
+    "ukphone": "'sɜːdʒən",
+    "e_mean": [
+      "a physician who specializes in surgery"
+    ],
+    "speech": "noun",
+    "sentence": "The surgeon refused to operate because the patient was her son."
+  },
+  {
+    "name": "surgery",
+    "trans": [
+      "外科学； 外科手术； 手术室， 诊疗室"
+    ],
+    "usphone": "'sɝdʒəri",
+    "ukphone": "'sɜːdʒəri",
+    "e_mean": [
+      "science treating disease or injury by operative procedures"
+    ],
+    "speech": "noun",
+    "sentence": "Many times surgery is necessary to prevent cancer from spreading."
+  },
+  {
+    "name": "discourage",
+    "trans": [
+      "使泄气， 使灰心； 阻止， 劝阻"
+    ],
+    "usphone": "dɪs'kɝɪdʒ",
+    "ukphone": "dɪs'kʌrɪdʒ",
+    "e_mean": [
+      "try to prevent; show opposition to"
+    ],
+    "speech": "verb",
+    "sentence": "Don't be discouraged by the amount of work left to do: you'll finish it in good time."
+  },
+  {
+    "name": "warrant",
+    "trans": [
+      "保证；"
+    ],
+    "usphone": "'wɔrənt",
+    "ukphone": "'wɒrənt",
+    "e_mean": [
+      "formal and explicit approval"
+    ],
+    "speech": "noun",
+    "sentence": "a warrant of authenticity; a warrant for success"
+  },
+  {
+    "name": "coincide",
+    "trans": [
+      "同时发生； 一致"
+    ],
+    "usphone": ",koɪn'saɪd",
+    "ukphone": "ˌkəuɪn'saɪd",
+    "e_mean": [
+      "happen simultaneously"
+    ],
+    "speech": "verb",
+    "sentence": "The two squares coincide nicely."
+  },
+  {
+    "name": "competent",
+    "trans": [
+      "有能力的； 能胜任的"
+    ],
+    "usphone": "'kɑmpɪtənt",
+    "ukphone": "'kɒmpɪtnt",
+    "e_mean": [
+      "properly or sufficiently qualified, capable, or efficient"
+    ],
+    "speech": "adjective",
+    "sentence": "He is a competent skier and an expert snowboarder."
+  },
+  {
+    "name": "compassionate",
+    "trans": [
+      "有同情心的， 表示怜悯的"
+    ],
+    "usphone": "kəm'pæʃənət",
+    "ukphone": "kəm'pæʃənət",
+    "e_mean": [
+      "showing or having sympathy for another's suffering"
+    ],
+    "speech": "adjective",
+    "sentence": "The Compassionate, the All-Compassionate"
+  },
+  {
+    "name": "cooperative",
+    "trans": [
+      "合作的，协作的",
+      "合作社"
+    ],
+    "usphone": "ko'ɑpərətɪv",
+    "ukphone": "kəu'ɒpərətɪv",
+    "e_mean": [
+      "involving the joint activity of two or more"
+    ],
+    "speech": "adjective",
+    "sentence": "The patient was rarely cooperative, and tended to refuse treatment."
+  },
+  {
+    "name": "irritable",
+    "trans": [
+      "急躁的， 易怒的， 易受刺激的； 过敏的"
+    ],
+    "usphone": "'ɪrɪtəbl",
+    "ukphone": "'ɪrɪtəbl",
+    "e_mean": [
+      "easily annoyed"
+    ],
+    "speech": "adjective",
+    "sentence": "an irritable old man"
+  },
+  {
+    "name": "reserved",
+    "trans": [
+      "说话不多的， 内向的； 有所保留的， 预订的"
+    ],
+    "usphone": "rɪ'zɝvd",
+    "ukphone": "rɪ'zɜːvd",
+    "e_mean": [
+      "set aside for the use of a particular person or party"
+    ],
+    "speech": "adjective",
+    "sentence": "We reserve the right to make modifications."
+  },
+  {
+    "name": "tickle",
+    "trans": [
+      "发痒；使高兴，逗乐",
+      "痒"
+    ],
+    "usphone": "'tɪkl",
+    "ukphone": "'tɪkl",
+    "e_mean": [
+      "touch (a body part) lightly so as to excite the surface nerves and cause uneasiness, laughter, or spasmodic movements"
+    ],
+    "speech": "verb",
+    "sentence": "I have a persistent tickle in my throat."
+  },
+  {
+    "name": "accessible",
+    "trans": [
+      "能接近的； 易达到的"
+    ],
+    "usphone": "ək'sɛsəbl",
+    "ukphone": "ək'sesəbl",
+    "e_mean": [
+      "capable of being reached"
+    ],
+    "speech": "adjective",
+    "sentence": "an accessible town or mountain"
+  },
+  {
+    "name": "authenticate",
+    "trans": [
+      "鉴别， 证明"
+    ],
+    "usphone": "ɔ'θɛntɪket",
+    "ukphone": "ɔː'θentɪkeɪt",
+    "e_mean": [
+      "establish the undisputed credibility of something"
+    ],
+    "speech": "verb",
+    "sentence": "The experts confirmed it was an authentic signature."
+  },
+  {
+    "name": "suffice",
+    "trans": [
+      "满足， 满意； 足够"
+    ],
+    "usphone": "sə'faɪs",
+    "ukphone": "sə'faɪs",
+    "e_mean": [
+      "be adequate, either in quality or quantity"
+    ],
+    "speech": "verb",
+    "sentence": "For this plum cake, two eggs should suffice."
+  },
+  {
+    "name": "concede",
+    "trans": [
+      "承认； 让步"
+    ],
+    "usphone": "kən'sid",
+    "ukphone": "kən'siːd",
+    "e_mean": [
+      "give over"
+    ],
+    "speech": "verb",
+    "sentence": "He conceded the race once it was clear he could not win."
+  },
+  {
+    "name": "unparalleled",
+    "trans": [
+      "无双的， 无比的， 空前的"
+    ],
+    "usphone": "ʌn'pærəlɛld",
+    "ukphone": "ʌn'pærəleld",
+    "e_mean": [
+      "radically distinctive and without equal"
+    ],
+    "speech": "adjective",
+    "sentence": "The candidate experienced unparalleled support in the last election."
+  },
+  {
+    "name": "plush",
+    "trans": [
+      "豪华的，舒适的",
+      "长毛绒"
+    ],
+    "usphone": "plʌʃ",
+    "ukphone": "plʌʃ",
+    "e_mean": [
+      "characterized by extravagance and softness"
+    ],
+    "speech": "adjective",
+    "sentence": "They lived in a plush apartment complex."
+  },
+  {
+    "name": "commission",
+    "trans": [
+      "委托；佣金",
+      "授权， 委托"
+    ],
+    "usphone": "kə'mɪʃən",
+    "ukphone": "kə'mɪʃn",
+    "e_mean": [
+      "the act of granting authority to undertake certain functions"
+    ],
+    "speech": "noun",
+    "sentence": "David received his commission after graduating from West Point."
+  },
+  {
+    "name": "address",
+    "trans": [
+      "致函，写姓名地址；向…讲话，演说；处理，"
+    ],
+    "usphone": "əˈdrɛs;(for n)ˈædres; ædrɛs",
+    "ukphone": "ə'dres",
+    "e_mean": [
+      "the place where a person or organization can be found"
+    ],
+    "speech": "noun",
+    "sentence": "He addressed some portions of his remarks to his supporters, some to his opponents."
+  },
+  {
+    "name": "posture",
+    "trans": [
+      "姿势； 心情； 态度"
+    ],
+    "usphone": "'pɑstʃɚ",
+    "ukphone": "'pɒstʃə(r)",
+    "e_mean": [
+      "the arrangement of the body and its limbs"
+    ],
+    "speech": "noun",
+    "sentence": "If you're finished posturing in front of the mirror, can I use the bathroom now?"
+  },
+  {
+    "name": "exorbitant",
+    "trans": [
+      "过分的， 不合理的"
+    ],
+    "usphone": "ɪɡ'zɔrbɪtənt",
+    "ukphone": "ɪg'zɔːbɪtənt",
+    "e_mean": [
+      "greatly exceeding bounds of reason or moderation"
+    ],
+    "speech": "adjective",
+    "sentence": "It's a nice car, but they are charging an exorbitant price for it."
+  },
+  {
+    "name": "violent",
+    "trans": [
+      "暴力的； 带有强烈感情的； 猛烈的"
+    ],
+    "usphone": "'vaɪələnt",
+    "ukphone": "'vaɪələnt",
+    "e_mean": [
+      "acting with great force or energy or emotional intensity"
+    ],
+    "speech": "adjective",
+    "sentence": "A violent wind ripped the branch from the tree."
+  },
+  {
+    "name": "confront",
+    "trans": [
+      "遭遇； 面对， 正视"
+    ],
+    "usphone": "kən'frʌnt",
+    "ukphone": "kən'frʌnt",
+    "e_mean": [
+      "oppose, as in hostility or a competition"
+    ],
+    "speech": "verb",
+    "sentence": "We should confront him about the missing money."
+  },
+  {
+    "name": "huddle",
+    "trans": [
+      "聚集在一起",
+      "杂乱的一堆； 拥挤"
+    ],
+    "usphone": "'hʌdl",
+    "ukphone": "'hʌdl",
+    "e_mean": [
+      "a disorganized and densely packed crowd"
+    ],
+    "speech": "noun",
+    "sentence": "The sheep huddled together seeking warmth."
+  },
+  {
+    "name": "besides",
+    "trans": [
+      "除此之外，而且"
+    ],
+    "usphone": "bɪ'saɪdz",
+    "ukphone": "bɪ'saɪdz",
+    "e_mean": [
+      "in addition"
+    ],
+    "speech": "adverb",
+    "sentence": "I don't feel like going out tonight. Besides, I have to work tomorrow morning anyway."
+  },
+  {
+    "name": "check",
+    "trans": [
+      "检查，核对；阻止，"
+    ],
+    "usphone": "tʃɛk",
+    "ukphone": "tʃek",
+    "e_mean": [
+      "examine to determine accuracy or quality"
+    ],
+    "speech": "verb",
+    "sentence": "I don't know if she will be there, but it's worth a check."
+  },
+  {
+    "name": "frustrate",
+    "trans": [
+      "使沮丧； 挫败"
+    ],
+    "usphone": "'frʌstret",
+    "ukphone": "frʌ'streɪt",
+    "e_mean": [
+      "hinder or prevent, as an effort, plan, or desire"
+    ],
+    "speech": "verb",
+    "sentence": "It frustrates me to do all this work and then lose it all."
+  },
+  {
+    "name": "pragmatic",
+    "trans": [
+      "务实的； 实事求是的； 实用主义观点的"
+    ],
+    "usphone": "præg'mætɪk",
+    "ukphone": "præg'mætɪk",
+    "e_mean": [
+      "concerned with practical matters"
+    ],
+    "speech": "adjective",
+    "sentence": "The sturdy furniture in the student lounge was pragmatic, but unattractive."
+  },
+  {
+    "name": "indispensable",
+    "trans": [
+      "必不可少的， 必需的"
+    ],
+    "usphone": "'ɪndɪ'spɛnsəbl",
+    "ukphone": "ˌɪndɪ'spensəbl",
+    "e_mean": [
+      "essential"
+    ],
+    "speech": "adjective",
+    "sentence": "The law was moral and indispensable. -Bp. Burnet"
+  },
+  {
+    "name": "anticipation",
+    "trans": [
+      "预料"
+    ],
+    "usphone": "æn,tɪsɪ'peʃən",
+    "ukphone": "ænˌtɪsɪ'peɪʃn",
+    "e_mean": [
+      "the act of predicting, as by reasoning about the future"
+    ],
+    "speech": "noun",
+    "sentence": "Often the anticipation of a shot is worse than the pain of the stick."
+  },
+  {
+    "name": "approval",
+    "trans": [
+      "赞成， 同意； 正式批准"
+    ],
+    "usphone": "əˈpruvl",
+    "ukphone": "ə'pruːvl",
+    "e_mean": [
+      "the formal act of giving agreement or permission"
+    ],
+    "speech": "noun",
+    "sentence": "I need to get an approval on this purchase order."
+  },
+  {
+    "name": "curative",
+    "trans": [
+      "有疗效的； 医疗的"
+    ],
+    "usphone": "'kjʊrətɪv",
+    "ukphone": "'kjuərətɪv",
+    "e_mean": [
+      "tending to cure or restore to health"
+    ],
+    "speech": "adjective",
+    "sentence": "The curative power of the antibiotics introduced in the 1950s was amazing at the time."
+  },
+  {
+    "name": "timid",
+    "trans": [
+      "胆小的； 羞怯的"
+    ],
+    "usphone": "'tɪmɪd",
+    "ukphone": "'tɪmɪd",
+    "e_mean": [
+      "showing fear and lack of courage"
+    ],
+    "speech": "adjective",
+    "sentence": "John's a very timid person. I'll doubt he'll be brave enough to face his brother."
+  },
+  {
+    "name": "ensue",
+    "trans": [
+      "继而发生； 接着发生"
+    ],
+    "usphone": "ɪn'su",
+    "ukphone": "ɪn'sjuː",
+    "e_mean": [
+      "take place or happen afterward or as a result"
+    ],
+    "speech": "verb",
+    "sentence": "Give three freshmen six bottles of wine, and hilarity will ensue."
+  },
+  {
+    "name": "avail",
+    "trans": [
+      "有帮助，有益，"
+    ],
+    "usphone": "ə'vel",
+    "ukphone": "ə'veɪl",
+    "e_mean": [
+      "be of use to, be useful to"
+    ],
+    "speech": "verb",
+    "sentence": "I tried fixing it, to no avail. Labor, without economy, is of little avail."
+  },
+  {
+    "name": "wastage",
+    "trans": [
+      "消耗量； 损耗； 减员"
+    ],
+    "usphone": "'westɪdʒ",
+    "ukphone": "'weɪstɪdʒ",
+    "e_mean": [
+      "the process of wasting"
+    ],
+    "speech": "noun",
+    "sentence": "The average wastage is 1.5% in the grocery department."
+  },
+  {
+    "name": "impoverish",
+    "trans": [
+      "使贫困； 使枯竭， 使贫瘠"
+    ],
+    "usphone": "ɪm'pɑvərɪʃ",
+    "ukphone": "ɪm'pɒvərɪʃ",
+    "e_mean": [
+      "make poor"
+    ],
+    "speech": "verb",
+    "sentence": "That exuberant crop quickly impoverishes any fertile soil."
+  },
+  {
+    "name": "allergic",
+    "trans": [
+      "过敏的， 变态反应的， 变应性的"
+    ],
+    "usphone": "ə'lɝdʒɪk",
+    "ukphone": "ə'lɜːdʒɪk",
+    "e_mean": [
+      "characterized by an immune response to a food or substance"
+    ],
+    "speech": "adjective",
+    "sentence": "I am allergic to cats."
+  },
+  {
+    "name": "disable",
+    "trans": [
+      "使丧失能力， 使伤残； 使不能正常运转， 使无效"
+    ],
+    "usphone": "dɪs'ebl",
+    "ukphone": "dɪs'eɪbl",
+    "e_mean": [
+      "injure permanently"
+    ],
+    "speech": "verb",
+    "sentence": "Falling off the horse disabled him."
+  },
+  {
+    "name": "horrify",
+    "trans": [
+      "使恐惧， 使惊骇； 使震惊； 使感到厌恶"
+    ],
+    "usphone": "'hɔrə'fai",
+    "ukphone": "'hɒrɪfaɪ",
+    "e_mean": [
+      "fill with anxiety, dread, or alarm"
+    ],
+    "speech": "verb",
+    "sentence": "The haunted house was horrifying, from one room to the next I felt more and more like I wasn’t going to survive."
+  },
+  {
+    "name": "representative",
+    "trans": [
+      "典型的， 有代表性的",
+      "代表，代理人"
+    ],
+    "usphone": "'rɛprɪ'zɛntətɪv",
+    "ukphone": "ˌreprɪ'zentətɪv",
+    "e_mean": [
+      "serving to typify"
+    ],
+    "speech": "adjective",
+    "sentence": "Are you sure this paper is representative of your child's writing?"
+  },
+  {
+    "name": "lax",
+    "trans": [
+      "懒散的； 松弛的， 不严格的， 马虎的"
+    ],
+    "usphone": "læks",
+    "ukphone": "læks",
+    "e_mean": [
+      "without rigor or strictness"
+    ],
+    "speech": "adjective",
+    "sentence": "The rules are fairly lax, but you have to know which ones you can bend."
+  },
+  {
+    "name": "comparison",
+    "trans": [
+      "比较， 对比， 对照； 比喻， 比拟"
+    ],
+    "usphone": "kəm'pærɪsn",
+    "ukphone": "kəm'pærɪsn",
+    "e_mean": [
+      "the act of examining resemblances"
+    ],
+    "speech": "noun",
+    "sentence": "to bring a thing into comparison with another; there is no comparison between them"
+  },
+  {
+    "name": "successive",
+    "trans": [
+      "连续的"
+    ],
+    "usphone": "sək'sɛsɪv",
+    "ukphone": "sək'sesɪv",
+    "e_mean": [
+      "following in order without gaps"
+    ],
+    "speech": "adjective",
+    "sentence": "They had won the title for five successive years."
+  },
+  {
+    "name": "improve",
+    "trans": [
+      "改善， 改进"
+    ],
+    "usphone": "ɪm'pruv",
+    "ukphone": "ɪm'pruːv",
+    "e_mean": [
+      "to make better"
+    ],
+    "speech": "verb",
+    "sentence": "Buying more servers would improve performance."
+  },
+  {
+    "name": "concern",
+    "trans": [
+      "涉及；使关心；"
+    ],
+    "usphone": "kən'sɝn",
+    "ukphone": "kən'sɜːn",
+    "e_mean": [
+      "something that interests you because it is important"
+    ],
+    "speech": "noun",
+    "sentence": "Judy's eyes filled with concern as she listened to the news report."
+  },
+  {
+    "name": "stabilise",
+    "trans": [
+      "稳定， 稳固"
+    ],
+    "usphone": "'steɪbəlˌaɪz",
+    "ukphone": "'steɪbəlaɪz",
+    "e_mean": [
+      "support or hold steady and make steadfast, with or as if with a brace"
+    ],
+    "speech": "verb",
+    "sentence": "Jody stabilized the table by putting a book under the short leg."
+  },
+  {
+    "name": "promote",
+    "trans": [
+      "促进； 提升； 促销"
+    ],
+    "usphone": "prə'mot",
+    "ukphone": "prə'məut",
+    "e_mean": [
+      "assign to a higher position"
+    ],
+    "speech": "verb",
+    "sentence": "He promoted his clerk to office manager."
+  },
+  {
+    "name": "moderation",
+    "trans": [
+      "温和， 中庸； 适度， 合理"
+    ],
+    "usphone": "'mɑdə'reʃən",
+    "ukphone": "ˌmɒdə'reɪʃn",
+    "e_mean": [
+      "the quality of avoiding extremes"
+    ],
+    "speech": "noun",
+    "sentence": "The moderation of a large online forum can be hard work."
+  },
+  {
+    "name": "recipient",
+    "trans": [
+      "接受者"
+    ],
+    "usphone": "rɪ'sɪpɪənt",
+    "ukphone": "rɪ'sɪpiənt",
+    "e_mean": [
+      "a person to whom something is sent, given, or awarded"
+    ],
+    "speech": "noun",
+    "sentence": "My e-mail never reached the intended recipient."
+  },
+  {
+    "name": "premise",
+    "trans": [
+      "前提，假设；"
+    ],
+    "usphone": "ˈpremɪs",
+    "ukphone": "pre'mɪs",
+    "e_mean": [
+      "a statement that is held to be true"
+    ],
+    "speech": "noun",
+    "sentence": "trespass on another’s premises"
+  },
+  {
+    "name": "priority",
+    "trans": [
+      "优先， 重点； 优先考虑的事"
+    ],
+    "usphone": "praɪ'ɔrəti",
+    "ukphone": "praɪ'ɒrəti",
+    "e_mean": [
+      "status established in order of importance or urgency"
+    ],
+    "speech": "noun",
+    "sentence": "He set his e-mail message's priority to high."
+  },
+  {
+    "name": "solidarity",
+    "trans": [
+      "团结， 一致"
+    ],
+    "usphone": ",sɑlɪ'dærəti",
+    "ukphone": "ˌsɒlɪ'dærəti",
+    "e_mean": [
+      "a union of interests or purposes among members of a group"
+    ],
+    "speech": "noun",
+    "sentence": "A long time union member himself, Phil showed solidarity with the picketing grocery store workers by shopping at a competing, unionized store."
+  },
+  {
+    "name": "curiosity",
+    "trans": [
+      "好奇， 好奇心； 稀奇或罕见的事物或人， 古玩"
+    ],
+    "usphone": ",kjʊrɪ'ɑsəti",
+    "ukphone": "ˌkjuəri'ɒsəti",
+    "e_mean": [
+      "a state in which you want to learn more about something"
+    ],
+    "speech": "noun",
+    "sentence": "He put the strangely shaped rock in his curiosity cabinet."
+  },
+  {
+    "name": "resent",
+    "trans": [
+      "愤恨； 对…表示愤恨， 感到气愤"
+    ],
+    "usphone": "rɪ'zɛnt",
+    "ukphone": "rɪ'zent",
+    "e_mean": [
+      "feel bitter or indignant about"
+    ],
+    "speech": "verb",
+    "sentence": "The bride greatly resented being left at the church."
+  },
+  {
+    "name": "smear",
+    "trans": [
+      "胡乱涂抹；弄脏，弄污；诽谤，诋毁；变得模糊不清，"
+    ],
+    "usphone": "smɪr",
+    "ukphone": "smɪə(r)",
+    "e_mean": [
+      "smudge or soil by smudging"
+    ],
+    "speech": "verb",
+    "sentence": "This detergent cleans windows without leaving smears."
+  },
+  {
+    "name": "staff",
+    "trans": [
+      "全体职工，工作人员；棒；全体参谋人员",
+      "为…配备人员； 任职于"
+    ],
+    "usphone": "stæf",
+    "ukphone": "stɑːf",
+    "e_mean": [
+      "a strong rod or stick with a specialized utilitarian purpose"
+    ],
+    "speech": "noun",
+    "sentence": "The company employed 10 new members of staff this month."
+  },
+  {
+    "name": "menace",
+    "trans": [
+      "威胁；危险的人",
+      "威胁到， 危及"
+    ],
+    "usphone": "'mɛnəs",
+    "ukphone": "'menəs",
+    "e_mean": [
+      "something that is a source of danger"
+    ],
+    "speech": "noun",
+    "sentence": "to menace a country with war"
+  },
+  {
+    "name": "grudge",
+    "trans": [
+      "不满，积怨，"
+    ],
+    "usphone": "ɡrʌdʒ",
+    "ukphone": "grʌdʒ",
+    "e_mean": [
+      "a resentment strong enough to justify retaliation"
+    ],
+    "speech": "noun",
+    "sentence": "to have/hold/bear a grudge against someone"
+  },
+  {
+    "name": "recognition",
+    "trans": [
+      "识别； 认出； 承认， 确认， 认可； 赏识， 表彰"
+    ],
+    "usphone": ",rɛkəɡ'nɪʃən",
+    "ukphone": "ˌrekəg'nɪʃn",
+    "e_mean": [
+      "identifying something or someone by remembering"
+    ],
+    "speech": "noun",
+    "sentence": "He looked at her for ten full minutes before recognition dawned."
+  },
+  {
+    "name": "conceive",
+    "trans": [
+      "想出， 构想， 设想； 怀孕"
+    ],
+    "usphone": "kən'siv",
+    "ukphone": "kən'siːv",
+    "e_mean": [
+      "have the idea for"
+    ],
+    "speech": "verb",
+    "sentence": "Assisted procreation can help those trying to conceive."
+  },
+  {
+    "name": "taunt",
+    "trans": [
+      "嘲笑，讥笑"
+    ],
+    "usphone": "tɔnt",
+    "ukphone": "tɔːnt",
+    "e_mean": [
+      "harass with persistent criticism or carping"
+    ],
+    "speech": "verb",
+    "sentence": "a ship with taunt masts"
+  },
+  {
+    "name": "migration",
+    "trans": [
+      "迁徙， 移居， 移民"
+    ],
+    "usphone": "maɪ'ɡreʃən",
+    "ukphone": "maɪ'greɪʃn",
+    "e_mean": [
+      "the movement of persons from one locality to another"
+    ],
+    "speech": "noun",
+    "sentence": "The migration of lead from a can to the food inside it can cause lead poisoning."
+  },
+  {
+    "name": "sheer",
+    "trans": [
+      "十足的； 纯粹的 ； 陡峭的"
+    ],
+    "usphone": "ʃɪr",
+    "ukphone": "ʃɪə(r)",
+    "e_mean": [
+      "so thin as to transmit light"
+    ],
+    "speech": "adjective",
+    "sentence": "Use sheers to maximize natural light."
+  },
+  {
+    "name": "miracle",
+    "trans": [
+      "奇迹； 奇事"
+    ],
+    "usphone": "'mɪrəkl",
+    "ukphone": "'mɪrəkl",
+    "e_mean": [
+      "a marvelous event brought about by a divine being"
+    ],
+    "speech": "noun",
+    "sentence": "An example of a miracle associated with Muhammad is the splitting of the moon."
+  },
+  {
+    "name": "imitation",
+    "trans": [
+      "模仿； 仿造； 仿制品， 假货， 赝品"
+    ],
+    "usphone": ",ɪmɪ'teʃən",
+    "ukphone": "ˌɪmɪ'teɪʃn",
+    "e_mean": [
+      "copying the actions of someone else"
+    ],
+    "speech": "noun",
+    "sentence": "imitation leather"
+  },
+  {
+    "name": "bore",
+    "trans": [
+      "使厌烦；钻孔",
+      "令人讨厌的人"
+    ],
+    "usphone": "bɔr",
+    "ukphone": "bɔː(r)",
+    "e_mean": [
+      "make a hole, especially with a pointed power or hand tool"
+    ],
+    "speech": "verb",
+    "sentence": "the bore of a cannon"
+  },
+  {
+    "name": "reliance",
+    "trans": [
+      "依靠， 依赖"
+    ],
+    "usphone": "rɪ'laɪəns",
+    "ukphone": "rɪ'laɪəns",
+    "e_mean": [
+      "the state of depending on something"
+    ],
+    "speech": "noun",
+    "sentence": "Your reliance on his expertise may be misplaced."
+  },
+  {
+    "name": "hassle",
+    "trans": [
+      "困难， 麻烦； 分歧， 争论"
+    ],
+    "usphone": "'hæsl",
+    "ukphone": "'hæsl",
+    "e_mean": [
+      "disorderly fighting"
+    ],
+    "speech": "noun",
+    "sentence": "I went through a lot of hassle to be the first to get a ticket."
+  },
+  {
+    "name": "vile",
+    "trans": [
+      "糟糕透顶的， 可恶的； 恶劣的， 卑鄙的"
+    ],
+    "usphone": "vaɪl",
+    "ukphone": "vaɪl",
+    "e_mean": [
+      "morally reprehensible"
+    ],
+    "speech": "adjective",
+    "sentence": "I glimpsed a vile squid-like creature in the depths."
+  },
+  {
+    "name": "frown",
+    "trans": [
+      "皱眉"
+    ],
+    "usphone": "fraʊn",
+    "ukphone": "fraun",
+    "e_mean": [
+      "a facial expression of dislike or displeasure"
+    ],
+    "speech": "noun",
+    "sentence": "She frowned when I told her the news."
+  },
+  {
+    "name": "favour",
+    "trans": [
+      "帮忙；偏爱；赞同；恩惠",
+      "赞同； 较喜欢， 偏袒； 有利于"
+    ],
+    "usphone": "ˈfevɚ",
+    "ukphone": "'feɪvə(r)",
+    "e_mean": [
+      "an act of gracious kindness"
+    ],
+    "speech": "noun",
+    "sentence": "He did me a favor when he took the time to drive me home."
+  },
+  {
+    "name": "irritation",
+    "trans": [
+      "激怒， 恼怒； 刺激物， 恼人的事"
+    ],
+    "usphone": ",ɪrə'teʃən",
+    "ukphone": "ˌɪrɪ'teɪʃn",
+    "e_mean": [
+      "something that causes annoyance or trouble"
+    ],
+    "speech": "noun",
+    "sentence": "What irritation causes you to be so moody?"
+  },
+  {
+    "name": "embrace",
+    "trans": [
+      "拥抱； 包括； 欣然接受"
+    ],
+    "usphone": "ɪm'bres",
+    "ukphone": "ɪm'breɪs",
+    "e_mean": [
+      "squeeze tightly in your arms, usually with fondness"
+    ],
+    "speech": "verb",
+    "sentence": "I wholeheartedly embrace the new legislation."
+  },
+  {
+    "name": "mutual",
+    "trans": [
+      "相互的； 共同的"
+    ],
+    "usphone": "'mjutʃuəl",
+    "ukphone": "'mjuːtʃuəl",
+    "e_mean": [
+      "common to or shared by two or more parties"
+    ],
+    "speech": "adjective",
+    "sentence": "They were mutual enemies."
+  },
+  {
+    "name": "therefore",
+    "trans": [
+      "因此， 所以"
+    ],
+    "usphone": "'ðɛrfɔr",
+    "ukphone": "'ðeəfɔː(r)",
+    "e_mean": [
+      "as a result; from that fact or reason"
+    ],
+    "speech": "adverb",
+    "sentence": "Traditional values will always have a place, therefore they will never lose relevance."
+  },
+  {
+    "name": "hesitate",
+    "trans": [
+      "犹豫； 不情愿"
+    ],
+    "usphone": "ˈhɛzətet",
+    "ukphone": "'hezɪteɪt",
+    "e_mean": [
+      "pause or hold back in uncertainty or unwillingness"
+    ],
+    "speech": "verb",
+    "sentence": "He hesitated whether to accept the offer or not; men often hesitate in forming a judgment."
+  },
+  {
+    "name": "benevolent",
+    "trans": [
+      "善心的， 仁心的"
+    ],
+    "usphone": "bə'nɛvələnt",
+    "ukphone": "bə'nevələnt",
+    "e_mean": [
+      "showing or motivated by sympathy and understanding"
+    ],
+    "speech": "adjective",
+    "sentence": "Chinese and Eastern mythologies describe dragons as benevolent."
+  },
+  {
+    "name": "blonde",
+    "trans": [
+      "白肤金发碧眼的",
+      "白肤金发碧眼的女人"
+    ],
+    "usphone": "blɑnd",
+    "ukphone": "blɒnd",
+    "e_mean": [
+      "being or having light hair"
+    ],
+    "speech": "adjective",
+    "sentence": "blond ale"
+  },
+  {
+    "name": "disdain",
+    "trans": [
+      "鄙视， 蔑视"
+    ],
+    "usphone": "dɪs'den",
+    "ukphone": "dɪs'deɪn",
+    "e_mean": [
+      "lack of respect accompanied by a feeling of intense dislike"
+    ],
+    "speech": "noun",
+    "sentence": "The cat viewed the cheap supermarket catfood with disdain and stalked away."
+  },
+  {
+    "name": "advice",
+    "trans": [
+      "劝告， 忠告； 建议， 意见"
+    ],
+    "usphone": "ədˈvaɪs",
+    "ukphone": "əd'vaɪs",
+    "e_mean": [
+      "a proposal for an appropriate course of action"
+    ],
+    "speech": "noun",
+    "sentence": "She was offered various piece of advice on what to do with her new-found wealth."
+  },
+  {
+    "name": "frequent",
+    "trans": [
+      "频繁的， 常见的， 常用的"
+    ],
+    "usphone": "'frikwənt",
+    "ukphone": "'friːkwənt",
+    "e_mean": [
+      "coming at short intervals or habitually"
+    ],
+    "speech": "adjective",
+    "sentence": "I am a frequent visitor to that city."
+  },
+  {
+    "name": "membership",
+    "trans": [
+      "会员身份； 全体会员"
+    ],
+    "usphone": "'mɛmbɚʃɪp",
+    "ukphone": "'membəʃɪp",
+    "e_mean": [
+      "the state of being one of the persons in a social group"
+    ],
+    "speech": "noun",
+    "sentence": "He has memberships in clubs in three cities."
+  },
+  {
+    "name": "jealous",
+    "trans": [
+      "嫉妒的； 猜疑的"
+    ],
+    "usphone": "'dʒɛləs",
+    "ukphone": "'dʒeləs",
+    "e_mean": [
+      "suspicious or fearful of being displaced by a rival"
+    ],
+    "speech": "adjective",
+    "sentence": "For you must not worship any other god, for the Lord, whose name is Jehovah, is a jealous God. —Exodus 34:14 (NET)"
+  },
+  {
+    "name": "spite",
+    "trans": [
+      "恶意， 怨恨"
+    ],
+    "usphone": "spaɪt",
+    "ukphone": "spaɪt",
+    "e_mean": [
+      "meanness or nastiness"
+    ],
+    "speech": "noun",
+    "sentence": "He was so filled with spite for his ex-wife, he could not hold down a job."
+  },
+  {
+    "name": "wonder",
+    "trans": [
+      "诧异，奇怪；纳闷，"
+    ],
+    "usphone": "'wʌndɚ",
+    "ukphone": "'wʌndə(r)",
+    "e_mean": [
+      "the feeling aroused by something strange and surprising"
+    ],
+    "speech": "noun",
+    "sentence": "Wonders of the World seem to come in sevens."
+  },
+  {
+    "name": "cosset",
+    "trans": [
+      "宠爱，"
+    ],
+    "usphone": "'kɑsɪt",
+    "ukphone": "'kɒsɪt",
+    "e_mean": [
+      "treat with excessive indulgence"
+    ],
+    "speech": "verb",
+    "sentence": "The car cossets its occupants in comfort."
+  },
+  {
+    "name": "parental",
+    "trans": [
+      "父的； 母的； 父母的"
+    ],
+    "usphone": "pə'rɛntl",
+    "ukphone": "pə'rentl",
+    "e_mean": [
+      "relating to or characteristic of or befitting a parent"
+    ],
+    "speech": "adjective",
+    "sentence": "Nowadays there are all kinds of potential parentals besides parents, grandparents, aunts and uncles, step-parents, in-laws, older siblings and cousins, and those in civil unions."
+  },
+  {
+    "name": "shrewd",
+    "trans": [
+      "机灵的； 精明的"
+    ],
+    "usphone": "ʃrud",
+    "ukphone": "ʃruːd",
+    "e_mean": [
+      "marked by practical hardheaded intelligence"
+    ],
+    "speech": "adjective",
+    "sentence": "a shrewd guess"
+  },
+  {
+    "name": "baffle",
+    "trans": [
+      "使困惑，难倒",
+      "挡板， 隔板"
+    ],
+    "usphone": "'bæfl",
+    "ukphone": "'bæfl",
+    "e_mean": [
+      "be a mystery or bewildering to"
+    ],
+    "speech": "verb",
+    "sentence": "Tanker trucks use baffles to keep the liquids inside from sloshing around."
+  },
+  {
+    "name": "recognize",
+    "trans": [
+      "认出； 承认， 认可"
+    ],
+    "usphone": "ˈrɛkəɡˌnaɪz",
+    "ukphone": "'rekəgnaɪz",
+    "e_mean": [
+      "perceive to be something or something you can identify"
+    ],
+    "speech": "verb",
+    "sentence": "I recognised his face immediately."
+  },
+  {
+    "name": "sociable",
+    "trans": [
+      "友善的， 友好的； 好交际的， 合群的"
+    ],
+    "usphone": "'soʃəbl",
+    "ukphone": "'səuʃəbl",
+    "e_mean": [
+      "inclined to or conducive to companionship with others"
+    ],
+    "speech": "adjective",
+    "sentence": "He's normally pretty quiet, but he gets much more sociable around women."
+  },
+  {
+    "name": "intent",
+    "trans": [
+      "专心的， 专注的； 急切的",
+      "意图，意向，目的"
+    ],
+    "usphone": "ɪn'tɛnt",
+    "ukphone": "ɪn'tent",
+    "e_mean": [
+      "an anticipated outcome that guides your planned actions"
+    ],
+    "speech": "noun",
+    "sentence": "a mind intent on self-improvement"
+  },
+  {
+    "name": "cosy",
+    "trans": [
+      "舒适的， 安逸的"
+    ],
+    "usphone": "ˈkozi",
+    "ukphone": "'kəuzi",
+    "e_mean": [
+      "enjoying or affording comforting warmth and shelter especially in a small space"
+    ],
+    "speech": "adjective",
+    "sentence": "He spent all day cosying up to the new boss, hoping for a plum assignment."
+  },
+  {
+    "name": "intend",
+    "trans": [
+      "想要， 打算"
+    ],
+    "usphone": "ɪn'tɛnd",
+    "ukphone": "ɪn'tend",
+    "e_mean": [
+      "have in mind as a purpose"
+    ],
+    "speech": "verb",
+    "sentence": "He intends to go to university."
+  },
+  {
+    "name": "snap",
+    "trans": [
+      "咔嚓折断，啪地绷断；打开；咬；厉声说话，怒声责斥",
+      "突然的， 匆忙的",
+      "咔嚓声"
+    ],
+    "usphone": "snæp",
+    "ukphone": "snæp",
+    "e_mean": [
+      "separate or cause to separate abruptly"
+    ],
+    "speech": "verb",
+    "sentence": "We took a few snaps of the old church before moving on."
+  },
+  {
+    "name": "flicker",
+    "trans": [
+      "闪烁； 一闪而过"
+    ],
+    "usphone": "'flɪkɚ",
+    "ukphone": "'flɪkə(r)",
+    "e_mean": [
+      "flash intermittently"
+    ],
+    "speech": "verb",
+    "sentence": "the flicker of a poorly tuned television set"
+  },
+  {
+    "name": "numerous",
+    "trans": [
+      "众多的"
+    ],
+    "usphone": "'numərəs",
+    "ukphone": "'njuːmərəs",
+    "e_mean": [
+      "amounting to a large indefinite number"
+    ],
+    "speech": "adjective",
+    "sentence": "There are numerous definitions of the word 'man'."
+  },
+  {
+    "name": "resemble",
+    "trans": [
+      "与…相似， 像"
+    ],
+    "usphone": "rɪ'zɛmbl",
+    "ukphone": "rɪ'zembl",
+    "e_mean": [
+      "be similar or bear a likeness to"
+    ],
+    "speech": "verb",
+    "sentence": "The twins resemble each other."
+  },
+  {
+    "name": "abide",
+    "trans": [
+      "停留， 逗留； 容忍， 忍受"
+    ],
+    "usphone": "ə'baɪd",
+    "ukphone": "ə'baɪd",
+    "e_mean": [
+      "dwell"
+    ],
+    "speech": "verb",
+    "sentence": "The old oak tree abides the wind endlessly."
+  },
+  {
+    "name": "privacy",
+    "trans": [
+      "隐私， 私事； 隐私权"
+    ],
+    "usphone": "'praɪvəsi",
+    "ukphone": "'prɪvəsi",
+    "e_mean": [
+      "the condition of being concealed or hidden"
+    ],
+    "speech": "noun",
+    "sentence": "I need my privacy, so please stay out of my room."
+  },
+  {
+    "name": "frustrating",
+    "trans": [
+      "令人泄气的， 使人沮丧的"
+    ],
+    "usphone": "'frʌstretɪŋ",
+    "ukphone": "frʌ'streɪtɪŋ",
+    "e_mean": [
+      "preventing realization or attainment of a desire"
+    ],
+    "speech": "adjective",
+    "sentence": "It frustrates me to do all this work and then lose it all."
+  },
+  {
+    "name": "misconception",
+    "trans": [
+      "误解， 错误想法"
+    ],
+    "usphone": "'mɪskən'sɛpʃən",
+    "ukphone": "ˌmɪskən'sepʃn",
+    "e_mean": [
+      "an incorrect assumption"
+    ],
+    "speech": "noun",
+    "sentence": "He had the misconception that the word \"misconception\" meant becoming pregnant with a girl."
+  },
+  {
+    "name": "acquaint",
+    "trans": [
+      "认识； 熟悉"
+    ],
+    "usphone": "ə'kwent",
+    "ukphone": "ə'kweɪnt",
+    "e_mean": [
+      "cause to come to know personally"
+    ],
+    "speech": "verb",
+    "sentence": "I think you should acquaint him with the realities of the situation."
+  },
+  {
+    "name": "metaphor",
+    "trans": [
+      "隐喻， 暗喻"
+    ],
+    "usphone": "'mɛtəfɚ",
+    "ukphone": "'metəfə(r)",
+    "e_mean": [
+      "a figure of speech that suggests a non-literal similarity"
+    ],
+    "speech": "noun",
+    "sentence": "desktop metaphor; wastebasket metaphor"
+  },
+  {
+    "name": "forth",
+    "trans": [
+      "离去， 外出； 向前； 向某处"
+    ],
+    "usphone": "fɔrθ",
+    "ukphone": "fɔːθ",
+    "e_mean": [
+      "forward in time, order, or degree"
+    ],
+    "speech": "adverb",
+    "sentence": "The plants in spring put forth leaves."
+  },
+  {
+    "name": "seduce",
+    "trans": [
+      "勾引， 引诱； 诱使， 唆使"
+    ],
+    "usphone": "sɪ'dʊs",
+    "ukphone": "sɪ'djuːs",
+    "e_mean": [
+      "lure or entice away from duty, principles, or proper conduct"
+    ],
+    "speech": "verb",
+    "sentence": "He had repeatedly seduced the girl in his car, hotels and his home."
+  },
+  {
+    "name": "relation",
+    "trans": [
+      "关系， 联系； 亲属， 亲戚"
+    ],
+    "usphone": "rɪ'leʃən",
+    "ukphone": "rɪ'leɪʃn",
+    "e_mean": [
+      "the state or quality of having something in common"
+    ],
+    "speech": "noun",
+    "sentence": "The relation between diet and health is complex."
+  },
+  {
+    "name": "bother",
+    "trans": [
+      "打扰，烦扰；烦恼，操心",
+      "麻烦， 烦扰"
+    ],
+    "usphone": "'bɑðɚ",
+    "ukphone": "'bɒðə(r)",
+    "e_mean": [
+      "disturb, especially by minor irritations"
+    ],
+    "speech": "verb",
+    "sentence": "There was a bit of bother at the hairdresser's when they couldn't find my appointment in the book."
+  },
+  {
+    "name": "landlord",
+    "trans": [
+      "n. 房东，地主；<英>（客栈、酒吧或出租公寓的）店主，老板"
+    ],
+    "usphone": "ˈlændlɔːrd",
+    "ukphone": "ˈlændlɔːrd",
+    "e_mean": [
+      "a property owner who leases property or housing to others"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tenant",
+    "trans": [
+      "n. 房客，租户；<法律>业主",
+      "v. （作为租赁者）居住，工作"
+    ],
+    "usphone": "ˈtenənt",
+    "ukphone": "'tenənt",
+    "e_mean": [
+      "someone who pays rent to use property owned by someone else"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "client",
+    "trans": [
+      "n. 客户，委托人；客户机，用户端；（古罗马）贵族庇护下的平民；<古>受赡养者，食客 "
+    ],
+    "usphone": "ˈklaɪənt",
+    "ukphone": "'klaɪənt",
+    "e_mean": [
+      "someone who pays for goods or services"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sole",
+    "trans": [
+      "adj. 唯一的，仅有的；专用的，独享的；<古>（尤指女性）未婚的；<古>单独的，没人陪伴的",
+      "n. 脚底；鞋底（不包括后跟）；脚趾和脚弓之间的部分；（刨子等工具的）底部，（高尔夫球棒头的）底端；（船舱或驾驶室的）地面，地板；鳎（鱼）； 脚底",
+      "v. 给（鞋）换底"
+    ],
+    "usphone": "soʊl",
+    "ukphone": "səul",
+    "e_mean": [
+      "the underside of the foot"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "individual",
+    "trans": [
+      "adj. 单独的，个别的；个人的；独特的，与众不同的",
+      "n. 个人，个体；与众不同的人，有个性的人；某种类型的人"
+    ],
+    "usphone": "ˌɪndɪˈvɪdʒuəl",
+    "ukphone": "ˌɪndɪ'vɪdʒuəl",
+    "e_mean": [
+      "being or characteristic of a single thing or person"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "commuter",
+    "trans": [
+      "n. 上下班往返的人,通勤者"
+    ],
+    "usphone": "kəˈmjuːtər",
+    "ukphone": "kəˈmjuːtər",
+    "e_mean": [
+      "someone who travels regularly to and from work"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pioneer",
+    "trans": [
+      "n. 拓荒者；先锋；（前苏联等共产党国家的）少年先锋队队员；（先头部队的）工兵；",
+      "adj. 先驱的；拓荒的",
+      "v. 做先锋，倡导；开辟（道路）"
+    ],
+    "usphone": "ˌpaɪəˈnɪr",
+    "ukphone": "ˌpaɪəˈnɪr",
+    "e_mean": [
+      "one the first colonists or settlers in a new territory"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "prophet",
+    "trans": [
+      "n. （基督教、犹太教、伊斯兰教等的）先知；预言家；提倡者，拥护者；穆罕默德（the Prophet，伊斯兰教创始人）；犹太教诸先知，"
+    ],
+    "usphone": "ˈprɑːfɪt",
+    "ukphone": "ˈprɒfɪt",
+    "e_mean": [
+      "someone who speaks by divine inspiration"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "heir",
+    "trans": [
+      "n. 继承人，子嗣；接班人",
+      "v. 继承"
+    ],
+    "usphone": "er",
+    "ukphone": "eə(r)",
+    "e_mean": [
+      "a person entitled by law to inherit the estate of another"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "surname",
+    "trans": [
+      "n. 姓；绰号，别名",
+      "v. 给······姓氏，给······起别名"
+    ],
+    "usphone": "ˈsɜːrneɪm",
+    "ukphone": "ˈsɜːrneɪm",
+    "e_mean": [
+      "the name used to identify the members of a family"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "grandfather",
+    "trans": [
+      "祖父"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the father of your father or mother"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "father-in-law",
+    "trans": [
+      "岳父，公公"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the father of your spouse"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "nephew",
+    "trans": [
+      "侄子，外甥"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a son of your sibling"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "partner",
+    "trans": [
+      "合伙人，搭档"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person who is a member of a cooperative relationship"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "heroine",
+    "trans": [
+      "女主角，女英雄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the main good female character in a work of fiction"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "director",
+    "trans": [
+      "主管，理事，导演"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "someone who manages an organization"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "proponent",
+    "trans": [
+      "拥护者，支持者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person who argues for a cause or puts forward an idea"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "committee",
+    "trans": [
+      "委员会， 全体委员"
+    ],
+    "usphone": "kə'mɪti",
+    "ukphone": "kə'mɪti",
+    "e_mean": [
+      "a special group delegated to consider some matter"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "council",
+    "trans": [
+      "理事会， 委员会"
+    ],
+    "usphone": "'kaʊnsl",
+    "ukphone": "'kaunsl",
+    "e_mean": [
+      "a body serving in an administrative capacity"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "embryo",
+    "trans": [
+      "胚， 胚胎； 事物的萌芽期"
+    ],
+    "usphone": "'ɛmbrɪo",
+    "ukphone": "'embriəu",
+    "e_mean": [
+      "an animal organism in the early stages of growth"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "infant",
+    "trans": [
+      "婴儿；供婴儿用的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a very young child who has not yet begun to walk or talk"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "juvenile",
+    "trans": [
+      "少年的，少年特有的；幼稚的，不成熟的",
+      "未成年人， 少年"
+    ],
+    "usphone": "'dʒʊvənaɪl",
+    "ukphone": "'dʒuːvənaɪl",
+    "e_mean": [
+      "of or relating to children or young people"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "youngster",
+    "trans": [
+      "年轻人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a young person of either sex"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "beloved",
+    "trans": [
+      "爱人；深受喜爱的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "dearly loved"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "landlady",
+    "trans": [
+      "女房东，女地主"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a landlord who is a woman"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "widow",
+    "trans": [
+      "寡妇"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a woman whose husband is dead, especially if not remarried"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "maid",
+    "trans": [
+      "女佣，女仆，少女"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a female domestic"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "delegate",
+    "trans": [
+      "代表；授权"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person appointed or elected to represent others"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "consultant",
+    "trans": [
+      "顾问； 专科医生"
+    ],
+    "usphone": "kən'sʌltənt",
+    "ukphone": "kən'sʌltənt",
+    "e_mean": [
+      "an expert who gives advice"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "veterinary",
+    "trans": [
+      "兽医的"
+    ],
+    "usphone": "'vɛtərənɛri",
+    "ukphone": "'vetnri",
+    "e_mean": [
+      "of or relating to veterinarians or veterinary medicine"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "counsellor",
+    "trans": [
+      "顾问， 辅导顾问"
+    ],
+    "usphone": "'kaʊnsəlɚ",
+    "ukphone": "'kaunsələ(r)",
+    "e_mean": [
+      "someone who gives advice about problems"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "solicitor",
+    "trans": [
+      "法务官； 初级律师， 事务律师"
+    ],
+    "usphone": "sə'lɪsɪtɚ",
+    "ukphone": "sə'lɪsɪtə(r)",
+    "e_mean": [
+      "a British lawyer who gives legal advice "
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "attorney",
+    "trans": [
+      "律师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a professional person authorized to practice law"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cashier",
+    "trans": [
+      "出纳员，收银员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person responsible for receiving payments for goods"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "barber",
+    "trans": [
+      "理发师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a hairdresser who cuts hair and shaves beards as a trade"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "haircut",
+    "trans": [
+      "理发"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the act of cutting the hair"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "hostage",
+    "trans": [
+      "人质。ransom赎金"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a prisoner held to insure that another party will meet terms"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "toil",
+    "trans": [
+      "苦工/活,圈套;辛勤劳作/苦干"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "work hard"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "coward",
+    "trans": [
+      "懦夫，胆小鬼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person who shows fear or timidity"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "predispose",
+    "trans": [
+      "事先影响某人； 偏爱； 易受感染"
+    ],
+    "usphone": "'pridɪ'spoz",
+    "ukphone": "ˌpriːdɪ'spəuz",
+    "e_mean": [
+      "make susceptible"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "convection",
+    "trans": [
+      "传送； 对流"
+    ],
+    "usphone": "kən'vɛkʃən",
+    "ukphone": "kən'vekʃn",
+    "e_mean": [
+      "transfer of heat caused by molecular motion in liquid or gas"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "overrate",
+    "trans": [
+      "对…评价过高， 高估"
+    ],
+    "usphone": ",ovɚ'ret",
+    "ukphone": "ˌəuvə'reɪt",
+    "e_mean": [
+      "make too high an estimate of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "meanwhile",
+    "trans": [
+      "与此同时"
+    ],
+    "usphone": "'minwaɪl",
+    "ukphone": "'miːnwaɪl",
+    "e_mean": [
+      "at the same time but in another place"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "strategist",
+    "trans": [
+      "战略家"
+    ],
+    "usphone": "'strætədʒɪst",
+    "ukphone": "'strætədʒɪst",
+    "e_mean": [
+      "an expert in systematic plans of action "
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "notable",
+    "trans": [
+      "值得注意的；显著的，杰出的，显赫的",
+      "名人， 要人"
+    ],
+    "usphone": "'notəbl",
+    "ukphone": "'nəutəbl",
+    "e_mean": [
+      "worthy of attention or interest"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "rendition",
+    "trans": [
+      "表演， 扮演， 演唱； 翻译； 视觉再现"
+    ],
+    "usphone": "rɛn'dɪʃən",
+    "ukphone": "ren'dɪʃn",
+    "e_mean": [
+      "a performance of a musical composition or a dramatic role"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "inflammable",
+    "trans": [
+      "易燃的； 易怒的"
+    ],
+    "usphone": "ɪn'flæməbl",
+    "ukphone": "ɪn'flæməbl",
+    "e_mean": [
+      "easily ignited"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "incinerate",
+    "trans": [
+      "焚化， 焚毁， 把…烧成灰烬"
+    ],
+    "usphone": "in'sinəreit",
+    "ukphone": "ɪn'sɪnəreɪt",
+    "e_mean": [
+      "become reduced to ashes"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "superstitious",
+    "trans": [
+      "迷信的； 根据迷信的， 由迷信引起的； 受迷信思想支配的"
+    ],
+    "usphone": "'sʊpɚ'stɪʃəs",
+    "ukphone": "ˌsuːpə'stɪʃəs",
+    "e_mean": [
+      "showing faith in magic and ignorance of the laws of nature"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "embody",
+    "trans": [
+      "表达， 体现； 具体表现， 使具体化； 包括， 包含"
+    ],
+    "usphone": "ɪm'bɑdi",
+    "ukphone": "ɪm'bɒdi",
+    "e_mean": [
+      "represent in physical form"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "orientate",
+    "trans": [
+      "使适应， 使熟悉情况； 给…定位， 给…定向； 使朝向； 转至特定方向； 适应"
+    ],
+    "usphone": "'orɪɛntet",
+    "ukphone": "'ɔːriənteɪt",
+    "e_mean": [
+      "determine one's position with reference to another point"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "motive",
+    "trans": [
+      "动机， 目的"
+    ],
+    "usphone": "'motɪv",
+    "ukphone": "'məutɪv",
+    "e_mean": [
+      "the reason that arouses action toward a desired goal"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "envisage",
+    "trans": [
+      "展望， 想象； 面对"
+    ],
+    "usphone": "ɪn'vɪzɪdʒ",
+    "ukphone": "ɪn'vɪzɪdʒ",
+    "e_mean": [
+      "form a mental image of something that is not present"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "infirmity",
+    "trans": [
+      "虚弱， 衰弱"
+    ],
+    "usphone": "ɪn'fɝməti",
+    "ukphone": "ɪn'fɜːməti",
+    "e_mean": [
+      "the state of being weak in health or body"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "compatriot",
+    "trans": [
+      "同胞； 同国人"
+    ],
+    "usphone": "kəm'petɪət",
+    "ukphone": "kəm'pætriət",
+    "e_mean": [
+      "a person from your own country"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cooperation",
+    "trans": [
+      "合作， 协作； 配合"
+    ],
+    "usphone": "ko,ɑpə'reʃən",
+    "ukphone": "kəuˌɒpə'reɪʃn",
+    "e_mean": [
+      "the practice of working together on a common enterprise"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "malevolent",
+    "trans": [
+      "有恶意的； 恶毒的"
+    ],
+    "usphone": "mə'lɛvələnt",
+    "ukphone": "mə'levələnt",
+    "e_mean": [
+      "wishing or appearing to wish evil to others"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "calibre",
+    "trans": [
+      "质量， 才干， 能力； 口径"
+    ],
+    "usphone": "'kælibə",
+    "ukphone": "'kælɪbə(r)",
+    "e_mean": [
+      "diameter of a tube or gun barrel"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "undoubtedly",
+    "trans": [
+      "毋庸置疑地， 确凿地"
+    ],
+    "usphone": "ʌn'daʊtɪdli",
+    "ukphone": "ˌʌn'dautɪdli",
+    "e_mean": [
+      "certainly"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "extravagance",
+    "trans": [
+      "奢侈， 挥霍； 放肆的言行"
+    ],
+    "usphone": "ɪk'strævəɡəns",
+    "ukphone": "ɪk'strævəgəns",
+    "e_mean": [
+      "the quality of exceeding appropriate limits"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "censure",
+    "trans": [
+      "指责， 谴责， 责难"
+    ],
+    "usphone": "'sɛnʃɚ",
+    "ukphone": "'senʃə(r)",
+    "e_mean": [
+      "harsh criticism or disapproval"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mishandle",
+    "trans": [
+      "粗暴地对待； 错误地处理， 胡乱操作"
+    ],
+    "usphone": "'mɪs'hændl",
+    "ukphone": "ˌmɪs'hændl",
+    "e_mean": [
+      "manage badly or incompetently"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "detrimental",
+    "trans": [
+      "不利的， 有害的"
+    ],
+    "usphone": ",dɛtrɪ'mɛntl",
+    "ukphone": "ˌdetrɪ'mentl",
+    "e_mean": [
+      "causing harm or injury"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "inflate",
+    "trans": [
+      "使充气， 使膨胀； 使得意， 使骄傲； 抬高， 使膨胀"
+    ],
+    "usphone": "ɪn'flet",
+    "ukphone": "ɪn'fleɪt",
+    "e_mean": [
+      "fill with gas or air"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "cue",
+    "trans": [
+      "暗示， 提示"
+    ],
+    "usphone": "kju",
+    "ukphone": "kjuː",
+    "e_mean": [
+      "a reminder for some action or speech"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "facade",
+    "trans": [
+      "正面； 外表"
+    ],
+    "usphone": "",
+    "ukphone": "fə'sɑːd",
+    "e_mean": [
+      "the front of a building"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tedious",
+    "trans": [
+      "冗长乏味的， 单调的"
+    ],
+    "usphone": "'tidɪəs",
+    "ukphone": "'tiːdiəs",
+    "e_mean": [
+      "so lacking in interest as to cause mental weariness"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "initiate",
+    "trans": [
+      "开始， 创造， 发起； 接纳， 让…加入",
+      "加入组织者"
+    ],
+    "usphone": "ɪ'nɪʃɪet",
+    "ukphone": "ɪ'nɪʃɪeɪt",
+    "e_mean": [
+      "set in motion, start an event or prepare the way for"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "deception",
+    "trans": [
+      "欺骗； 诡计"
+    ],
+    "usphone": "dɪ'sɛpʃən",
+    "ukphone": "dɪ'sepʃn",
+    "e_mean": [
+      "a misleading falsehood"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "familiarise",
+    "trans": [
+      "使熟悉， 使通晓； 使家喻户晓"
+    ],
+    "usphone": "",
+    "ukphone": "fə'mɪliəraɪz",
+    "e_mean": [
+      "make familiar or conversant with"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "caustic",
+    "trans": [
+      "腐蚀性的； 讽刺的， 挖苦的",
+      "腐蚀剂"
+    ],
+    "usphone": "'kɔstɪk",
+    "ukphone": "'kɔːstɪk",
+    "e_mean": [
+      "capable of destroying or eating away by chemical action"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "refusal",
+    "trans": [
+      "拒绝"
+    ],
+    "usphone": "rɪ'fjuzl",
+    "ukphone": "rɪ'fjuːzl",
+    "e_mean": [
+      "the act of showing unwillingness"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "bypass",
+    "trans": [
+      "旁道",
+      "绕过"
+    ],
+    "usphone": "'baɪpæs",
+    "ukphone": "'baɪpɑːs",
+    "e_mean": [
+      "avoid something"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "optometrist",
+    "trans": [
+      "验光师， 视力测定者"
+    ],
+    "usphone": "ɑp'tɑmətrɪst",
+    "ukphone": "ɒp'tɒmətrɪst",
+    "e_mean": [
+      "a person skilled in testing for defects of vision"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "complementary",
+    "trans": [
+      "互补的； 补充的， 补足的"
+    ],
+    "usphone": "'kɑmplə'mɛntri",
+    "ukphone": "ˌkɒmplɪ'mentri",
+    "e_mean": [
+      "serving to fill out, enhance, or supply what is lacking"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "introspection",
+    "trans": [
+      "内省， 反省"
+    ],
+    "usphone": "'ɪntrə'spɛkʃən",
+    "ukphone": "ˌɪntrə'spekʃn",
+    "e_mean": [
+      "contemplation of your own thoughts and desires and conduct"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "Nordic",
+    "trans": [
+      "北欧人的； 北欧国家的"
+    ],
+    "usphone": "'nɔ:dik",
+    "ukphone": "'nɔːdɪk",
+    "e_mean": [
+      "relating to Germany and Scandinavia"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "merely",
+    "trans": [
+      "仅仅， 只不过"
+    ],
+    "usphone": "'mɪrli",
+    "ukphone": "'mɪəli",
+    "e_mean": [
+      "and nothing more"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "therapy",
+    "trans": [
+      "治疗， 疗法"
+    ],
+    "usphone": "'θɛrəpi",
+    "ukphone": "'θerəpi",
+    "e_mean": [
+      "the act of providing treatment for an illness or disorder"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "concentration",
+    "trans": [
+      "集中； 专心， 专注； 浓缩， 浓度"
+    ],
+    "usphone": "'kɑnsn'treʃən",
+    "ukphone": "ˌkɒnsn'treɪʃn",
+    "e_mean": [
+      "the spatial property of being crowded together"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "commiserate",
+    "trans": [
+      "同情， 怜悯"
+    ],
+    "usphone": "kə'mɪzəret",
+    "ukphone": "kə'mɪzəreɪt",
+    "e_mean": [
+      "feel or express sympathy or compassion"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "mime",
+    "trans": [
+      "模拟，模仿",
+      "哑剧表演； 哑剧演员"
+    ],
+    "usphone": "maɪm",
+    "ukphone": "maɪm",
+    "e_mean": [
+      "an actor who communicates entirely by gesture"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "underling",
+    "trans": [
+      "职位低的人， 下属"
+    ],
+    "usphone": "'ʌndɚlɪŋ",
+    "ukphone": "'ʌndəlɪŋ",
+    "e_mean": [
+      "an assistant subject to the authority or control of another"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "retailer",
+    "trans": [
+      "零售商人； 复述者， 传播者"
+    ],
+    "usphone": "'ri:teilə",
+    "ukphone": "'riːteɪlə(r)",
+    "e_mean": [
+      "a merchant who sells goods directly to consumers"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "retrenchment",
+    "trans": [
+      "节省； 削减"
+    ],
+    "usphone": "ri'trɛntʃmənt",
+    "ukphone": "rɪ'trentʃmənt",
+    "e_mean": [
+      "the reduction of expenditures in order to become financially stable"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "conviction",
+    "trans": [
+      "定罪； 坚信， 确信"
+    ],
+    "usphone": "kən'vɪkʃən",
+    "ukphone": "kən'vɪkʃn",
+    "e_mean": [
+      "an unshakable belief in something without need for proof"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sophisticate",
+    "trans": [
+      "久经世故的人； 精通者"
+    ],
+    "usphone": "sə'fɪstɪkɪt",
+    "ukphone": "sə'fɪstɪkeɪt",
+    "e_mean": [
+      "a person who is cultured and has worldly experience"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pretension",
+    "trans": [
+      "声称， 自命； 自负， 自命不凡"
+    ],
+    "usphone": "prɪ'tɛnʃən",
+    "ukphone": "prɪ'tenʃn",
+    "e_mean": [
+      "the advancing of a claim"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "leisure",
+    "trans": [
+      "空闲时间； 悠闲"
+    ],
+    "usphone": "'liʒɚ",
+    "ukphone": "'leʒə(r)",
+    "e_mean": [
+      "time available for ease and relaxation"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "self-esteem",
+    "trans": [
+      "自尊； 自负"
+    ],
+    "usphone": "ˌsɛlfəˈstim",
+    "ukphone": "ˌselfɪ'stiːm",
+    "e_mean": [
+      "a feeling of pride in yourself"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "arrangement",
+    "trans": [
+      "安排；"
+    ],
+    "usphone": "ə'rendʒmənt",
+    "ukphone": "ə'reɪndʒmənt",
+    "e_mean": [
+      "an orderly grouping considered as a unit"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "comprehension",
+    "trans": [
+      "理解； 理解力"
+    ],
+    "usphone": ",kɑmprɪ'hɛnʃən",
+    "ukphone": "ˌkɒmprɪ'henʃn",
+    "e_mean": [
+      "an ability to understand the meaning of something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "alchemist",
+    "trans": [
+      "炼金术士"
+    ],
+    "usphone": "'ælkəmɪst",
+    "ukphone": "'ælkəmɪst",
+    "e_mean": [
+      "one who tried to change ordinary metals into gold"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "disillusion",
+    "trans": [
+      "使醒悟"
+    ],
+    "usphone": ",dɪsɪ'luʒn",
+    "ukphone": "ˌdɪsɪ'luːʒn",
+    "e_mean": [
+      "the act of freeing from false belief"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "alienate",
+    "trans": [
+      "使疏远， 使不友好； 转让， 让渡"
+    ],
+    "usphone": "'eiljəneit",
+    "ukphone": "'eɪlɪəneɪt",
+    "e_mean": [
+      "arouse hostility or indifference in"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "compliment",
+    "trans": [
+      "赞美；"
+    ],
+    "usphone": "ˈkɑːmplɪmənt",
+    "ukphone": "'kɒmplɪment",
+    "e_mean": [
+      "a remark expressing praise and admiration"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "acrobat",
+    "trans": [
+      "特技演员； 杂技演员"
+    ],
+    "usphone": "'ækrəbæt",
+    "ukphone": "'ækrəbæt",
+    "e_mean": [
+      "an athlete who performs acts requiring skill and agility"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "consolation",
+    "trans": [
+      "安慰； 慰问"
+    ],
+    "usphone": "ˌkɑnsəˈleʃən",
+    "ukphone": "ˌkɒnsə'leɪʃn",
+    "e_mean": [
+      "the act of giving relief in affliction"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "participation",
+    "trans": [
+      "分享； 参与"
+    ],
+    "usphone": "pɑr,tɪsɪ'peʃən",
+    "ukphone": "pɑːˌtɪsɪ'peɪʃn",
+    "e_mean": [
+      "the act of sharing in the activities of a group"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "niggle",
+    "trans": [
+      "拘泥小节； 挑剔， 吹毛求疵； 为小事操心； 不断地烦扰"
+    ],
+    "usphone": "'nɪɡl",
+    "ukphone": "'nɪgl",
+    "e_mean": [
+      "worry unnecessarily or excessively"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "irresistible",
+    "trans": [
+      "无法抵抗的， 不能压制的； 不能自已的"
+    ],
+    "usphone": ",ɪrɪ'zɪstəbl",
+    "ukphone": "ˌɪrɪ'zɪstəbl",
+    "e_mean": [
+      "impossible to withstand; overpowering"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "judicious",
+    "trans": [
+      "明智的； 有见识的"
+    ],
+    "usphone": "dʒu'dɪʃəs",
+    "ukphone": "dʒu'dɪʃəs",
+    "e_mean": [
+      "marked by the exercise of common sense in practical matters"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "estrange",
+    "trans": [
+      "使疏远， 使分离"
+    ],
+    "usphone": "i'streindʒ",
+    "ukphone": "ɪ'streɪndʒ",
+    "e_mean": [
+      "remove from customary environment or associations"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "interact",
+    "trans": [
+      "相互作用； 相互影响"
+    ],
+    "usphone": ",ɪntɚ'ækt",
+    "ukphone": "ˌɪntər'ækt",
+    "e_mean": [
+      "do something together or with others"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "obsession",
+    "trans": [
+      "牵挂， 惦念； 迷住， 困扰； 萦绕于心的事物或人； 固执的念头"
+    ],
+    "usphone": "əb'sɛʃ(ə)n",
+    "ukphone": "əb'seʃn",
+    "e_mean": [
+      "an unhealthy and compulsive preoccupation with something"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sympathise",
+    "trans": [
+      "同情； 赞同"
+    ],
+    "usphone": "'simpəθaiz",
+    "ukphone": "'sɪmpəθaɪz",
+    "e_mean": [
+      "share the feelings of; understand the sentiments of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "sophisticated",
+    "trans": [
+      "老于世故的， 老练的； 精密的， 尖端的， 先进的； 复杂的； 高雅的， 有教养的"
+    ],
+    "usphone": "sə'fɪstɪketɪd",
+    "ukphone": "sə'fɪstɪkeɪtɪd",
+    "e_mean": [
+      "having worldly knowledge and refinement"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "alienation",
+    "trans": [
+      "疏远； 离间"
+    ],
+    "usphone": ",eiljə'neiʃən",
+    "ukphone": "ˌeɪliə'neɪʃn",
+    "e_mean": [
+      "the act of causing someone to become unfriendly or hostile"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "afflict",
+    "trans": [
+      "使苦恼； 折磨"
+    ],
+    "usphone": "ə'flɪkt",
+    "ukphone": "ə'flɪkt",
+    "e_mean": [
+      "cause physical pain or suffering in"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "cognition",
+    "trans": [
+      "感知， 认知； 认识力"
+    ],
+    "usphone": "kɑɡ'nɪʃən",
+    "ukphone": "kɒg'nɪʃn",
+    "e_mean": [
+      "the psychological result of perception and reasoning"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "confidence",
+    "trans": [
+      "信任； 信心"
+    ],
+    "usphone": "'kɑnfɪdəns",
+    "ukphone": "'kɒnfɪdəns",
+    "e_mean": [
+      "belief in yourself and your abilities"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "slander",
+    "trans": [
+      "诋毁，中伤，诽谤",
+      "诋毁， 诽谤"
+    ],
+    "usphone": "'slændɚ",
+    "ukphone": "'slɑːndə(r)",
+    "e_mean": [
+      "words falsely spoken that damage the reputation of another"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "perpetuate",
+    "trans": [
+      "使永存； 使持续"
+    ],
+    "usphone": "pɚ'pɛtʃuet",
+    "ukphone": "pə'petʃʊeɪt",
+    "e_mean": [
+      "cause to continue or prevail"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "naive",
+    "trans": [
+      "幼稚的， 天真的， 不成熟的"
+    ],
+    "usphone": "naɪ'iv",
+    "ukphone": "naɪ'iːv",
+    "e_mean": [
+      "marked by or showing unaffected simplicity"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "inhumane",
+    "trans": [
+      "不近人情的， 残忍的， 不人道的"
+    ],
+    "usphone": "'ɪnhjʊ'men",
+    "ukphone": "ˌɪnhjuː'meɪn",
+    "e_mean": [
+      "reflecting a lack of pity or compassion"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "manipulative",
+    "trans": [
+      "操纵别人的； 老于世故的"
+    ],
+    "usphone": "mə'nɪpjəletɪv",
+    "ukphone": "mə'nɪpjələtɪv",
+    "e_mean": [
+      "skillful in influencing others to one's own advantage"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "introvert",
+    "trans": [
+      "性格内向的人"
+    ],
+    "usphone": "'ɪntrəvɝt",
+    "ukphone": "'ɪntrəvɜːt",
+    "e_mean": [
+      " a person who tends to shrink from social contacts"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "relevance",
+    "trans": [
+      "中肯， 适当； 相关性"
+    ],
+    "usphone": "'rɛləvəns",
+    "ukphone": "'reləvəns",
+    "e_mean": [
+      "the relation of something to the matter at hand"
+    ],
+    "speech": "noun"
+  }
+]

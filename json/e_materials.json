@@ -1,0 +1,3691 @@
+[
+  {
+    "name": "sheet",
+    "trans": [
+      "被单,床单,一张(纸),薄板"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any broad thin expanse or surface"
+    ],
+    "speech": "noun",
+    "sentence": "Use the sheets in the hall closet to make the bed."
+  },
+  {
+    "name": "towel",
+    "trans": [
+      "毛巾，手巾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a rectangular piece of absorbent cloth for drying or wiping"
+    ],
+    "speech": "noun",
+    "sentence": "He got out of the shower and toweled himself dry."
+  },
+  {
+    "name": "staple",
+    "trans": [
+      "订书钉；主要部分"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "material suitable for manufacture or use or finishing"
+    ],
+    "speech": "noun",
+    "sentence": "Rice is a staple in the diet of many cultures."
+  },
+  {
+    "name": "nail",
+    "trans": [
+      "指甲；钉子(用钉子)钉住"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a thin pointed piece of metal that is hammered into materials as a fastener"
+    ],
+    "speech": "noun",
+    "sentence": "When I'm nervous I bite my nails."
+  },
+  {
+    "name": "fuse",
+    "trans": [
+      "因保险丝烧断而断电； 熔合； 熔化",
+      "保险丝"
+    ],
+    "usphone": "fjuz",
+    "ukphone": "fjuːz",
+    "e_mean": [
+      "any igniter used to initiate the burning of a propellant"
+    ],
+    "speech": "noun",
+    "sentence": "When talking about being laid off, he has a short fuse."
+  },
+  {
+    "name": "cable",
+    "trans": [
+      "发电报",
+      "缆绳；电缆；电报"
+    ],
+    "usphone": "'kebl",
+    "ukphone": "'keɪbl",
+    "e_mean": [
+      "a very strong thick rope made of twisted hemp or steel wire"
+    ],
+    "speech": "noun",
+    "sentence": "I tried to watch the movie last night but my cable was out."
+  },
+  {
+    "name": "pail",
+    "trans": [
+      "(金属或木制的)桶，提桶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a roughly cylindrical vessel that is open at the top"
+    ],
+    "speech": "noun",
+    "sentence": "The milkmaid carried a pail of milk in each hand."
+  },
+  {
+    "name": "bell",
+    "trans": [
+      "钟；铃.ringabell听起来有印象"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a hollow metal device that makes a ringing sound when struck"
+    ],
+    "speech": "noun",
+    "sentence": "I’ll give you a bell later."
+  },
+  {
+    "name": "portable",
+    "trans": [
+      "便于携带的； 手提式的"
+    ],
+    "usphone": "'pɔrtəbl",
+    "ukphone": "'pɔːtəbl",
+    "e_mean": [
+      "easily or conveniently transported"
+    ],
+    "speech": "adjective",
+    "sentence": "a portable pension plan"
+  },
+  {
+    "name": "spotlight",
+    "trans": [
+      "聚光灯；聚光灯照出的光圈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a lamp that produces a strong beam of light to illuminate a restricted area; used to focus attention of a stage performer"
+    ],
+    "speech": "noun",
+    "sentence": "Some people enjoy the spotlight."
+  },
+  {
+    "name": "lantern",
+    "trans": [
+      "提灯，灯笼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a light in a transparent protective case"
+    ],
+    "speech": "noun",
+    "sentence": "the lantern of the cupola of the Capitol at Washington, or that of the Florence cathedral"
+  },
+  {
+    "name": "bulb",
+    "trans": [
+      "灯泡"
+    ],
+    "usphone": "bʌlb",
+    "ukphone": "bʌlb",
+    "e_mean": [
+      "anything with a round shape resembling a teardrop"
+    ],
+    "speech": "noun",
+    "sentence": "the bulb of the aorta"
+  },
+  {
+    "name": "refrigerate",
+    "trans": [
+      "冷藏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cool in or as if in an appliance that keeps food cold"
+    ],
+    "speech": "verb",
+    "sentence": "Please refrigerate your uncooked meats at or below 40° Fahrenheit."
+  },
+  {
+    "name": "vacuum",
+    "trans": [
+      "用吸尘器清扫",
+      "真空；"
+    ],
+    "usphone": "'vækjʊəm",
+    "ukphone": "'vækjuəm",
+    "e_mean": [
+      "an empty area or space"
+    ],
+    "speech": "noun",
+    "sentence": "a vacuum of 26 inches of mercury, or 13 pounds per square inch"
+  },
+  {
+    "name": "fan",
+    "trans": [
+      "扇子；风扇；狂热爱好者扇"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a device for creating a current of air by movement"
+    ],
+    "speech": "noun",
+    "sentence": "We enjoyed standing at the edge of the cliff, being fanned by the wind."
+  },
+  {
+    "name": "switch",
+    "trans": [
+      "改变， 转变； 转换； 对调",
+      "开关；转换"
+    ],
+    "usphone": "swɪtʃ",
+    "ukphone": "swɪtʃ",
+    "e_mean": [
+      "device for making or breaking the connections in a circuit"
+    ],
+    "speech": "noun",
+    "sentence": "Use the /b switch to specify black-and-white printing."
+  },
+  {
+    "name": "hurdle",
+    "trans": [
+      "障碍；"
+    ],
+    "usphone": "'hɝdl",
+    "ukphone": "'hɜːdl",
+    "e_mean": [
+      "a light barrier that competitors must leap over in races"
+    ],
+    "speech": "noun",
+    "sentence": "He ran in the 100 metres hurdles."
+  },
+  {
+    "name": "insulate",
+    "trans": [
+      "使绝缘， 使隔热， 使隔音； 隔离； 使隔绝"
+    ],
+    "usphone": "ˈɪnsəˌleɪt ; ˈɪnsjʊˌleɪt",
+    "ukphone": "'ɪnsjuleɪt",
+    "e_mean": [
+      "surround with material to protect from heat, cold, or noise"
+    ],
+    "speech": "verb",
+    "sentence": "Ceramic can be used to insulate power lines."
+  },
+  {
+    "name": "electronic",
+    "trans": [
+      "电子的"
+    ],
+    "usphone": "ɪˌlɛkˈtrɑnɪk",
+    "ukphone": "ɪˌl3k'trɒnɪk",
+    "e_mean": [
+      "relating to or operating by a controlled current"
+    ],
+    "speech": "adjective",
+    "sentence": "electronic music"
+  },
+  {
+    "name": "ascribe",
+    "trans": [
+      "把…归因于"
+    ],
+    "usphone": "ə'skraɪb",
+    "ukphone": "ə'skraɪb",
+    "e_mean": [
+      "attribute or credit to"
+    ],
+    "speech": "verb",
+    "sentence": "One may ascribe these problems to the federal government; however, at this stage it is unclear what caused them."
+  },
+  {
+    "name": "discontinue",
+    "trans": [
+      "停止； 中断； 不连续"
+    ],
+    "usphone": ",dɪskən'tɪnju",
+    "ukphone": "ˌdɪskən'tɪnjuː",
+    "e_mean": [
+      "put an end to a state or an activity"
+    ],
+    "speech": "verb",
+    "sentence": "They plan to discontinue that design."
+  },
+  {
+    "name": "blaze",
+    "trans": [
+      "熊熊燃烧；发光；迸发",
+      "火焰"
+    ],
+    "usphone": "blez",
+    "ukphone": "bleɪz",
+    "e_mean": [
+      "a strong flame that burns brightly"
+    ],
+    "speech": "noun",
+    "sentence": "to seek shelter from the blaze of the sun"
+  },
+  {
+    "name": "diesel",
+    "trans": [
+      "柴油； 柴油机； 柴油车"
+    ],
+    "usphone": "'dizl",
+    "ukphone": "'diːzl",
+    "e_mean": [
+      "an internal-combustion engine that burns heavy oil"
+    ],
+    "speech": "noun",
+    "sentence": "The only reason the VW bug has a solenoid is to prevent it from dieseling."
+  },
+  {
+    "name": "consist",
+    "trans": [
+      "由…组成， 由…构成； 在于， 存在于"
+    ],
+    "usphone": "kən'sɪst",
+    "ukphone": "kən'sɪst",
+    "e_mean": [
+      "have its essential character"
+    ],
+    "speech": "verb",
+    "sentence": "The greeting package consists of some brochures, a pen, and a notepad."
+  },
+  {
+    "name": "entail",
+    "trans": [
+      "牵涉； 需要"
+    ],
+    "usphone": "ɪn'tel",
+    "ukphone": "ɪn'teɪl",
+    "e_mean": [
+      "have as a logical consequence"
+    ],
+    "speech": "verb",
+    "sentence": "This activity will entail careful attention to detail."
+  },
+  {
+    "name": "fade",
+    "trans": [
+      "变淡， 变暗； 褪色； 凋谢； 逐渐消失"
+    ],
+    "usphone": "fed",
+    "ukphone": "feɪd",
+    "e_mean": [
+      "become less clearly visible or distinguishable"
+    ],
+    "speech": "verb",
+    "sentence": "The milkman's whistling faded into the distance."
+  },
+  {
+    "name": "crystallize",
+    "trans": [
+      "结晶； 变明确"
+    ],
+    "usphone": "'krɪstə'laɪz",
+    "ukphone": "'krɪstəlaɪz",
+    "e_mean": [
+      "cause to form crystals or assume crystalline form"
+    ],
+    "speech": "verb",
+    "sentence": "I crystallized the copper sulphate by slowly cooling a saturated solution."
+  },
+  {
+    "name": "fabrication",
+    "trans": [
+      "捏造， 伪造； 制作； 构成"
+    ],
+    "usphone": ",fæbrɪ'keʃən",
+    "ukphone": "ˌfæbrɪ'keɪʃn",
+    "e_mean": [
+      "the act of making a product from raw materials"
+    ],
+    "speech": "noun",
+    "sentence": "the fabrication of a bridge, a church, or a government"
+  },
+  {
+    "name": "replicate",
+    "trans": [
+      "重复， 复现或复制； 再制造； 再生"
+    ],
+    "usphone": "'rɛplɪket",
+    "ukphone": "'replɪkɪt",
+    "e_mean": [
+      "reproduce or make an exact copy of"
+    ],
+    "speech": "verb",
+    "sentence": "On entering a host cell, a virus will start to replicate."
+  },
+  {
+    "name": "comprise",
+    "trans": [
+      "包含； 由…组成"
+    ],
+    "usphone": "kəm'praɪz",
+    "ukphone": "kəm'praɪz",
+    "e_mean": [
+      "be made of"
+    ],
+    "speech": "verb",
+    "sentence": "The parts are comprised by the whole."
+  },
+  {
+    "name": "stuff",
+    "trans": [
+      "原料，材料",
+      "填进； 让…吃饱"
+    ],
+    "usphone": "stʌf",
+    "ukphone": "stʌf",
+    "e_mean": [
+      "the tangible substance that goes into a physical object"
+    ],
+    "speech": "noun",
+    "sentence": "What is all that stuff on your bedroom floor? He didn't want his pockets to bulge so he was walking around with all his stuff in his hands."
+  },
+  {
+    "name": "item",
+    "trans": [
+      "条款， 项目； 一则"
+    ],
+    "usphone": "'aɪtəm",
+    "ukphone": "'aɪtəm",
+    "e_mean": [
+      "a distinct part that can be specified separately in a group"
+    ],
+    "speech": "noun",
+    "sentence": "Tweezers are great for manipulating small items."
+  },
+  {
+    "name": "artefact",
+    "trans": [
+      "人工制品， 手工艺品"
+    ],
+    "usphone": "",
+    "ukphone": "'ɑːtɪfækt",
+    "e_mean": [
+      "a man-made object taken as a whole"
+    ],
+    "speech": "noun",
+    "sentence": "The spot on his lung turned out to be an artifact of the X-ray process."
+  },
+  {
+    "name": "artificial",
+    "trans": [
+      ".人造的；矫揉造作的，虚伪的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "contrived by art rather than nature"
+    ],
+    "speech": "adjective",
+    "sentence": "The flowers were artificial, and he thought them rather tacky."
+  },
+  {
+    "name": "material",
+    "trans": [
+      "物质的； 重要的",
+      "材料；素材"
+    ],
+    "usphone": "mə'tɪrɪəl",
+    "ukphone": "mə'tɪəriəl",
+    "e_mean": [
+      "the substance that goes into the makeup of a physical object"
+    ],
+    "speech": "noun",
+    "sentence": "Asphalt, composed of oil and sand, is a widely used material for roads."
+  },
+  {
+    "name": "raw",
+    "trans": [
+      "天然的，未经加工的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "not treated with heat to prepare it for eating"
+    ],
+    "speech": "adjective",
+    "sentence": "raw cane sugar"
+  },
+  {
+    "name": "necessity",
+    "trans": [
+      "必然， 必要； 必需品； 必要性"
+    ],
+    "usphone": "nə'sɛsəti",
+    "ukphone": "nə'sesəti",
+    "e_mean": [
+      "the condition of being essential or indispensable"
+    ],
+    "speech": "noun",
+    "sentence": "I bought a new table out of necessity. My old one was ruined."
+  },
+  {
+    "name": "necessary",
+    "trans": [
+      ".必需的，必要的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "absolutely essential"
+    ],
+    "speech": "adjective",
+    "sentence": "Although I wished to think that all was false, it was yet necessary that I, who thus thought, must in some sense exist."
+  },
+  {
+    "name": "outfit",
+    "trans": [
+      "全套服装/装备配备，装备"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a set of clothing"
+    ],
+    "speech": "noun",
+    "sentence": "She wore a fashionable outfit with matching purse and shoes."
+  },
+  {
+    "name": "kit",
+    "trans": [
+      "成套工具",
+      "装备"
+    ],
+    "usphone": "",
+    "ukphone": "kɪt",
+    "e_mean": [
+      "gear consisting of a set of articles or tools for a specified purpose"
+    ],
+    "speech": "noun",
+    "sentence": "1961 18 Jan, Guardian (cited after OED):"
+  },
+  {
+    "name": "utensil",
+    "trans": [
+      "用具，器皿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an implement for practical use"
+    ],
+    "speech": "noun",
+    "sentence": "We have convenient storage for all the kitchen utensils."
+  },
+  {
+    "name": "garbage",
+    "trans": [
+      "垃圾/废物agarbagecan垃圾筒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "worthless material that is to be disposed of"
+    ],
+    "speech": "noun",
+    "sentence": "Garbage is collected on Tuesdays; rubbish on Fridays"
+  },
+  {
+    "name": "rubbish",
+    "trans": [
+      "垃圾，废弃物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "worthless material that is to be disposed of"
+    ],
+    "speech": "noun",
+    "sentence": "The rubbish is collected every Thursday in Gloucester, but on Wednesdays in Cheltenham."
+  },
+  {
+    "name": "trash",
+    "trans": [
+      "垃圾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "worthless material that is to be disposed of"
+    ],
+    "speech": "noun",
+    "sentence": "I am Harry Potter trash."
+  },
+  {
+    "name": "recycle",
+    "trans": [
+      "回收利用"
+    ],
+    "usphone": ",ri'saɪkl",
+    "ukphone": "ˌriː'saɪkl",
+    "e_mean": [
+      "use again after processing"
+    ],
+    "speech": "verb",
+    "sentence": "Both paper and plastic can be recycled."
+  },
+  {
+    "name": "reuse",
+    "trans": [
+      "再次使用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "use again after processing"
+    ],
+    "speech": "verb",
+    "sentence": "Code reuse can save programmers a lot of typing."
+  },
+  {
+    "name": "litter",
+    "trans": [
+      "使乱七八糟；乱扔",
+      "废弃物， 垃圾； 一窝幼崽"
+    ],
+    "usphone": "'lɪtɚ",
+    "ukphone": "'lɪtə(r)",
+    "e_mean": [
+      "rubbish carelessly dropped or left about"
+    ],
+    "speech": "noun",
+    "sentence": "sleep in the litter"
+  },
+  {
+    "name": "waste",
+    "trans": [
+      "废物；浪费浪费"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "use inefficiently or inappropriately"
+    ],
+    "speech": "verb",
+    "sentence": "The cage was littered with animal waste"
+  },
+  {
+    "name": "junk",
+    "trans": [
+      "无用的东西，废物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the remains of something that has been destroyed or broken up"
+    ],
+    "speech": "noun",
+    "sentence": "junk fish; junk trees"
+  },
+  {
+    "name": "detergent",
+    "trans": [
+      "净化的，清洁的",
+      "清洁剂"
+    ],
+    "usphone": "dɪ'tɝdʒənt",
+    "ukphone": "dɪ'tɜːdʒənt",
+    "e_mean": [
+      "a cleansing agent that differs from soap"
+    ],
+    "speech": "noun",
+    "sentence": "Apply the cleansing cream to your skin."
+  },
+  {
+    "name": "shampoo",
+    "trans": [
+      "洗发剂；用洗发剂洗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cleansing agent consisting of soaps or detergents used for washing the hair"
+    ],
+    "speech": "noun",
+    "sentence": "I’m going to give the carpet a shampoo."
+  },
+  {
+    "name": "soap",
+    "trans": [
+      "肥皂用肥皂擦洗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a cleansing agent made from the salts of vegetable or animal fats"
+    ],
+    "speech": "noun",
+    "sentence": "I tried washing my hands with soap, but the stain wouldn't go away."
+  },
+  {
+    "name": "tub",
+    "trans": [
+      "桶，盆；[美]浴缸，浴盆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a relatively large open container that you fill with water and use to wash the body"
+    ],
+    "speech": "noun",
+    "sentence": "He bought a tub of lard to roast the potatoes in."
+  },
+  {
+    "name": "plug",
+    "trans": [
+      "塞子；插头把……塞住"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "blockage consisting of an object designed to fill a hole tightly"
+    ],
+    "speech": "noun",
+    "sentence": "I pushed the plug back into the electrical socket and the lamp began to glow again."
+  },
+  {
+    "name": "tap",
+    "trans": [
+      "轻拍； 利用， 开发"
+    ],
+    "usphone": "tæp",
+    "ukphone": "tæp",
+    "e_mean": [
+      "strike lightly"
+    ],
+    "speech": "verb",
+    "sentence": "We don't have bottled water; you'll have to get it from the tap."
+  },
+  {
+    "name": "pipe",
+    "trans": [
+      "管子，管道；烟斗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a hollow cylindrical shape"
+    ],
+    "speech": "noun",
+    "sentence": "to pipe flowers on to a cupcake"
+  },
+  {
+    "name": "pipeline",
+    "trans": [
+      "管道，管线"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a pipe used to transport liquids or gases"
+    ],
+    "speech": "noun",
+    "sentence": "An oil pipeline has been opened from the Caspian Sea."
+  },
+  {
+    "name": "tube",
+    "trans": [
+      "管道， 试管； 〈英〉地铁"
+    ],
+    "usphone": "tub",
+    "ukphone": "tjuːb",
+    "e_mean": [
+      "a hollow cylindrical shape"
+    ],
+    "speech": "noun",
+    "sentence": "A tube of toothpaste."
+  },
+  {
+    "name": "mop",
+    "trans": [
+      "拖把用拖把擦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cleaning implement consisting of absorbent material fastened to a handle; for cleaning floors"
+    ],
+    "speech": "noun",
+    "sentence": "He gave the floor a quick mop to soak up the spilt juice."
+  },
+  {
+    "name": "sweep",
+    "trans": [
+      "打扫；(迅猛地)吹走；掠过"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "clean by using a broom or as if with a broom"
+    ],
+    "speech": "verb",
+    "sentence": "Give the front steps a quick sweep to get rid of those fallen leaves."
+  },
+  {
+    "name": "carpet",
+    "trans": [
+      "地毯，毡毯.redcarpet"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "floor covering consisting of a piece of thick heavy fabric"
+    ],
+    "speech": "noun",
+    "sentence": "After the fire, they carpeted over the blackened hardwood flooring."
+  },
+  {
+    "name": "mat",
+    "trans": [
+      "地垫，地席"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small pad of material that is used to protect a surface"
+    ],
+    "speech": "noun",
+    "sentence": "Wipe your feet on the mat before coming in."
+  },
+  {
+    "name": "cushion",
+    "trans": [
+      "软垫abackcushion靠背垫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "protect from impact"
+    ],
+    "speech": "verb",
+    "sentence": "to cushion a sofa"
+  },
+  {
+    "name": "pad",
+    "trans": [
+      "填塞； 蹑手蹑脚地走",
+      "软垫；便笺本"
+    ],
+    "usphone": "pæd",
+    "ukphone": "pæd",
+    "e_mean": [
+      "a flat mass of soft material used for protection, stuffing, or comfort"
+    ],
+    "speech": "noun",
+    "sentence": "May 21, 2008, Austin American-Statesman"
+  },
+  {
+    "name": "blanket",
+    "trans": [
+      "毯子； 厚的覆盖物"
+    ],
+    "usphone": "'blæŋkɪt",
+    "ukphone": "'blæŋkɪt",
+    "e_mean": [
+      "bedding that keeps a person warm in bed"
+    ],
+    "speech": "noun",
+    "sentence": "The baby was cold, so his mother put a blanket over him."
+  },
+  {
+    "name": "quilt",
+    "trans": [
+      "被子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "bedding made of layers stuffed and stitched together"
+    ],
+    "speech": "noun",
+    "sentence": "My grandmother is going to sew a quilt."
+  },
+  {
+    "name": "sponge",
+    "trans": [
+      "用湿海绵擦， 揩",
+      "海绵"
+    ],
+    "usphone": "spʌndʒ",
+    "ukphone": "spʌndʒ",
+    "e_mean": [
+      "primitive multicellular marine animal whose porous body is supported by a fibrous skeletal framework; usually occurs in sessile colonies"
+    ],
+    "speech": "noun",
+    "sentence": "He has been sponging off his friends for a month now."
+  },
+  {
+    "name": "razor",
+    "trans": [
+      "剃刀剃.anelectri~电动剃须刀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "edge tool used in shaving"
+    ],
+    "speech": "noun",
+    "sentence": "Occam's razor, Hanlon's razor"
+  },
+  {
+    "name": "shave",
+    "trans": [
+      "修面"
+    ],
+    "usphone": "ʃev",
+    "ukphone": "ʃeɪv",
+    "e_mean": [
+      "remove body hair with a razor"
+    ],
+    "speech": "verb",
+    "sentence": "The labourer with the bending scythe is seen / Shaving the surface of the waving green."
+  },
+  {
+    "name": "cord",
+    "trans": [
+      "线； 带"
+    ],
+    "usphone": "kɔrd",
+    "ukphone": "kɔːd",
+    "e_mean": [
+      "a line made of twisted fibers or threads"
+    ],
+    "speech": "noun",
+    "sentence": "He looped some cord around his fingers."
+  },
+  {
+    "name": "pedal",
+    "trans": [
+      "骑车；"
+    ],
+    "usphone": "'pɛdl",
+    "ukphone": "'pedl",
+    "e_mean": [
+      "a lever that is operated with the foot"
+    ],
+    "speech": "noun",
+    "sentence": "A piano usually has two or three pedals."
+  },
+  {
+    "name": "shelf",
+    "trans": [
+      "架子，搁板"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a support that consists of a horizontal surface for holding objects"
+    ],
+    "speech": "noun",
+    "sentence": "a shelf of videos"
+  },
+  {
+    "name": "ladder",
+    "trans": [
+      "梯子；(进步、晋升等的)阶梯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "steps consisting of two parallel members connected by rungs"
+    ],
+    "speech": "noun",
+    "sentence": "Oh damn it, I've laddered my tights!"
+  },
+  {
+    "name": "lift",
+    "trans": [
+      "提/抬/提高;电梯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "raise from a lower to a higher position"
+    ],
+    "speech": "verb",
+    "sentence": "He gave me a lift to the bus station."
+  },
+  {
+    "name": "strand",
+    "trans": [
+      "股， 缕； 部分， 方面"
+    ],
+    "usphone": "strænd",
+    "ukphone": "strænd",
+    "e_mean": [
+      "a group of fibers twisted together to form a thread or rope"
+    ],
+    "speech": "noun",
+    "sentence": "Grand Strand"
+  },
+  {
+    "name": "match",
+    "trans": [
+      "匹配， 相称",
+      "火柴；比赛，竞赛；对手，敌手"
+    ],
+    "usphone": "mætʃ",
+    "ukphone": "mætʃ",
+    "e_mean": [
+      "a formal contest in which people or teams compete"
+    ],
+    "speech": "noun",
+    "sentence": "My local team are playing in a match against their arch-rivals today."
+  },
+  {
+    "name": "wax",
+    "trans": [
+      "给…上蜡， 给…打蜡； 渐圆， 渐满",
+      "蜡；蜂蜡"
+    ],
+    "usphone": "waks",
+    "ukphone": "wæks",
+    "e_mean": [
+      "substance solid at normal temperature and insoluble in water"
+    ],
+    "speech": "noun",
+    "sentence": "What role does the wax in your earhole fulfill?"
+  },
+  {
+    "name": "portfolio",
+    "trans": [
+      "文件夹，公事包=briefcase"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a large, thin case for loose papers or drawings or maps"
+    ],
+    "speech": "noun",
+    "sentence": "I would like to introduce you to our portfolio of services."
+  },
+  {
+    "name": "leaflet",
+    "trans": [
+      "传单"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small book usually having a paper cover"
+    ],
+    "speech": "noun",
+    "sentence": "The new leaflets at the end of the branch were a lighter shade of green than the mature leaves."
+  },
+  {
+    "name": "tissue",
+    "trans": [
+      "薄绢，薄纸；组织；面巾纸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "part of an organism consisting of an aggregate of cells"
+    ],
+    "speech": "noun",
+    "sentence": "a tissue of forgeries, or of lies"
+  },
+  {
+    "name": "cover",
+    "trans": [
+      "盖，覆盖；包含，包括；走过；适用于；报道，采访；给…上保险，足够支付；用枪掩护",
+      "盖子， 套子； 封面； 掩蔽， 掩护"
+    ],
+    "usphone": "'kʌvɚ",
+    "ukphone": "'kʌvə(r)",
+    "e_mean": [
+      "provide with a covering or cause to be covered"
+    ],
+    "speech": "verb",
+    "sentence": "The soldiers took cover behind a ruined building."
+  },
+  {
+    "name": "Xerox",
+    "trans": [
+      "施乐复印件.a~machine施乐复印机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a duplicator (trade mark Xerox) that copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder"
+    ],
+    "speech": "noun",
+    "sentence": "Hand me that xerox, would you?"
+  },
+  {
+    "name": "duplicate",
+    "trans": [
+      "完全相同的；副本的",
+      "复制，复写；重复['djuːplɪkət]",
+      "复制品"
+    ],
+    "usphone": "'duplɪket",
+    "ukphone": "'djuːplɪkeɪt",
+    "e_mean": [
+      "a copy that corresponds to an original exactly"
+    ],
+    "speech": "noun",
+    "sentence": "This is a duplicate, but a very good replica."
+  },
+  {
+    "name": "stationery",
+    "trans": [
+      "文具"
+    ],
+    "usphone": "'steʃənɛri",
+    "ukphone": "'steɪʃənri",
+    "e_mean": [
+      "paper cut to an appropriate size for writing letters"
+    ],
+    "speech": "noun",
+    "sentence": "When school finished, he threw all of his stationery away, as he no longer had any need for pencils and exercise books."
+  },
+  {
+    "name": "glue",
+    "trans": [
+      "胶水",
+      "胶合， 张贴"
+    ],
+    "usphone": "ɡlu",
+    "ukphone": "gluː",
+    "e_mean": [
+      "cement consisting of a sticky substance that is used as an adhesive"
+    ],
+    "speech": "noun",
+    "sentence": "I need to glue the chair-leg back into place."
+  },
+  {
+    "name": "rubber",
+    "trans": [
+      "橡皮擦，橡胶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products"
+    ],
+    "speech": "noun",
+    "sentence": "Jones toes the rubber and then fires to the plate."
+  },
+  {
+    "name": "scissors",
+    "trans": [
+      "剪刀，剪子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an edge tool having two crossed pivoting blades"
+    ],
+    "speech": "noun",
+    "sentence": "The erroneous testimony was scissored from the record."
+  },
+  {
+    "name": "dredge",
+    "trans": [
+      "挖掘； 疏浚； 挖出， 吸出； 重提旧事"
+    ],
+    "usphone": "drɛdʒ",
+    "ukphone": "dredʒ",
+    "e_mean": [
+      "a power shovel to remove material from a channel or riverbed"
+    ],
+    "speech": "noun",
+    "sentence": "to dredge up someone's unsavoury past"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "罐头，听;装罐保存"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "airtight sealed metal container for food or drink, etc."
+    ],
+    "speech": "noun",
+    "sentence": "She can speak English, French, and German. I can play football. Can you remember your fifth birthday?"
+  },
+  {
+    "name": "mill",
+    "trans": [
+      "磨粉机/磨坊；碾碎/无目的地乱转"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a facility for manufacturing"
+    ],
+    "speech": "noun",
+    "sentence": "Pepper has a stronger flavor when it is ground straight from a mill."
+  },
+  {
+    "name": "forge",
+    "trans": [
+      "锻铁炉锻造；伪造"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "create by hammering"
+    ],
+    "speech": "verb",
+    "sentence": "The politician's recent actions are an effort to forge a relationship with undecided voters."
+  },
+  {
+    "name": "alloy",
+    "trans": [
+      "合金；(金属的)成色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a mixture containing two or more metallic elements"
+    ],
+    "speech": "noun",
+    "sentence": "gold without alloy"
+  },
+  {
+    "name": "metal",
+    "trans": [
+      "金属"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a chemical element or alloy that is usually a shiny solid"
+    ],
+    "speech": "noun",
+    "sentence": "We have American Airlines tickets, but it's on British Airways metal."
+  },
+  {
+    "name": "iron",
+    "trans": [
+      "熨， 烫平",
+      "铁；烙铁，熨斗"
+    ],
+    "usphone": "'aɪɚn",
+    "ukphone": "'aiən",
+    "e_mean": [
+      "a heavy ductile magnetic metallic element"
+    ],
+    "speech": "noun",
+    "sentence": "wrought iron, ductile iron, cast iron, pig iron, gray iron"
+  },
+  {
+    "name": "lead",
+    "trans": [
+      "领导；铅；导线；榜样",
+      "领导；致使；引导；指挥",
+      "领导；导致；用水砣测深",
+      "带头的；最重要的"
+    ],
+    "usphone": "lid; lɛd",
+    "ukphone": "liːd",
+    "e_mean": [
+      "take somebody somewhere"
+    ],
+    "speech": "verb",
+    "sentence": "This copy has too much lead; I prefer less space between the lines."
+  },
+  {
+    "name": "brass",
+    "trans": [
+      "黄铜； 黄铜器； 铜管乐器"
+    ],
+    "usphone": "bræs",
+    "ukphone": "brɑːs",
+    "e_mean": [
+      "an alloy of copper and zinc"
+    ],
+    "speech": "noun",
+    "sentence": "The brass are not going to like this."
+  },
+  {
+    "name": "bronze",
+    "trans": [
+      "青铜；青铜艺术品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an alloy of copper and tin and sometimes other elements"
+    ],
+    "speech": "noun",
+    "sentence": "She wanted to win the tournament, but had to settle for the bronze after being beaten in the semi-finals."
+  },
+  {
+    "name": "cement",
+    "trans": [
+      "水泥；胶接剂使黏结"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a building material that is a powder made of a mixture of calcined limestone and clay; used with water and sand or gravel to make concrete and mortar"
+    ],
+    "speech": "noun",
+    "sentence": "the cement of our love"
+  },
+  {
+    "name": "pitch",
+    "trans": [
+      "沥青"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the high or low quality of a sound"
+    ],
+    "speech": "noun",
+    "sentence": "It is hard to get this pitch off my hand."
+  },
+  {
+    "name": "plaster",
+    "trans": [
+      "灰泥， 石膏； 膏药"
+    ],
+    "usphone": "'plæstɚ",
+    "ukphone": "'plɑːstə(r)",
+    "e_mean": [
+      "a mixture of lime or gypsum with sand and water"
+    ],
+    "speech": "noun",
+    "sentence": "to plaster a wall"
+  },
+  {
+    "name": "leather",
+    "trans": [
+      "皮革， 皮革制品"
+    ],
+    "usphone": "'lɛðɚ",
+    "ukphone": "'leðə(r)",
+    "e_mean": [
+      "animal skin made smooth and flexible by tanning"
+    ],
+    "speech": "noun",
+    "sentence": "He leathered the ball all the way down the street."
+  },
+  {
+    "name": "edge",
+    "trans": [
+      "边缘，边；刀口"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a line determining the limits of an area"
+    ],
+    "speech": "noun",
+    "sentence": "I have the edge on him."
+  },
+  {
+    "name": "rim",
+    "trans": [
+      "边， 缘"
+    ],
+    "usphone": "rɪm",
+    "ukphone": "rɪm",
+    "e_mean": [
+      "the shape of a raised edge of a more or less circular object"
+    ],
+    "speech": "noun",
+    "sentence": "A walking path rims the island."
+  },
+  {
+    "name": "element",
+    "trans": [
+      "要素； 元素； [the -s] 基本原理"
+    ],
+    "usphone": "'ɛləmənt",
+    "ukphone": "'elɪmənt",
+    "e_mean": [
+      "a substance that cannot be separated into simpler substances"
+    ],
+    "speech": "noun",
+    "sentence": "Letters are the elements of written language."
+  },
+  {
+    "name": "factor",
+    "trans": [
+      "因素，要素"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "anything that contributes causally to a result"
+    ],
+    "speech": "noun",
+    "sentence": "The factor of the trading post bought the furs."
+  },
+  {
+    "name": "tag",
+    "trans": [
+      "标签；"
+    ],
+    "usphone": "tæɡ",
+    "ukphone": "tæg",
+    "e_mean": [
+      "a small piece of cloth or paper"
+    ],
+    "speech": "noun",
+    "sentence": "The subwoofer in the trunk was so loud, it vibrated the tag like an aluminum can."
+  },
+  {
+    "name": "label",
+    "trans": [
+      "标签，标记",
+      "贴标签于；用标签标明"
+    ],
+    "usphone": "ˈlebəl",
+    "ukphone": "'leɪbl",
+    "e_mean": [
+      "a brief description given for purposes of identification"
+    ],
+    "speech": "noun",
+    "sentence": "Although the label priced this poster at three pounds, I got it for two."
+  },
+  {
+    "name": "badge",
+    "trans": [
+      "徽章； 标记； 象征"
+    ],
+    "usphone": "bædʒ",
+    "ukphone": "bædʒ",
+    "e_mean": [
+      "an emblem that signifies your status"
+    ],
+    "speech": "noun",
+    "sentence": "the badge of a society; the badge of a policeman"
+  },
+  {
+    "name": "bolt",
+    "trans": [
+      "螺栓/插销闩上(门、窗)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a screw that screws into a nut to form a fastener"
+    ],
+    "speech": "noun",
+    "sentence": "The problem's solution struck him like a bolt from the blue."
+  },
+  {
+    "name": "handle",
+    "trans": [
+      "处理；操作，操纵；触，抚摸",
+      "手柄， 把手"
+    ],
+    "usphone": "'hændl",
+    "ukphone": "'hændl",
+    "e_mean": [
+      "touch, lift, or hold"
+    ],
+    "speech": "verb",
+    "sentence": "The daily handle of a Las Vegas casino is typically millions of dollars."
+  },
+  {
+    "name": "shutter",
+    "trans": [
+      "百叶窗； 快门"
+    ],
+    "usphone": "'ʃʌtɚ",
+    "ukphone": "'ʃʌtə(r)",
+    "e_mean": [
+      "a hinged blind for a window"
+    ],
+    "speech": "noun",
+    "sentence": "Shutter the windows: there's a storm coming!"
+  },
+  {
+    "name": "curtain",
+    "trans": [
+      "窗帘， 门帘"
+    ],
+    "usphone": "'kɝtn",
+    "ukphone": "'kɜːtn",
+    "e_mean": [
+      "hanging cloth used as a blind (especially for a window)"
+    ],
+    "speech": "noun",
+    "sentence": "He took so long to shave his head that we arrived 45 minutes after curtain and were denied late entry."
+  },
+  {
+    "name": "pane",
+    "trans": [
+      "窗玻璃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "sheet glass cut in shapes for windows or doors"
+    ],
+    "speech": "noun",
+    "sentence": "An octagonal tower is said to have eight panes."
+  },
+  {
+    "name": "opacity",
+    "trans": [
+      "不透明性"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the degree to which something reduces the passage of light"
+    ],
+    "speech": "noun",
+    "sentence": "We could not see the sandbar due to the opacity of the muddy water."
+  },
+  {
+    "name": "jar",
+    "trans": [
+      "罐，广口瓶，猛烈震动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a vessel with a wide mouth and without handles"
+    ],
+    "speech": "noun",
+    "sentence": "He hit it with a hammer, hoping he could jar it loose."
+  },
+  {
+    "name": "barrel",
+    "trans": [
+      "桶， 圆筒"
+    ],
+    "usphone": "'bærəl",
+    "ukphone": "'bærəl",
+    "e_mean": [
+      "a bulging cylindrical shape; hollow with flat ends"
+    ],
+    "speech": "noun",
+    "sentence": "a cracker barrel"
+  },
+  {
+    "name": "bucket",
+    "trans": [
+      "水桶"
+    ],
+    "usphone": "'bʌkɪt",
+    "ukphone": "'bʌkɪt",
+    "e_mean": [
+      "a roughly cylindrical vessel that is open at the top"
+    ],
+    "speech": "noun",
+    "sentence": "I need a bucket to carry the water from the well."
+  },
+  {
+    "name": "fibre",
+    "trans": [
+      "纤维"
+    ],
+    "usphone": "'faibə",
+    "ukphone": "'faɪbə(r)",
+    "e_mean": [
+      "a slender and greatly elongated substance capable of being spun into yarn"
+    ],
+    "speech": "noun",
+    "sentence": "The microscope showed several different fibres stuck to the sole of the shoe."
+  },
+  {
+    "name": "fabric",
+    "trans": [
+      "织物，布料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "artifact made by weaving or felting or knitting fibers"
+    ],
+    "speech": "noun",
+    "sentence": "cloth of a beautiful fabric"
+  },
+  {
+    "name": "weave",
+    "trans": [
+      "编织；编造"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "pattern or structure of a fabric"
+    ],
+    "speech": "noun",
+    "sentence": "That rug has a very tight weave."
+  },
+  {
+    "name": "canvas",
+    "trans": [
+      "帆布；油画布"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a heavy, closely woven fabric"
+    ],
+    "speech": "noun",
+    "sentence": "The author takes rural midwestern life as a canvas for a series of tightly woven character studies."
+  },
+  {
+    "name": "linen",
+    "trans": [
+      "亚麻织品； 亚麻布"
+    ],
+    "usphone": "'lɪnɪn",
+    "ukphone": "'lɪnɪn",
+    "e_mean": [
+      "a fabric woven with fibers from the flax plant"
+    ],
+    "speech": "noun",
+    "sentence": "She put the freshly cleaned linens into the linen closet."
+  },
+  {
+    "name": "nylon",
+    "trans": [
+      "尼龙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a synthetic fabric"
+    ],
+    "speech": "noun",
+    "sentence": "I tore a hole in my nylons while walking home through the woods."
+  },
+  {
+    "name": "lumber",
+    "trans": [
+      "木材，木料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the wood of trees prepared for use as building material"
+    ],
+    "speech": "noun",
+    "sentence": "I got lumbered with that boring woman all afternoon."
+  },
+  {
+    "name": "wooden",
+    "trans": [
+      "木制的；呆板的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "made or consisting of or employing wood"
+    ],
+    "speech": "adjective",
+    "sentence": "On a recent windy day, hundreds of visitors climbed wooden stairs to take pictures in front of the glacier."
+  },
+  {
+    "name": "pit",
+    "trans": [
+      "燃料给……加燃料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a sizeable hole, usually in the ground"
+    ],
+    "speech": "noun",
+    "sentence": "The meadow around the town is full of old pits."
+  },
+  {
+    "name": "diamond",
+    "trans": [
+      "金刚石，钻石；菱形"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "very hard native crystalline carbon valued as a gem"
+    ],
+    "speech": "noun",
+    "sentence": "The saw is coated with diamond."
+  },
+  {
+    "name": "crystal",
+    "trans": [
+      "水晶；结晶，晶体"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a solid having a highly regular atomic structure"
+    ],
+    "speech": "noun",
+    "sentence": "\"Do I make myself clear?\" / \"Crystal.\""
+  },
+  {
+    "name": "inferior",
+    "trans": [
+      "较差的， 次的， 低劣的； 级别低的， 较低的",
+      "下级； 下属， 晚辈"
+    ],
+    "usphone": "ɪn'fɪrɪɚ",
+    "ukphone": "ɪn'fɪəriə(r)",
+    "e_mean": [
+      "of or characteristic of low rank or importance"
+    ],
+    "speech": "adjective",
+    "sentence": "As you are my inferior, I can tell you to do anything I want."
+  },
+  {
+    "name": "counterfeit",
+    "trans": [
+      "adj.假冒的伪造"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "not genuine; imitating something superior"
+    ],
+    "speech": "adjective",
+    "sentence": "to counterfeit the signature of another, coins, notes, etc."
+  },
+  {
+    "name": "fragile",
+    "trans": [
+      "脆弱的； 虚弱的； 易碎的； 易受伤害的"
+    ],
+    "usphone": "'frædʒəl",
+    "ukphone": "'frædʒaɪl",
+    "e_mean": [
+      "easily broken or damaged or destroyed"
+    ],
+    "speech": "adjective",
+    "sentence": "He is a very fragile person and gets easily depressed."
+  },
+  {
+    "name": "miniature",
+    "trans": [
+      "微型/很小的缩微模型/微型画"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "being on a very small scale"
+    ],
+    "speech": "adjective",
+    "sentence": "There was a miniature of a whaling ship in a glass bottle over the mantlepiece."
+  },
+  {
+    "name": "methane",
+    "trans": [
+      "甲烷， 沼气"
+    ],
+    "usphone": "'mɛθen",
+    "ukphone": "'miːθeɪn",
+    "e_mean": [
+      "a colorless odorless gas used as a fuel"
+    ],
+    "speech": "noun",
+    "sentence": "Cattle emit a large amount of methane."
+  },
+  {
+    "name": "erosion",
+    "trans": [
+      "腐蚀； 磨损"
+    ],
+    "usphone": "ɪ'roʒən",
+    "ukphone": "ɪ'rəuʒn",
+    "e_mean": [
+      "the process of wearing or grinding something down "
+    ],
+    "speech": "noun",
+    "sentence": "the erosion of a person's trust"
+  },
+  {
+    "name": "gadget",
+    "trans": [
+      "小巧的器械， 精巧的装置； 小玩意"
+    ],
+    "usphone": "'gædʒɪt",
+    "ukphone": "'gædʒɪt",
+    "e_mean": [
+      "a small mechanical device or gadget"
+    ],
+    "speech": "noun",
+    "sentence": "He bought a neat new gadget for shredding potatoes."
+  },
+  {
+    "name": "renewable",
+    "trans": [
+      "可更新的， 可再生的， 可恢复的； 可延长有效期的， 可续期的"
+    ],
+    "usphone": "rɪ'nuəbl",
+    "ukphone": "rɪ'njuːəbl",
+    "e_mean": [
+      "capable of being replaced"
+    ],
+    "speech": "adjective",
+    "sentence": "Solar and wind power are renewable, but coal is not."
+  },
+  {
+    "name": "scrap",
+    "trans": [
+      "碎屑",
+      "废弃； 抛弃"
+    ],
+    "usphone": "skræp",
+    "ukphone": "skræp",
+    "e_mean": [
+      "a small fragment of something broken off from the whole"
+    ],
+    "speech": "noun",
+    "sentence": "I found a scrap of cloth to patch the hole."
+  },
+  {
+    "name": "availability",
+    "trans": [
+      "可利用性， 可得性； 利用的可能性； 可利用的人或物"
+    ],
+    "usphone": "ə,velə'bɪləti",
+    "ukphone": "əˌveɪlə'bɪləti",
+    "e_mean": [
+      "the quality of being at hand when needed"
+    ],
+    "speech": "noun",
+    "sentence": "What is your availability this week?"
+  },
+  {
+    "name": "inclination",
+    "trans": [
+      "爱好； 趋势； 倾斜"
+    ],
+    "usphone": "'ɪnklə'neʃən",
+    "ukphone": "ˌɪnklɪ'neɪʃn",
+    "e_mean": [
+      "the act of bending forward"
+    ],
+    "speech": "noun",
+    "sentence": "The inclination of his head increased and he awoke with a start."
+  },
+  {
+    "name": "teem",
+    "trans": [
+      "倾泻； 充满， 遍布"
+    ],
+    "usphone": "tim",
+    "ukphone": "tiːm",
+    "e_mean": [
+      "be full of or abuzz with"
+    ],
+    "speech": "verb",
+    "sentence": "Fish teem in this pond."
+  },
+  {
+    "name": "alight",
+    "trans": [
+      "燃烧的",
+      "〔鸟或虫等〕飞落"
+    ],
+    "usphone": "ə'laɪt",
+    "ukphone": "ə'laɪt",
+    "e_mean": [
+      "settle or come to rest"
+    ],
+    "speech": "verb",
+    "sentence": "He alighted from his horse."
+  },
+  {
+    "name": "distill",
+    "trans": [
+      "蒸馏， 提取"
+    ],
+    "usphone": "dɪs'tɪl",
+    "ukphone": "dɪ'stɪl",
+    "e_mean": [
+      "undergo condensation"
+    ],
+    "speech": "verb",
+    "sentence": "Firs distill resin."
+  },
+  {
+    "name": "molten",
+    "trans": [
+      "熔化的"
+    ],
+    "usphone": "'moltən",
+    "ukphone": "'məultən",
+    "e_mean": [
+      "reduced to liquid form by heating"
+    ],
+    "speech": "adjective",
+    "sentence": "I melted butter to make a cake."
+  },
+  {
+    "name": "signal",
+    "trans": [
+      "发信号； 标志着",
+      "信号；暗号；标志"
+    ],
+    "usphone": "'sɪgnl",
+    "ukphone": "'sɪgnəl",
+    "e_mean": [
+      "any action or gesture that encodes a message"
+    ],
+    "speech": "noun",
+    "sentence": "My mobile phone can't get a signal in the railway station."
+  },
+  {
+    "name": "compass",
+    "trans": [
+      "罗盘，罗盘仪；界限，范围；"
+    ],
+    "usphone": "'kʌmpəs",
+    "ukphone": "'kʌmpəs",
+    "e_mean": [
+      "navigational instrument for finding directions"
+    ],
+    "speech": "noun",
+    "sentence": "within the compass of an encircling wall"
+  },
+  {
+    "name": "cap",
+    "trans": [
+      "〔对物件起保护作用的〕罩，盖，套",
+      "限制〔尤指金钱〕"
+    ],
+    "usphone": "kæp",
+    "ukphone": "kæp",
+    "e_mean": [
+      "a tight-fitting headdress"
+    ],
+    "speech": "noun",
+    "sentence": "The children were all wearing caps to protect them from the sun."
+  },
+  {
+    "name": "tan",
+    "trans": [
+      "晒成棕褐色， 晒黑； 硝",
+      "棕褐色；晒黑"
+    ],
+    "usphone": "tæn",
+    "ukphone": "tæn",
+    "e_mean": [
+      "a light brown the color of topaz"
+    ],
+    "speech": "noun",
+    "sentence": "She still has a tan from her vacation in Mexico."
+  },
+  {
+    "name": "manufacture",
+    "trans": [
+      "大量制造，成批生产",
+      "大量制造； 工业品"
+    ],
+    "usphone": "'mænjə'fæktʃɚ",
+    "ukphone": "ˌmænju'fæktʃə(r)",
+    "e_mean": [
+      "put together out of artificial or natural components"
+    ],
+    "speech": "verb",
+    "sentence": "to manufacture wool into blankets"
+  },
+  {
+    "name": "batch",
+    "trans": [
+      "一批， 一组， 一群； 一批生产量"
+    ],
+    "usphone": "bætʃ",
+    "ukphone": "bætʃ",
+    "e_mean": [
+      "a collection of things or persons to be handled together"
+    ],
+    "speech": "noun",
+    "sentence": "We made a batch of cookies to take to the party."
+  },
+  {
+    "name": "processor",
+    "trans": [
+      "加工机； 加工工人； 处理器"
+    ],
+    "usphone": "'prɑsɛsɚ",
+    "ukphone": "'prəusesə (r)",
+    "e_mean": [
+      "someone who processes things"
+    ],
+    "speech": "noun",
+    "sentence": "He is a loan processor with a bank."
+  },
+  {
+    "name": "suspend",
+    "trans": [
+      "吊， 悬挂； 推迟； 暂停， 中止"
+    ],
+    "usphone": "sə'spɛnd",
+    "ukphone": "sə'spend",
+    "e_mean": [
+      "bar temporarily"
+    ],
+    "speech": "verb",
+    "sentence": "The meeting was suspended for lunch."
+  },
+  {
+    "name": "channel",
+    "trans": [
+      "频道；"
+    ],
+    "usphone": "'tʃænl",
+    "ukphone": "'tʃænl",
+    "e_mean": [
+      "a deep and relatively narrow body of water"
+    ],
+    "speech": "noun",
+    "sentence": "The water coming out of the waterwheel created a standing wave in the channel."
+  },
+  {
+    "name": "chink",
+    "trans": [
+      "发出叮当声",
+      "裂缝，裂口；一缕光；叮当声"
+    ],
+    "usphone": "",
+    "ukphone": "tʃɪŋk",
+    "e_mean": [
+      "a narrow opening as e.g. between planks in a wall"
+    ],
+    "speech": "noun",
+    "sentence": "The warrior saw a chink in her enemy's armor, and aimed her spear accordingly."
+  },
+  {
+    "name": "wire",
+    "trans": [
+      "金属丝； 电线"
+    ],
+    "usphone": "'waɪɚ",
+    "ukphone": "'waɪə(r)",
+    "e_mean": [
+      "ligament made of metal and used to fasten things or make cages or fences etc"
+    ],
+    "speech": "noun",
+    "sentence": "This election is going to go right to the wire"
+  },
+  {
+    "name": "contaminant",
+    "trans": [
+      "致污物， 污染物"
+    ],
+    "usphone": "kən'tæmɪnənt",
+    "ukphone": "kən'tæmɪnənt",
+    "e_mean": [
+      "a substance that contaminates"
+    ],
+    "speech": "noun",
+    "sentence": "Put the lid on the jar to keep contaminants out."
+  },
+  {
+    "name": "grope",
+    "trans": [
+      "摸索"
+    ],
+    "usphone": "ɡrop",
+    "ukphone": "grəup",
+    "e_mean": [
+      "feel about uncertainly or blindly"
+    ],
+    "speech": "verb",
+    "sentence": "the old man tried to get a quick grope of the young lady on the train."
+  },
+  {
+    "name": "exposure",
+    "trans": [
+      "暴露； 显露； 接触； 曝光"
+    ],
+    "usphone": "ɪk'spoʒɚ",
+    "ukphone": "ɪk'spəuʒə(r)",
+    "e_mean": [
+      "the state of being vulnerable to something"
+    ],
+    "speech": "noun",
+    "sentence": "Limit your exposure to harsh chemicals. Get as much exposure to a new language as you can."
+  },
+  {
+    "name": "clutch",
+    "trans": [
+      "离合器；"
+    ],
+    "usphone": "klʌtʃ",
+    "ukphone": "klʌtʃ",
+    "e_mean": [
+      "take hold of; grab"
+    ],
+    "speech": "verb",
+    "sentence": "to clutch power"
+  },
+  {
+    "name": "prolonged",
+    "trans": [
+      "持久的， 长期的"
+    ],
+    "usphone": "pro'lɔŋd",
+    "ukphone": "prə'lɒŋd",
+    "e_mean": [
+      "relatively long in duration; tediously protracted"
+    ],
+    "speech": "adjective",
+    "sentence": "The government shouldn't prolong deciding on this issue any further."
+  },
+  {
+    "name": "drum",
+    "trans": [
+      "鼓， 鼓状物"
+    ],
+    "usphone": "drʌm",
+    "ukphone": "drʌm",
+    "e_mean": [
+      "a musical percussion instrument"
+    ],
+    "speech": "noun",
+    "sentence": "Replace the drum unit of your printer."
+  },
+  {
+    "name": "cork",
+    "trans": [
+      "软木塞",
+      "用软木塞塞住"
+    ],
+    "usphone": "kɔrk",
+    "ukphone": "kɔːk",
+    "e_mean": [
+      "outer bark of the cork oak"
+    ],
+    "speech": "noun",
+    "sentence": "Snobs feel it's hard to call it wine with a straight face when the cork is made of plastic."
+  },
+  {
+    "name": "capacity",
+    "trans": [
+      "容量， 容积； 能量， 能力"
+    ],
+    "usphone": "kə'pæsəti",
+    "ukphone": "kə'pæsəti",
+    "e_mean": [
+      "capability to perform or produce"
+    ],
+    "speech": "noun",
+    "sentence": "It was hauling a capacity load."
+  },
+  {
+    "name": "transmute",
+    "trans": [
+      "改变； 变化， 变形， 变质"
+    ],
+    "usphone": "trænz'mjut",
+    "ukphone": "trænz'mjuːt",
+    "e_mean": [
+      "change or alter in form, appearance, or nature"
+    ],
+    "speech": "verb",
+    "sentence": "Did the base metals transmute to gold?"
+  },
+  {
+    "name": "sledge",
+    "trans": [
+      "乘雪橇",
+      "雪橇"
+    ],
+    "usphone": "sledʒ",
+    "ukphone": "sledʒ",
+    "e_mean": [
+      "a vehicle mounted on runners and pulled by horses or dogs"
+    ],
+    "speech": "noun",
+    "sentence": "The sledge ran far better upon the ice; I cannot say the same for the dogs."
+  },
+  {
+    "name": "seam",
+    "trans": [
+      "缝， 接缝； 煤层"
+    ],
+    "usphone": "sim",
+    "ukphone": "siːm",
+    "e_mean": [
+      "joint consisting of a line formed by joining two pieces"
+    ],
+    "speech": "noun",
+    "sentence": "Seams can be made or sealed in a variety of ways, including adhesive bonding, hot-air welding, solvent welding, using adhesive tapes, sealant, etc."
+  },
+  {
+    "name": "overlapping",
+    "trans": [
+      "重叠的； 共通的"
+    ],
+    "usphone": "'ovɚ'læp",
+    "ukphone": "ˌəuvə'læpɪŋ",
+    "e_mean": [
+      "with a design in which one element covers a part of another "
+    ],
+    "speech": "noun",
+    "sentence": "The mouse-mat overlapped the edge of the desk."
+  },
+  {
+    "name": "lower",
+    "trans": [
+      "较低的；下面的",
+      "降低， 减少"
+    ],
+    "usphone": "'loɚ",
+    "ukphone": "'ləuə(r)",
+    "e_mean": [
+      "move something or somebody to a lower position"
+    ],
+    "speech": "verb",
+    "sentence": "a low wall a low shelf"
+  },
+  {
+    "name": "form",
+    "trans": [
+      "形成， 出现",
+      "形式；外形；表格"
+    ],
+    "usphone": "fɔrm",
+    "ukphone": "fɔːm",
+    "e_mean": [
+      "a perceptual structure"
+    ],
+    "speech": "noun",
+    "sentence": "To apply for the position, complete the application form."
+  },
+  {
+    "name": "management",
+    "trans": [
+      "管理； 处理"
+    ],
+    "usphone": "'mænɪdʒmənt",
+    "ukphone": "'mænɪdʒmənt",
+    "e_mean": [
+      "the act of controlling something"
+    ],
+    "speech": "noun",
+    "sentence": "Excellent time management helped her succeed in all facets of her life."
+  },
+  {
+    "name": "cylinder",
+    "trans": [
+      "圆柱体； 圆筒； 汽缸"
+    ],
+    "usphone": "'sɪlɪndɚ",
+    "ukphone": "'sɪlɪndə(r)",
+    "e_mean": [
+      "a surface generated by rotating a line around a fixed line"
+    ],
+    "speech": "noun",
+    "sentence": "When the two-dimensional curve is a circle, the cylinder is called a circular cylinder. When the axis is perpendicular to the plane of the curve, the cylinder is called a right cylinder. In non-mathematical usage, both right and circular are usually implied."
+  },
+  {
+    "name": "oak",
+    "trans": [
+      "橡树， 橡木"
+    ],
+    "usphone": "ok",
+    "ukphone": "əuk",
+    "e_mean": [
+      "a deciduous tree of the genus Quercus"
+    ],
+    "speech": "noun",
+    "sentence": "an oak table, oak beam, etc"
+  },
+  {
+    "name": "adobe",
+    "trans": [
+      "土坯， 泥砖"
+    ],
+    "usphone": "'ədobɪ",
+    "ukphone": "ə'dəubi",
+    "e_mean": [
+      "sun-dried brick used in hot dry climates"
+    ],
+    "speech": "noun",
+    "sentence": "Many people in Texas and New Mexico live in adobe houses."
+  },
+  {
+    "name": "decompression",
+    "trans": [
+      "减压； 减压室"
+    ],
+    "usphone": ",dikəm'prɛʃən",
+    "ukphone": "ˌdiːkəm'preʃn",
+    "e_mean": [
+      "relieving pressure"
+    ],
+    "speech": "noun",
+    "sentence": "The decompression of large data files may take a while."
+  },
+  {
+    "name": "foil",
+    "trans": [
+      "箔； 箔纸"
+    ],
+    "usphone": "fɔɪl",
+    "ukphone": "fɔɪl",
+    "e_mean": [
+      "hinder or prevent, as an effort, plan, or desire"
+    ],
+    "speech": "verb",
+    "sentence": "wrap the sandwich up in foil"
+  },
+  {
+    "name": "embed",
+    "trans": [
+      "把…嵌入， 扎牢； 使深留脑中"
+    ],
+    "usphone": "ɪm'bɛd",
+    "ukphone": "ɪm'bed",
+    "e_mean": [
+      "fix or set securely or deeply"
+    ],
+    "speech": "verb",
+    "sentence": "to embed something in clay, mortar, or sand"
+  },
+  {
+    "name": "foam",
+    "trans": [
+      "起泡沫",
+      "泡沫；泡沫材料"
+    ],
+    "usphone": "fom",
+    "ukphone": "fəum",
+    "e_mean": [
+      "a mass of small bubbles formed in or on a liquid"
+    ],
+    "speech": "noun",
+    "sentence": "He doesn't like so much foam in his beer."
+  },
+  {
+    "name": "remain",
+    "trans": [
+      "保持；仍旧是；剩下"
+    ],
+    "usphone": "rɪ'men",
+    "ukphone": "rɪ'meɪn",
+    "e_mean": [
+      "continue in a place, position, or situation"
+    ],
+    "speech": "verb",
+    "sentence": "There was no food in the house, so I had to remain hungry."
+  },
+  {
+    "name": "fluctuation",
+    "trans": [
+      "波动， 起伏； 动摇"
+    ],
+    "usphone": ",flʌktʃʊ'eʃən",
+    "ukphone": "ˌflʌktju'eɪʃn",
+    "e_mean": [
+      "an instance of change"
+    ],
+    "speech": "noun",
+    "sentence": "the fluctuations of the sea"
+  },
+  {
+    "name": "crude",
+    "trans": [
+      "天然的； 粗糙的； 粗俗的"
+    ],
+    "usphone": "krud",
+    "ukphone": "kruːd",
+    "e_mean": [
+      "belonging to an early stage of technical development"
+    ],
+    "speech": "adjective",
+    "sentence": "crude oil"
+  },
+  {
+    "name": "slippery",
+    "trans": [
+      "滑的， 滑溜的； 油滑的， 狡猾的； 棘手的"
+    ],
+    "usphone": "'slɪpəri",
+    "ukphone": "'slɪpəri",
+    "e_mean": [
+      "causing or tending to cause things to slip or slide"
+    ],
+    "speech": "adjective",
+    "sentence": "Oily substances render things slippery."
+  },
+  {
+    "name": "shaft",
+    "trans": [
+      "轴， 柄， 杆； 矛柄， 把柄； 束， 光线； 竖井， 升降井"
+    ],
+    "usphone": "ʃæft",
+    "ukphone": "ʃɑːft",
+    "e_mean": [
+      "a long rod or pole, especially the body of a weapon"
+    ],
+    "speech": "noun",
+    "sentence": "Her hand slipped off the javelin's shaft towards the spearpoint and that's why her score was lowered."
+  },
+  {
+    "name": "slat",
+    "trans": [
+      "板条，狭板",
+      "用板条制作"
+    ],
+    "usphone": "slæt",
+    "ukphone": "slæt",
+    "e_mean": [
+      "a thin strip of wood or metal"
+    ],
+    "speech": "noun",
+    "sentence": "slats of a window blind"
+  },
+  {
+    "name": "axle",
+    "trans": [
+      "车轴， 轮轴"
+    ],
+    "usphone": "'æksl",
+    "ukphone": "'æksl",
+    "e_mean": [
+      "a shaft on which a wheel rotates"
+    ],
+    "speech": "noun",
+    "sentence": "the Sun's axle"
+  },
+  {
+    "name": "sequence",
+    "trans": [
+      "一系列， 一连串； 顺序， 次序"
+    ],
+    "usphone": "'sikwəns",
+    "ukphone": "'siːkwəns",
+    "e_mean": [
+      "a following of one thing after another in time"
+    ],
+    "speech": "noun",
+    "sentence": "Complete the listed tasks in sequence."
+  },
+  {
+    "name": "buckle",
+    "trans": [
+      "扣紧； 变形； 弯曲",
+      "皮带扣环"
+    ],
+    "usphone": "",
+    "ukphone": "'bʌkl",
+    "e_mean": [
+      "fastener that fastens together two ends of a belt or strap"
+    ],
+    "speech": "noun",
+    "sentence": "It is amazing that he has never buckled after so many years of doing such urgent work."
+  },
+  {
+    "name": "stint",
+    "trans": [
+      "定量； 限额"
+    ],
+    "usphone": "stɪnt",
+    "ukphone": "stɪnt",
+    "e_mean": [
+      "supply sparingly and with restricted quantities"
+    ],
+    "speech": "verb",
+    "sentence": "He had a stint in jail."
+  },
+  {
+    "name": "flexibility",
+    "trans": [
+      "柔韧， 有弹性； 柔顺， 温顺； 灵活性； 适应性"
+    ],
+    "usphone": ",flɛksə'bɪləti",
+    "ukphone": "ˌfleksə'bɪləti",
+    "e_mean": [
+      "the property of being easily bent or shaped"
+    ],
+    "speech": "noun",
+    "sentence": "I had some flexibility in terms of whether to stay in a hotel or in a bed-and-breakfast."
+  },
+  {
+    "name": "churn",
+    "trans": [
+      "〔因紧张或惊慌而〕反胃",
+      "〔制造黄油的〕搅乳器"
+    ],
+    "usphone": "tʃɝn",
+    "ukphone": "tʃɜːn",
+    "e_mean": [
+      "a vessel to separate butterfat from buttermilk"
+    ],
+    "speech": "noun",
+    "sentence": "a butter churn"
+  },
+  {
+    "name": "abound",
+    "trans": [
+      "富于； 充满"
+    ],
+    "usphone": "ə'baʊnd",
+    "ukphone": "ə'baund",
+    "e_mean": [
+      "exist in large quantities"
+    ],
+    "speech": "verb",
+    "sentence": "Wild animals abound wherever man does not stake his claim."
+  },
+  {
+    "name": "invert",
+    "trans": [
+      "倒转， 颠倒"
+    ],
+    "usphone": "'ɪnvɝt",
+    "ukphone": "ɪn'vɜːt",
+    "e_mean": [
+      "turn inside out or upside down"
+    ],
+    "speech": "verb",
+    "sentence": "to invert a cup, the order of words, rules of justice, etc."
+  },
+  {
+    "name": "crank",
+    "trans": [
+      "曲柄，曲轴",
+      "用曲柄转动某物"
+    ],
+    "usphone": "kræŋk",
+    "ukphone": "kræŋk",
+    "e_mean": [
+      "rotate with a crank"
+    ],
+    "speech": "verb",
+    "sentence": "I grind my coffee by hand with a coffee grinder with a crank handle."
+  },
+  {
+    "name": "sucker",
+    "trans": [
+      "吸盘； 吸根， 根出条"
+    ],
+    "usphone": "'sʌkɚ",
+    "ukphone": "'sʌkə(r)",
+    "e_mean": [
+      "a drinker who sucks (as at a nipple or through a straw)"
+    ],
+    "speech": "noun",
+    "sentence": "One poor sucker had actually given her his life’s savings."
+  },
+  {
+    "name": "loop",
+    "trans": [
+      "成环， 成圈； 成环形运动",
+      "圈环；环状物；环路；循环"
+    ],
+    "usphone": "lup",
+    "ukphone": "luːp",
+    "e_mean": [
+      "anything with a round or oval shape"
+    ],
+    "speech": "noun",
+    "sentence": "Arches, loops, and whorls are patterns found in fingerprints."
+  },
+  {
+    "name": "emboss",
+    "trans": [
+      "使…凸出； 压花"
+    ],
+    "usphone": "ɪm'bɔs",
+    "ukphone": "ɪm'bɒs",
+    "e_mean": [
+      "raise in a relief"
+    ],
+    "speech": "verb",
+    "sentence": "The papers weren't official until the seal had been embossed on them."
+  },
+  {
+    "name": "transportation",
+    "trans": [
+      "运输， 运输系统， 运输工具"
+    ],
+    "usphone": ",trænspɔr'teʃən",
+    "ukphone": "ˌtrænspɔː'teɪʃn",
+    "e_mean": [
+      "the act of moving something from one location to another"
+    ],
+    "speech": "noun",
+    "sentence": "We have to get people out of their cars and encourage them to use alternative forms of transportation."
+  },
+  {
+    "name": "module",
+    "trans": [
+      "模块； 模式； 舱； 组件； 单元"
+    ],
+    "usphone": "'mɑdʒul",
+    "ukphone": "'mɒdjuːl",
+    "e_mean": [
+      "an inherent cognitive or perceptual power of the mind"
+    ],
+    "speech": "noun",
+    "sentence": "Which modules are you studying next year?"
+  },
+  {
+    "name": "height",
+    "trans": [
+      "海拔； 身高"
+    ],
+    "usphone": "haɪt",
+    "ukphone": "haɪt",
+    "e_mean": [
+      "distance from the base of something to its top"
+    ],
+    "speech": "noun",
+    "sentence": "She's at the height of her career."
+  },
+  {
+    "name": "souvenir",
+    "trans": [
+      "纪念品， 纪念物"
+    ],
+    "usphone": ",suvə'nɪr",
+    "ukphone": "ˌsuːvə'nɪə(r)",
+    "e_mean": [
+      "something of sentimental value"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "landfill",
+    "trans": [
+      "垃圾堆； 垃圾填筑地， 废渣埋填地"
+    ],
+    "usphone": "'lænd'fɪl",
+    "ukphone": "'lændfɪl",
+    "e_mean": [
+      "an area where waste is disposed of by burying it underground"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sewerage",
+    "trans": [
+      "排水系统，污水处理系统"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a waste pipe that carries away sewage or surface water"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "lotion",
+    "trans": [
+      "洁肤乳；润肤乳"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of various cosmetic preparations that are applied to the skin"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "broom",
+    "trans": [
+      "扫帚"
+    ],
+    "usphone": "brum",
+    "ukphone": "bruːm",
+    "e_mean": [
+      "a cleaning implement for sweeping"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mattress",
+    "trans": [
+      "床垫"
+    ],
+    "usphone": "'mætrəs",
+    "ukphone": "'mætrəs",
+    "e_mean": [
+      "a large thick pad filled with resilient material and often incorporating coiled springs, used as a bed or part of a bed"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "rug",
+    "trans": [
+      "小地毯(盖肩或腿的)小毯子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "floor covering consisting of a piece of thick heavy fabric"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pillow",
+    "trans": [
+      "枕头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a cushion to support the head of a sleeping person"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "camera",
+    "trans": [
+      "abuilt-incamera手机内置照相机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "equipment for taking photographs"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "flashlight",
+    "trans": [
+      "闪光；手电筒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small portable battery-powered electric lamp"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "refrigerator",
+    "trans": [
+      "冰箱； 冷藏库"
+    ],
+    "usphone": "rɪ'frɪdʒəretɚ",
+    "ukphone": "rɪ'frɪdʒəreɪtə(r)",
+    "e_mean": [
+      "appliance in which food can be stored at low temperatures"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "refrigeration",
+    "trans": [
+      "冷藏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the process of cooling or freezing for preservative purposes"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "fence",
+    "trans": [
+      "栅栏/围栏.setupfences设立栅栏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a barrier that serves to enclose an area"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "candle",
+    "trans": [
+      "蜡烛.light/blowouta~点亮/吹灭蜡烛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "stick of wax with a wick in the middle"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "paperback",
+    "trans": [
+      "简装书，平装书"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "(of books) having a flexible binding"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "pamphlet",
+    "trans": [
+      "小册子"
+    ],
+    "usphone": "ˈpæmflɪt",
+    "ukphone": "'pæmflət",
+    "e_mean": [
+      "a small book usually having a paper cover"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "booklet",
+    "trans": [
+      "小册子"
+    ],
+    "usphone": "'bʊklət",
+    "ukphone": "'buklət",
+    "e_mean": [
+      "a small book usually having a paper cover"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "brochure",
+    "trans": [
+      "(广告或资料)手册"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small booklet with information about a product or service"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "memorandum",
+    "trans": [
+      "备忘录， 摘要"
+    ],
+    "usphone": ",mɛmə'rændəm",
+    "ukphone": "ˌmemə'rændəm",
+    "e_mean": [
+      "a written proposal or reminder"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "stool",
+    "trans": [
+      "凳子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a simple seat without a back or arms"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "raincoat",
+    "trans": [
+      "雨衣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a water-resistant coat"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "lime",
+    "trans": [
+      "石灰"
+    ],
+    "usphone": "laɪm",
+    "ukphone": "laɪm",
+    "e_mean": [
+      "the green acidic fruit of any of various lime trees"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "plastic",
+    "trans": [
+      "塑料的"
+    ],
+    "usphone": "'plæstɪk",
+    "ukphone": "'plæstɪk",
+    "e_mean": [
+      "synthetic material that can be molded into objects"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "shear",
+    "trans": [
+      "大剪刀；剪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cut or cut through with scissors"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "section",
+    "trans": [
+      "部分； 部门； 截面"
+    ],
+    "usphone": "'sɛkʃən",
+    "ukphone": "'sekʃn",
+    "e_mean": [
+      "one of several parts or pieces that fit with others"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "knob",
+    "trans": [
+      "球形把手； 旋钮"
+    ],
+    "usphone": "nɑb",
+    "ukphone": "nɒb",
+    "e_mean": [
+      "a circular rounded projection or protuberance"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "opaque",
+    "trans": [
+      "不透明的； 晦涩的， 难懂的"
+    ],
+    "usphone": "o'pek",
+    "ukphone": "əu'peɪk",
+    "e_mean": [
+      "not transmitting or reflecting light or radiant energy"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "cotton",
+    "trans": [
+      "棉；棉线；棉布"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "erect bushy mallow plant or small tree bearing bolls containing seeds with many long hairy fibers"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mine",
+    "trans": [
+      "矿，矿井；地雷miner矿工"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "excavation from which ores and minerals are extracted"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "lubricate",
+    "trans": [
+      "润滑/加润滑油lubricatingoil润滑油"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "make slippery or smooth"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "durable",
+    "trans": [
+      "耐用的"
+    ],
+    "usphone": "'dʊrəbl",
+    "ukphone": "'djuərəbl",
+    "e_mean": [
+      "existing for a long time"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "bacterial",
+    "trans": [
+      "细菌的； 由细菌引起的"
+    ],
+    "usphone": "bæk'tɪrɪəl",
+    "ukphone": "bæk'tɪəriəl",
+    "e_mean": [
+      "relating to single-celled microorganisms"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "subsoil",
+    "trans": [
+      "底土， 下层土"
+    ],
+    "usphone": "'sʌb'sɔɪl",
+    "ukphone": "'sʌbsɔɪl",
+    "e_mean": [
+      "the layer of soil between the topsoil and bedrock"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "stereoscopic",
+    "trans": [
+      "有立体视觉的； 有立体效果的",
+      "刺， 戳； 黏贴， 黏住； 卡住， 陷住"
+    ],
+    "usphone": ",stɛrɪə'skɑpɪk",
+    "ukphone": ",sterɪəʊ'skɒpɪk",
+    "e_mean": [
+      "of or relating to stereoscopy"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "arboreal",
+    "trans": [
+      "树木的； 栖于树木的"
+    ],
+    "usphone": "ɑr'bɔrɪəl",
+    "ukphone": "ɑː'bɔːriəl",
+    "e_mean": [
+      "of or relating to or formed by trees"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "antiseptic",
+    "trans": [
+      "防腐的，"
+    ],
+    "usphone": "ˌæntiˈseptɪk",
+    "ukphone": "ˌænti'septɪk",
+    "e_mean": [
+      "thoroughly clean and free of disease-causing organisms"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "calcium",
+    "trans": [
+      "钙"
+    ],
+    "usphone": "'kælsɪəm",
+    "ukphone": "'kælsiəm",
+    "e_mean": [
+      "a white metallic element that burns with a brilliant light"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "silicon",
+    "trans": [
+      "硅"
+    ],
+    "usphone": "'sɪlɪkən",
+    "ukphone": "'sɪlɪkən",
+    "e_mean": [
+      "a tetravalent nonmetallic element"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pumice",
+    "trans": [
+      "浮石，浮岩",
+      "用浮岩磨"
+    ],
+    "usphone": "'pʌmɪs",
+    "ukphone": "'pʌmɪs",
+    "e_mean": [
+      "a porous rock formed on the surface of some lavas"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "clot",
+    "trans": [
+      "凝结成块",
+      "凝块"
+    ],
+    "usphone": "klɑt",
+    "ukphone": "klɒt",
+    "e_mean": [
+      "a lump of material formed from the content of a liquid"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "limestone",
+    "trans": [
+      "石灰石， 石灰岩"
+    ],
+    "usphone": "'laɪmston",
+    "ukphone": "'laɪmstəun",
+    "e_mean": [
+      "a sedimentary rock consisting mainly of calcium that was deposited by the remains of marine animals"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "aluminium",
+    "trans": [
+      "铝"
+    ],
+    "usphone": ",æljə'mɪnɪəm",
+    "ukphone": "ˌæljə'mɪniəm",
+    "e_mean": [
+      "a silvery ductile metallic element found primarily in bauxite"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "campfire",
+    "trans": [
+      "营火"
+    ],
+    "usphone": "'kæmpfaɪɚ",
+    "ukphone": "'kæmpfaɪə(r)",
+    "e_mean": [
+      "a small outdoor fire for warmth or cooking (as at a camp)"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "helix",
+    "trans": [
+      "螺旋， 螺旋结构"
+    ],
+    "usphone": "'hilɪks",
+    "ukphone": "'hiːlɪks",
+    "e_mean": [
+      "a curve that lies on the surface of a cylinder or cone"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "modem",
+    "trans": [
+      "调制解调器"
+    ],
+    "usphone": "'mo'dɛm",
+    "ukphone": "'məudem",
+    "e_mean": [
+      "a device used to connect computers by a telephone line"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "miscellaneous",
+    "trans": [
+      "各种各样的； 混杂的"
+    ],
+    "usphone": "'mɪsə'lenɪəs",
+    "ukphone": "ˌmɪsə'leɪniəs",
+    "e_mean": [
+      "having many aspects"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "microprocessor",
+    "trans": [
+      "微处理器"
+    ],
+    "usphone": ",maɪkro'prosɛsɚ",
+    "ukphone": "ˌmaɪkrəu'prəusesə(r)",
+    "e_mean": [
+      "integrated circuit semiconductor chip that performs the bulk of the processing and controls the parts of a system"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "fusion",
+    "trans": [
+      "熔化， 熔合； 聚变"
+    ],
+    "usphone": "'fjʊʒən",
+    "ukphone": "'fjuːʒn",
+    "e_mean": [
+      "the act of melding or melting together"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "bizarre",
+    "trans": [
+      "奇形怪状的； 怪诞的"
+    ],
+    "usphone": "bɪ'zɑr",
+    "ukphone": "bɪ'zɑː(r)",
+    "e_mean": [
+      "conspicuously or grossly unconventional or unusual"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "begrimed",
+    "trans": [
+      "污秽的"
+    ],
+    "usphone": "",
+    "ukphone": "bɪ'graɪmd",
+    "e_mean": [
+      "thickly covered with ingrained dirt or soot"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "alluvial",
+    "trans": [
+      "【地】冲积的，淤积的",
+      "冲积土， 淤积土"
+    ],
+    "usphone": "ə'lʊvɪəl",
+    "ukphone": "ə'luːviəl",
+    "e_mean": [
+      "relating to deposits carried by rushing streams"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "nickel",
+    "trans": [
+      "镍； 五分镍币"
+    ],
+    "usphone": "'nɪkl",
+    "ukphone": "'nɪkl",
+    "e_mean": [
+      "a hard malleable ductile silvery metallic element that is resistant to corrosion; used in alloys; occurs in pentlandite and smaltite and garnierite and millerite"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "junction",
+    "trans": [
+      "连接； 联结点； 交叉路口"
+    ],
+    "usphone": "'dʒʌŋkʃən",
+    "ukphone": "'dʒʌŋkʃn",
+    "e_mean": [
+      "an act of joining or adjoining things"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "machinery",
+    "trans": [
+      "〈总称〉 机械； 机构"
+    ],
+    "usphone": "mə'ʃinəri",
+    "ukphone": "mə'ʃiːnəri",
+    "e_mean": [
+      "mechanical or electrical devices collectively"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "prospectus",
+    "trans": [
+      "内容说明书， 简章， 简介"
+    ],
+    "usphone": "prə'spɛktəs",
+    "ukphone": "prə'spektəs",
+    "e_mean": [
+      "a document that sets forth a plan for a business enterprise"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "solidify",
+    "trans": [
+      "巩固， 确保； 凝固， 固化； 团结"
+    ],
+    "usphone": "sə'lɪdɪfaɪ",
+    "ukphone": "sə'lɪdɪfaɪ",
+    "e_mean": [
+      "become firm"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "crockery",
+    "trans": [
+      "陶器； 瓦器"
+    ],
+    "usphone": "'krɑkəri",
+    "ukphone": "'krɒkəri",
+    "e_mean": [
+      "ceramic dishes used for serving food"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "technician",
+    "trans": [
+      "技术员， 技师"
+    ],
+    "usphone": "tɛk'nɪʃən",
+    "ukphone": "tek'nɪʃn",
+    "e_mean": [
+      "someone who is trained in a specific process"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "facsimile",
+    "trans": [
+      "复制品； 副本"
+    ],
+    "usphone": "fæk'sɪməli",
+    "ukphone": "fæk'sɪməli",
+    "e_mean": [
+      "an exact copy or reproduction"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "bamboo",
+    "trans": [
+      "竹子"
+    ],
+    "usphone": ",bæm'bu",
+    "ukphone": "ˌbæm'buː",
+    "e_mean": [
+      "woody tropical grass having hollow woody stems"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "boulder",
+    "trans": [
+      "大石头； 鹅卵石"
+    ],
+    "usphone": "'boldɚ",
+    "ukphone": "'bəuldə(r)",
+    "e_mean": [
+      "a large smooth mass of rock detached from a place of origin"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "beneath",
+    "trans": [
+      "在下方"
+    ],
+    "usphone": "bɪˈniːθ",
+    "ukphone": "bɪ'niːθ",
+    "e_mean": [
+      "in or to a place that is lower"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "prefabricate",
+    "trans": [
+      "预制构件"
+    ],
+    "usphone": "pri'fæbrə,ket",
+    "ukphone": "ˌpriː'fæbrɪkeɪt",
+    "e_mean": [
+      "produce synthetically, artificially, or stereotypically and unoriginally"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "analysis",
+    "trans": [
+      "分析； 分解"
+    ],
+    "usphone": "ə'næləsɪs",
+    "ukphone": "ə'næləsɪs",
+    "e_mean": [
+      "abstract separation of something into its various parts"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "apparent",
+    "trans": [
+      "显然的； 表面上的"
+    ],
+    "usphone": "ə'pærənt",
+    "ukphone": "ə'pærənt",
+    "e_mean": [
+      "clearly revealed to the mind or the senses or judgment"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "correlation",
+    "trans": [
+      "相互关系， 相关"
+    ],
+    "usphone": ",kɔrə'leʃən",
+    "ukphone": "ˌkɒrə'leɪʃn",
+    "e_mean": [
+      "a reciprocal connection between two or more things"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "insulation",
+    "trans": [
+      "隔绝， 隔绝状态； 绝缘， 隔热， 隔音"
+    ],
+    "usphone": ",ɪnsə'leʃən",
+    "ukphone": "ˌɪnsjʊ'leɪʃn",
+    "e_mean": [
+      "reduction of the transmission of sound, heat, or electricity"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "waterproof",
+    "trans": [
+      "不透水的； 防水的"
+    ],
+    "usphone": "'wɔtɚpruf",
+    "ukphone": "'wɔːtəpruːf",
+    "e_mean": [
+      "not permitting the passage of liquid"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "rectangular",
+    "trans": [
+      "长方形的， 矩形的"
+    ],
+    "usphone": "rɛk'tæŋgjəlɚ",
+    "ukphone": "rek'tæŋgjələ(r)",
+    "e_mean": [
+      "having four right angles"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "calibrate",
+    "trans": [
+      "标定， 划分； 校准刻度"
+    ],
+    "usphone": "'kælɪbret",
+    "ukphone": "'kælɪbreɪt",
+    "e_mean": [
+      "make fine adjustments for optimal measuring"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "counterproductive",
+    "trans": [
+      "产生相反效果的， 适得其反的"
+    ],
+    "usphone": ",kaʊntɚprə'dʌktɪv",
+    "ukphone": "ˌkauntəprə'dʌktɪv",
+    "e_mean": [
+      "tending to hinder the achievement of a goal"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "perimeter",
+    "trans": [
+      "周长； 周边"
+    ],
+    "usphone": "pə'rɪmɪtɚ",
+    "ukphone": "pə'rɪmɪtə(r)",
+    "e_mean": [
+      "a line enclosing a plane area"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "splint",
+    "trans": [
+      "细木梗；【医】夹板",
+      "用夹板夹"
+    ],
+    "usphone": "splɪnt",
+    "ukphone": "splɪnt",
+    "e_mean": [
+      "a thin piece of wood"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tensile",
+    "trans": [
+      "拉力的， 张力的； 可延展的， 可伸长的"
+    ],
+    "usphone": "'tɛnsl",
+    "ukphone": "'tensaɪl",
+    "e_mean": [
+      "of or relating to physical stress or strain"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "clamp",
+    "trans": [
+      "夹紧",
+      "夹钳"
+    ],
+    "usphone": "klæmp",
+    "ukphone": "klæmp",
+    "e_mean": [
+      "a device that holds things firmly together"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "recreate",
+    "trans": [
+      "再现， 再创造"
+    ],
+    "usphone": ",rikrɪ'et",
+    "ukphone": "ˌriːkrɪ'eɪt",
+    "e_mean": [
+      "make anew"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "trapeze",
+    "trans": [
+      "高空秋千； 吊架"
+    ],
+    "usphone": "træ'piz",
+    "ukphone": "trə'piːz",
+    "e_mean": [
+      "a swing used by circus acrobats"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "gelatin",
+    "trans": [
+      "明胶"
+    ],
+    "usphone": "",
+    "ukphone": "'dʒelətɪn",
+    "e_mean": [
+      "a sticky, colorless protein obtained from animal tissue"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "flask",
+    "trans": [
+      "长颈瓶； 烧瓶"
+    ],
+    "usphone": "flæsk",
+    "ukphone": "flɑːsk",
+    "e_mean": [
+      "a small bottle that has a narrow neck"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "revolve",
+    "trans": [
+      "旋转"
+    ],
+    "usphone": "rɪ'vɔlv",
+    "ukphone": "rɪ'vɒlv",
+    "e_mean": [
+      "turn on or around an axis or a center"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "roller",
+    "trans": [
+      "滚筒； 滚轴"
+    ],
+    "usphone": "'rolɚ",
+    "ukphone": "'rəulə(r)",
+    "e_mean": [
+      "a mechanical device consisting of a cylindrical tube around which the hair is wound to curl it"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "protrude",
+    "trans": [
+      "伸出； 突出"
+    ],
+    "usphone": "pro'trud",
+    "ukphone": "prə'truːd",
+    "e_mean": [
+      "extend out or project in space"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "ejection",
+    "trans": [
+      "喷出； 排出物"
+    ],
+    "usphone": "",
+    "ukphone": "i'dʒekʃn",
+    "e_mean": [
+      "the act of expelling or projecting"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pathway",
+    "trans": [
+      "路径， 途径"
+    ],
+    "usphone": "'pæθwe",
+    "ukphone": "'pɑːθweɪ",
+    "e_mean": [
+      "a trodden path"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "exemplify",
+    "trans": [
+      "作为…的典型； 例证， 举例说明"
+    ],
+    "usphone": "ɪɡ'zɛmplɪfaɪ",
+    "ukphone": "ɪg'zemplɪfaɪ",
+    "e_mean": [
+      "be characteristic of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "combustion",
+    "trans": [
+      "燃烧； 燃烧过程"
+    ],
+    "usphone": "kəm'bʌstʃən",
+    "ukphone": "kəm'bʌstʃən",
+    "e_mean": [
+      "a reaction of a substance with oxygen to give heat and light"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "configuration",
+    "trans": [
+      "结构， 配置； 轮廓， 外形"
+    ],
+    "usphone": "kən,fɪɡjə'reʃən",
+    "ukphone": "kənˌfɪgə'reɪʃn",
+    "e_mean": [
+      "an arrangement of parts or elements"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "unwrap",
+    "trans": [
+      "打开， 解开； 除去包装"
+    ],
+    "usphone": "ʌn'ræp",
+    "ukphone": "ˌʌn'ræp",
+    "e_mean": [
+      "remove the outer cover or wrapping of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "consolidation",
+    "trans": [
+      "合并； 巩固"
+    ],
+    "usphone": "kən,sɑlə'deʃən",
+    "ukphone": "kənˌsɒlɪ'deɪʃn",
+    "e_mean": [
+      "combining into a solid mass"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "variability",
+    "trans": [
+      "可变性， 易变性"
+    ],
+    "usphone": ",vɛrɪə'bɪləti",
+    "ukphone": "ˌveəriə'bɪləti",
+    "e_mean": [
+      "the quality of being subject to change"
+    ],
+    "speech": "noun"
+  }
+]

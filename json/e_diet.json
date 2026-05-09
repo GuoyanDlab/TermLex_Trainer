@@ -1,0 +1,2413 @@
+[
+  {
+    "name": "radish",
+    "trans": [
+      "樱桃萝卜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a cruciferous plant of the genus Raphanus having a pungent edible root"
+    ],
+    "speech": "noun",
+    "sentence": "rat-tail radish (Raphanus caudatus); wild radish (Raphanus raphanistrum)"
+  },
+  {
+    "name": "core",
+    "trans": [
+      "果核"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the center of an object"
+    ],
+    "speech": "noun",
+    "sentence": "the core of an apple or quince"
+  },
+  {
+    "name": "hull",
+    "trans": [
+      "外壳/船体;剥去外壳"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "dry outer covering of a fruit or seed or nut"
+    ],
+    "speech": "noun",
+    "sentence": "She sat on the back porch hulling peanuts."
+  },
+  {
+    "name": "berry",
+    "trans": [
+      ".浆果"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small fruit having any of various structures, e.g., simple (grape or blueberry) or aggregate (blackberry or raspberry)"
+    ],
+    "speech": "noun",
+    "sentence": "On summer days Grandma used to take us berrying, whether we wanted to go or not."
+  },
+  {
+    "name": "strawberry",
+    "trans": [
+      "草莓"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry"
+    ],
+    "speech": "noun",
+    "sentence": "They went to pick strawberries today."
+  },
+  {
+    "name": "plum",
+    "trans": [
+      "李子；梅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of several trees producing edible oval fruit having a smooth skin and a single hard stone"
+    ],
+    "speech": "noun",
+    "sentence": "She landed a plum position as an executive for the firm."
+  },
+  {
+    "name": "lemon",
+    "trans": [
+      "柠檬"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "yellow oval fruit with juicy acidic flesh"
+    ],
+    "speech": "noun",
+    "sentence": "He didn’t realise until he’d paid for it that the car was a lemon."
+  },
+  {
+    "name": "bitter",
+    "trans": [
+      "苦的；痛苦的；严寒的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "causing a sharp and acrid taste experience"
+    ],
+    "speech": "adjective",
+    "sentence": "The coffee tasted bitter."
+  },
+  {
+    "name": "spicy",
+    "trans": [
+      "辣的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "having an agreeably pungent taste"
+    ],
+    "speech": "adjective",
+    "sentence": "He prepared a spicy casserole."
+  },
+  {
+    "name": "tobacco",
+    "trans": [
+      "烟草"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "aromatic annual or perennial herbs and shrubs"
+    ],
+    "speech": "noun",
+    "sentence": "Tobaccos from the Connecticut Valley were used for wrapping cigars."
+  },
+  {
+    "name": "sober",
+    "trans": [
+      "清醒的/头脑清醒的；醒酒=~up"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "not affected by a chemical substance, especially alcohol"
+    ],
+    "speech": "adjective",
+    "sentence": "It took him hours to sober up."
+  },
+  {
+    "name": "cabbage",
+    "trans": [
+      "洋白菜，卷心菜，甘蓝"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a vegetable grown for its edible leaves or flowers"
+    ],
+    "speech": "noun",
+    "sentence": "Cabbage is good for you."
+  },
+  {
+    "name": "creamy",
+    "trans": [
+      "含乳脂的；奶油色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of the color of cream"
+    ],
+    "speech": "adjective",
+    "sentence": "creamy milk"
+  },
+  {
+    "name": "cheese",
+    "trans": [
+      "奶酪.abigcheese要员/大人物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a solid food prepared from the pressed curd of milk"
+    ],
+    "speech": "noun",
+    "sentence": "Say \"cheese\"! ... and there we are!"
+  },
+  {
+    "name": "butter",
+    "trans": [
+      "黄油涂黄油"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a solid yellow food made from cream"
+    ],
+    "speech": "noun",
+    "sentence": "peanut butter"
+  },
+  {
+    "name": "pudding",
+    "trans": [
+      "布丁"
+    ],
+    "usphone": "'pʊdɪŋ",
+    "ukphone": "'pudɪŋ",
+    "e_mean": [
+      "any of various soft sweet desserts thickened usually with flour and baked or boiled or steamed"
+    ],
+    "speech": "noun",
+    "sentence": "We have apple pie for pudding today."
+  },
+  {
+    "name": "loaf",
+    "trans": [
+      "—条(面包)游荡/闲逛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a shaped mass of baked bread"
+    ],
+    "speech": "noun",
+    "sentence": "loaf about, loaf around."
+  },
+  {
+    "name": "biscuit",
+    "trans": [
+      "饼干/烤饼/小圆面包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "small round bread leavened with baking-powder or soda"
+    ],
+    "speech": "noun",
+    "sentence": "cheese and biscuits"
+  },
+  {
+    "name": "jam",
+    "trans": [
+      "果酱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "press tightly together or cram"
+    ],
+    "speech": "verb",
+    "sentence": "A traffic jam caused us to miss the game's first period."
+  },
+  {
+    "name": "vanilla",
+    "trans": [
+      "n•香草香草味的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of numerous climbing plants having fleshy leaves"
+    ],
+    "speech": "noun",
+    "sentence": "You can tell that the secret ingredient missing from New CokeTM was vanilla, because certain South American economies collapsed when it was introduced, and miraculously revived when the old formula was used again."
+  },
+  {
+    "name": "mustard",
+    "trans": [
+      "芥末；芥菜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "pungent powder or paste prepared from ground mustard seeds"
+    ],
+    "speech": "noun",
+    "sentence": "When the waitress brought the food, I asked whether she had any Dijon mustard."
+  },
+  {
+    "name": "pepper",
+    "trans": [
+      "胡椒",
+      "在…上撒"
+    ],
+    "usphone": "'pɛpɚ",
+    "ukphone": "'pepə(r)",
+    "e_mean": [
+      "climber having dark red berries when fully ripe"
+    ],
+    "speech": "noun",
+    "sentence": "Some ballparks have signs saying \"No pepper games\"."
+  },
+  {
+    "name": "flavour",
+    "trans": [
+      "风味，滋味",
+      "给…调味"
+    ],
+    "usphone": "'fleivə",
+    "ukphone": "'fleɪvə(r)",
+    "e_mean": [
+      "the taste experience when a savory condiment is taken into the mouth"
+    ],
+    "speech": "noun",
+    "sentence": "The flavor of this apple pie is delicious."
+  },
+  {
+    "name": "cook",
+    "trans": [
+      "v/烹调，烧，煮厨师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "transform by heating"
+    ],
+    "speech": "verb",
+    "sentence": "I'm a terrible cook, so I eat a lot of frozen dinners."
+  },
+  {
+    "name": "dice",
+    "trans": [
+      "将…切丁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small cube with 1 to 6 spots on the six faces"
+    ],
+    "speech": "noun",
+    "sentence": "Cut onions, carrots and celery into medium dice."
+  },
+  {
+    "name": "diet",
+    "trans": [
+      "日常饮食/医生指定特别饮食/节食"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the usual food and drink consumed by an organism"
+    ],
+    "speech": "noun",
+    "sentence": "The diet of the Giant Panda consists mainly of bamboo."
+  },
+  {
+    "name": "appetite",
+    "trans": [
+      "食欲， 胃口； 欲望"
+    ],
+    "usphone": "'æpəˌtaɪt",
+    "ukphone": "'æpɪtaɪt",
+    "e_mean": [
+      "a feeling of craving something"
+    ],
+    "speech": "noun",
+    "sentence": "appetite for reading"
+  },
+  {
+    "name": "treat",
+    "trans": [
+      "请(客)；对待；治疗款待"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "apply a process to with the aim of preparing for a purpose"
+    ],
+    "speech": "verb",
+    "sentence": "Here are some healthy Halloween treats for ghouls and witches of all ages."
+  },
+  {
+    "name": "treatment",
+    "trans": [
+      "治疗； 对待"
+    ],
+    "usphone": "'tritmənt",
+    "ukphone": "'triːtmənt",
+    "e_mean": [
+      "the management of someone or something"
+    ],
+    "speech": "noun",
+    "sentence": "He still has nightmares resulting from the treatment he received from his captors."
+  },
+  {
+    "name": "cater",
+    "trans": [
+      "提供饮食； 迎合； 满足需要"
+    ],
+    "usphone": "'ketɚ",
+    "ukphone": "'keɪtə(r)",
+    "e_mean": [
+      "give what is desired or needed"
+    ],
+    "speech": "verb",
+    "sentence": "The merchants are the purveyors of fine selections."
+  },
+  {
+    "name": "provision",
+    "trans": [
+      "供应， 供应品； 准备， 预备； 条款， 规定； 给养， 口粮"
+    ],
+    "usphone": "prə'vɪʒn",
+    "ukphone": "prə'vɪʒn",
+    "e_mean": [
+      "the activity of supplying something"
+    ],
+    "speech": "noun",
+    "sentence": "We increased our provision for bad debts on credit sales going into the recession."
+  },
+  {
+    "name": "edible",
+    "trans": [
+      "可食用的"
+    ],
+    "usphone": "'ɛdəbl",
+    "ukphone": "'edəbl",
+    "e_mean": [
+      "suitable for use as food"
+    ],
+    "speech": "adjective",
+    "sentence": "edible fruit"
+  },
+  {
+    "name": "recipe",
+    "trans": [
+      "食谱； 方法， 秘诀， 秘方"
+    ],
+    "usphone": "'rɛsəpi",
+    "ukphone": "'resəpi",
+    "e_mean": [
+      "directions for making something"
+    ],
+    "speech": "noun",
+    "sentence": "His new approach is definitely a recipe for success."
+  },
+  {
+    "name": "buffet",
+    "trans": [
+      "自助餐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "piece of furniture that stands at the side of a dining room"
+    ],
+    "speech": "noun",
+    "sentence": "to buffet the billows"
+  },
+  {
+    "name": "barbecue",
+    "trans": [
+      "金属烤肉架； 烧烤野餐"
+    ],
+    "usphone": "'bɑrbɪkju",
+    "ukphone": "'bɑːbɪkjuː",
+    "e_mean": [
+      "a cookout in which food is cooked over an open fire"
+    ],
+    "speech": "noun",
+    "sentence": "We cooked our food on the barbecue."
+  },
+  {
+    "name": "supper",
+    "trans": [
+      "晚餐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the evening meal"
+    ],
+    "speech": "noun",
+    "sentence": "a fish supper; a pizza supper"
+  },
+  {
+    "name": "cuisine",
+    "trans": [
+      "烹饪； 烹调法， 烹调风格； 菜肴"
+    ],
+    "usphone": "kwɪ'zin",
+    "ukphone": "kwɪ'ziːn",
+    "e_mean": [
+      "the manner of preparing food or the food so prepared"
+    ],
+    "speech": "noun",
+    "sentence": "French cuisine is considered to be one of the world's most refined and elegant styles of cooking."
+  },
+  {
+    "name": "mushroom",
+    "trans": [
+      "迅速成长",
+      "蘑菇"
+    ],
+    "usphone": "'mʌʃrʊm",
+    "ukphone": "'mʌʃrum",
+    "e_mean": [
+      "mushrooms and related fleshy fungi"
+    ],
+    "speech": "noun",
+    "sentence": "Some mushrooms are edible and taste good, while others are poisonous and taste foul."
+  },
+  {
+    "name": "peel",
+    "trans": [
+      "剥/(水果/蔬菜)皮;(水果)皮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the rind of a fruit or vegetable"
+    ],
+    "speech": "noun",
+    "sentence": "I sat by my sister's bed, peeling oranges for her."
+  },
+  {
+    "name": "strip",
+    "trans": [
+      "剥夺；夺去，使空无一物；拆卸，拆开",
+      "带状物； 条纹； 狭长地带， 带状水域"
+    ],
+    "usphone": "strɪp",
+    "ukphone": "strɪp",
+    "e_mean": [
+      "take off or remove"
+    ],
+    "speech": "verb",
+    "sentence": "The countries were in dispute over the ownership of a strip of desert about 100 metres wide."
+  },
+  {
+    "name": "sour",
+    "trans": [
+      "酸的/闷闷不乐的.look~满脸不高兴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "one of the four basic taste sensations"
+    ],
+    "speech": "adjective",
+    "sentence": "Too much lemon juice will sour the recipe."
+  },
+  {
+    "name": "sweeten",
+    "trans": [
+      "使变甜/收买/讨好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "make sweeter in taste"
+    ],
+    "speech": "verb",
+    "sentence": "to sweeten tea"
+  },
+  {
+    "name": "delicious",
+    "trans": [
+      "美味的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "extremely pleasing to the sense of taste"
+    ],
+    "speech": "adjective",
+    "sentence": "The irony is delicious!"
+  },
+  {
+    "name": "tasty",
+    "trans": [
+      "美味的，可口的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "pleasing to the palate"
+    ],
+    "speech": "adjective",
+    "sentence": "You could make this tasty meal for breakfast."
+  },
+  {
+    "name": "hunger",
+    "trans": [
+      "饥饿；饥饿感；渴望"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a physiological need for food"
+    ],
+    "speech": "noun",
+    "sentence": "I have a hunger to win."
+  },
+  {
+    "name": "hungry",
+    "trans": [
+      ".饥饿的；渴望的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "feeling a need or desire to eat food"
+    ],
+    "speech": "adjective",
+    "sentence": "My kids go to bed hungry every night because I haven't got any money."
+  },
+  {
+    "name": "thirsty",
+    "trans": [
+      "口渴的； 饥渴的"
+    ],
+    "usphone": "'θɝsti",
+    "ukphone": "'θɜːsti",
+    "e_mean": [
+      "feeling a need or desire to drink"
+    ],
+    "speech": "adjective",
+    "sentence": "After all that work I am really thirsty."
+  },
+  {
+    "name": "sauce",
+    "trans": [
+      "酱汁.onthe~经常喝酒的/喝醉的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "flavorful relish or dressing or topping served as an accompaniment to food"
+    ],
+    "speech": "noun",
+    "sentence": "apple sauce; mint sauce"
+  },
+  {
+    "name": "ketchup",
+    "trans": [
+      "番茄酱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "thick condiment made from tomatoes"
+    ],
+    "speech": "noun",
+    "sentence": "fish ketchup; fruit ketchup; mushroom ketchup"
+  },
+  {
+    "name": "supplement",
+    "trans": [
+      "补充，增补['sʌplɪmənt]",
+      "增补， 补充； 补遗； 增刊； 附录"
+    ],
+    "usphone": "'sʌplɪmənt",
+    "ukphone": "'sʌplɪment",
+    "e_mean": [
+      "an additional component that improves capability"
+    ],
+    "speech": "noun",
+    "sentence": "There is a £2 supplement if you choose the steak."
+  },
+  {
+    "name": "digest",
+    "trans": [
+      "消化；领会['daɪdʒ3st]",
+      "文摘"
+    ],
+    "usphone": "daɪ'dʒɛst",
+    "ukphone": "daɪ'dʒ3st",
+    "e_mean": [
+      "convert food into absorbable substances"
+    ],
+    "speech": "verb",
+    "sentence": "to digest laws"
+  },
+  {
+    "name": "order",
+    "trans": [
+      "订单/点的餐;点(酒菜等)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "logical arrangement of different elements"
+    ],
+    "speech": "noun",
+    "sentence": "The house is in order; the machinery is out of order."
+  },
+  {
+    "name": "takeaway",
+    "trans": [
+      "外卖餐馆，外卖食物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a concession made by a labor union to a company that is trying to lower its expenditures"
+    ],
+    "speech": "noun",
+    "sentence": "If you're hungry, there's a takeaway just around the corner."
+  },
+  {
+    "name": "chef",
+    "trans": [
+      "厨师长， 厨师"
+    ],
+    "usphone": "ʃɛf",
+    "ukphone": "ʃef",
+    "e_mean": [
+      "a professional cook"
+    ],
+    "speech": "noun",
+    "sentence": "Kiss the chef. (slogan on aprons used by home barbecue enthusiasts)"
+  },
+  {
+    "name": "chief",
+    "trans": [
+      "主要的； 为首的"
+    ],
+    "usphone": "tʃif",
+    "ukphone": "tʃiːf",
+    "e_mean": [
+      "the head of a tribe or clan"
+    ],
+    "speech": "noun",
+    "sentence": "All firefighters report to the fire chief."
+  },
+  {
+    "name": "gourmet",
+    "trans": [
+      "美食家;美味佳肴的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person devoted to and knowledgeable about fine food"
+    ],
+    "speech": "noun",
+    "sentence": "The restaurant offered gourmet coffee and cigars after the meal."
+  },
+  {
+    "name": "vegetarian",
+    "trans": [
+      "素食者的",
+      "素食者"
+    ],
+    "usphone": "ˌvɛdʒəˈtɛrɪən",
+    "ukphone": "ˌvedʒə'teəriən",
+    "e_mean": [
+      "someone who eats no meat or fish"
+    ],
+    "speech": "noun",
+    "sentence": "I have a vegetarian brother"
+  },
+  {
+    "name": "silver",
+    "trans": [
+      "银； 银器"
+    ],
+    "usphone": "'sɪlvɚ",
+    "ukphone": "'sɪlvə(r)",
+    "e_mean": [
+      "a soft white precious univalent metallic element having the highest electrical and thermal conductivity of any metal; occurs in argentite and in free form; used in coins and jewelry and tableware and photography"
+    ],
+    "speech": "noun",
+    "sentence": "to silver a pin; to silver a glass mirror plate with an amalgam of tin and mercury"
+  },
+  {
+    "name": "ceramic",
+    "trans": [
+      "陶器的"
+    ],
+    "usphone": "sə'ræmɪk",
+    "ukphone": "sə'ræmɪk",
+    "e_mean": [
+      "an artifact made of clay baked at a high temperature"
+    ],
+    "speech": "noun",
+    "sentence": "Joan made the dish from ceramic."
+  },
+  {
+    "name": "porcelain",
+    "trans": [
+      "瓷器；瓷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "ceramic ware made of a more or less translucent ceramic"
+    ],
+    "speech": "noun",
+    "sentence": "He set the table with china, cloth napkins, and crystal stemware."
+  },
+  {
+    "name": "bowl",
+    "trans": [
+      "碗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a round vessel that is open at the top"
+    ],
+    "speech": "noun",
+    "sentence": "You can’t have any more soup – you’ve had three bowls already."
+  },
+  {
+    "name": "dish",
+    "trans": [
+      "碟；菜肴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a piece of dishware normally used as a container for holding or serving food"
+    ],
+    "speech": "noun",
+    "sentence": "a dish of stew"
+  },
+  {
+    "name": "saucer",
+    "trans": [
+      "茶托，茶碟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small shallow dish for holding a cup"
+    ],
+    "speech": "noun",
+    "sentence": "The saucer-shaped object could have been a UFO."
+  },
+  {
+    "name": "fork",
+    "trans": [
+      "餐叉；分岔处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a pronged tool used for serving and eating food"
+    ],
+    "speech": "noun",
+    "sentence": "West Fork White River and East Fork White River join together to form the White River of Indiana."
+  },
+  {
+    "name": "spoon",
+    "trans": [
+      "匙，调羹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food"
+    ],
+    "speech": "noun",
+    "sentence": "Sarah spooned some apple sauce onto her plate."
+  },
+  {
+    "name": "mug",
+    "trans": [
+      "一大杯，马克杯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "with handle and usually cylindrical"
+    ],
+    "speech": "noun",
+    "sentence": "What an ugly mug."
+  },
+  {
+    "name": "kettle",
+    "trans": [
+      "水壶/锅.adifferent~offish\n截然不同的人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a metal pot with a lid for stewing or boiling"
+    ],
+    "speech": "noun",
+    "sentence": "There's a hot kettle of soup on the stove."
+  },
+  {
+    "name": "crop",
+    "trans": [
+      "庄稼/收成/产量.reapcrops收割庄稼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a cultivated plant that is grown commercially"
+    ],
+    "speech": "noun",
+    "sentence": "the farmer had lots of crops to sell at the market"
+  },
+  {
+    "name": "corn",
+    "trans": [
+      "(小麦等)谷物/[美]玉米"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times"
+    ],
+    "speech": "noun",
+    "sentence": "He paid her the nominal fee of two corns of barley."
+  },
+  {
+    "name": "grain",
+    "trans": [
+      "鼓舞颗粒.agrainof—点/些微"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a cereal grass"
+    ],
+    "speech": "noun",
+    "sentence": "We stored a thousand tons of grain for the winter."
+  },
+  {
+    "name": "reap",
+    "trans": [
+      "收割；收获"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "get or derive"
+    ],
+    "speech": "verb",
+    "sentence": "to reap a benefit from exertions"
+  },
+  {
+    "name": "flour",
+    "trans": [
+      ".面粉；粉状物质"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "fine powdery foodstuff obtained by grinding and sifting the meal of a cereal grain"
+    ],
+    "speech": "noun",
+    "sentence": "mustard flour"
+  },
+  {
+    "name": "porridge",
+    "trans": [
+      "麦片粥"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "soft food made by boiling meal or legumes in water or milk"
+    ],
+    "speech": "noun",
+    "sentence": "Eat your porridge while it's hot!"
+  },
+  {
+    "name": "turkey",
+    "trans": [
+      "火鸡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "large gallinaceous bird with fan-shaped tail"
+    ],
+    "speech": "noun",
+    "sentence": "All week after Thanksgiving, I had turkey sandwiches for lunch."
+  },
+  {
+    "name": "beefy",
+    "trans": [
+      "强壮的；肥胖的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "muscular and heavily built"
+    ],
+    "speech": "adjective",
+    "sentence": "The barman was a big, beefy guy with his sleeves rolled up and tattoos on his arms."
+  },
+  {
+    "name": "pork",
+    "trans": [
+      "猪肉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "meat from a domestic hog or pig"
+    ],
+    "speech": "noun",
+    "sentence": "The cafeteria serves pork on Tuesdays."
+  },
+  {
+    "name": "sausage",
+    "trans": [
+      "香肠"
+    ],
+    "usphone": "'sɔsɪdʒ",
+    "ukphone": "'sɒsɪdʒ",
+    "e_mean": [
+      "highly seasoned minced meat stuffed in casings"
+    ],
+    "speech": "noun",
+    "sentence": "my little sausage"
+  },
+  {
+    "name": "pond",
+    "trans": [
+      "池塘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small lake"
+    ],
+    "speech": "noun",
+    "sentence": "I haven't been back home across the pond in twenty years."
+  },
+  {
+    "name": "rod",
+    "trans": [
+      "杆，竿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a long thin implement made of metal or wood"
+    ],
+    "speech": "noun",
+    "sentence": "When I hooked a snake and not a fish, I got so scared I dropped my rod in the water."
+  },
+  {
+    "name": "diary",
+    "trans": [
+      "日记"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a daily written record of experiences and observations"
+    ],
+    "speech": "noun",
+    "sentence": "They kept separate diaries. His was on paper and her diary was on her computer's hard drive."
+  },
+  {
+    "name": "bake",
+    "trans": [
+      "烘烤；烤熟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cook and make edible by putting in a hot oven"
+    ],
+    "speech": "verb",
+    "sentence": "I baked a delicious cherry pie."
+  },
+  {
+    "name": "fry",
+    "trans": [
+      "油煎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cook on a hot surface using fat"
+    ],
+    "speech": "verb",
+    "sentence": "to be in a fry"
+  },
+  {
+    "name": "roast",
+    "trans": [
+      "烤过的",
+      "烤， 炙",
+      "烤肉"
+    ],
+    "usphone": "rost",
+    "ukphone": "rəust",
+    "e_mean": [
+      "cook with dry heat, usually in an oven"
+    ],
+    "speech": "verb",
+    "sentence": "Dark roast means that the coffee bean has been roasted to a higher temperature and for a longer period of time than in light roast."
+  },
+  {
+    "name": "toast",
+    "trans": [
+      "为……干杯/烤；烤面包片"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "slices of bread that have been toasted"
+    ],
+    "speech": "noun",
+    "sentence": "I ate a piece of toast for breakfast."
+  },
+  {
+    "name": "swallow",
+    "trans": [
+      "咽下，吞下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "pass through the esophagus as part of eating or drinking"
+    ],
+    "speech": "verb",
+    "sentence": "He took the aspirin with a single swallow of water."
+  },
+  {
+    "name": "lick",
+    "trans": [
+      "舔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "pass the tongue over"
+    ],
+    "speech": "verb",
+    "sentence": "The cat gave its fur a lick."
+  },
+  {
+    "name": "chew",
+    "trans": [
+      "咀嚼； 回味； 熟思"
+    ],
+    "usphone": "tʃʊ",
+    "ukphone": "tʃuː",
+    "e_mean": [
+      "chew (food); to bite and grind with the teeth"
+    ],
+    "speech": "verb",
+    "sentence": "I popped the gum into my mouth and gave it a chew."
+  },
+  {
+    "name": "gum",
+    "trans": [
+      "口香糖；树胶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of various substances that exude from certain plants"
+    ],
+    "speech": "noun",
+    "sentence": "Do you have a gum to spare?"
+  },
+  {
+    "name": "soak",
+    "trans": [
+      "浸泡"
+    ],
+    "usphone": "sok",
+    "ukphone": "səuk",
+    "e_mean": [
+      "submerge in a liquid"
+    ],
+    "speech": "verb",
+    "sentence": "After the strenuous climb, I had a nice long soak in a bath."
+  },
+  {
+    "name": "dip",
+    "trans": [
+      "蘸，浸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "immerse briefly into a liquid so as to wet, coat, or saturate"
+    ],
+    "speech": "verb",
+    "sentence": "There is a dip in the road ahead."
+  },
+  {
+    "name": "squeeze",
+    "trans": [
+      "压榨，榨取；捏，挤压；挤入，挤过；向…勒索",
+      "挤压， 捏； 紧缺， 拮据， 经济困难； 减少， 削减"
+    ],
+    "usphone": "skwiz",
+    "ukphone": "skwiːz",
+    "e_mean": [
+      "press firmly"
+    ],
+    "speech": "verb",
+    "sentence": "I'm in a tight squeeze right now when it comes to my free time."
+  },
+  {
+    "name": "stir",
+    "trans": [
+      "搅动； 摇动； 激动"
+    ],
+    "usphone": "stɝ",
+    "ukphone": "stɜː(r)",
+    "e_mean": [
+      "move an implement through"
+    ],
+    "speech": "verb",
+    "sentence": "Can you give the soup a little stir?"
+  },
+  {
+    "name": "grind",
+    "trans": [
+      "磨光，磨利",
+      "苦差事"
+    ],
+    "usphone": "ɡraɪnd",
+    "ukphone": "graɪnd",
+    "e_mean": [
+      "reduce to small pieces or particles by pounding or abrading"
+    ],
+    "speech": "verb",
+    "sentence": "This bag contains espresso grind."
+  },
+  {
+    "name": "slice",
+    "trans": [
+      "把…切成片，削",
+      "薄片， 切片； 份， 部分"
+    ],
+    "usphone": "slaɪs",
+    "ukphone": "slaɪs",
+    "e_mean": [
+      "a thin flat piece cut off of some object"
+    ],
+    "speech": "noun",
+    "sentence": "Jim was munching on a slice of toast."
+  },
+  {
+    "name": "pot",
+    "trans": [
+      "锅；壶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid"
+    ],
+    "speech": "noun",
+    "sentence": "After his arrest, his prospects went to pot."
+  },
+  {
+    "name": "stove",
+    "trans": [
+      "炉"
+    ],
+    "usphone": "stov",
+    "ukphone": "stəuv",
+    "e_mean": [
+      "a kitchen appliance used for cooking food"
+    ],
+    "speech": "noun",
+    "sentence": "to stove feathers"
+  },
+  {
+    "name": "tin",
+    "trans": [
+      "锡；罐头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a silvery malleable metallic element that resists corrosion"
+    ],
+    "speech": "noun",
+    "sentence": "muffin tin"
+  },
+  {
+    "name": "alcoholic",
+    "trans": [
+      "酒精/的；酗酒者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "characteristic of or containing volatile hydroxyl compounds"
+    ],
+    "speech": "adjective",
+    "sentence": "He ordered an alcoholic beverage."
+  },
+  {
+    "name": "cigarette",
+    "trans": [
+      "香烟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "finely ground tobacco wrapped in paper; for smoking"
+    ],
+    "speech": "noun",
+    "sentence": "Could someone cigarette me?"
+  },
+  {
+    "name": "vinegar",
+    "trans": [
+      "醋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a sour-tasting liquid used as a condiment or preservative"
+    ],
+    "speech": "noun",
+    "sentence": "a range of herb-flavoured vinegars"
+  },
+  {
+    "name": "shred",
+    "trans": [
+      "切碎，撕碎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a small piece of cloth or paper"
+    ],
+    "speech": "noun",
+    "sentence": "There isn't a shred of evidence to support his claims."
+  },
+  {
+    "name": "chop",
+    "trans": [
+      "剁碎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cut with a hacking tool"
+    ],
+    "speech": "verb",
+    "sentence": "I only like lamb chops with mint jelly."
+  },
+  {
+    "name": "steam",
+    "trans": [
+      "发出蒸汽； 行驶； 用蒸汽开动",
+      "汽，汽雾"
+    ],
+    "usphone": "stim",
+    "ukphone": "stiːm",
+    "e_mean": [
+      "water at boiling temperature diffused in the atmosphere"
+    ],
+    "speech": "noun",
+    "sentence": "After three weeks in bed he was finally able to sit up under his own steam."
+  },
+  {
+    "name": "roast",
+    "trans": [
+      "烤过的",
+      "烤， 炙",
+      "烤肉"
+    ],
+    "usphone": "rost",
+    "ukphone": "rəust",
+    "e_mean": [
+      "cook with dry heat, usually in an oven"
+    ],
+    "speech": "verb",
+    "sentence": "Dark roast means that the coffee bean has been roasted to a higher temperature and for a longer period of time than in light roast."
+  },
+  {
+    "name": "shell",
+    "trans": [
+      "给…去壳； 炮击",
+      "壳；炮弹"
+    ],
+    "usphone": "ʃɛl",
+    "ukphone": "ʃel",
+    "e_mean": [
+      "the outer covering of an animal"
+    ],
+    "speech": "noun",
+    "sentence": "The restaurant served caramelized onion shells."
+  },
+  {
+    "name": "peel",
+    "trans": [
+      "剥皮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the rind of a fruit or vegetable"
+    ],
+    "speech": "noun",
+    "sentence": "I sat by my sister's bed, peeling oranges for her."
+  },
+  {
+    "name": "beat",
+    "trans": [
+      "搅打"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "hit repeatedly"
+    ],
+    "speech": "verb",
+    "sentence": "a beat of the heart; the beat of the pulse"
+  },
+  {
+    "name": "toss",
+    "trans": [
+      "(在液体中)轻轻搅拌，摇匀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "throw with a light motion"
+    ],
+    "speech": "verb",
+    "sentence": "I couldn't give a toss about her."
+  },
+  {
+    "name": "mash",
+    "trans": [
+      "捣烂、捣碎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "compress with violence, out of natural shape or condition"
+    ],
+    "speech": "verb",
+    "sentence": "The potatoes need to be mashed."
+  },
+  {
+    "name": "guzzle",
+    "trans": [
+      "狂饮， 暴饮； 大量消耗"
+    ],
+    "usphone": "'ɡʌzl",
+    "ukphone": "'gʌzl",
+    "e_mean": [
+      "drink greedily or as if with great thirst"
+    ],
+    "speech": "verb",
+    "sentence": "This car just guzzles petrol."
+  },
+  {
+    "name": "spoilage",
+    "trans": [
+      "变质； 损坏"
+    ],
+    "usphone": "'spɔɪlɪdʒ",
+    "ukphone": "'spɔɪlɪdʒ",
+    "e_mean": [
+      "the act of spoiling something by causing damage to it"
+    ],
+    "speech": "noun",
+    "sentence": "To prevent spoilage, store in a cool, dry place."
+  },
+  {
+    "name": "curry",
+    "trans": [
+      "咖喱，"
+    ],
+    "usphone": "'kɝi",
+    "ukphone": "'kʌri",
+    "e_mean": [
+      "a dish of vegetables or meats flavored with a spice mixture"
+    ],
+    "speech": "noun",
+    "sentence": "Michelangelo personally quarried marble from the world-famous quarry at Carrara."
+  },
+  {
+    "name": "texture",
+    "trans": [
+      "质地， 纹理； 口感"
+    ],
+    "usphone": "'tɛkstʃɚ",
+    "ukphone": "'tekstʃə(r)",
+    "e_mean": [
+      "the feel of a surface or a fabric"
+    ],
+    "speech": "noun",
+    "sentence": "The beans had a grainy, gritty texture in her mouth."
+  },
+  {
+    "name": "sip",
+    "trans": [
+      "小口地喝； 吸吮"
+    ],
+    "usphone": "sɪp",
+    "ukphone": "sɪp",
+    "e_mean": [
+      "drink in sips"
+    ],
+    "speech": "verb",
+    "sentence": "The water steadily seeped in through the thirl."
+  },
+  {
+    "name": "grill",
+    "trans": [
+      "烧烤；拷问，盘问",
+      "烤架"
+    ],
+    "usphone": "ɡrɪl",
+    "ukphone": "grɪl",
+    "e_mean": [
+      "a framework of metal bars used as a partition or a grate"
+    ],
+    "speech": "noun",
+    "sentence": "I put some peppers and mushrooms on the grill to go with dinner."
+  },
+  {
+    "name": "blade",
+    "trans": [
+      "刀片； 桨叶； 叶片"
+    ],
+    "usphone": "bled",
+    "ukphone": "bleɪd",
+    "e_mean": [
+      "the flat part of a tool or weapon that has a cutting edge"
+    ],
+    "speech": "noun",
+    "sentence": "Want to go blading with me later in the park?"
+  },
+  {
+    "name": "vacant",
+    "trans": [
+      "未占用的， 空的"
+    ],
+    "usphone": "'vekənt",
+    "ukphone": "'veɪkənt",
+    "e_mean": [
+      "not containing anyone or anything; unfilled or unoccupied"
+    ],
+    "speech": "adjective",
+    "sentence": "a vacant stare"
+  },
+  {
+    "name": "chip",
+    "trans": [
+      "削下",
+      "碎片；芯片；瑕疵"
+    ],
+    "usphone": "tʃɪp",
+    "ukphone": "tʃɪp",
+    "e_mean": [
+      "a small fragment of something broken off from the whole"
+    ],
+    "speech": "noun",
+    "sentence": "This cup has a chip in it."
+  },
+  {
+    "name": "limp",
+    "trans": [
+      "软的； 无力的"
+    ],
+    "usphone": "lɪmp",
+    "ukphone": "lɪmp",
+    "e_mean": [
+      "walk impeded by some physical injury"
+    ],
+    "speech": "verb",
+    "sentence": "She walks with a limp."
+  },
+  {
+    "name": "cookery",
+    "trans": [
+      "烹调法"
+    ],
+    "usphone": "'kukəri",
+    "ukphone": "'kukəri",
+    "e_mean": [
+      "the act of preparing something by the application of heat"
+    ],
+    "speech": "noun",
+    "sentence": "Henry was not very good at cookery and most of his meals ended up burned."
+  },
+  {
+    "name": "dietary",
+    "trans": [
+      "饮食的"
+    ],
+    "usphone": "'daɪə,tɛri",
+    "ukphone": "'daɪətəri",
+    "e_mean": [
+      "a regulated daily food allowance"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "drinkable",
+    "trans": [
+      "可饮用的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any liquid suitable for drinking"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "refectory",
+    "trans": [
+      "餐厅， 食堂"
+    ],
+    "usphone": "rɪ'fɛktri",
+    "ukphone": "rɪ'fektri",
+    "e_mean": [
+      "a communal dining-hall, usually in a monastery"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cafeteria",
+    "trans": [
+      "自助餐馆； 自助食堂"
+    ],
+    "usphone": ",kæfə'tɪrɪə",
+    "ukphone": "ˌkæfə'tɪəriə",
+    "e_mean": [
+      "a restaurant where you serve yourself and pay a cashier"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "banquet",
+    "trans": [
+      "宴会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a ceremonial dinner party for many people"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "refreshment",
+    "trans": [
+      "恢复；"
+    ],
+    "usphone": "ri'frɛʃmənt",
+    "ukphone": "rɪ'freʃmənt",
+    "e_mean": [
+      "snacks and drinks served as a light meal"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "snack",
+    "trans": [
+      "快餐， 小吃； 点心"
+    ],
+    "usphone": "snæk",
+    "ukphone": "snæk",
+    "e_mean": [
+      "a light informal meal"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "eggplant",
+    "trans": [
+      "茄子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "carrot",
+    "trans": [
+      "胡萝卜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "perennial plant widely cultivated as an annual in many varieties for its long conical orange edible roots; temperate and tropical regions"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "turnip",
+    "trans": [
+      "芜菁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a plant having a large, fleshy, edible white or yellow root"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cherry",
+    "trans": [
+      "樱桃"
+    ],
+    "usphone": "'tʃɛri",
+    "ukphone": "'tʃeri",
+    "e_mean": [
+      "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "blueberry",
+    "trans": [
+      "蓝莓"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of numerous shrubs of the genus Vaccinium bearing blueberries"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "grape",
+    "trans": [
+      "葡萄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of numerous woody vines of genus Vitis bearing clusters of edible berries"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "papaya",
+    "trans": [
+      "番木瓜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "tropical American shrub or small tree having huge deeply palmately cleft leaves and large oblong yellow fruit"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "melon",
+    "trans": [
+      "瓜，甜瓜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "any of numerous fruits of the gourd family having a hard rind and sweet juicy flesh"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "lemonade",
+    "trans": [
+      "柠檬饮料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "sweetened beverage of diluted lemon juice"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "kiwi",
+    "trans": [
+      "獗猴桃，奇异果"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "fuzzy brown fruit with tart green flesh"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "acidic",
+    "trans": [
+      "很酸的;酸性的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "having a pH of less than 7"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "spice",
+    "trans": [
+      "香料，调味品",
+      "使增添趣味； 往…加香料"
+    ],
+    "usphone": "spaɪs",
+    "ukphone": "spaɪs",
+    "e_mean": [
+      "any of a variety of pungent aromatic vegetable substances used for flavoring food"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "perfume",
+    "trans": [
+      "香味/芳香/香水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a toiletry that emits and diffuses a fragrant odor"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "ingredient",
+    "trans": [
+      "组成部分， 成分； 原料； 要素， 因素"
+    ],
+    "usphone": "ɪn'ɡridɪənt",
+    "ukphone": "ɪn'griːdiənt",
+    "e_mean": [
+      "a component of a mixture or compound"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "digestion",
+    "trans": [
+      "消化；消化能力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the process by which the body breaks down food"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "menu",
+    "trans": [
+      "菜单"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a list of dishes available at a restaurant"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cutlery",
+    "trans": [
+      "餐具；刀具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "tableware implements for eating food"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "spoonful",
+    "trans": [
+      "—匙(的量)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "as much as a spoon will hold"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pan",
+    "trans": [
+      "平底锅；[美]烤盘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "shallow container made of metal"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "popcorn",
+    "trans": [
+      "爆米花"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "corn having small ears and kernels that burst when exposed to dry heat"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "wheat",
+    "trans": [
+      "小麦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "annual or biennial grass having erect flower spikes and light brown grains"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "paste",
+    "trans": [
+      "襁糊；面团"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an adhesive made from water and flour or starch"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "livestock",
+    "trans": [
+      "〈总称〉 家畜， 牲畜"
+    ],
+    "usphone": "'laɪvstɑk",
+    "ukphone": "'laɪvstɒk",
+    "e_mean": [
+      "any animals kept for use or profit"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mutton",
+    "trans": [
+      "羊肉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "meat from a mature domestic sheep"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "dairy",
+    "trans": [
+      "乳制品的",
+      "奶制品；乳品店"
+    ],
+    "usphone": "'dɛri",
+    "ukphone": "'deəri",
+    "e_mean": [
+      "a farm where dairy products are produced"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cooker",
+    "trans": [
+      "炊具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a utensil for cooking"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "baker",
+    "trans": [
+      "面包师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "someone who prepares bread or cake"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "bakery",
+    "trans": [
+      "面包店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a workplace where breads and cakes and pastries are produced"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "toaster",
+    "trans": [
+      "烤面包片机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a kitchen appliance (usually electric) for toasting bread"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "suck",
+    "trans": [
+      "吮吸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "draw into the mouth by creating a vacuum in the mouth"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "furnace",
+    "trans": [
+      "熔炉"
+    ],
+    "usphone": "'fɝnɪs",
+    "ukphone": "'fɜːnɪs",
+    "e_mean": [
+      "an enclosed chamber in which heat is produced for a building"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "oven",
+    "trans": [
+      "烤炉，烤箱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "kitchen appliance used for baking or roasting"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "lid",
+    "trans": [
+      "盖子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a movable top or cover (hinged or separate) for closing the opening at the top of a box, chest, jar, pan, etc."
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "beverage",
+    "trans": [
+      "饮料"
+    ],
+    "usphone": "'bɛvərɪdʒ",
+    "ukphone": "'bevərɪdʒ",
+    "e_mean": [
+      "any liquid suitable for drinking"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "alcohol",
+    "trans": [
+      "含酒精饮料， 酒； 酒精"
+    ],
+    "usphone": "'ælkəhɔl",
+    "ukphone": "'ælkəhɒl",
+    "e_mean": [
+      "a volatile compound made by distillation"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "liquor",
+    "trans": [
+      "烈性酒； 含酒精饮料"
+    ],
+    "usphone": "'lɪkɚ",
+    "ukphone": "'lɪkə(r)",
+    "e_mean": [
+      "an alcoholic beverage that is distilled rather than fermented"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "whisky",
+    "trans": [
+      "威士忌酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a liquor made from fermented mash of grain"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "brandy",
+    "trans": [
+      "白兰地酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "distilled from wine or fermented fruit juice"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cigar",
+    "trans": [
+      "雪茄烟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a roll of tobacco for smoking"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cucumber",
+    "trans": [
+      "黄瓜"
+    ],
+    "usphone": "'kjʊ,kʌmbɚ",
+    "ukphone": "'kjuːkʌmbə(r)",
+    "e_mean": [
+      "a melon vine of the genus Cucumis"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "onion",
+    "trans": [
+      "洋葱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "yogurt",
+    "trans": [
+      ".酸奶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a custard-like food made from milk"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "sandwich",
+    "trans": [
+      "三明治；把..加入"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "two (or more) slices of bread with a filling between them"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pasta",
+    "trans": [
+      "意大利面食.spaghetti意大利细面条"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "shaped and dried dough made from flour and water and sometimes egg"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "wasabi",
+    "trans": [
+      "山葵；山葵根(用于生鱼片)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "A Japanese plant with a thick green root"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "ginger",
+    "trans": [
+      "姜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "plant with thick aromatic rhizomes and leafy reedlike stems"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "garlic",
+    "trans": [
+      "蒜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "bulbous herb of southern Europe widely naturalized"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "scallion",
+    "trans": [
+      "大葱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a young onion before the bulb has enlarged; eaten in salads"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "salty",
+    "trans": [
+      "咸的/含盐的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "containing or filled with salt"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "deep-fry",
+    "trans": [
+      "油炸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "cook by immersing in fat"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "savour",
+    "trans": [
+      "品尝，品味；欣赏；体会，体味",
+      "味道， 风味； 情趣， 吸引力"
+    ],
+    "usphone": "ˈseɪvər",
+    "ukphone": "'seɪvə(r)",
+    "e_mean": [
+      "the taste experience when a savory condiment is taken into the mouth"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "brew",
+    "trans": [
+      "酿造； 冲泡； 酝酿"
+    ],
+    "usphone": "brʊ",
+    "ukphone": "bruː",
+    "e_mean": [
+      "sit or let sit in boiling water so as to extract the flavor"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "overfill",
+    "trans": [
+      "装得太多， 装到满溢"
+    ],
+    "usphone": "",
+    "ukphone": "'əuvəˌfɪl",
+    "e_mean": [
+      "fill beyond capacity"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "calorie",
+    "trans": [
+      "卡， 大卡"
+    ],
+    "usphone": "'kæləri",
+    "ukphone": "'kæləri",
+    "e_mean": [
+      "unit of heat raising 1 gram of water by 1 degree centigrade"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "odour",
+    "trans": [
+      "气味"
+    ],
+    "usphone": "'əudə",
+    "ukphone": "'əudə(r)",
+    "e_mean": [
+      "any property detected by the olfactory system"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "glutamate",
+    "trans": [
+      "谷氨酸； 谷酸盐"
+    ],
+    "usphone": "'ɡlʊtə,met",
+    "ukphone": "'gluːtəmeɪt",
+    "e_mean": [
+      "a salt or ester of glutamic acid"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "salinity",
+    "trans": [
+      "盐分， 盐度"
+    ],
+    "usphone": "sə'lɪnəti",
+    "ukphone": "sə'lɪnəti",
+    "e_mean": [
+      "the relative proportion of salt in a solution"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "nutrition",
+    "trans": [
+      "营养； 营养学"
+    ],
+    "usphone": "nu'trɪʃən",
+    "ukphone": "nju'trɪʃn",
+    "e_mean": [
+      "the organic process of nourishing or being nourished"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "nutritional",
+    "trans": [
+      "营养的， 滋养的； 营养物的， 食物的"
+    ],
+    "usphone": "njʊ'trɪʃənl",
+    "ukphone": "nju'trɪʃənl",
+    "e_mean": [
+      "of or relating to or providing nutrition"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "droplet",
+    "trans": [
+      "小滴"
+    ],
+    "usphone": "'drɑplət",
+    "ukphone": "'drɒplət",
+    "e_mean": [
+      "a tiny sphere of a liquid"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "nurture",
+    "trans": [
+      "培养；滋养",
+      "营养品"
+    ],
+    "usphone": "'nɝtʃɚ",
+    "ukphone": "'nɜːtʃə (r)",
+    "e_mean": [
+      "provide with nourishment"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "malt",
+    "trans": [
+      "把…制成麦芽； 变成麦芽",
+      "麦芽；麦芽酒"
+    ],
+    "usphone": "mɔlt",
+    "ukphone": "mɔːlt",
+    "e_mean": [
+      "a cereal grain (usually barley) that is kiln-dried after having been germinated by soaking in water; used especially in brewing and distilling"
+    ],
+    "speech": "noun"
+  }
+]

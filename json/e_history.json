@@ -1,0 +1,2246 @@
+[
+  {
+    "name": "culture",
+    "trans": [
+      "文化/明,教养"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "all the knowledge and values shared by a society"
+    ],
+    "speech": "noun",
+    "sentence": "I'm headed to the lab to make sure my cell culture hasn't died."
+  },
+  {
+    "name": "civilisation",
+    "trans": [
+      "文明.civilise使文明"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a society in an advanced state of social development"
+    ],
+    "speech": "noun",
+    "sentence": "Modern civilization is a product of industrialization and globalization."
+  },
+  {
+    "name": "epic",
+    "trans": [
+      "史诗adj.宏大的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a long narrative poem telling of a hero's deeds"
+    ],
+    "speech": "noun",
+    "sentence": "The Icelandic epic took all night to recite."
+  },
+  {
+    "name": "ideology",
+    "trans": [
+      "意识形态，思想体系"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an orientation that characterizes the thinking of a group"
+    ],
+    "speech": "noun",
+    "sentence": "A dictatorship, in order to secure its reign, bans things that do not conform to its ideology."
+  },
+  {
+    "name": "convention",
+    "trans": [
+      "大会， 会议； 惯例， 常规， 习俗； 公约， 协定"
+    ],
+    "usphone": "kən'vɛnʃən",
+    "ukphone": "kən'venʃn",
+    "e_mean": [
+      "the act of meeting formally"
+    ],
+    "speech": "noun",
+    "sentence": "The convention was held in Geneva."
+  },
+  {
+    "name": "custom",
+    "trans": [
+      "习俗.customs海关"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "accepted or habitual practice"
+    ],
+    "speech": "noun",
+    "sentence": "The Ancient Egyptian culture had many distinctive and interesting beliefs and customs."
+  },
+  {
+    "name": "ethical",
+    "trans": [
+      "道德的； 伦理的"
+    ],
+    "usphone": "'ɛθɪkl",
+    "ukphone": "'eθɪkl",
+    "e_mean": [
+      "conforming to accepted standards of social behavior"
+    ],
+    "speech": "adjective",
+    "sentence": "The philosopher Kant is particularly known for his ethical writings."
+  },
+  {
+    "name": "tribe",
+    "trans": [
+      ".部落"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a group of people with shared ancestry and customs"
+    ],
+    "speech": "noun",
+    "sentence": "the Duchess tribe of shorthorns"
+  },
+  {
+    "name": "native",
+    "trans": [
+      "当地的",
+      "本地人， 本国人"
+    ],
+    "usphone": "'netɪv",
+    "ukphone": "'neɪtɪv",
+    "e_mean": [
+      "belonging to one by birth"
+    ],
+    "speech": "adjective",
+    "sentence": "English is not my native language."
+  },
+  {
+    "name": "local",
+    "trans": [
+      "当地的n.当地人.\nlocalise使局部化"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or belonging to or characteristic of a particular area"
+    ],
+    "speech": "adjective",
+    "sentence": "It's easy to tell the locals from the tourists."
+  },
+  {
+    "name": "impressive",
+    "trans": [
+      "给人深刻印象的， 令人敬佩的"
+    ],
+    "usphone": "ɪm'prɛsɪv",
+    "ukphone": "ɪm'presɪv",
+    "e_mean": [
+      "making a strong or vivid mental image"
+    ],
+    "speech": "adjective",
+    "sentence": "an impressive movie"
+  },
+  {
+    "name": "relocate",
+    "trans": [
+      "重新安置， 搬迁， 迁移"
+    ],
+    "usphone": ",ri'loket",
+    "ukphone": "ˌriːləu'keɪt",
+    "e_mean": [
+      "become established in a new place"
+    ],
+    "speech": "verb",
+    "sentence": "We had to relocate the magazine rack because we bruised our shins on it too frequently when it was near the door."
+  },
+  {
+    "name": "baron",
+    "trans": [
+      "贵族； 男爵"
+    ],
+    "usphone": "'bærən",
+    "ukphone": "'bærən",
+    "e_mean": [
+      "a nobleman (in various countries) of varying rank"
+    ],
+    "speech": "noun",
+    "sentence": "baron and feme: husband and wife"
+  },
+  {
+    "name": "characteristic",
+    "trans": [
+      "特有的； 典型的",
+      "特性；特征"
+    ],
+    "usphone": ",kærəktə'rɪstɪk",
+    "ukphone": "ˌkærəktə'rɪstɪk",
+    "e_mean": [
+      "typical or distinctive"
+    ],
+    "speech": "adjective",
+    "sentence": "The characteristic of a field, if non-zero, must be a prime number."
+  },
+  {
+    "name": "chapel",
+    "trans": [
+      "小教堂； 祈祷室"
+    ],
+    "usphone": "'tʃæpl",
+    "ukphone": "'tʃæpl",
+    "e_mean": [
+      "a place of worship that has its own altar"
+    ],
+    "speech": "noun",
+    "sentence": "The village butcher is chapel."
+  },
+  {
+    "name": "civilization",
+    "trans": [
+      "文明， 文化"
+    ],
+    "usphone": ",sɪvələ'zeʃən",
+    "ukphone": "ˌsɪvəlaɪ'zeɪʃn",
+    "e_mean": [
+      "a society in an advanced state of social development"
+    ],
+    "speech": "noun",
+    "sentence": "Modern civilization is a product of industrialization and globalization."
+  },
+  {
+    "name": "antiquity",
+    "trans": [
+      "古， 古老； 古代； 古人； 古迹， 古物"
+    ],
+    "usphone": "æn'tɪkwəti",
+    "ukphone": "æn'tɪkwəti",
+    "e_mean": [
+      "the historic period preceding the Middle Ages in Europe"
+    ],
+    "speech": "noun",
+    "sentence": "Cicero was an eloquent orator of antiquity."
+  },
+  {
+    "name": "foster",
+    "trans": [
+      "培养，培育；鼓励，促进；领养",
+      "收养的"
+    ],
+    "usphone": "'fɔstɚ",
+    "ukphone": "'fɒstə(r)",
+    "e_mean": [
+      "providing nurture though not related by blood or legal ties"
+    ],
+    "speech": "adjective",
+    "sentence": "Some fosters end up adopting."
+  },
+  {
+    "name": "moral",
+    "trans": [
+      "道德的，伦理的"
+    ],
+    "usphone": "'mɔrəl",
+    "ukphone": "'mɒrəl",
+    "e_mean": [
+      "concerned with principles of right and wrong"
+    ],
+    "speech": "adjective",
+    "sentence": "a candidate with strong morals"
+  },
+  {
+    "name": "exotic",
+    "trans": [
+      "外来的； 奇异的； 醒目的， 吸引人的"
+    ],
+    "usphone": "ɪɡ'zɑtɪk",
+    "ukphone": "ɪg'zɒtɪk",
+    "e_mean": [
+      "characteristic of another place or part of the world"
+    ],
+    "speech": "adjective",
+    "sentence": "Glueballs, theoretical particles composed only of gluons, are exotics."
+  },
+  {
+    "name": "alien",
+    "trans": [
+      "外国/陌生的.外侨，外星生物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "from another place or part of the world"
+    ],
+    "speech": "adjective",
+    "sentence": "alien subjects, enemies, property, or shores"
+  },
+  {
+    "name": "heritage",
+    "trans": [
+      "遗产； 传统"
+    ],
+    "usphone": "'hɛrɪtɪdʒ",
+    "ukphone": "'herɪtɪdʒ",
+    "e_mean": [
+      "that which is inherited"
+    ],
+    "speech": "noun",
+    "sentence": "The university requires heritage Spanish students to enroll in a specially designed Spanish program not available to non-heritage students."
+  },
+  {
+    "name": "inherit",
+    "trans": [
+      "继承(财产等)inheritance继承"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "receive from a predecessor"
+    ],
+    "speech": "verb",
+    "sentence": "Your descendants will inherit the earth."
+  },
+  {
+    "name": "pottery",
+    "trans": [
+      "陶器.pot壶，罐子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "objects made from clay and baked in a kiln"
+    ],
+    "speech": "noun",
+    "sentence": "The shelves were lined with pottery of all shapes and sizes."
+  },
+  {
+    "name": "engrave",
+    "trans": [
+      "雕刻； 铭记"
+    ],
+    "usphone": "ɪn'ɡrev",
+    "ukphone": "ɪn'greɪv",
+    "e_mean": [
+      "carve, cut, or etch into a material or surface"
+    ],
+    "speech": "verb",
+    "sentence": "He engraved the plaque with his name."
+  },
+  {
+    "name": "decorate",
+    "trans": [
+      "装饰， 装潢， 布置； 授勋"
+    ],
+    "usphone": "'dɛkəret",
+    "ukphone": "'dekəreɪt",
+    "e_mean": [
+      "make more attractive, as by adding ornament or color"
+    ],
+    "speech": "verb",
+    "sentence": "We decorated the Christmas tree with tinsel and baubles."
+  },
+  {
+    "name": "religion",
+    "trans": [
+      "宗教； 宗教信仰"
+    ],
+    "usphone": "rɪ'lɪdʒən",
+    "ukphone": "rɪ'lɪdʒən",
+    "e_mean": [
+      "a strong belief in supernatural powers that control destiny"
+    ],
+    "speech": "noun",
+    "sentence": "My brother tends to value religion, but my sister not as much."
+  },
+  {
+    "name": "ritual",
+    "trans": [
+      "典礼，仪式；例行公事，"
+    ],
+    "usphone": "'rɪtʃuəl",
+    "ukphone": "'rɪtʃʊəl",
+    "e_mean": [
+      "the prescribed procedure for conducting religious ceremonies"
+    ],
+    "speech": "noun",
+    "sentence": "They carried out the ritual carefully."
+  },
+  {
+    "name": "belief",
+    "trans": [
+      "信仰， 信条； 相信"
+    ],
+    "usphone": "bɪ'lif",
+    "ukphone": "bɪ'liːf",
+    "e_mean": [
+      "any cognitive content held as true"
+    ],
+    "speech": "noun",
+    "sentence": "It's my belief that the thief is somebody known to us."
+  },
+  {
+    "name": "soul",
+    "trans": [
+      "灵魂；心灵；精神"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the immaterial part of a person"
+    ],
+    "speech": "noun",
+    "sentence": "Fifty souls were lost when the ship sank."
+  },
+  {
+    "name": "spirit",
+    "trans": [
+      "精神/心灵spiritual.精神上的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the vital principle or animating force within living things"
+    ],
+    "speech": "noun",
+    "sentence": "A wandering spirit haunts the island."
+  },
+  {
+    "name": "sacred",
+    "trans": [
+      "神圣的；宗教的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "made, declared, or believed to be holy"
+    ],
+    "speech": "adjective",
+    "sentence": "a sacred day"
+  },
+  {
+    "name": "hallowed",
+    "trans": [
+      "受崇敬的； 神圣的"
+    ],
+    "usphone": "'hælod",
+    "ukphone": "'hæləud",
+    "e_mean": [
+      "worthy of religious veneration"
+    ],
+    "speech": "adjective",
+    "sentence": "a hollow tree; a hollow sphere"
+  },
+  {
+    "name": "holy",
+    "trans": [
+      "神圣的；圣洁的，虔诚的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "belonging to or associated with a divine power"
+    ],
+    "speech": "adjective",
+    "sentence": "I'm planning to visit the holy city of Jerusalem this Christmas."
+  },
+  {
+    "name": "missionary",
+    "trans": [
+      "传教士.mission使命"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "someone sent to a foreign country to spread a religion"
+    ],
+    "speech": "noun",
+    "sentence": "A missionary was just trying to convert me to his religion."
+  },
+  {
+    "name": "priest",
+    "trans": [
+      "牧师；神父；教士"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a clergyperson in a Christian church"
+    ],
+    "speech": "noun",
+    "sentence": "The Israelite priests were descended from Moses' brother Aaron."
+  },
+  {
+    "name": "church",
+    "trans": [
+      ".教堂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a place for public (especially Christian) worship"
+    ],
+    "speech": "noun",
+    "sentence": "There is a lovely little church in the valley."
+  },
+  {
+    "name": "choir",
+    "trans": [
+      "唱诗班"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a chorus that sings as part of a religious ceremony"
+    ],
+    "speech": "noun",
+    "sentence": "The church choir practices Thursday nights."
+  },
+  {
+    "name": "temple",
+    "trans": [
+      "寺院，庙宇"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a place of worship"
+    ],
+    "speech": "noun",
+    "sentence": "a temple of commerce, a temple of drinking and dining"
+  },
+  {
+    "name": "empire",
+    "trans": [
+      "帝国"
+    ],
+    "usphone": "'ɛmpaɪr",
+    "ukphone": "'empaɪə(r)",
+    "e_mean": [
+      "the domain ruled by a single authoritative sovereign"
+    ],
+    "speech": "noun",
+    "sentence": "the Russian empire"
+  },
+  {
+    "name": "royal",
+    "trans": [
+      "皇家的；高贵的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "of or relating to a king, queen, or other monarch"
+    ],
+    "speech": "adjective",
+    "sentence": "royal mast; royal sail"
+  },
+  {
+    "name": "emperor",
+    "trans": [
+      "皇帝； 君主"
+    ],
+    "usphone": "'ɛmpərɚ",
+    "ukphone": "'empərə(r)",
+    "e_mean": [
+      "the male ruler of an empire"
+    ],
+    "speech": "noun",
+    "sentence": "The Investiture Controversy was a conflict between the Emperor and the Pope."
+  },
+  {
+    "name": "king",
+    "trans": [
+      "国王.kingdom王国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a male sovereign; ruler of a kingdom"
+    ],
+    "speech": "noun",
+    "sentence": "Henry VIII was the king of England from 1509 to 1547."
+  },
+  {
+    "name": "prince",
+    "trans": [
+      "王子；亲王"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a male member of a royal family other than the sovereign"
+    ],
+    "speech": "noun",
+    "sentence": "He is a prince among men."
+  },
+  {
+    "name": "princess",
+    "trans": [
+      "公主；王妃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a female member of a royal family other than the queen"
+    ],
+    "speech": "noun",
+    "sentence": "Princess Grace was the Princess of Monaco."
+  },
+  {
+    "name": "majesty",
+    "trans": [
+      "威严/壮观/陛下.\nmajestic.宏伟的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "impressiveness in scale or proportion"
+    ],
+    "speech": "noun",
+    "sentence": "the majesty of the Great Pyramids"
+  },
+  {
+    "name": "knight",
+    "trans": [
+      "骑士v•封(某人)为爵士"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person of noble birth trained to arms and chivalry"
+    ],
+    "speech": "noun",
+    "sentence": "King Arthur and the Knights of the Round Table"
+  },
+  {
+    "name": "status",
+    "trans": [
+      "地位； 身份； 状况"
+    ],
+    "usphone": "ˈstetəs",
+    "ukphone": "'steɪtəs",
+    "e_mean": [
+      "the condition or someone or something at a particular time"
+    ],
+    "speech": "noun",
+    "sentence": "Superstition is highly correlated with economic status."
+  },
+  {
+    "name": "background",
+    "trans": [
+      "背景； 经历； 后台； 不重要或不引人注目的地方"
+    ],
+    "usphone": "'bækɡraʊnd",
+    "ukphone": "'bækgraund",
+    "e_mean": [
+      "the part of a scene behind objects in the front"
+    ],
+    "speech": "noun",
+    "sentence": "The lawyer had a background in computer science."
+  },
+  {
+    "name": "experience",
+    "trans": [
+      "经验/体验.experienced"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the content of observation or participation in an event"
+    ],
+    "speech": "noun",
+    "sentence": "It was an experience he would not soon forget."
+  },
+  {
+    "name": "accident",
+    "trans": [
+      "事故；意外，accidental."
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an unfortunate mishap"
+    ],
+    "speech": "noun",
+    "sentence": "to die by an accident"
+  },
+  {
+    "name": "incident",
+    "trans": [
+      "发生的事； 事件， 事变"
+    ],
+    "usphone": "'ɪnsɪdənt",
+    "ukphone": "'ɪnsɪdənt",
+    "e_mean": [
+      "a single distinct event"
+    ],
+    "speech": "noun",
+    "sentence": "It was an incident that he hoped to forget."
+  },
+  {
+    "name": "thrive",
+    "trans": [
+      "兴旺， 繁荣"
+    ],
+    "usphone": "θraɪv",
+    "ukphone": "θraɪv",
+    "e_mean": [
+      "make steady progress"
+    ],
+    "speech": "verb",
+    "sentence": "Not all animals thrive well in captivity."
+  },
+  {
+    "name": "setback",
+    "trans": [
+      "挫折/阻碍.abusiness~生意挫折"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an unfortunate happening that thwarts or hinders"
+    ],
+    "speech": "noun",
+    "sentence": "After some initial setbacks, the expedition went safely on its way."
+  },
+  {
+    "name": "up-to-date",
+    "trans": [
+      "直到最近的； 现代的"
+    ],
+    "usphone": "'ʌptə 'det",
+    "ukphone": "ˌʌptə'deɪt",
+    "e_mean": [
+      "reflecting the latest information or changes"
+    ],
+    "speech": "adjective",
+    "sentence": "Use an up-to-date text for your source."
+  },
+  {
+    "name": "ancestral",
+    "trans": [
+      "祖先的； 祖传的"
+    ],
+    "usphone": "æn'sɛstrəl",
+    "ukphone": "æn'sestrəl",
+    "e_mean": [
+      "of or inherited from someone from whom you are descended"
+    ],
+    "speech": "adjective",
+    "sentence": "an ancestral estate"
+  },
+  {
+    "name": "initial",
+    "trans": [
+      "最初的，开始的；词首的",
+      "词首大写字母"
+    ],
+    "usphone": "ɪ'nɪʃəl",
+    "ukphone": "ɪ'nɪʃl",
+    "e_mean": [
+      "occurring at the beginning"
+    ],
+    "speech": "adjective",
+    "sentence": "You can get your initials printed at the top."
+  },
+  {
+    "name": "storyline",
+    "trans": [
+      "故事情节"
+    ],
+    "usphone": "'stɔ:ri,lain",
+    "ukphone": "'stɔːrilaɪn",
+    "e_mean": [
+      "the plot of a book or play or film"
+    ],
+    "speech": "noun",
+    "sentence": "That film had a wonderful storyline, but the poor acting let it down."
+  },
+  {
+    "name": "medieval",
+    "trans": [
+      "中世纪的； 中古的"
+    ],
+    "usphone": ",midɪ'ivəl",
+    "ukphone": "ˌmedi'iːvl",
+    "e_mean": [
+      "relating to or belonging to the Middle Ages"
+    ],
+    "speech": "adjective",
+    "sentence": "Thank God for modern remedies: the medievals were often useless or even harmful."
+  },
+  {
+    "name": "exodus",
+    "trans": [
+      "大批离去， 成群外出"
+    ],
+    "usphone": "'ɛksədəs",
+    "ukphone": "'eksədəs",
+    "e_mean": [
+      "a journey by a group to escape from a hostile environment"
+    ],
+    "speech": "noun",
+    "sentence": "There was an exodus when the show ended."
+  },
+  {
+    "name": "tribal",
+    "trans": [
+      "部落的， 部族的； 集团意识强的"
+    ],
+    "usphone": "'traɪbl",
+    "ukphone": "'traɪbl",
+    "e_mean": [
+      "relating to or characteristic of a clan or social group"
+    ],
+    "speech": "adjective",
+    "sentence": "social order through tribal law"
+  },
+  {
+    "name": "topple",
+    "trans": [
+      "倒塌， 倒下； 打倒， 推翻"
+    ],
+    "usphone": "'tɑpl",
+    "ukphone": "'tɒpl",
+    "e_mean": [
+      "fall down, as if collapsing"
+    ],
+    "speech": "verb",
+    "sentence": "The massed crowds toppled the statue of the former dictator."
+  },
+  {
+    "name": "endure",
+    "trans": [
+      "忍受； 持久， 持续"
+    ],
+    "usphone": "ɪn'dʊr",
+    "ukphone": "ɪn'djuə(r)",
+    "e_mean": [
+      "undergo or be subjected to"
+    ],
+    "speech": "verb",
+    "sentence": "The singer's popularity endured for decades."
+  },
+  {
+    "name": "criterion",
+    "trans": [
+      "标准， 准则"
+    ],
+    "usphone": "kraɪˈtɪriən",
+    "ukphone": "kraɪ'tɪəriən",
+    "e_mean": [
+      "the ideal in terms of which something can be judged"
+    ],
+    "speech": "noun",
+    "sentence": "Criterion of choice, of decision, of selection"
+  },
+  {
+    "name": "fate",
+    "trans": [
+      "命运， 天数"
+    ],
+    "usphone": "fet",
+    "ukphone": "feɪt",
+    "e_mean": [
+      "the ultimate agency predetermining the course of events"
+    ],
+    "speech": "noun",
+    "sentence": "Accept your fate."
+  },
+  {
+    "name": "array",
+    "trans": [
+      "陈列；"
+    ],
+    "usphone": "ə're",
+    "ukphone": "ə'reɪ",
+    "e_mean": [
+      "an impressive display or assortment"
+    ],
+    "speech": "noun",
+    "sentence": "drawn up in battle array"
+  },
+  {
+    "name": "discriminate",
+    "trans": [
+      "区别； 歧视"
+    ],
+    "usphone": "dɪ'skrɪmɪnet",
+    "ukphone": "dɪs'krɪmɪn3ɪt",
+    "e_mean": [
+      "marked by the ability to see or make fine distinctions"
+    ],
+    "speech": "adjective",
+    "sentence": "The law prohibits discriminating against people based on their skin color."
+  },
+  {
+    "name": "enslave",
+    "trans": [
+      "奴役， 征服， 使受控制"
+    ],
+    "usphone": "ɪn'slev",
+    "ukphone": "ɪn'sleɪv",
+    "e_mean": [
+      "force into servitude"
+    ],
+    "speech": "verb",
+    "sentence": "The migrants will be enslaved once they're no longer useful to the oligarchs; make no mistake about that."
+  },
+  {
+    "name": "centennial",
+    "trans": [
+      "一百年的",
+      "百年纪念"
+    ],
+    "usphone": "sɛn'tɛnɪəl",
+    "ukphone": "sen'tenɪəl",
+    "e_mean": [
+      "of or relating to or completing a period of 100 years"
+    ],
+    "speech": "adjective",
+    "sentence": "a centennial ode"
+  },
+  {
+    "name": "autocratic",
+    "trans": [
+      "独裁的， 专制的"
+    ],
+    "usphone": ",ɔtə'krætɪk",
+    "ukphone": "ˌɔːtə'krætɪk",
+    "e_mean": [
+      "characteristic of an absolute ruler or absolute rule"
+    ],
+    "speech": "adjective",
+    "sentence": "In recent years, the prime minister has become increasingly autocratic."
+  },
+  {
+    "name": "classical",
+    "trans": [
+      "古典的； 传统的； 经典的"
+    ],
+    "usphone": "'klæsɪkl",
+    "ukphone": "'klæsɪkl",
+    "e_mean": [
+      "of the most highly developed stage of an early civilization"
+    ],
+    "speech": "adjective",
+    "sentence": "classical dance."
+  },
+  {
+    "name": "exhaustive",
+    "trans": [
+      "包揽无遗的， 彻底的， 详尽的"
+    ],
+    "usphone": "ɪg'zɔstɪv",
+    "ukphone": "ɪg'zɔːstɪv",
+    "e_mean": [
+      "performed comprehensively and completely"
+    ],
+    "speech": "adjective",
+    "sentence": "We made an exhaustive list."
+  },
+  {
+    "name": "monumental",
+    "trans": [
+      "纪念碑的， 纪念物的； 不朽的， 有重大意义的"
+    ],
+    "usphone": ",mɑnju'mɛntl",
+    "ukphone": "ˌmɒnju'mentl",
+    "e_mean": [
+      "of outstanding significance"
+    ],
+    "speech": "adjective",
+    "sentence": "Monumental construction."
+  },
+  {
+    "name": "beforehand",
+    "trans": [
+      "预先， 事先"
+    ],
+    "usphone": "bɪ'fɔrhænd",
+    "ukphone": "bɪ'fɔːhænd",
+    "e_mean": [
+      "ahead of time; in anticipation"
+    ],
+    "speech": "adverb",
+    "sentence": "Will it be possible to have access to the room beforehand so that we can set up chairs?"
+  },
+  {
+    "name": "collection",
+    "trans": [
+      "收集， 积聚； 收藏"
+    ],
+    "usphone": "kə'lɛkʃən",
+    "ukphone": "kə'lekʃn",
+    "e_mean": [
+      "the act of gathering something together"
+    ],
+    "speech": "noun",
+    "sentence": "The asteroid belt consists of a collection of dust, rubble, and minor planets."
+  },
+  {
+    "name": "discredit",
+    "trans": [
+      "使怀疑； 使丧失信誉， 使丢脸"
+    ],
+    "usphone": "dɪs'krɛdɪt",
+    "ukphone": "dɪs'kredɪt",
+    "e_mean": [
+      "the state of being held in low esteem"
+    ],
+    "speech": "noun",
+    "sentence": "Later accounts have brought the story into discredit."
+  },
+  {
+    "name": "extraordinary",
+    "trans": [
+      "不同寻常的， 非常的"
+    ],
+    "usphone": "ɪkˈstrɔrdənerɪ; ɪkˈstrɔrdnˌɛrɪ",
+    "ukphone": "ɪk'strɔːdnri",
+    "e_mean": [
+      "highly unusual or exceptional or remarkable"
+    ],
+    "speech": "adjective",
+    "sentence": "an extraordinary poet"
+  },
+  {
+    "name": "inheritance",
+    "trans": [
+      "遗传； 继承， 继承物； 遗产， 遗赠"
+    ],
+    "usphone": "ɪn'hɛrɪtəns",
+    "ukphone": "ɪn'herɪtəns",
+    "e_mean": [
+      "hereditary succession to a title or an office or property"
+    ],
+    "speech": "noun",
+    "sentence": "The Indo-European languages share various similarities as a result of their inheritance from a common ancestor."
+  },
+  {
+    "name": "hinge",
+    "trans": [
+      "依…而定",
+      "合叶；铰链"
+    ],
+    "usphone": "hɪndʒ",
+    "ukphone": "hɪndʒ",
+    "e_mean": [
+      "a joint that holds two parts together so that one can swing"
+    ],
+    "speech": "noun",
+    "sentence": "This argument was the hinge on which the question turned."
+  },
+  {
+    "name": "permanent",
+    "trans": [
+      "永久的， 持久的"
+    ],
+    "usphone": "'pɝmənənt",
+    "ukphone": "'pɜːmənənt",
+    "e_mean": [
+      "continuing or enduring without marked change in status"
+    ],
+    "speech": "adjective",
+    "sentence": "Nothing in this world is truly permanent."
+  },
+  {
+    "name": "entice",
+    "trans": [
+      "怂恿， 引诱"
+    ],
+    "usphone": "ɪn'taɪs",
+    "ukphone": "ɪn'taɪs",
+    "e_mean": [
+      "provoke someone to do something through persuasion"
+    ],
+    "speech": "verb",
+    "sentence": "I enticed the little bear into the trap with a pot of honey."
+  },
+  {
+    "name": "prosperous",
+    "trans": [
+      "繁荣的， 兴旺的； 成功的"
+    ],
+    "usphone": "'prɑspərəs",
+    "ukphone": "'prɒspərəs",
+    "e_mean": [
+      "in fortunate circumstances financially"
+    ],
+    "speech": "adjective",
+    "sentence": "Trading Babe Ruth was far more prosperous for the Yankees than for the Red Sox."
+  },
+  {
+    "name": "demonstration",
+    "trans": [
+      "论证， 证明； 示范； 显示， 表露； 示威游行"
+    ],
+    "usphone": ",dɛmən'streʃən",
+    "ukphone": "ˌdemən'streɪʃn",
+    "e_mean": [
+      "a show or display"
+    ],
+    "speech": "noun",
+    "sentence": "I have to give a demonstration to the class tomorrow, and I'm ill-prepared."
+  },
+  {
+    "name": "revival",
+    "trans": [
+      "恢复， 复原； 苏醒， 复活； 复兴； 重新使用； 重新流行"
+    ],
+    "usphone": "rɪ'vaɪvl",
+    "ukphone": "rɪ'vaɪvl",
+    "e_mean": [
+      "bringing again into activity and prominence"
+    ],
+    "speech": "noun",
+    "sentence": "the revival of hot pants"
+  },
+  {
+    "name": "humble",
+    "trans": [
+      "谦逊的，谦虚的；地位低下的，卑贱的；简陋的，低劣的",
+      "使谦恭； 使卑下； 贬低"
+    ],
+    "usphone": "'hʌmbl",
+    "ukphone": "'hʌmbl",
+    "e_mean": [
+      "marked by meekness or modesty; not arrogant or prideful"
+    ],
+    "speech": "adjective",
+    "sentence": "He lives in a humble one-bedroom cottage."
+  },
+  {
+    "name": "region",
+    "trans": [
+      "地区； 范围"
+    ],
+    "usphone": "'ridʒən",
+    "ukphone": "'riːdʒən",
+    "e_mean": [
+      "the extended spatial location of something"
+    ],
+    "speech": "noun",
+    "sentence": "the equatorial regions"
+  },
+  {
+    "name": "frightened",
+    "trans": [
+      "受惊的； 受恐吓的"
+    ],
+    "usphone": "'fraɪtnd",
+    "ukphone": "'fraɪtnd",
+    "e_mean": [
+      "made afraid"
+    ],
+    "speech": "adjective",
+    "sentence": "Avery puts a sheet over her head, pretending to be a ghost to frighten Emily."
+  },
+  {
+    "name": "populace",
+    "trans": [
+      "人口， 全体居民； 平民， 大众"
+    ],
+    "usphone": "'pɑpjələs",
+    "ukphone": "'pɒpjələs",
+    "e_mean": [
+      "people in general considered as a whole"
+    ],
+    "speech": "noun",
+    "sentence": "The populace despised their ignorant leader."
+  },
+  {
+    "name": "amphibious",
+    "trans": [
+      "两栖的； 水陆两用的"
+    ],
+    "usphone": "æm'fɪbɪəs",
+    "ukphone": "æm'fɪbiəs",
+    "e_mean": [
+      "relating to vertebrates that live on land but breed in water"
+    ],
+    "speech": "adjective",
+    "sentence": "an amphibious attack"
+  },
+  {
+    "name": "ancient",
+    "trans": [
+      "古老的； 年老的"
+    ],
+    "usphone": "ˈenʃənt",
+    "ukphone": "'eɪnʃənt",
+    "e_mean": [
+      "belonging to times long past"
+    ],
+    "speech": "adjective",
+    "sentence": "an ancient city an ancient forest"
+  },
+  {
+    "name": "spiritual",
+    "trans": [
+      "精神的； 心灵的； 宗教的"
+    ],
+    "usphone": "'spɪrɪtʃʊəl",
+    "ukphone": "'spɪrɪtʃʊəl",
+    "e_mean": [
+      "lacking material body or form or substance"
+    ],
+    "speech": "adjective",
+    "sentence": "He assigns supremacy to the pope in spirituals, and to the emperor in temporals. — Lowell."
+  },
+  {
+    "name": "rekindle",
+    "trans": [
+      "重新点燃； 使复苏"
+    ],
+    "usphone": ",ri'kɪndl",
+    "ukphone": "ˌriː'kɪndl",
+    "e_mean": [
+      "arouse again"
+    ],
+    "speech": "verb",
+    "sentence": "After being abroad for a decade, when he came back he rekindled his obsession with cricket."
+  },
+  {
+    "name": "image",
+    "trans": [
+      "形象； 印象； 图像"
+    ],
+    "usphone": "'ɪmɪdʒ",
+    "ukphone": "'ɪmɪdʒ",
+    "e_mean": [
+      "a visual representation produced on a surface"
+    ],
+    "speech": "noun",
+    "sentence": "The Bible forbids the worship of graven images."
+  },
+  {
+    "name": "former",
+    "trans": [
+      "以前的",
+      "前者"
+    ],
+    "usphone": "'fɔrmɚ",
+    "ukphone": "'fɔːmə(r)",
+    "e_mean": [
+      "the first of two or the first mentioned of two"
+    ],
+    "speech": "noun",
+    "sentence": "A former president; the former East Germany"
+  },
+  {
+    "name": "extend",
+    "trans": [
+      "延长； 扩大"
+    ],
+    "usphone": "ɪk'stɛnd",
+    "ukphone": "ɪk'stend",
+    "e_mean": [
+      "stretch out over a distance, space, time, or scope"
+    ],
+    "speech": "verb",
+    "sentence": "The desert extended for miles in all directions."
+  },
+  {
+    "name": "sinister",
+    "trans": [
+      "不吉祥的， 凶兆的； 险恶的， 邪恶的"
+    ],
+    "usphone": "'sɪnɪstɚ",
+    "ukphone": "'sɪnɪstə(r)",
+    "e_mean": [
+      "wicked, evil, or dishonorable"
+    ],
+    "speech": "adjective",
+    "sentence": "sinister influences"
+  },
+  {
+    "name": "segment",
+    "trans": [
+      "片段； 部分； 节； 线段； 瓣"
+    ],
+    "usphone": "'sɛɡmənt",
+    "ukphone": "'segmənt",
+    "e_mean": [
+      "one of several parts that fit with others to make a whole"
+    ],
+    "speech": "noun",
+    "sentence": "a segment of rope"
+  },
+  {
+    "name": "imagine",
+    "trans": [
+      "想象； 猜想"
+    ],
+    "usphone": "ɪ'mædʒɪn",
+    "ukphone": "ɪ'mædʒɪn",
+    "e_mean": [
+      "expect, believe, or suppose"
+    ],
+    "speech": "verb",
+    "sentence": "Try to imagine a pink elephant."
+  },
+  {
+    "name": "administer",
+    "trans": [
+      "掌管； 给予"
+    ],
+    "usphone": "əd'mɪnɪstɚ",
+    "ukphone": "əd'mɪnɪstə(r)",
+    "e_mean": [
+      "supervise or be in charge of"
+    ],
+    "speech": "verb",
+    "sentence": "We administered the medicine to our dog by mixing it in his food."
+  },
+  {
+    "name": "derelict",
+    "trans": [
+      "被抛弃的；衰退的，破败的",
+      "遗弃物； 无家可归者， 社会弃儿"
+    ],
+    "usphone": "'dɛrəlɪkt",
+    "ukphone": "'derəlɪkt",
+    "e_mean": [
+      "a person without a home, job, or property"
+    ],
+    "speech": "noun",
+    "sentence": "There was a derelict ship on the island."
+  },
+  {
+    "name": "enclosure",
+    "trans": [
+      "四周有篱笆的场地， 围场； 附件"
+    ],
+    "usphone": "ɪn'kloʒɚ",
+    "ukphone": "ɪn'kləuʒə(r)",
+    "e_mean": [
+      "a structure consisting of an area that has been confined"
+    ],
+    "speech": "noun",
+    "sentence": "There was an enclosure with the letter — a photo."
+  },
+  {
+    "name": "understanding",
+    "trans": [
+      "体谅的； 宽容的",
+      "理解；谅解"
+    ],
+    "usphone": ",ʌndɚ'stændɪŋ",
+    "ukphone": "ˌʌndə'stændɪŋ",
+    "e_mean": [
+      "the condition of someone who knows and comprehends"
+    ],
+    "speech": "noun",
+    "sentence": "I'm sorry. I don't understand."
+  },
+  {
+    "name": "sanctuary",
+    "trans": [
+      "圣堂， 圣殿， 圣坛； 圣地； 庇护所， 避难所； 禁猎区， 动物保护区"
+    ],
+    "usphone": "'sæŋktʃuɛri",
+    "ukphone": "'sæŋktʃuəri",
+    "e_mean": [
+      "a consecrated place where sacred objects are kept"
+    ],
+    "speech": "noun",
+    "sentence": "My car is a sanctuary, where none can disturb me except for people who cut me off."
+  },
+  {
+    "name": "provenance",
+    "trans": [
+      "出处， 起源"
+    ],
+    "usphone": "'prɑvənəns",
+    "ukphone": "'prɒvənəns",
+    "e_mean": [
+      "where something originated or was nurtured"
+    ],
+    "speech": "noun",
+    "sentence": "Many supermarkets display the provenance of their food products."
+  },
+  {
+    "name": "tribute",
+    "trans": [
+      "贡品； 颂词， 称赞； 礼物"
+    ],
+    "usphone": "'trɪbjut",
+    "ukphone": "'trɪbjuːt",
+    "e_mean": [
+      "something given or done as an expression of esteem"
+    ],
+    "speech": "noun",
+    "sentence": "Please accept this as a tribute of our thanks."
+  },
+  {
+    "name": "eliminate",
+    "trans": [
+      "消灭， 消除； 淘汰"
+    ],
+    "usphone": "ɪ'lɪmɪnet",
+    "ukphone": "ɪ'lɪmɪneɪt",
+    "e_mean": [
+      "end, take out, or do away with"
+    ],
+    "speech": "verb",
+    "sentence": "a ruthless mobster who eliminated his enemies"
+  },
+  {
+    "name": "maternal",
+    "trans": [
+      "母亲的； 母系的"
+    ],
+    "usphone": "mə'tɝnl",
+    "ukphone": "mə'tɜːnl",
+    "e_mean": [
+      "characteristic of a mother"
+    ],
+    "speech": "adjective",
+    "sentence": "His weakness seemed to bring out her maternal instincts."
+  },
+  {
+    "name": "renaissance",
+    "trans": [
+      "[the R-] 文艺复兴， 文艺复兴时期； 复兴， 新生"
+    ],
+    "usphone": "ˈrenəsɑ:ns; ˌrɛnəˈsɑns",
+    "ukphone": "rɪ'neɪsns",
+    "e_mean": [
+      "a period of renewed activity and prominence"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "tradition",
+    "trans": [
+      "传统； 惯例"
+    ],
+    "usphone": "trə'dɪʃən",
+    "ukphone": "trə'dɪʃn",
+    "e_mean": [
+      "a specific practice of long standing"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "feudalism",
+    "trans": [
+      "封建主义.feudal.封建的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the social system in which vassals were protected by lords"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "slavery",
+    "trans": [
+      "奴隶制.slave奴隶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the state of being in forced servitude to another person"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "aboriginal",
+    "trans": [
+      "澳大利亚土著人adj.本土原有的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "having existed from the beginning"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "inhabitant",
+    "trans": [
+      "居民， 住户， 居住者； 栖息的动物"
+    ],
+    "usphone": "ɪn'hæbɪtənt",
+    "ukphone": "ɪn'hæbɪtənt",
+    "e_mean": [
+      "a person who lives in a particular place"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "foreigner",
+    "trans": [
+      ".外国人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person who comes from another country"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "anthropologist",
+    "trans": [
+      "人类学家"
+    ],
+    "usphone": ",ænθrə'pɑlədʒɪst",
+    "ukphone": "ˌænθrə'pɒlədʒɪst",
+    "e_mean": [
+      "a social scientist specializing in the study of humanity"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "humanitarian",
+    "trans": [
+      "人道主义者adj.人道主义的，博爱的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "marked by devotion to popular welfare"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "antique",
+    "trans": [
+      "古时的，古老的",
+      "古物， 古董"
+    ],
+    "usphone": "æn'tik",
+    "ukphone": "æn'tiːk",
+    "e_mean": [
+      "made in or typical of earlier times and valued for its age"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "archaeology",
+    "trans": [
+      "考古学.archaeological.考古学的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the branch of anthropology that studies prehistoric people"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "excavate",
+    "trans": [
+      "挖掘， 开凿"
+    ],
+    "usphone": "'ɛkskə'vet",
+    "ukphone": "'ekskəveɪt",
+    "e_mean": [
+      "recover through digging"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "museum",
+    "trans": [
+      ".博物馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a building for collecting and displaying valuable objects"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "etiquette",
+    "trans": [
+      "礼仪，礼节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "rules governing socially acceptable behavior"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "bishop",
+    "trans": [
+      "主教"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a senior member of the Christian clergy"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "Bible",
+    "trans": [
+      "基督教的《圣经》"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the sacred writings of the Christian religions"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "cathedral",
+    "trans": [
+      "大教堂[kəˈθiːdrəl]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the principal Christian church building of a diocese"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "monk",
+    "trans": [
+      "僧侣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a male member of a religious community living under vows"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "pagoda",
+    "trans": [
+      "佛塔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an Asian temple"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "imperial",
+    "trans": [
+      ".帝国的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "relating to or associated with an empire"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "dynasty",
+    "trans": [
+      "朝代"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a sequence of powerful leaders in the same family"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "chronology",
+    "trans": [
+      "年表，事件发生顺序表；年代学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "an arrangement of events in time"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "queen",
+    "trans": [
+      "王后；女王"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a female sovereign ruler"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "nobility",
+    "trans": [
+      "高尚/贵族.noble贵族的/贵族"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a privileged class holding hereditary titles"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "lord",
+    "trans": [
+      "阁下，大人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person who has general authority over others"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "guardian",
+    "trans": [
+      "保卫者/监护人.守护的\nguard保护n.守卫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a person who cares for persons or property"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "nostalgia",
+    "trans": [
+      "思乡之情；怀旧之情[nɒˈstæld3ə]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a longing for something past"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "celebrity",
+    "trans": [
+      "名声； 知名人士"
+    ],
+    "usphone": "sə'lɛbrəti",
+    "ukphone": "sə'lebrəti",
+    "e_mean": [
+      "the state or quality of being widely honored and acclaimed"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "anecdote",
+    "trans": [
+      "短故事； 趣闻， 轶事"
+    ],
+    "usphone": "'ænɪkdot",
+    "ukphone": "'ænɪkdəut",
+    "e_mean": [
+      "short account of an incident"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "prosperity",
+    "trans": [
+      "繁荣，兴旺"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "the condition of having good fortune"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "adversity",
+    "trans": [
+      "逆境"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "a state of misfortune or affliction"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "opulence",
+    "trans": [
+      "财富， 富裕； 丰富， 富饶"
+    ],
+    "usphone": "'ɑpjələns",
+    "ukphone": "'ɒpjələns",
+    "e_mean": [
+      "wealth as evidenced by sumptuous living"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "destiny",
+    "trans": [
+      "命运， 定数"
+    ],
+    "usphone": "'dɛstəni",
+    "ukphone": "'destəni",
+    "e_mean": [
+      "the ultimate agency predetermining the course of events"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "millennium",
+    "trans": [
+      "一千年， 千禧年； 太平盛世"
+    ],
+    "usphone": "məˈlɛniəm",
+    "ukphone": "mɪ'leniəm",
+    "e_mean": [
+      "a span of 1000 years"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "commonwealth",
+    "trans": [
+      "[the C-] 英联邦； 联合体"
+    ],
+    "usphone": "'kɑmən'wɛlθ",
+    "ukphone": "'kɒmənwelθ",
+    "e_mean": [
+      "a political system in which power lies in a body of citizens"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "orthodox",
+    "trans": [
+      "正统的， 传统的"
+    ],
+    "usphone": "'ɔrθədɑks",
+    "ukphone": "'ɔːθədɒks",
+    "e_mean": [
+      "adhering to what is commonly accepted"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "milestone",
+    "trans": [
+      "里程碑； 转折点"
+    ],
+    "usphone": "'maɪlston",
+    "ukphone": "'maɪlstəun",
+    "e_mean": [
+      "stone post at side of a road to show distances"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "historian",
+    "trans": [
+      "历史学家， 历史工作者"
+    ],
+    "usphone": "hɪ'stɔrɪən",
+    "ukphone": "hɪ'stɔːriən",
+    "e_mean": [
+      "a person who is an authority on the past and who studies it"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "retain",
+    "trans": [
+      "保留； 保持"
+    ],
+    "usphone": "rɪ'ten",
+    "ukphone": "rɪ'teɪn",
+    "e_mean": [
+      "secure and keep for possible future use or application"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "cultural",
+    "trans": [
+      "文化的， 人文的"
+    ],
+    "usphone": "'kʌltʃərəl",
+    "ukphone": "'kʌltʃərəl",
+    "e_mean": [
+      "relating to the shared knowledge and values of a society"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "endeavour",
+    "trans": [
+      "努力， 尽力； 尝试"
+    ],
+    "usphone": "ɪndɛvəʳ",
+    "ukphone": "ɪn'devə(r)",
+    "e_mean": [
+      "a purposeful or industrious undertaking"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "trivialize",
+    "trans": [
+      "使显得不重要， 轻视， 淡化"
+    ],
+    "usphone": "'trɪvɪəlaɪz",
+    "ukphone": "'trɪviəlaɪz",
+    "e_mean": [
+      "make insignificant"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "publicity",
+    "trans": [
+      "宣传， 宣扬； 公众的注意， 名声"
+    ],
+    "usphone": "pʌb'lɪsəti",
+    "ukphone": "pʌb'lɪsətɪ",
+    "e_mean": [
+      "a message issued in behalf of some product or cause or idea"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "antiquated",
+    "trans": [
+      "陈旧的， 过时的； 废弃的"
+    ],
+    "usphone": "'æntɪkwetɪd",
+    "ukphone": "'æntɪkweɪtɪd",
+    "e_mean": [
+      "so extremely old as seeming to belong to an earlier period"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "roll film",
+    "trans": [
+      "[感光] 胶卷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "e_mean": [
+      "photographic film wound on a spool"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "extol",
+    "trans": [
+      "赞颂， 赞美， 颂扬"
+    ],
+    "usphone": "ɪk'stol",
+    "ukphone": "ɪk'stəul",
+    "e_mean": [
+      "praise, glorify, or honor"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "ongoing",
+    "trans": [
+      "进行中的",
+      "前进， 发展"
+    ],
+    "usphone": "'ɑnɡoɪŋ",
+    "ukphone": "'ɒngəuɪŋ",
+    "e_mean": [
+      "currently happening"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "narrator",
+    "trans": [
+      "讲述者， 叙述者"
+    ],
+    "usphone": "næ'retɚ",
+    "ukphone": "nə'reɪtə(r)",
+    "e_mean": [
+      "someone who tells a story"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "disparage",
+    "trans": [
+      "贬抑， 贬低； 轻蔑， 轻视"
+    ],
+    "usphone": "dɪ'spærɪdʒ",
+    "ukphone": "dɪ'spærɪdʒ",
+    "e_mean": [
+      "express a negative opinion of"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "confusion",
+    "trans": [
+      "困惑， 糊涂； 混淆； 混乱， 杂乱， 无秩序状态， 骚乱"
+    ],
+    "usphone": "kən'fjʊʒən",
+    "ukphone": "kən'fjuːʒn",
+    "e_mean": [
+      "a mistake that results from taking one thing to be another"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "auditorium",
+    "trans": [
+      "礼堂； 观众席"
+    ],
+    "usphone": ",ɔdɪ'tɔrɪəm",
+    "ukphone": "ˌɔːdɪ'tɔːriəm",
+    "e_mean": [
+      "the area of a theater or hall where the audience sits"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "gregarious",
+    "trans": [
+      "群居的； 合群的； 爱交际的"
+    ],
+    "usphone": "grɪ'gɛrɪəs",
+    "ukphone": "grɪ'geəriəs",
+    "e_mean": [
+      "temperamentally seeking and enjoying the company of others"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "predatory",
+    "trans": [
+      "食肉的； 掠夺的"
+    ],
+    "usphone": "'prɛdətɔri",
+    "ukphone": "'predətri",
+    "e_mean": [
+      "living by preying on other animals"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "unfortunately",
+    "trans": [
+      "不幸地"
+    ],
+    "usphone": "ʌn'fɔrtʃənətli",
+    "ukphone": "ʌn'fɔːtʃənətli",
+    "e_mean": [
+      "by bad luck"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "hitherto",
+    "trans": [
+      "到目前为止， 迄今"
+    ],
+    "usphone": ",hɪðɚ'tu",
+    "ukphone": "ˌhɪðə'tuː",
+    "e_mean": [
+      "up to this point; until the present time"
+    ],
+    "speech": "adverb"
+  },
+  {
+    "name": "evolution",
+    "trans": [
+      "进展； 进化"
+    ],
+    "usphone": "ˌɛvəˈluʃən; (occas.) ˌ ivəˈluʃən",
+    "ukphone": "ˌiːvə'luːʃn",
+    "e_mean": [
+      "sequence of events involved in the development of a species"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "mundane",
+    "trans": [
+      "世界的； 世俗的， 现世的； 平淡的"
+    ],
+    "usphone": "mʌn'den",
+    "ukphone": "mʌn'deɪn",
+    "e_mean": [
+      "found in the ordinary course of events"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "pedigree",
+    "trans": [
+      "家谱； 门第； 血统"
+    ],
+    "usphone": "'pɛdɪɡri",
+    "ukphone": "'pedɪgriː",
+    "e_mean": [
+      "the ancestry or lineage of an individual"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "daunt",
+    "trans": [
+      "使气馁， 使胆怯"
+    ],
+    "usphone": "dɔ:nt",
+    "ukphone": "dɔːnt",
+    "e_mean": [
+      "cause to lose courage"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "excavation",
+    "trans": [
+      "挖掘， 发掘； 出土文物"
+    ],
+    "usphone": ",ɛkskə'veʃən",
+    "ukphone": "ˌekskə'veɪʃn",
+    "e_mean": [
+      "the act of digging"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "multinational",
+    "trans": [
+      "多国的，多民族的；跨国公司的",
+      "跨国公司"
+    ],
+    "usphone": ",mʌltɪ'næʃnəl",
+    "ukphone": "ˌmʌlti'næʃnəl",
+    "e_mean": [
+      "involving or operating in several countries"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "metaphorical",
+    "trans": [
+      "隐喻的"
+    ],
+    "usphone": "'mɛtə'fɔrɪkl",
+    "ukphone": "ˌmetə'fɒrɪkl",
+    "e_mean": [
+      "expressing one thing in terms normally denoting another"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "simplicity",
+    "trans": [
+      "简单， 简易； 朴素； 直率， 单纯"
+    ],
+    "usphone": "sɪm'plɪsəti",
+    "ukphone": "sɪm'plɪsəti",
+    "e_mean": [
+      "the quality of being uncomplicated"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "territory",
+    "trans": [
+      "领土， 版图； 领域， 范围"
+    ],
+    "usphone": "'tɛrətɔri",
+    "ukphone": "'terətri",
+    "e_mean": [
+      "a region marked off for administrative or other purposes"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "era",
+    "trans": [
+      "纪元； 时代"
+    ],
+    "usphone": "'ɪrə",
+    "ukphone": "'ɪərə",
+    "e_mean": [
+      "a period marked by distinctive character"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "morality",
+    "trans": [
+      "道德， 美德"
+    ],
+    "usphone": "məˈræləti",
+    "ukphone": "mə'ræləti",
+    "e_mean": [
+      "the quality of being in accord with right or good conduct"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "conception",
+    "trans": [
+      "观念， 概念"
+    ],
+    "usphone": "kən'sɛpʃən",
+    "ukphone": "kən'sepʃn",
+    "e_mean": [
+      "the creation of something in the mind"
+    ],
+    "speech": "noun"
+  },
+  {
+    "name": "high-tech",
+    "trans": [
+      "高科技"
+    ],
+    "usphone": ",haɪ'tɛk",
+    "ukphone": "'haɪ'tek",
+    "e_mean": [
+      "resembling or making use of highly advanced technology or devices"
+    ],
+    "speech": "adjective"
+  },
+  {
+    "name": "prosper",
+    "trans": [
+      "繁荣， 兴旺； 成功"
+    ],
+    "usphone": "'prɑspɚ",
+    "ukphone": "'prɒspə(r)",
+    "e_mean": [
+      "make steady progress"
+    ],
+    "speech": "verb"
+  },
+  {
+    "name": "renewal",
+    "trans": [
+      "更新， 恢复； 重新开始； 重建； 复兴； 续期； 重申"
+    ],
+    "usphone": "rɪ'nuəl",
+    "ukphone": "rɪ'njuːəl",
+    "e_mean": [
+      "the act of renewing"
+    ],
+    "speech": "noun"
+  }
+]
