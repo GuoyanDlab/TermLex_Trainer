@@ -4,7 +4,7 @@ export function createScreen(): blessed.Widgets.Screen {
   return blessed.screen({
     smartCSR: true,
     fullUnicode: true,
-    title: 'TUI Qwerty Learner',
+    title: 'TermLex Trainer',
     dockBorders: true,
   });
 }

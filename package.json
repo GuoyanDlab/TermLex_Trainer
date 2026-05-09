@@ -1,9 +1,9 @@
 {
-  "name": "tui-qwerty-learner",
+  "name": "termlex-trainer",
   "version": "0.1.0",
   "private": true,
   "packageManager": "pnpm@10.11.0",
-  "description": "Terminal qwerty-learner style word trainer",
+  "description": "Terminal English word and chunk trainer",
   "main": "dist/main.js",
   "scripts": {
     "dev": "ts-node --files src/main.ts",

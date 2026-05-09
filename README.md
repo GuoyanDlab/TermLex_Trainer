@@ -1,4 +1,4 @@
-# TUI Qwerty Learner
+# TermLex Trainer
 
 一个运行在终端里的英文训练器（TUI），以单词逐字输入训练为主，以间隔重复为复习调度，单词高频真实场景句子训练强化的工具，另附有高频chunks磨耳训练语感模式。
 
@@ -7,8 +7,8 @@
 ## 快速开始（30秒）
 
 ```bash
-git clone <你的仓库地址>
-cd TUI_qwerty
+git clone 
+cd termlex-trainer
 corepack enable
 pnpm install
 cp  .env
@@ -162,7 +162,7 @@ pnpm run dev
 
 ```bash
 git clone <你的仓库地址>
-cd TUI_qwerty
+cd termlex-trainer
 corepack enable
 pnpm install
 cp .env.example .env
