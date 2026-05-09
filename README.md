@@ -1,5 +1,8 @@
 # TermLex Trainer
 
+[![English](https://img.shields.io/badge/README-English-blue)](./README.md)
+[![简体中文](https://img.shields.io/badge/README-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red)](./README.zh-CN.md)
+
 A terminal-first English learning trainer (TUI) focused on character-by-character spelling practice, spaced repetition scheduling, and contextual listening. It also includes a high-frequency chunk listening mode powered by YouGlish.
 
 Built with TypeScript + Node.js + neo-blessed. This is not a web app and does not use React/Ink.
