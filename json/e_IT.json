@@ -1,0 +1,7178 @@
+[
+  {
+    "name": "responsive design",
+    "trans": [
+      "响应式设计"
+    ],
+    "usphone": "rɪˈspɑːnsɪv dɪˈzaɪn",
+    "ukphone": "rɪˈspɒnsɪv dɪˈzaɪn",
+    "e_mean": [
+      "a design approach that adapts layouts to different screen sizes"
+    ],
+    "speech": "noun",
+    "sentence": "Responsive design ensures the website works well on mobile devices."
+  },
+  {
+    "name": "single-page application",
+    "trans": [
+      "单页应用"
+    ],
+    "usphone": "ˈsɪŋɡl peɪdʒ ˌæplɪˈkeɪʃn",
+    "ukphone": "ˈsɪŋɡl peɪdʒ ˌæplɪˈkeɪʃn",
+    "e_mean": [
+      "a web application that dynamically updates a single HTML page"
+    ],
+    "speech": "noun",
+    "sentence": "React is commonly used to build single-page applications."
+  },
+  {
+    "name": "component",
+    "trans": [
+      "组件"
+    ],
+    "usphone": "kəmˈpoʊnənt",
+    "ukphone": "kəmˈpəʊnənt",
+    "e_mean": [
+      "a reusable and independent UI element"
+    ],
+    "speech": "noun",
+    "sentence": "The login form was implemented as a reusable component."
+  },
+  {
+    "name": "state management",
+    "trans": [
+      "状态管理"
+    ],
+    "usphone": "steɪt ˈmænɪdʒmənt",
+    "ukphone": "steɪt ˈmænɪdʒmənt",
+    "e_mean": [
+      "handling application data and UI state consistently"
+    ],
+    "speech": "noun",
+    "sentence": "Redux is a popular library for state management."
+  },
+  {
+    "name": "props",
+    "trans": [
+      "组件属性"
+    ],
+    "usphone": "prɑːps",
+    "ukphone": "prɒps",
+    "e_mean": [
+      "inputs passed from parent to child components"
+    ],
+    "speech": "noun",
+    "sentence": "The component receives user information through props."
+  },
+  {
+    "name": "hook",
+    "trans": [
+      "钩子函数"
+    ],
+    "usphone": "hʊk",
+    "ukphone": "hʊk",
+    "e_mean": [
+      "a special function that lets components use React features"
+    ],
+    "speech": "noun",
+    "sentence": "useEffect is a commonly used React hook."
+  },
+  {
+    "name": "virtual DOM",
+    "trans": [
+      "虚拟DOM"
+    ],
+    "usphone": "ˈvɜːrtʃuəl ˌdiː oʊ ˈem",
+    "ukphone": "ˈvɜːtʃuəl ˌdiː əʊ ˈem",
+    "e_mean": [
+      "a lightweight representation of the real DOM"
+    ],
+    "speech": "noun",
+    "sentence": "The virtual DOM improves rendering performance."
+  },
+  {
+    "name": "DOM manipulation",
+    "trans": [
+      "DOM操作"
+    ],
+    "usphone": "ˌdiː oʊ ˈem məˌnɪpjəˈleɪʃn",
+    "ukphone": "ˌdiː əʊ ˈem məˌnɪpjəˈleɪʃn",
+    "e_mean": [
+      "changing HTML elements dynamically using JavaScript"
+    ],
+    "speech": "noun",
+    "sentence": "Direct DOM manipulation should be minimized in React."
+  },
+  {
+    "name": "rendering",
+    "trans": [
+      "渲染"
+    ],
+    "usphone": "ˈrendərɪŋ",
+    "ukphone": "ˈrendərɪŋ",
+    "e_mean": [
+      "displaying UI elements on the screen"
+    ],
+    "speech": "noun",
+    "sentence": "Efficient rendering improves user experience."
+  },
+  {
+    "name": "server-side rendering",
+    "trans": [
+      "服务端渲染"
+    ],
+    "usphone": "ˈsɜːrvər saɪd ˈrendərɪŋ",
+    "ukphone": "ˈsɜːvə saɪd ˈrendərɪŋ",
+    "e_mean": [
+      "rendering web pages on the server before sending them to the browser"
+    ],
+    "speech": "noun",
+    "sentence": "Next.js supports server-side rendering for SEO optimization."
+  },
+  {
+    "name": "client-side rendering",
+    "trans": [
+      "客户端渲染"
+    ],
+    "usphone": "ˈklaɪənt saɪd ˈrendərɪŋ",
+    "ukphone": "ˈklaɪənt saɪd ˈrendərɪŋ",
+    "e_mean": [
+      "rendering pages directly in the browser using JavaScript"
+    ],
+    "speech": "noun",
+    "sentence": "Client-side rendering provides a smoother user experience."
+  },
+  {
+    "name": "hydration",
+    "trans": [
+      "水合；激活渲染"
+    ],
+    "usphone": "haɪˈdreɪʃn",
+    "ukphone": "haɪˈdreɪʃn",
+    "e_mean": [
+      "attaching JavaScript behavior to server-rendered HTML"
+    ],
+    "speech": "noun",
+    "sentence": "Hydration makes server-rendered pages interactive."
+  },
+  {
+    "name": "lazy loading",
+    "trans": [
+      "懒加载"
+    ],
+    "usphone": "ˈleɪzi ˈloʊdɪŋ",
+    "ukphone": "ˈleɪzi ˈləʊdɪŋ",
+    "e_mean": [
+      "loading resources only when they are needed"
+    ],
+    "speech": "noun",
+    "sentence": "Lazy loading improved the page load performance."
+  },
+  {
+    "name": "code splitting",
+    "trans": [
+      "代码分割"
+    ],
+    "usphone": "koʊd ˈsplɪtɪŋ",
+    "ukphone": "kəʊd ˈsplɪtɪŋ",
+    "e_mean": [
+      "splitting JavaScript bundles into smaller chunks"
+    ],
+    "speech": "noun",
+    "sentence": "Webpack supports automatic code splitting."
+  },
+  {
+    "name": "bundle size",
+    "trans": [
+      "打包体积"
+    ],
+    "usphone": "ˈbʌndl saɪz",
+    "ukphone": "ˈbʌndl saɪz",
+    "e_mean": [
+      "the total size of bundled frontend assets"
+    ],
+    "speech": "noun",
+    "sentence": "Reducing bundle size improves application performance."
+  },
+  {
+    "name": "tree shaking",
+    "trans": [
+      "摇树优化"
+    ],
+    "usphone": "triː ˈʃeɪkɪŋ",
+    "ukphone": "triː ˈʃeɪkɪŋ",
+    "e_mean": [
+      "removing unused code during the build process"
+    ],
+    "speech": "noun",
+    "sentence": "Tree shaking helps reduce JavaScript bundle size."
+  },
+  {
+    "name": "debounce",
+    "trans": [
+      "防抖"
+    ],
+    "usphone": "diˈbaʊns",
+    "ukphone": "diˈbaʊns",
+    "e_mean": [
+      "delaying repeated function execution until activity stops"
+    ],
+    "speech": "verb",
+    "sentence": "We debounce the search input to reduce API requests."
+  },
+  {
+    "name": "throttle",
+    "trans": [
+      "节流"
+    ],
+    "usphone": "ˈθrɑːtl",
+    "ukphone": "ˈθrɒtl",
+    "e_mean": [
+      "limiting how often a function can execute"
+    ],
+    "speech": "verb",
+    "sentence": "Throttle improves scroll event performance."
+  },
+  {
+    "name": "cross-browser compatibility",
+    "trans": [
+      "跨浏览器兼容性"
+    ],
+    "usphone": "krɔːs ˈbraʊzər kəmˌpætəˈbɪləti",
+    "ukphone": "krɒs ˈbraʊzə kəmˌpætəˈbɪləti",
+    "e_mean": [
+      "ensuring websites work consistently across browsers"
+    ],
+    "speech": "noun",
+    "sentence": "Cross-browser compatibility testing is essential for frontend projects."
+  },
+  {
+    "name": "accessibility",
+    "trans": [
+      "无障碍访问"
+    ],
+    "usphone": "əkˌsesəˈbɪləti",
+    "ukphone": "əkˌsesəˈbɪləti",
+    "e_mean": [
+      "designing websites usable by people with disabilities"
+    ],
+    "speech": "noun",
+    "sentence": "Accessibility improvements made the website easier to navigate."
+  },
+  {
+    "name": "semantic HTML",
+    "trans": [
+      "语义化HTML"
+    ],
+    "usphone": "sɪˈmæntɪk ˌeɪtʃ tiː em ˈel",
+    "ukphone": "sɪˈmæntɪk ˌeɪtʃ tiː em ˈel",
+    "e_mean": [
+      "using meaningful HTML tags to improve structure and accessibility"
+    ],
+    "speech": "noun",
+    "sentence": "Semantic HTML improves SEO and accessibility."
+  },
+  {
+    "name": "flexbox",
+    "trans": [
+      "弹性布局"
+    ],
+    "usphone": "ˈfleksbɑːks",
+    "ukphone": "ˈfleksbɒks",
+    "e_mean": [
+      "a CSS layout model for arranging elements flexibly"
+    ],
+    "speech": "noun",
+    "sentence": "Flexbox made it easier to align elements horizontally."
+  },
+  {
+    "name": "CSS Grid",
+    "trans": [
+      "CSS网格布局"
+    ],
+    "usphone": "ˌsiː es ˈes ɡrɪd",
+    "ukphone": "ˌsiː es ˈes ɡrɪd",
+    "e_mean": [
+      "a CSS system for creating two-dimensional layouts"
+    ],
+    "speech": "noun",
+    "sentence": "CSS Grid simplified the dashboard layout design."
+  },
+  {
+    "name": "media query",
+    "trans": [
+      "媒体查询"
+    ],
+    "usphone": "ˈmiːdiə ˈkwɪri",
+    "ukphone": "ˈmiːdiə ˈkwɪəri",
+    "e_mean": [
+      "a CSS technique for applying styles based on screen conditions"
+    ],
+    "speech": "noun",
+    "sentence": "Media queries enable responsive web design."
+  },
+  {
+    "name": "preprocessor",
+    "trans": [
+      "预处理器"
+    ],
+    "usphone": "ˌpriːˈproʊsesər",
+    "ukphone": "ˌpriːˈprəʊsesə",
+    "e_mean": [
+      "a tool that extends CSS with additional features"
+    ],
+    "speech": "noun",
+    "sentence": "Sass is a popular CSS preprocessor."
+  },
+  {
+    "name": "CSS module",
+    "trans": [
+      "CSS模块化"
+    ],
+    "usphone": "ˌsiː es ˈes ˈmɑːdʒuːl",
+    "ukphone": "ˌsiː es ˈes ˈmɒdjuːl",
+    "e_mean": [
+      "a CSS file scoped locally to a specific component"
+    ],
+    "speech": "noun",
+    "sentence": "CSS modules prevent style conflicts between components."
+  },
+  {
+    "name": "styled-components",
+    "trans": [
+      "样式化组件"
+    ],
+    "usphone": "staɪld kəmˈpoʊnənts",
+    "ukphone": "staɪld kəmˈpəʊnənts",
+    "e_mean": [
+      "a library for writing CSS inside JavaScript components"
+    ],
+    "speech": "noun",
+    "sentence": "Styled-components improve component-based styling."
+  },
+  {
+    "name": "webpack",
+    "trans": [
+      "前端打包工具Webpack"
+    ],
+    "usphone": "ˈwebpæk",
+    "ukphone": "ˈwebpæk",
+    "e_mean": [
+      "a module bundler for JavaScript applications"
+    ],
+    "speech": "noun",
+    "sentence": "Webpack bundles JavaScript and CSS files efficiently."
+  },
+  {
+    "name": "vite",
+    "trans": [
+      "Vite构建工具"
+    ],
+    "usphone": "viːt",
+    "ukphone": "viːt",
+    "e_mean": [
+      "a fast frontend build and development tool"
+    ],
+    "speech": "noun",
+    "sentence": "Vite provides a much faster development experience."
+  },
+  {
+    "name": "babel",
+    "trans": [
+      "Babel转译器"
+    ],
+    "usphone": "ˈbeɪbl",
+    "ukphone": "ˈbeɪbl",
+    "e_mean": [
+      "a JavaScript compiler that converts modern syntax for compatibility"
+    ],
+    "speech": "noun",
+    "sentence": "Babel transpiles ES6 code into browser-compatible JavaScript."
+  },
+  {
+    "name": "transpile",
+    "trans": [
+      "转译"
+    ],
+    "usphone": "trænˈspaɪl",
+    "ukphone": "trænˈspaɪl",
+    "e_mean": [
+      "convert source code from one version or language to another"
+    ],
+    "speech": "verb",
+    "sentence": "TypeScript code must be transpiled into JavaScript."
+  },
+  {
+    "name": "TypeScript",
+    "trans": [
+      "TypeScript语言"
+    ],
+    "usphone": "ˈtaɪpˌskrɪpt",
+    "ukphone": "ˈtaɪpˌskrɪpt",
+    "e_mean": [
+      "a typed superset of JavaScript"
+    ],
+    "speech": "noun",
+    "sentence": "TypeScript improves code maintainability and safety."
+  },
+  {
+    "name": "strong typing",
+    "trans": [
+      "强类型"
+    ],
+    "usphone": "strɔːŋ ˈtaɪpɪŋ",
+    "ukphone": "strɒŋ ˈtaɪpɪŋ",
+    "e_mean": [
+      "a system enforcing strict type rules in programming"
+    ],
+    "speech": "noun",
+    "sentence": "Strong typing helps prevent runtime errors."
+  },
+  {
+    "name": "interface",
+    "trans": [
+      "接口"
+    ],
+    "usphone": "ˈɪntərfeɪs",
+    "ukphone": "ˈɪntəfeɪs",
+    "e_mean": [
+      "a contract defining the structure of objects or classes"
+    ],
+    "speech": "noun",
+    "sentence": "The interface defines the user object structure."
+  },
+  {
+    "name": "generic",
+    "trans": [
+      "泛型"
+    ],
+    "usphone": "dʒəˈnerɪk",
+    "ukphone": "dʒəˈnerɪk",
+    "e_mean": [
+      "a reusable type that works with multiple data types"
+    ],
+    "speech": "noun",
+    "sentence": "Generics improve flexibility in TypeScript functions."
+  },
+  {
+    "name": "lifecycle",
+    "trans": [
+      "生命周期"
+    ],
+    "usphone": "ˈlaɪfsaɪkl",
+    "ukphone": "ˈlaɪfsaɪkl",
+    "e_mean": [
+      "the stages a component goes through during its existence"
+    ],
+    "speech": "noun",
+    "sentence": "React lifecycle methods manage component behavior."
+  },
+  {
+    "name": "memoization",
+    "trans": [
+      "记忆化缓存"
+    ],
+    "usphone": "ˌmemərəˈzeɪʃn",
+    "ukphone": "ˌmeməraɪˈzeɪʃn",
+    "e_mean": [
+      "an optimization technique that caches computation results"
+    ],
+    "speech": "noun",
+    "sentence": "Memoization reduced unnecessary re-rendering."
+  },
+  {
+    "name": "higher-order component",
+    "trans": [
+      "高阶组件"
+    ],
+    "usphone": "ˈhaɪər ˈɔːrdər kəmˈpoʊnənt",
+    "ukphone": "ˈhaɪə ˈɔːdə kəmˈpəʊnənt",
+    "e_mean": [
+      "a function that enhances or wraps another component"
+    ],
+    "speech": "noun",
+    "sentence": "The authentication logic was implemented with a higher-order component."
+  },
+  {
+    "name": "context API",
+    "trans": [
+      "上下文API"
+    ],
+    "usphone": "ˈkɑːntekst ˌeɪ piː ˈaɪ",
+    "ukphone": "ˈkɒntekst ˌeɪ piː ˈaɪ",
+    "e_mean": [
+      "a React feature for sharing data globally between components"
+    ],
+    "speech": "noun",
+    "sentence": "Context API simplified theme management across the app."
+  },
+  {
+    "name": "frontend architecture",
+    "trans": [
+      "前端架构"
+    ],
+    "usphone": "ˈfrʌntend ˈɑːrkɪtektʃər",
+    "ukphone": "ˈfrʌntend ˈɑːkɪtektʃə",
+    "e_mean": [
+      "the structural design of frontend applications"
+    ],
+    "speech": "noun",
+    "sentence": "A scalable frontend architecture improves maintainability."
+  },
+  {
+    "name": "micro frontend",
+    "trans": [
+      "微前端"
+    ],
+    "usphone": "ˈmaɪkroʊ ˈfrʌntend",
+    "ukphone": "ˈmaɪkrəʊ ˈfrʌntend",
+    "e_mean": [
+      "an architecture that splits frontend applications into smaller independent modules"
+    ],
+    "speech": "noun",
+    "sentence": "The company adopted a micro frontend architecture for scalability."
+  },
+  {
+    "name": "routing",
+    "trans": [
+      "路由"
+    ],
+    "usphone": "ˈraʊtɪŋ",
+    "ukphone": "ˈruːtɪŋ",
+    "e_mean": [
+      "mapping URLs to different pages or components"
+    ],
+    "speech": "noun",
+    "sentence": "React Router handles client-side routing."
+  },
+  {
+    "name": "nested route",
+    "trans": [
+      "嵌套路由"
+    ],
+    "usphone": "ˈnestɪd ruːt",
+    "ukphone": "ˈnestɪd ruːt",
+    "e_mean": [
+      "a route defined inside another route"
+    ],
+    "speech": "noun",
+    "sentence": "Nested routes simplify dashboard navigation structures."
+  },
+  {
+    "name": "dynamic import",
+    "trans": [
+      "动态导入"
+    ],
+    "usphone": "daɪˈnæmɪk ˈɪmpɔːrt",
+    "ukphone": "daɪˈnæmɪk ˈɪmpɔːt",
+    "e_mean": [
+      "loading JavaScript modules asynchronously when needed"
+    ],
+    "speech": "noun",
+    "sentence": "Dynamic imports enable lazy loading in React applications."
+  },
+  {
+    "name": "hot reload",
+    "trans": [
+      "热更新"
+    ],
+    "usphone": "hɑːt rɪˈloʊd",
+    "ukphone": "hɒt rɪˈləʊd",
+    "e_mean": [
+      "updating application code without refreshing the page"
+    ],
+    "speech": "noun",
+    "sentence": "Hot reload speeds up frontend development significantly."
+  },
+  {
+    "name": "source map",
+    "trans": [
+      "源码映射"
+    ],
+    "usphone": "sɔːrs mæp",
+    "ukphone": "sɔːs mæp",
+    "e_mean": [
+      "a file that maps compiled code back to original source code"
+    ],
+    "speech": "noun",
+    "sentence": "Source maps help developers debug minified JavaScript."
+  },
+  {
+    "name": "minification",
+    "trans": [
+      "代码压缩"
+    ],
+    "usphone": "ˌmɪnɪfɪˈkeɪʃn",
+    "ukphone": "ˌmɪnɪfɪˈkeɪʃn",
+    "e_mean": [
+      "removing unnecessary characters from code to reduce file size"
+    ],
+    "speech": "noun",
+    "sentence": "Minification reduced the production bundle size."
+  },
+  {
+    "name": "polyfill",
+    "trans": [
+      "兼容补丁"
+    ],
+    "usphone": "ˈpɑːlifɪl",
+    "ukphone": "ˈpɒlifɪl",
+    "e_mean": [
+      "code that provides modern functionality in older browsers"
+    ],
+    "speech": "noun",
+    "sentence": "Polyfills ensure compatibility with legacy browsers."
+  },
+  {
+    "name": "event delegation",
+    "trans": [
+      "事件委托"
+    ],
+    "usphone": "ɪˈvent ˌdelɪˈɡeɪʃn",
+    "ukphone": "ɪˈvent ˌdelɪˈɡeɪʃn",
+    "e_mean": [
+      "handling events at a parent element instead of individual children"
+    ],
+    "speech": "noun",
+    "sentence": "Event delegation improves performance for large lists."
+  },
+  {
+    "name": "event bubbling",
+    "trans": [
+      "事件冒泡"
+    ],
+    "usphone": "ɪˈvent ˈbʌblɪŋ",
+    "ukphone": "ɪˈvent ˈbʌblɪŋ",
+    "e_mean": [
+      "the propagation of events from child elements to parent elements"
+    ],
+    "speech": "noun",
+    "sentence": "Understanding event bubbling is important for DOM event handling."
+  },
+  {
+    "name": "event capturing",
+    "trans": [
+      "事件捕获"
+    ],
+    "usphone": "ɪˈvent ˈkæptʃərɪŋ",
+    "ukphone": "ɪˈvent ˈkæptʃərɪŋ",
+    "e_mean": [
+      "the phase where events travel from parent to child elements"
+    ],
+    "speech": "noun",
+    "sentence": "Event capturing occurs before event bubbling."
+  },
+  {
+    "name": "callback function",
+    "trans": [
+      "回调函数"
+    ],
+    "usphone": "ˈkɔːlbæk ˈfʌŋkʃn",
+    "ukphone": "ˈkɔːlbæk ˈfʌŋkʃn",
+    "e_mean": [
+      "a function passed as an argument to another function"
+    ],
+    "speech": "noun",
+    "sentence": "The API request uses a callback function after completion."
+  },
+  {
+    "name": "promise",
+    "trans": [
+      "Promise对象；承诺对象"
+    ],
+    "usphone": "ˈprɑːmɪs",
+    "ukphone": "ˈprɒmɪs",
+    "e_mean": [
+      "an object representing the eventual completion of an asynchronous task"
+    ],
+    "speech": "noun",
+    "sentence": "Promises simplify asynchronous JavaScript code."
+  },
+  {
+    "name": "async/await",
+    "trans": [
+      "异步等待语法"
+    ],
+    "usphone": "əˈsɪŋk əˈweɪt",
+    "ukphone": "əˈsɪŋk əˈweɪt",
+    "e_mean": [
+      "syntax for writing asynchronous code in a synchronous style"
+    ],
+    "speech": "noun",
+    "sentence": "Async/await makes asynchronous code easier to read."
+  },
+  {
+    "name": "closure",
+    "trans": [
+      "闭包"
+    ],
+    "usphone": "ˈkloʊʒər",
+    "ukphone": "ˈkləʊʒə",
+    "e_mean": [
+      "a function that retains access to its outer scope variables"
+    ],
+    "speech": "noun",
+    "sentence": "Closures are commonly used in JavaScript callbacks."
+  },
+  {
+    "name": "scope chain",
+    "trans": [
+      "作用域链"
+    ],
+    "usphone": "skoʊp tʃeɪn",
+    "ukphone": "skəʊp tʃeɪn",
+    "e_mean": [
+      "the hierarchy of scopes accessible to a function"
+    ],
+    "speech": "noun",
+    "sentence": "JavaScript resolves variables through the scope chain."
+  },
+  {
+    "name": "hoisting",
+    "trans": [
+      "变量提升"
+    ],
+    "usphone": "ˈhɔɪstɪŋ",
+    "ukphone": "ˈhɔɪstɪŋ",
+    "e_mean": [
+      "JavaScript behavior that moves declarations to the top of scope"
+    ],
+    "speech": "noun",
+    "sentence": "Understanding hoisting helps avoid undefined variable issues."
+  },
+  {
+    "name": "prototype chain",
+    "trans": [
+      "原型链"
+    ],
+    "usphone": "ˈproʊtətaɪp tʃeɪn",
+    "ukphone": "ˈprəʊtətaɪp tʃeɪn",
+    "e_mean": [
+      "the mechanism JavaScript uses for inheritance"
+    ],
+    "speech": "noun",
+    "sentence": "Objects inherit properties through the prototype chain."
+  },
+  {
+    "name": "memory optimization",
+    "trans": [
+      "内存优化"
+    ],
+    "usphone": "ˈmeməri ˌɑːptɪməˈzeɪʃn",
+    "ukphone": "ˈmeməri ˌɒptɪmaɪˈzeɪʃn",
+    "e_mean": [
+      "improving memory usage efficiency in applications"
+    ],
+    "speech": "noun",
+    "sentence": "Memory optimization reduced browser crashes on low-end devices."
+  },
+  {
+    "name": "frontend performance",
+    "trans": [
+      "前端性能"
+    ],
+    "usphone": "ˈfrʌntend pərˈfɔːrməns",
+    "ukphone": "ˈfrʌntend pəˈfɔːməns",
+    "e_mean": [
+      "the speed and efficiency of frontend applications"
+    ],
+    "speech": "noun",
+    "sentence": "Frontend performance directly affects user experience."
+  },
+  {
+    "name": "critical rendering path",
+    "trans": [
+      "关键渲染路径"
+    ],
+    "usphone": "ˈkrɪtɪkl ˈrendərɪŋ pæθ",
+    "ukphone": "ˈkrɪtɪkl ˈrendərɪŋ pɑːθ",
+    "e_mean": [
+      "the sequence of steps browsers use to render web pages"
+    ],
+    "speech": "noun",
+    "sentence": "Optimizing the critical rendering path improves page speed."
+  },
+  {
+    "name": "first contentful paint",
+    "trans": [
+      "首次内容绘制"
+    ],
+    "usphone": "fɜːrst kənˈtentfəl peɪnt",
+    "ukphone": "fɜːst kənˈtentfəl peɪnt",
+    "e_mean": [
+      "the time when the browser first displays page content"
+    ],
+    "speech": "noun",
+    "sentence": "Reducing JavaScript size improved the first contentful paint metric."
+  },
+  {
+    "name": "largest contentful paint",
+    "trans": [
+      "最大内容绘制"
+    ],
+    "usphone": "ˈlɑːrdʒɪst kənˈtentfəl peɪnt",
+    "ukphone": "ˈlɑːdʒɪst kənˈtentfəl peɪnt",
+    "e_mean": [
+      "a web performance metric measuring loading speed"
+    ],
+    "speech": "noun",
+    "sentence": "Image optimization reduced the largest contentful paint time."
+  },
+  {
+    "name": "time to interactive",
+    "trans": [
+      "可交互时间"
+    ],
+    "usphone": "taɪm tuː ˌɪntərˈæktɪv",
+    "ukphone": "taɪm tuː ˌɪntərˈæktɪv",
+    "e_mean": [
+      "the time before a page becomes fully interactive"
+    ],
+    "speech": "noun",
+    "sentence": "Code splitting reduced the time to interactive."
+  },
+  {
+    "name": "cumulative layout shift",
+    "trans": [
+      "累计布局偏移"
+    ],
+    "usphone": "ˈkjuːmjələtɪv ˈleɪaʊt ʃɪft",
+    "ukphone": "ˈkjuːmjələtɪv ˈleɪaʊt ʃɪft",
+    "e_mean": [
+      "a metric measuring unexpected layout movement on a page"
+    ],
+    "speech": "noun",
+    "sentence": "Setting image dimensions reduced cumulative layout shift."
+  },
+  {
+    "name": "progressive web app",
+    "trans": [
+      "渐进式Web应用"
+    ],
+    "usphone": "prəˈɡresɪv web æp",
+    "ukphone": "prəˈɡresɪv web æp",
+    "e_mean": [
+      "a web application with app-like offline and installable features"
+    ],
+    "speech": "noun",
+    "sentence": "The team built a progressive web app for mobile users."
+  },
+  {
+    "name": "service worker",
+    "trans": [
+      "服务工作线程"
+    ],
+    "usphone": "ˈsɜːrvɪs ˈwɜːrkər",
+    "ukphone": "ˈsɜːvɪs ˈwɜːkə",
+    "e_mean": [
+      "a background script enabling offline caching and push notifications"
+    ],
+    "speech": "noun",
+    "sentence": "The service worker cached static assets for offline access."
+  },
+  {
+    "name": "offline caching",
+    "trans": [
+      "离线缓存"
+    ],
+    "usphone": "ˌɔːflaɪn ˈkæʃɪŋ",
+    "ukphone": "ˌɒflaɪn ˈkæʃɪŋ",
+    "e_mean": [
+      "storing resources locally for use without internet access"
+    ],
+    "speech": "noun",
+    "sentence": "Offline caching improved the user experience on unstable networks."
+  },
+  {
+    "name": "browser storage",
+    "trans": [
+      "浏览器存储"
+    ],
+    "usphone": "ˈbraʊzər ˈstɔːrɪdʒ",
+    "ukphone": "ˈbraʊzə ˈstɔːrɪdʒ",
+    "e_mean": [
+      "client-side storage mechanisms provided by browsers"
+    ],
+    "speech": "noun",
+    "sentence": "Browser storage can persist user preferences locally."
+  },
+  {
+    "name": "localStorage",
+    "trans": [
+      "本地存储"
+    ],
+    "usphone": "ˈloʊkl ˈstɔːrɪdʒ",
+    "ukphone": "ˈləʊkl ˈstɔːrɪdʒ",
+    "e_mean": [
+      "a browser API for storing key-value data persistently"
+    ],
+    "speech": "noun",
+    "sentence": "The app saves the theme setting in localStorage."
+  },
+  {
+    "name": "sessionStorage",
+    "trans": [
+      "会话存储"
+    ],
+    "usphone": "ˈseʃn ˈstɔːrɪdʒ",
+    "ukphone": "ˈseʃn ˈstɔːrɪdʒ",
+    "e_mean": [
+      "a browser API for storing data during a session"
+    ],
+    "speech": "noun",
+    "sentence": "Temporary form data was stored in sessionStorage."
+  },
+  {
+    "name": "indexedDB",
+    "trans": [
+      "浏览器索引数据库"
+    ],
+    "usphone": "ˌɪndekst ˌdiː biː",
+    "ukphone": "ˌɪndekst ˌdiː biː",
+    "e_mean": [
+      "a browser-based NoSQL database for structured data"
+    ],
+    "speech": "noun",
+    "sentence": "IndexedDB is useful for offline-first applications."
+  },
+  {
+    "name": "hydration mismatch",
+    "trans": [
+      "水合不匹配"
+    ],
+    "usphone": "haɪˈdreɪʃn ˌmɪsˈmætʃ",
+    "ukphone": "haɪˈdreɪʃn ˌmɪsˈmætʃ",
+    "e_mean": [
+      "a discrepancy between server-rendered and client-rendered content"
+    ],
+    "speech": "noun",
+    "sentence": "Incorrect timestamps caused a hydration mismatch in Next.js."
+  },
+  {
+    "name": "reconciliation",
+    "trans": [
+      "协调算法"
+    ],
+    "usphone": "ˌrekənsɪliˈeɪʃn",
+    "ukphone": "ˌrekənsɪliˈeɪʃn",
+    "e_mean": [
+      "the process React uses to update the DOM efficiently"
+    ],
+    "speech": "noun",
+    "sentence": "React reconciliation minimizes unnecessary DOM updates."
+  },
+  {
+    "name": "controlled component",
+    "trans": [
+      "受控组件"
+    ],
+    "usphone": "kənˈtroʊld kəmˈpoʊnənt",
+    "ukphone": "kənˈtrəʊld kəmˈpəʊnənt",
+    "e_mean": [
+      "a form component whose value is managed by React state"
+    ],
+    "speech": "noun",
+    "sentence": "Controlled components simplify form validation."
+  },
+  {
+    "name": "uncontrolled component",
+    "trans": [
+      "非受控组件"
+    ],
+    "usphone": "ˌʌnkənˈtroʊld kəmˈpoʊnənt",
+    "ukphone": "ˌʌnkənˈtrəʊld kəmˈpəʊnənt",
+    "e_mean": [
+      "a form component managed directly by the DOM"
+    ],
+    "speech": "noun",
+    "sentence": "Uncontrolled components rely on refs to access values."
+  },
+  {
+    "name": "ref",
+    "trans": [
+      "引用对象"
+    ],
+    "usphone": "ref",
+    "ukphone": "ref",
+    "e_mean": [
+      "an object used to directly access DOM elements or component instances"
+    ],
+    "speech": "noun",
+    "sentence": "The input field was focused using a React ref."
+  },
+  {
+    "name": "portal",
+    "trans": [
+      "传送门组件"
+    ],
+    "usphone": "ˈpɔːrtl",
+    "ukphone": "ˈpɔːtl",
+    "e_mean": [
+      "a React feature for rendering elements outside the parent DOM hierarchy"
+    ],
+    "speech": "noun",
+    "sentence": "Modals are commonly implemented with portals."
+  },
+  {
+    "name": "frontend scalability",
+    "trans": [
+      "前端可扩展性"
+    ],
+    "usphone": "ˈfrʌntend skeɪləˈbɪləti",
+    "ukphone": "ˈfrʌntend skeɪləˈbɪləti",
+    "e_mean": [
+      "the ability of frontend architecture to handle growth efficiently"
+    ],
+    "speech": "noun",
+    "sentence": "Component reuse improved frontend scalability."
+  },
+  {
+    "name": "design system",
+    "trans": [
+      "设计系统"
+    ],
+    "usphone": "dɪˈzaɪn ˈsɪstəm",
+    "ukphone": "dɪˈzaɪn ˈsɪstəm",
+    "e_mean": [
+      "a collection of reusable UI components and design standards"
+    ],
+    "speech": "noun",
+    "sentence": "The company created a design system for consistent UI development."
+  },
+  {
+    "name": "refactoring",
+    "trans": [
+      "代码重构"
+    ],
+    "usphone": "riːˈfæktərɪŋ",
+    "ukphone": "riːˈfæktərɪŋ",
+    "e_mean": [
+      "improving code structure without changing functionality"
+    ],
+    "speech": "noun",
+    "sentence": "Refactoring improved the readability of the codebase."
+  },
+  {
+    "name": "clean code",
+    "trans": [
+      "整洁代码"
+    ],
+    "usphone": "kliːn koʊd",
+    "ukphone": "kliːn kəʊd",
+    "e_mean": [
+      "code that is easy to read, maintain, and understand"
+    ],
+    "speech": "noun",
+    "sentence": "Writing clean code is important for long-term maintenance."
+  },
+  {
+    "name": "code review",
+    "trans": [
+      "代码评审"
+    ],
+    "usphone": "koʊd rɪˈvjuː",
+    "ukphone": "kəʊd rɪˈvjuː",
+    "e_mean": [
+      "examining code changes before merging them into the project"
+    ],
+    "speech": "noun",
+    "sentence": "Every pull request must go through code review."
+  },
+  {
+    "name": "pull request",
+    "trans": [
+      "拉取请求"
+    ],
+    "usphone": "pʊl rɪˈkwest",
+    "ukphone": "pʊl rɪˈkwest",
+    "e_mean": [
+      "a request to merge code changes into a repository"
+    ],
+    "speech": "noun",
+    "sentence": "The pull request included performance optimizations."
+  },
+  {
+    "name": "merge conflict",
+    "trans": [
+      "合并冲突"
+    ],
+    "usphone": "mɜːrdʒ ˈkɑːnflɪkt",
+    "ukphone": "mɜːdʒ ˈkɒnflɪkt",
+    "e_mean": [
+      "a conflict caused by incompatible code changes"
+    ],
+    "speech": "noun",
+    "sentence": "The developer resolved the merge conflict manually."
+  },
+  {
+    "name": "version control",
+    "trans": [
+      "版本控制"
+    ],
+    "usphone": "ˈvɜːrʒn kənˈtroʊl",
+    "ukphone": "ˈvɜːʃn kənˈtrəʊl",
+    "e_mean": [
+      "tracking and managing changes to source code"
+    ],
+    "speech": "noun",
+    "sentence": "Git is the most popular version control system."
+  },
+  {
+    "name": "branching strategy",
+    "trans": [
+      "分支策略"
+    ],
+    "usphone": "ˈbræntʃɪŋ ˈstrætədʒi",
+    "ukphone": "ˈbrɑːntʃɪŋ ˈstrætədʒi",
+    "e_mean": [
+      "a workflow defining how code branches are managed"
+    ],
+    "speech": "noun",
+    "sentence": "The team follows a GitFlow branching strategy."
+  },
+  {
+    "name": "continuous integration",
+    "trans": [
+      "持续集成"
+    ],
+    "usphone": "kənˈtɪnjuəs ˌɪntɪˈɡreɪʃn",
+    "ukphone": "kənˈtɪnjuəs ˌɪntɪˈɡreɪʃn",
+    "e_mean": [
+      "automatically building and testing code changes frequently"
+    ],
+    "speech": "noun",
+    "sentence": "Continuous integration catches bugs early in development."
+  },
+  {
+    "name": "continuous deployment",
+    "trans": [
+      "持续部署"
+    ],
+    "usphone": "kənˈtɪnjuəs dɪˈplɔɪmənt",
+    "ukphone": "kənˈtɪnjuəs dɪˈplɔɪmənt",
+    "e_mean": [
+      "automatically deploying validated code to production"
+    ],
+    "speech": "noun",
+    "sentence": "Continuous deployment reduced release cycles significantly."
+  },
+  {
+    "name": "pipeline failure",
+    "trans": [
+      "流水线失败"
+    ],
+    "usphone": "ˈpaɪplaɪn ˈfeɪljər",
+    "ukphone": "ˈpaɪplaɪn ˈfeɪljə",
+    "e_mean": [
+      "an error occurring during automated build or deployment"
+    ],
+    "speech": "noun",
+    "sentence": "A failing unit test caused the pipeline failure."
+  },
+  {
+    "name": "environment variable",
+    "trans": [
+      "环境变量"
+    ],
+    "usphone": "ɪnˈvaɪrənmənt ˈveriəbl",
+    "ukphone": "ɪnˈvaɪərənmənt ˈveəriəbl",
+    "e_mean": [
+      "a dynamic value used to configure applications"
+    ],
+    "speech": "noun",
+    "sentence": "API keys were stored in environment variables."
+  },
+  {
+    "name": "build optimization",
+    "trans": [
+      "构建优化"
+    ],
+    "usphone": "bɪld ˌɑːptɪməˈzeɪʃn",
+    "ukphone": "bɪld ˌɒptɪmaɪˈzeɪʃn",
+    "e_mean": [
+      "improving the efficiency and speed of application builds"
+    ],
+    "speech": "noun",
+    "sentence": "Build optimization reduced deployment time by 40 percent."
+  },
+  {
+    "name": "render blocking",
+    "trans": [
+      "渲染阻塞"
+    ],
+    "usphone": "ˈrendər ˈblɑːkɪŋ",
+    "ukphone": "ˈrendə ˈblɒkɪŋ",
+    "e_mean": [
+      "resources preventing the browser from rendering content quickly"
+    ],
+    "speech": "noun",
+    "sentence": "Large CSS files caused render blocking issues."
+  },
+  {
+    "name": "critical CSS",
+    "trans": [
+      "关键CSS"
+    ],
+    "usphone": "ˈkrɪtɪkl ˌsiː es ˈes",
+    "ukphone": "ˈkrɪtɪkl ˌsiː es ˈes",
+    "e_mean": [
+      "essential CSS required for above-the-fold rendering"
+    ],
+    "speech": "noun",
+    "sentence": "Inlining critical CSS improved page load speed."
+  },
+  {
+    "name": "browser repaint",
+    "trans": [
+      "浏览器重绘"
+    ],
+    "usphone": "ˈbraʊzər ˌriːˈpeɪnt",
+    "ukphone": "ˈbraʊzə ˌriːˈpeɪnt",
+    "e_mean": [
+      "the process of redrawing elements on the screen"
+    ],
+    "speech": "noun",
+    "sentence": "Too many browser repaints can reduce performance."
+  },
+  {
+    "name": "reflow",
+    "trans": [
+      "回流；重排"
+    ],
+    "usphone": "ˌriːˈfloʊ",
+    "ukphone": "ˌriːˈfləʊ",
+    "e_mean": [
+      "recalculating the layout of page elements"
+    ],
+    "speech": "noun",
+    "sentence": "Frequent DOM updates triggered expensive reflows."
+  },
+  {
+    "name": "frontend security",
+    "trans": [
+      "前端安全"
+    ],
+    "usphone": "ˈfrʌntend sɪˈkjʊrəti",
+    "ukphone": "ˈfrʌntend sɪˈkjʊərəti",
+    "e_mean": [
+      "protecting frontend applications from vulnerabilities"
+    ],
+    "speech": "noun",
+    "sentence": "Frontend security is important for protecting user data."
+  },
+  {
+    "name": "content security policy",
+    "trans": [
+      "内容安全策略"
+    ],
+    "usphone": "ˈkɑːntent sɪˈkjʊrəti ˈpɑːləsi",
+    "ukphone": "ˈkɒntent sɪˈkjʊərəti ˈpɒləsi",
+    "e_mean": [
+      "a browser security feature preventing malicious code execution"
+    ],
+    "speech": "noun",
+    "sentence": "Content security policy helps mitigate XSS attacks."
+  },
+  {
+    "name": "same-origin policy",
+    "trans": [
+      "同源策略"
+    ],
+    "usphone": "seɪm ˈɔːrɪdʒɪn ˈpɑːləsi",
+    "ukphone": "seɪm ˈɒrɪdʒɪn ˈpɒləsi",
+    "e_mean": [
+      "a browser security mechanism restricting cross-origin requests"
+    ],
+    "speech": "noun",
+    "sentence": "The same-origin policy protects websites from malicious access."
+  },
+  {
+    "name": "cross-origin resource sharing",
+    "trans": [
+      "跨域资源共享"
+    ],
+    "usphone": "krɔːs ˈɔːrɪdʒɪn ˈriːsɔːrs ˈʃerɪŋ",
+    "ukphone": "krɒs ˈɒrɪdʒɪn ˈriːsɔːs ˈʃeərɪŋ",
+    "e_mean": [
+      "a mechanism allowing controlled cross-origin HTTP requests"
+    ],
+    "speech": "noun",
+    "sentence": "CORS errors occurred because the API server blocked requests."
+  },
+  {
+    "name": "websocket",
+    "trans": [
+      "WebSocket长连接"
+    ],
+    "usphone": "ˈwebˌsɑːkɪt",
+    "ukphone": "ˈwebˌsɒkɪt",
+    "e_mean": [
+      "a protocol enabling real-time two-way communication between client and server"
+    ],
+    "speech": "noun",
+    "sentence": "The chat application uses WebSocket for real-time messaging."
+  },
+  {
+    "name": "long polling",
+    "trans": [
+      "长轮询"
+    ],
+    "usphone": "lɔːŋ ˈpoʊlɪŋ",
+    "ukphone": "lɒŋ ˈpəʊlɪŋ",
+    "e_mean": [
+      "a technique where the client waits for the server to send updates"
+    ],
+    "speech": "noun",
+    "sentence": "Long polling was replaced with WebSocket for better efficiency."
+  },
+  {
+    "name": "server-sent events",
+    "trans": [
+      "服务器推送事件"
+    ],
+    "usphone": "ˈsɜːrvər sent ɪˈvents",
+    "ukphone": "ˈsɜːvə sent ɪˈvents",
+    "e_mean": [
+      "a browser technology for receiving automatic updates from servers"
+    ],
+    "speech": "noun",
+    "sentence": "Server-sent events are useful for live notifications."
+  },
+  {
+    "name": "hydration error",
+    "trans": [
+      "水合错误"
+    ],
+    "usphone": "haɪˈdreɪʃn ˈerər",
+    "ukphone": "haɪˈdreɪʃn ˈerə",
+    "e_mean": [
+      "an error caused by differences between server and client rendering"
+    ],
+    "speech": "noun",
+    "sentence": "A hydration error occurred because the rendered HTML was inconsistent."
+  },
+  {
+    "name": "incremental static regeneration",
+    "trans": [
+      "增量静态再生成"
+    ],
+    "usphone": "ˌɪnkrəˈmentl ˈstætɪk ˌriːˌdʒenəˈreɪʃn",
+    "ukphone": "ˌɪnkrəˈmentl ˈstætɪk ˌriːˌdʒenəˈreɪʃn",
+    "e_mean": [
+      "a technique that updates static pages incrementally after deployment"
+    ],
+    "speech": "noun",
+    "sentence": "Next.js supports incremental static regeneration for dynamic content."
+  },
+  {
+    "name": "static site generation",
+    "trans": [
+      "静态站点生成"
+    ],
+    "usphone": "ˈstætɪk saɪt ˌdʒenəˈreɪʃn",
+    "ukphone": "ˈstætɪk saɪt ˌdʒenəˈreɪʃn",
+    "e_mean": [
+      "generating HTML pages at build time"
+    ],
+    "speech": "noun",
+    "sentence": "Static site generation improves SEO and loading speed."
+  },
+  {
+    "name": "edge rendering",
+    "trans": [
+      "边缘渲染"
+    ],
+    "usphone": "edʒ ˈrendərɪŋ",
+    "ukphone": "edʒ ˈrendərɪŋ",
+    "e_mean": [
+      "rendering content closer to users using edge servers"
+    ],
+    "speech": "noun",
+    "sentence": "Edge rendering reduced latency for global users."
+  },
+  {
+    "name": "isomorphic application",
+    "trans": [
+      "同构应用"
+    ],
+    "usphone": "ˌaɪsəˈmɔːrfɪk ˌæplɪˈkeɪʃn",
+    "ukphone": "ˌaɪsəˈmɔːfɪk ˌæplɪˈkeɪʃn",
+    "e_mean": [
+      "an application that runs both on the server and client"
+    ],
+    "speech": "noun",
+    "sentence": "An isomorphic application shares code between frontend and backend."
+  },
+  {
+    "name": "headless CMS",
+    "trans": [
+      "无头内容管理系统"
+    ],
+    "usphone": "ˈhedləs ˌsiː em ˈes",
+    "ukphone": "ˈhedləs ˌsiː em ˈes",
+    "e_mean": [
+      "a CMS that provides content through APIs without a frontend"
+    ],
+    "speech": "noun",
+    "sentence": "The frontend fetches articles from a headless CMS."
+  },
+  {
+    "name": "SEO optimization",
+    "trans": [
+      "搜索引擎优化"
+    ],
+    "usphone": "ˌes iː ˈoʊ ˌɑːptɪməˈzeɪʃn",
+    "ukphone": "ˌes iː ˈəʊ ˌɒptɪmaɪˈzeɪʃn",
+    "e_mean": [
+      "improving website visibility in search engine results"
+    ],
+    "speech": "noun",
+    "sentence": "Server-side rendering helps with SEO optimization."
+  },
+  {
+    "name": "meta tag",
+    "trans": [
+      "元标签"
+    ],
+    "usphone": "ˈmetə tæɡ",
+    "ukphone": "ˈmetə tæɡ",
+    "e_mean": [
+      "HTML tags providing metadata about a webpage"
+    ],
+    "speech": "noun",
+    "sentence": "Meta tags improve SEO and social media previews."
+  },
+  {
+    "name": "Open Graph",
+    "trans": [
+      "开放图谱协议"
+    ],
+    "usphone": "ˈoʊpən ɡræf",
+    "ukphone": "ˈəʊpən ɡrɑːf",
+    "e_mean": [
+      "a protocol controlling how webpages appear when shared on social media"
+    ],
+    "speech": "noun",
+    "sentence": "Open Graph tags customized the preview on Facebook."
+  },
+  {
+    "name": "frontend routing guard",
+    "trans": [
+      "前端路由守卫"
+    ],
+    "usphone": "ˈfrʌntend ˈraʊtɪŋ ɡɑːrd",
+    "ukphone": "ˈfrʌntend ˈraʊtɪŋ ɡɑːd",
+    "e_mean": [
+      "logic controlling access to frontend routes"
+    ],
+    "speech": "noun",
+    "sentence": "The routing guard redirected unauthenticated users to login."
+  },
+  {
+    "name": "authentication flow",
+    "trans": [
+      "认证流程"
+    ],
+    "usphone": "ɔːˌθentɪˈkeɪʃn floʊ",
+    "ukphone": "ɔːˌθentɪˈkeɪʃn fləʊ",
+    "e_mean": [
+      "the sequence of steps used to verify user identity"
+    ],
+    "speech": "noun",
+    "sentence": "OAuth provides a secure authentication flow."
+  },
+  {
+    "name": "token refresh",
+    "trans": [
+      "令牌刷新"
+    ],
+    "usphone": "ˈtoʊkən rɪˈfreʃ",
+    "ukphone": "ˈtəʊkən rɪˈfreʃ",
+    "e_mean": [
+      "renewing expired authentication tokens automatically"
+    ],
+    "speech": "noun",
+    "sentence": "The application performs token refresh silently in the background."
+  },
+  {
+    "name": "frontend framework",
+    "trans": [
+      "前端框架"
+    ],
+    "usphone": "ˈfrʌntend ˈfreɪmwɜːrk",
+    "ukphone": "ˈfrʌntend ˈfreɪmwɜːk",
+    "e_mean": [
+      "a software framework for building frontend applications"
+    ],
+    "speech": "noun",
+    "sentence": "Vue is a lightweight frontend framework."
+  },
+  {
+    "name": "state synchronization",
+    "trans": [
+      "状态同步"
+    ],
+    "usphone": "steɪt ˌsɪŋkrənəˈzeɪʃn",
+    "ukphone": "steɪt ˌsɪŋkrənaɪˈzeɪʃn",
+    "e_mean": [
+      "keeping application state consistent across components or devices"
+    ],
+    "speech": "noun",
+    "sentence": "WebSocket enables real-time state synchronization."
+  },
+  {
+    "name": "frontend scalability pattern",
+    "trans": [
+      "前端可扩展模式"
+    ],
+    "usphone": "ˈfrʌntend skeɪləˈbɪləti ˈpætərn",
+    "ukphone": "ˈfrʌntend skeɪləˈbɪləti ˈpætən",
+    "e_mean": [
+      "an architectural approach for scaling frontend applications"
+    ],
+    "speech": "noun",
+    "sentence": "Micro frontends are a frontend scalability pattern."
+  },
+  {
+    "name": "technical interview",
+    "trans": [
+      "技术面试"
+    ],
+    "usphone": "ˈteknɪkl ˈɪntərvjuː",
+    "ukphone": "ˈteknɪkl ˈɪntəvjuː",
+    "e_mean": [
+      "an interview evaluating technical knowledge and problem-solving skills"
+    ],
+    "speech": "noun",
+    "sentence": "The frontend technical interview focused on React and JavaScript."
+  },
+  {
+    "name": "system design interview",
+    "trans": [
+      "系统设计面试"
+    ],
+    "usphone": "ˈsɪstəm dɪˈzaɪn ˈɪntərvjuː",
+    "ukphone": "ˈsɪstəm dɪˈzaɪn ˈɪntəvjuː",
+    "e_mean": [
+      "an interview assessing architectural and scalability design skills"
+    ],
+    "speech": "noun",
+    "sentence": "The system design interview included frontend architecture discussions."
+  },
+  {
+    "name": "algorithm complexity",
+    "trans": [
+      "算法复杂度"
+    ],
+    "usphone": "ˈælɡəˌrɪðəm kəmˈpleksəti",
+    "ukphone": "ˈælɡərɪðəm kəmˈpleksəti",
+    "e_mean": [
+      "a measure of the time or space efficiency of an algorithm"
+    ],
+    "speech": "noun",
+    "sentence": "The interviewer asked about the algorithm complexity of the solution."
+  },
+  {
+    "name": "time complexity",
+    "trans": [
+      "时间复杂度"
+    ],
+    "usphone": "taɪm kəmˈpleksəti",
+    "ukphone": "taɪm kəmˈpleksəti",
+    "e_mean": [
+      "the amount of time an algorithm takes as input size grows"
+    ],
+    "speech": "noun",
+    "sentence": "Binary search has logarithmic time complexity."
+  },
+  {
+    "name": "space complexity",
+    "trans": [
+      "空间复杂度"
+    ],
+    "usphone": "speɪs kəmˈpleksəti",
+    "ukphone": "speɪs kəmˈpleksəti",
+    "e_mean": [
+      "the amount of memory an algorithm requires"
+    ],
+    "speech": "noun",
+    "sentence": "The optimized solution reduced space complexity."
+  },
+  {
+    "name": "Big O notation",
+    "trans": [
+      "大O表示法"
+    ],
+    "usphone": "bɪɡ oʊ noʊˈteɪʃn",
+    "ukphone": "bɪɡ əʊ nəʊˈteɪʃn",
+    "e_mean": [
+      "a mathematical notation describing algorithm efficiency"
+    ],
+    "speech": "noun",
+    "sentence": "Candidates should understand Big O notation thoroughly."
+  },
+  {
+    "name": "data structure",
+    "trans": [
+      "数据结构"
+    ],
+    "usphone": "ˈdeɪtə ˈstrʌktʃər",
+    "ukphone": "ˈdeɪtə ˈstrʌktʃə",
+    "e_mean": [
+      "a way of organizing and storing data efficiently"
+    ],
+    "speech": "noun",
+    "sentence": "Choosing the right data structure improves performance."
+  },
+  {
+    "name": "hash table",
+    "trans": [
+      "哈希表"
+    ],
+    "usphone": "hæʃ ˈteɪbl",
+    "ukphone": "hæʃ ˈteɪbl",
+    "e_mean": [
+      "a data structure storing key-value pairs for fast lookup"
+    ],
+    "speech": "noun",
+    "sentence": "A hash table provides constant-time average lookup."
+  },
+  {
+    "name": "linked list",
+    "trans": [
+      "链表"
+    ],
+    "usphone": "lɪŋkt lɪst",
+    "ukphone": "lɪŋkt lɪst",
+    "e_mean": [
+      "a linear data structure where elements point to the next node"
+    ],
+    "speech": "noun",
+    "sentence": "The coding interview included reversing a linked list."
+  },
+  {
+    "name": "binary tree",
+    "trans": [
+      "二叉树"
+    ],
+    "usphone": "ˈbaɪnəri triː",
+    "ukphone": "ˈbaɪnəri triː",
+    "e_mean": [
+      "a tree data structure with at most two child nodes"
+    ],
+    "speech": "noun",
+    "sentence": "Binary trees are common in technical interviews."
+  },
+  {
+    "name": "recursion",
+    "trans": [
+      "递归"
+    ],
+    "usphone": "rɪˈkɜːrʒn",
+    "ukphone": "rɪˈkɜːʃn",
+    "e_mean": [
+      "a programming technique where a function calls itself"
+    ],
+    "speech": "noun",
+    "sentence": "Recursion simplifies tree traversal algorithms."
+  },
+  {
+    "name": "dynamic programming",
+    "trans": [
+      "动态规划"
+    ],
+    "usphone": "daɪˈnæmɪk ˈproʊɡræmɪŋ",
+    "ukphone": "daɪˈnæmɪk ˈprəʊɡræmɪŋ",
+    "e_mean": [
+      "an optimization method solving problems using overlapping subproblems"
+    ],
+    "speech": "noun",
+    "sentence": "Dynamic programming questions are common in coding interviews."
+  },
+  {
+    "name": "two-pointer technique",
+    "trans": [
+      "双指针技巧"
+    ],
+    "usphone": "tuː ˈpɔɪntər tekˈniːk",
+    "ukphone": "tuː ˈpɔɪntə tekˈniːk",
+    "e_mean": [
+      "an algorithmic approach using two indices to traverse data"
+    ],
+    "speech": "noun",
+    "sentence": "The array problem was solved using the two-pointer technique."
+  },
+  {
+    "name": "sliding window",
+    "trans": [
+      "滑动窗口"
+    ],
+    "usphone": "ˈslaɪdɪŋ ˈwɪndoʊ",
+    "ukphone": "ˈslaɪdɪŋ ˈwɪndəʊ",
+    "e_mean": [
+      "a technique for processing subsets of sequential data efficiently"
+    ],
+    "speech": "noun",
+    "sentence": "Sliding window algorithms are useful for substring problems."
+  },
+  {
+    "name": "depth-first search",
+    "trans": [
+      "深度优先搜索"
+    ],
+    "usphone": "depθ fɜːrst sɜːrtʃ",
+    "ukphone": "depθ fɜːst sɜːtʃ",
+    "e_mean": [
+      "a graph traversal algorithm exploring branches deeply first"
+    ],
+    "speech": "noun",
+    "sentence": "The graph traversal used depth-first search."
+  },
+  {
+    "name": "breadth-first search",
+    "trans": [
+      "广度优先搜索"
+    ],
+    "usphone": "bredθ fɜːrst sɜːrtʃ",
+    "ukphone": "bredθ fɜːst sɜːtʃ",
+    "e_mean": [
+      "a graph traversal algorithm exploring neighbors level by level"
+    ],
+    "speech": "noun",
+    "sentence": "Breadth-first search finds the shortest path in unweighted graphs."
+  },
+  {
+    "name": "sorting algorithm",
+    "trans": [
+      "排序算法"
+    ],
+    "usphone": "ˈsɔːrtɪŋ ˈælɡəˌrɪðəm",
+    "ukphone": "ˈsɔːtɪŋ ˈælɡərɪðəm",
+    "e_mean": [
+      "an algorithm used to arrange data in a specific order"
+    ],
+    "speech": "noun",
+    "sentence": "Quick sort is an efficient sorting algorithm."
+  },
+  {
+    "name": "binary search",
+    "trans": [
+      "二分查找"
+    ],
+    "usphone": "ˈbaɪnəri sɜːrtʃ",
+    "ukphone": "ˈbaɪnəri sɜːtʃ",
+    "e_mean": [
+      "a search algorithm that repeatedly divides a sorted dataset in half"
+    ],
+    "speech": "noun",
+    "sentence": "Binary search works only on sorted arrays."
+  },
+  {
+    "name": "edge case",
+    "trans": [
+      "边界情况"
+    ],
+    "usphone": "edʒ keɪs",
+    "ukphone": "edʒ keɪs",
+    "e_mean": [
+      "an unusual or extreme input scenario"
+    ],
+    "speech": "noun",
+    "sentence": "The candidate forgot to handle empty-array edge cases."
+  },
+  {
+    "name": "whiteboard interview",
+    "trans": [
+      "白板面试"
+    ],
+    "usphone": "ˈwaɪtbɔːrd ˈɪntərvjuː",
+    "ukphone": "ˈwaɪtbɔːd ˈɪntəvjuː",
+    "e_mean": [
+      "a technical interview where candidates solve problems by hand"
+    ],
+    "speech": "noun",
+    "sentence": "The whiteboard interview focused on algorithms and system design."
+  },
+  {
+    "name": "behavioral interview",
+    "trans": [
+      "行为面试"
+    ],
+    "usphone": "bɪˈheɪvjərəl ˈɪntərvjuː",
+    "ukphone": "bɪˈheɪvjərəl ˈɪntəvjuː",
+    "e_mean": [
+      "an interview assessing communication and teamwork experiences"
+    ],
+    "speech": "noun",
+    "sentence": "The behavioral interview included teamwork-related questions."
+  },
+  {
+    "name": "STAR method",
+    "trans": [
+      "STAR回答法"
+    ],
+    "usphone": "stɑːr ˈmeθəd",
+    "ukphone": "stɑː ˈmeθəd",
+    "e_mean": [
+      "an interview technique using Situation, Task, Action, and Result"
+    ],
+    "speech": "noun",
+    "sentence": "The candidate used the STAR method to answer behavioral questions."
+  },
+  {
+    "name": "problem-solving skills",
+    "trans": [
+      "问题解决能力"
+    ],
+    "usphone": "ˈprɑːbləm ˈsɑːlvɪŋ skɪlz",
+    "ukphone": "ˈprɒbləm ˈsɒlvɪŋ skɪlz",
+    "e_mean": [
+      "the ability to analyze and resolve complex issues"
+    ],
+    "speech": "noun",
+    "sentence": "Strong problem-solving skills are essential for frontend developers."
+  },
+  {
+    "name": "communication skills",
+    "trans": [
+      "沟通能力"
+    ],
+    "usphone": "kəˌmjuːnɪˈkeɪʃn skɪlz",
+    "ukphone": "kəˌmjuːnɪˈkeɪʃn skɪlz",
+    "e_mean": [
+      "the ability to express ideas clearly and effectively"
+    ],
+    "speech": "noun",
+    "sentence": "Communication skills are important for cross-functional collaboration."
+  },
+  {
+    "name": "cross-functional team",
+    "trans": [
+      "跨职能团队"
+    ],
+    "usphone": "krɔːs ˈfʌŋkʃənl tiːm",
+    "ukphone": "krɒs ˈfʌŋkʃənl tiːm",
+    "e_mean": [
+      "a team composed of members from different departments or specialties"
+    ],
+    "speech": "noun",
+    "sentence": "The frontend engineer collaborated with a cross-functional team."
+  },
+  {
+    "name": "stakeholder",
+    "trans": [
+      "利益相关者"
+    ],
+    "usphone": "ˈsteɪkˌhoʊldər",
+    "ukphone": "ˈsteɪkˌhəʊldə",
+    "e_mean": [
+      "a person or group affected by a project or decision"
+    ],
+    "speech": "noun",
+    "sentence": "The developer presented the prototype to stakeholders."
+  },
+  {
+    "name": "ownership mindset",
+    "trans": [
+      "主人翁意识"
+    ],
+    "usphone": "ˈoʊnərʃɪp ˈmaɪndset",
+    "ukphone": "ˈəʊnəʃɪp ˈmaɪndset",
+    "e_mean": [
+      "taking responsibility and initiative for outcomes"
+    ],
+    "speech": "noun",
+    "sentence": "Interviewers value candidates with an ownership mindset."
+  },
+  {
+    "name": "trade-off",
+    "trans": [
+      "权衡"
+    ],
+    "usphone": "ˈtreɪd ɔːf",
+    "ukphone": "ˈtreɪd ɒf",
+    "e_mean": [
+      "a compromise between different design or implementation choices"
+    ],
+    "speech": "noun",
+    "sentence": "The engineer explained the trade-off between performance and maintainability."
+  },
+  {
+    "name": "scalability",
+    "trans": [
+      "可扩展性"
+    ],
+    "usphone": "ˌskeɪləˈbɪləti",
+    "ukphone": "ˌskeɪləˈbɪləti",
+    "e_mean": [
+      "the ability of a system to handle increased workload efficiently"
+    ],
+    "speech": "noun",
+    "sentence": "Scalability was a major consideration in the frontend architecture."
+  },
+  {
+    "name": "maintainability",
+    "trans": [
+      "可维护性"
+    ],
+    "usphone": "meɪnˌteɪnəˈbɪləti",
+    "ukphone": "meɪnˌteɪnəˈbɪləti",
+    "e_mean": [
+      "how easily software can be modified and maintained"
+    ],
+    "speech": "noun",
+    "sentence": "Clean architecture improves maintainability."
+  },
+  {
+    "name": "extensibility",
+    "trans": [
+      "可扩展能力"
+    ],
+    "usphone": "ɪkˌstensəˈbɪləti",
+    "ukphone": "ɪkˌstensəˈbɪləti",
+    "e_mean": [
+      "the ability to add new features without major redesign"
+    ],
+    "speech": "noun",
+    "sentence": "The component system was designed with extensibility in mind."
+  },
+  {
+    "name": "frontend optimization",
+    "trans": [
+      "前端优化"
+    ],
+    "usphone": "ˈfrʌntend ˌɑːptɪməˈzeɪʃn",
+    "ukphone": "ˈfrʌntend ˌɒptɪmaɪˈzeɪʃn",
+    "e_mean": [
+      "improving frontend performance and efficiency"
+    ],
+    "speech": "noun",
+    "sentence": "Frontend optimization reduced page load time significantly."
+  },
+  {
+    "name": "bundle analyzer",
+    "trans": [
+      "打包分析工具"
+    ],
+    "usphone": "ˈbʌndl ˈænəˌlaɪzər",
+    "ukphone": "ˈbʌndl ˈænəlaɪzə",
+    "e_mean": [
+      "a tool used to inspect the contents and size of bundles"
+    ],
+    "speech": "noun",
+    "sentence": "The bundle analyzer revealed several unused dependencies."
+  },
+  {
+    "name": "performance bottleneck",
+    "trans": [
+      "性能瓶颈"
+    ],
+    "usphone": "pərˈfɔːrməns ˈbɑːtlnek",
+    "ukphone": "pəˈfɔːməns ˈbɒtlnek",
+    "e_mean": [
+      "a component limiting system performance"
+    ],
+    "speech": "noun",
+    "sentence": "Rendering large tables became a performance bottleneck."
+  },
+  {
+    "name": "render optimization",
+    "trans": [
+      "渲染优化"
+    ],
+    "usphone": "ˈrendər ˌɑːptɪməˈzeɪʃn",
+    "ukphone": "ˈrendə ˌɒptɪmaɪˈzeɪʃn",
+    "e_mean": [
+      "techniques for reducing unnecessary UI rendering"
+    ],
+    "speech": "noun",
+    "sentence": "Memoization is useful for render optimization."
+  },
+  {
+    "name": "state lifting",
+    "trans": [
+      "状态提升"
+    ],
+    "usphone": "steɪt ˈlɪftɪŋ",
+    "ukphone": "steɪt ˈlɪftɪŋ",
+    "e_mean": [
+      "moving shared state to a common parent component"
+    ],
+    "speech": "noun",
+    "sentence": "State lifting simplified data sharing between components."
+  },
+  {
+    "name": "prop drilling",
+    "trans": [
+      "属性层层传递"
+    ],
+    "usphone": "prɑːp ˈdrɪlɪŋ",
+    "ukphone": "prɒp ˈdrɪlɪŋ",
+    "e_mean": [
+      "passing props through multiple component layers unnecessarily"
+    ],
+    "speech": "noun",
+    "sentence": "Context API helps avoid excessive prop drilling."
+  },
+  {
+    "name": "frontend engineer",
+    "trans": [
+      "前端工程师"
+    ],
+    "usphone": "ˈfrʌntend ˌendʒɪˈnɪr",
+    "ukphone": "ˈfrʌntend ˌendʒɪˈnɪə",
+    "e_mean": [
+      "a software engineer specializing in frontend development"
+    ],
+    "speech": "noun",
+    "sentence": "The frontend engineer focused on improving user experience."
+  },
+  {
+    "name": "UI/UX design",
+    "trans": [
+      "用户界面与用户体验设计"
+    ],
+    "usphone": "ˌjuː aɪ ˌjuː eks dɪˈzaɪn",
+    "ukphone": "ˌjuː aɪ ˌjuː eks dɪˈzaɪn",
+    "e_mean": [
+      "the process of designing user interfaces and experiences"
+    ],
+    "speech": "noun",
+    "sentence": "A frontend developer should understand UI/UX design principles."
+  },
+  {
+    "name": "design handoff",
+    "trans": [
+      "设计交付"
+    ],
+    "usphone": "dɪˈzaɪn ˈhændɔːf",
+    "ukphone": "dɪˈzaɪn ˈhændɒf",
+    "e_mean": [
+      "the process of transferring design specifications to developers"
+    ],
+    "speech": "noun",
+    "sentence": "Figma streamlined the design handoff process."
+  },
+  {
+    "name": "frontend ecosystem",
+    "trans": [
+      "前端生态系统"
+    ],
+    "usphone": "ˈfrʌntend ˈiːkoʊˌsɪstəm",
+    "ukphone": "ˈfrʌntend ˈiːkəʊˌsɪstəm",
+    "e_mean": [
+      "the collection of frontend tools, frameworks, and libraries"
+    ],
+    "speech": "noun",
+    "sentence": "The JavaScript frontend ecosystem evolves very quickly."
+  },
+  {
+    "name": "deploy",
+    "trans": [
+      "部署；发布"
+    ],
+    "usphone": "dɪˈplɔɪ",
+    "ukphone": "dɪˈplɔɪ",
+    "e_mean": [
+      "to make a software system available for use"
+    ],
+    "speech": "verb",
+    "sentence": "We plan to deploy the new version tonight."
+  },
+  {
+    "name": "debug",
+    "trans": [
+      "调试；排除错误"
+    ],
+    "usphone": "diˈbʌɡ",
+    "ukphone": "diːˈbʌɡ",
+    "e_mean": [
+      "identify and remove errors from software"
+    ],
+    "speech": "verb",
+    "sentence": "The engineer spent hours debugging the application."
+  },
+  {
+    "name": "commit",
+    "trans": [
+      "提交代码；承诺"
+    ],
+    "usphone": "kəˈmɪt",
+    "ukphone": "kəˈmɪt",
+    "e_mean": [
+      "save changes to a version control system"
+    ],
+    "speech": "verb",
+    "sentence": "Please commit your code before leaving work."
+  },
+  {
+    "name": "merge",
+    "trans": [
+      "合并"
+    ],
+    "usphone": "mɜrdʒ",
+    "ukphone": "mɜːdʒ",
+    "e_mean": [
+      "combine multiple branches or changes together"
+    ],
+    "speech": "verb",
+    "sentence": "We need to merge the feature branch into main."
+  },
+  {
+    "name": "branch",
+    "trans": [
+      "分支"
+    ],
+    "usphone": "bræntʃ",
+    "ukphone": "brɑːntʃ",
+    "e_mean": [
+      "a parallel version of source code"
+    ],
+    "speech": "noun",
+    "sentence": "Create a new branch for this feature."
+  },
+  {
+    "name": "rollback",
+    "trans": [
+      "回滚；撤销"
+    ],
+    "usphone": "ˈroʊlbæk",
+    "ukphone": "ˈrəʊlbæk",
+    "e_mean": [
+      "restore a system to a previous state"
+    ],
+    "speech": "verb",
+    "sentence": "We had to rollback the release because of critical bugs."
+  },
+  {
+    "name": "refactor",
+    "trans": [
+      "重构"
+    ],
+    "usphone": "riˈfæktər",
+    "ukphone": "riːˈfæktə",
+    "e_mean": [
+      "restructure code without changing functionality"
+    ],
+    "speech": "verb",
+    "sentence": "The team decided to refactor the legacy module."
+  },
+  {
+    "name": "optimize",
+    "trans": [
+      "优化"
+    ],
+    "usphone": "ˈɑːptɪmaɪz",
+    "ukphone": "ˈɒptɪmaɪz",
+    "e_mean": [
+      "improve performance or efficiency"
+    ],
+    "speech": "verb",
+    "sentence": "We need to optimize the database queries."
+  },
+  {
+    "name": "compile",
+    "trans": [
+      "编译"
+    ],
+    "usphone": "kəmˈpaɪl",
+    "ukphone": "kəmˈpaɪl",
+    "e_mean": [
+      "translate source code into executable code"
+    ],
+    "speech": "verb",
+    "sentence": "The program failed to compile due to syntax errors."
+  },
+  {
+    "name": "runtime",
+    "trans": [
+      "运行时"
+    ],
+    "usphone": "ˈrʌnˌtaɪm",
+    "ukphone": "ˈrʌntaɪm",
+    "e_mean": [
+      "the period when a program is running"
+    ],
+    "speech": "noun",
+    "sentence": "The application crashed at runtime."
+  },
+  {
+    "name": "framework",
+    "trans": [
+      "框架"
+    ],
+    "usphone": "ˈfreɪmwɜrk",
+    "ukphone": "ˈfreɪmwɜːk",
+    "e_mean": [
+      "a reusable software platform or structure"
+    ],
+    "speech": "noun",
+    "sentence": "React is a popular frontend framework."
+  },
+  {
+    "name": "API",
+    "trans": [
+      "应用程序接口"
+    ],
+    "usphone": "ˌeɪ piː ˈaɪ",
+    "ukphone": "ˌeɪ piː ˈaɪ",
+    "e_mean": [
+      "a set of functions for communication between systems"
+    ],
+    "speech": "noun",
+    "sentence": "The mobile app communicates with the server through an API."
+  },
+  {
+    "name": "endpoint",
+    "trans": [
+      "接口端点"
+    ],
+    "usphone": "ˈendpɔɪnt",
+    "ukphone": "ˈendpɔɪnt",
+    "e_mean": [
+      "a specific URL or service access point"
+    ],
+    "speech": "noun",
+    "sentence": "This endpoint returns user profile data."
+  },
+  {
+    "name": "database",
+    "trans": [
+      "数据库"
+    ],
+    "usphone": "ˈdeɪtəbeɪs",
+    "ukphone": "ˈdeɪtəbeɪs",
+    "e_mean": [
+      "an organized collection of data"
+    ],
+    "speech": "noun",
+    "sentence": "The customer information is stored in the database."
+  },
+  {
+    "name": "cache",
+    "trans": [
+      "缓存"
+    ],
+    "usphone": "kæʃ",
+    "ukphone": "kæʃ",
+    "e_mean": [
+      "temporary storage for faster data access"
+    ],
+    "speech": "noun",
+    "sentence": "Clearing the cache fixed the loading issue."
+  },
+  {
+    "name": "server",
+    "trans": [
+      "服务器"
+    ],
+    "usphone": "ˈsɜrvər",
+    "ukphone": "ˈsɜːvə",
+    "e_mean": [
+      "a computer that provides services to clients"
+    ],
+    "speech": "noun",
+    "sentence": "The server is under heavy load today."
+  },
+  {
+    "name": "client",
+    "trans": [
+      "客户端"
+    ],
+    "usphone": "ˈklaɪənt",
+    "ukphone": "ˈklaɪənt",
+    "e_mean": [
+      "a system or application that requests services"
+    ],
+    "speech": "noun",
+    "sentence": "The client sends requests to the backend server."
+  },
+  {
+    "name": "container",
+    "trans": [
+      "容器"
+    ],
+    "usphone": "kənˈteɪnər",
+    "ukphone": "kənˈteɪnə",
+    "e_mean": [
+      "a lightweight isolated software package"
+    ],
+    "speech": "noun",
+    "sentence": "Docker containers simplify deployment."
+  },
+  {
+    "name": "pipeline",
+    "trans": [
+      "流水线；管道"
+    ],
+    "usphone": "ˈpaɪplaɪn",
+    "ukphone": "ˈpaɪplaɪn",
+    "e_mean": [
+      "an automated sequence of software processes"
+    ],
+    "speech": "noun",
+    "sentence": "The CI/CD pipeline runs automated tests."
+  },
+  {
+    "name": "monitor",
+    "trans": [
+      "监控"
+    ],
+    "usphone": "ˈmɑːnɪtər",
+    "ukphone": "ˈmɒnɪtə",
+    "e_mean": [
+      "observe and check system performance"
+    ],
+    "speech": "verb",
+    "sentence": "We monitor the servers 24 hours a day."
+  },
+  {
+    "name": "scalable",
+    "trans": [
+      "可扩展的"
+    ],
+    "usphone": "ˈskeɪləbl",
+    "ukphone": "ˈskeɪləbl",
+    "e_mean": [
+      "able to handle increased workload efficiently"
+    ],
+    "speech": "adjective",
+    "sentence": "We need a scalable architecture for future growth."
+  },
+  {
+    "name": "latency",
+    "trans": [
+      "延迟"
+    ],
+    "usphone": "ˈleɪtənsi",
+    "ukphone": "ˈleɪtənsi",
+    "e_mean": [
+      "the delay before data transfer begins"
+    ],
+    "speech": "noun",
+    "sentence": "Network latency affects application performance."
+  },
+  {
+    "name": "throughput",
+    "trans": [
+      "吞吐量"
+    ],
+    "usphone": "ˈθruːpʊt",
+    "ukphone": "ˈθruːpʊt",
+    "e_mean": [
+      "the amount of data processed over time"
+    ],
+    "speech": "noun",
+    "sentence": "The new system improved transaction throughput."
+  },
+  {
+    "name": "bandwidth",
+    "trans": [
+      "带宽"
+    ],
+    "usphone": "ˈbændwɪdθ",
+    "ukphone": "ˈbændwɪdθ",
+    "e_mean": [
+      "the maximum rate of data transfer"
+    ],
+    "speech": "noun",
+    "sentence": "Video streaming requires high bandwidth."
+  },
+  {
+    "name": "downtime",
+    "trans": [
+      "停机时间"
+    ],
+    "usphone": "ˈdaʊntaɪm",
+    "ukphone": "ˈdaʊntaɪm",
+    "e_mean": [
+      "time when a system is unavailable"
+    ],
+    "speech": "noun",
+    "sentence": "The maintenance caused two hours of downtime."
+  },
+  {
+    "name": "incident",
+    "trans": [
+      "事故；故障事件"
+    ],
+    "usphone": "ˈɪnsɪdənt",
+    "ukphone": "ˈɪnsɪdənt",
+    "e_mean": [
+      "an unexpected event affecting systems"
+    ],
+    "speech": "noun",
+    "sentence": "The operations team responded quickly to the incident."
+  },
+  {
+    "name": "hotfix",
+    "trans": [
+      "紧急修复"
+    ],
+    "usphone": "ˈhɑːtfɪks",
+    "ukphone": "ˈhɒtfɪks",
+    "e_mean": [
+      "an urgent software update to fix critical issues"
+    ],
+    "speech": "noun",
+    "sentence": "A hotfix was released to resolve the login issue."
+  },
+  {
+    "name": "patch",
+    "trans": [
+      "补丁"
+    ],
+    "usphone": "pætʃ",
+    "ukphone": "pætʃ",
+    "e_mean": [
+      "a software update that fixes problems"
+    ],
+    "speech": "noun",
+    "sentence": "Install the latest security patch immediately."
+  },
+  {
+    "name": "authentication",
+    "trans": [
+      "身份认证"
+    ],
+    "usphone": "ɔːˌθentɪˈkeɪʃn",
+    "ukphone": "ɔːˌθentɪˈkeɪʃn",
+    "e_mean": [
+      "the process of verifying identity"
+    ],
+    "speech": "noun",
+    "sentence": "Two-factor authentication improves account security."
+  },
+  {
+    "name": "authorization",
+    "trans": [
+      "授权"
+    ],
+    "usphone": "ˌɔːθərəˈzeɪʃn",
+    "ukphone": "ˌɔːθəraɪˈzeɪʃn",
+    "e_mean": [
+      "granting permission to access resources"
+    ],
+    "speech": "noun",
+    "sentence": "Authorization rules are managed by the backend service."
+  },
+  {
+    "name": "encrypt",
+    "trans": [
+      "加密"
+    ],
+    "usphone": "ɪnˈkrɪpt",
+    "ukphone": "ɪnˈkrɪpt",
+    "e_mean": [
+      "convert data into a secure format"
+    ],
+    "speech": "verb",
+    "sentence": "Sensitive user data must be encrypted."
+  },
+  {
+    "name": "decrypt",
+    "trans": [
+      "解密"
+    ],
+    "usphone": "diˈkrɪpt",
+    "ukphone": "diːˈkrɪpt",
+    "e_mean": [
+      "convert encrypted data back to readable form"
+    ],
+    "speech": "verb",
+    "sentence": "Only authorized systems can decrypt the message."
+  },
+  {
+    "name": "token",
+    "trans": [
+      "令牌；凭证"
+    ],
+    "usphone": "ˈtoʊkən",
+    "ukphone": "ˈtəʊkən",
+    "e_mean": [
+      "a digital key used for authentication"
+    ],
+    "speech": "noun",
+    "sentence": "The API request requires an access token."
+  },
+  {
+    "name": "session",
+    "trans": [
+      "会话"
+    ],
+    "usphone": "ˈseʃn",
+    "ukphone": "ˈseʃn",
+    "e_mean": [
+      "a period of interaction between user and system"
+    ],
+    "speech": "noun",
+    "sentence": "The user session expired after inactivity."
+  },
+  {
+    "name": "middleware",
+    "trans": [
+      "中间件"
+    ],
+    "usphone": "ˈmɪdlwer",
+    "ukphone": "ˈmɪdlweə",
+    "e_mean": [
+      "software that connects different applications"
+    ],
+    "speech": "noun",
+    "sentence": "The middleware handles authentication requests."
+  },
+  {
+    "name": "microservice",
+    "trans": [
+      "微服务"
+    ],
+    "usphone": "ˈmaɪkroʊˌsɜrvɪs",
+    "ukphone": "ˈmaɪkrəʊˌsɜːvɪs",
+    "e_mean": [
+      "a small independent software service"
+    ],
+    "speech": "noun",
+    "sentence": "Each microservice can be deployed independently."
+  },
+  {
+    "name": "repository",
+    "trans": [
+      "代码仓库"
+    ],
+    "usphone": "rɪˈpɑːzətɔːri",
+    "ukphone": "rɪˈpɒzətri",
+    "e_mean": [
+      "a storage location for code and files"
+    ],
+    "speech": "noun",
+    "sentence": "Push the updated files to the repository."
+  },
+  {
+    "name": "clone",
+    "trans": [
+      "克隆；复制仓库"
+    ],
+    "usphone": "kloʊn",
+    "ukphone": "kləʊn",
+    "e_mean": [
+      "copy a remote repository locally"
+    ],
+    "speech": "verb",
+    "sentence": "You can clone the project from GitHub."
+  },
+  {
+    "name": "review",
+    "trans": [
+      "审查；评审"
+    ],
+    "usphone": "rɪˈvjuː",
+    "ukphone": "rɪˈvjuː",
+    "e_mean": [
+      "examine code or work for quality"
+    ],
+    "speech": "verb",
+    "sentence": "Senior engineers reviewed the new implementation."
+  },
+  {
+    "name": "sprint",
+    "trans": [
+      "冲刺周期"
+    ],
+    "usphone": "sprɪnt",
+    "ukphone": "sprɪnt",
+    "e_mean": [
+      "a short development cycle in agile projects"
+    ],
+    "speech": "noun",
+    "sentence": "The team completed all tasks in this sprint."
+  },
+  {
+    "name": "backlog",
+    "trans": [
+      "待办事项列表"
+    ],
+    "usphone": "ˈbæklɔːɡ",
+    "ukphone": "ˈbæklɒɡ",
+    "e_mean": [
+      "a list of pending work items"
+    ],
+    "speech": "noun",
+    "sentence": "We prioritized the backlog before the meeting."
+  },
+  {
+    "name": "ticket",
+    "trans": [
+      "工单；任务单"
+    ],
+    "usphone": "ˈtɪkɪt",
+    "ukphone": "ˈtɪkɪt",
+    "e_mean": [
+      "a tracked task or issue in a system"
+    ],
+    "speech": "noun",
+    "sentence": "I created a ticket for the database problem."
+  },
+  {
+    "name": "bug",
+    "trans": [
+      "漏洞；程序错误"
+    ],
+    "usphone": "bʌɡ",
+    "ukphone": "bʌɡ",
+    "e_mean": [
+      "an error or flaw in software"
+    ],
+    "speech": "noun",
+    "sentence": "The latest update introduced a serious bug."
+  },
+  {
+    "name": "feature",
+    "trans": [
+      "功能；特性"
+    ],
+    "usphone": "ˈfiːtʃər",
+    "ukphone": "ˈfiːtʃə",
+    "e_mean": [
+      "a distinct function or capability of software"
+    ],
+    "speech": "noun",
+    "sentence": "Users requested a dark mode feature."
+  },
+  {
+    "name": "roadmap",
+    "trans": [
+      "路线图；规划"
+    ],
+    "usphone": "ˈroʊdmæp",
+    "ukphone": "ˈrəʊdmæp",
+    "e_mean": [
+      "a strategic plan for product development"
+    ],
+    "speech": "noun",
+    "sentence": "The roadmap outlines next year's priorities."
+  },
+  {
+    "name": "milestone",
+    "trans": [
+      "里程碑"
+    ],
+    "usphone": "ˈmaɪlstoʊn",
+    "ukphone": "ˈmaɪlstəʊn",
+    "e_mean": [
+      "an important stage in a project"
+    ],
+    "speech": "noun",
+    "sentence": "Releasing version 2.0 was a major milestone."
+  },
+  {
+    "name": "prototype",
+    "trans": [
+      "原型"
+    ],
+    "usphone": "ˈproʊtətaɪp",
+    "ukphone": "ˈprəʊtətaɪp",
+    "e_mean": [
+      "an early model of a product"
+    ],
+    "speech": "noun",
+    "sentence": "The designer built a prototype for testing."
+  },
+  {
+    "name": "iteration",
+    "trans": [
+      "迭代"
+    ],
+    "usphone": "ˌɪtəˈreɪʃn",
+    "ukphone": "ˌɪtəˈreɪʃn",
+    "e_mean": [
+      "a repeated cycle of development and improvement"
+    ],
+    "speech": "noun",
+    "sentence": "Each iteration improved system stability."
+  },
+  {
+    "name": "scrum",
+    "trans": [
+      "敏捷开发会议；Scrum框架"
+    ],
+    "usphone": "skrʌm",
+    "ukphone": "skrʌm",
+    "e_mean": [
+      "an agile framework for project management"
+    ],
+    "speech": "noun",
+    "sentence": "The scrum meeting starts every morning at nine."
+  },
+  {
+    "name": "standup",
+    "trans": [
+      "站会"
+    ],
+    "usphone": "ˈstændʌp",
+    "ukphone": "ˈstændʌp",
+    "e_mean": [
+      "a short daily team status meeting"
+    ],
+    "speech": "noun",
+    "sentence": "We discussed blockers during the standup."
+  },
+  {
+    "name": "blocker",
+    "trans": [
+      "阻塞问题"
+    ],
+    "usphone": "ˈblɑːkər",
+    "ukphone": "ˈblɒkə",
+    "e_mean": [
+      "an issue preventing progress"
+    ],
+    "speech": "noun",
+    "sentence": "The API outage became a blocker for testing."
+  },
+  {
+    "name": "requirement",
+    "trans": [
+      "需求；要求"
+    ],
+    "usphone": "rɪˈkwaɪrmənt",
+    "ukphone": "rɪˈkwaɪəmənt",
+    "e_mean": [
+      "a necessary condition or capability"
+    ],
+    "speech": "noun",
+    "sentence": "Security is a key requirement for the platform."
+  },
+  {
+    "name": "specification",
+    "trans": [
+      "规格说明；规范"
+    ],
+    "usphone": "ˌspesɪfɪˈkeɪʃn",
+    "ukphone": "ˌspesɪfɪˈkeɪʃn",
+    "e_mean": [
+      "a detailed description of system requirements"
+    ],
+    "speech": "noun",
+    "sentence": "The specification document was updated yesterday."
+  },
+  {
+    "name": "dependency",
+    "trans": [
+      "依赖项"
+    ],
+    "usphone": "dɪˈpendənsi",
+    "ukphone": "dɪˈpendənsi",
+    "e_mean": [
+      "an external library or required component"
+    ],
+    "speech": "noun",
+    "sentence": "Updating dependencies fixed several vulnerabilities."
+  },
+  {
+    "name": "integration",
+    "trans": [
+      "集成"
+    ],
+    "usphone": "ˌɪntɪˈɡreɪʃn",
+    "ukphone": "ˌɪntɪˈɡreɪʃn",
+    "e_mean": [
+      "combining systems or components together"
+    ],
+    "speech": "noun",
+    "sentence": "Payment integration was completed this week."
+  },
+  {
+    "name": "automation",
+    "trans": [
+      "自动化"
+    ],
+    "usphone": "ˌɔːtəˈmeɪʃn",
+    "ukphone": "ˌɔːtəˈmeɪʃn",
+    "e_mean": [
+      "using technology to perform tasks automatically"
+    ],
+    "speech": "noun",
+    "sentence": "Automation reduced manual testing effort."
+  },
+  {
+    "name": "workflow",
+    "trans": [
+      "工作流"
+    ],
+    "usphone": "ˈwɜːrkfloʊ",
+    "ukphone": "ˈwɜːkfləʊ",
+    "e_mean": [
+      "a sequence of work processes"
+    ],
+    "speech": "noun",
+    "sentence": "The approval workflow was simplified."
+  },
+  {
+    "name": "benchmark",
+    "trans": [
+      "基准测试"
+    ],
+    "usphone": "ˈbentʃmɑːrk",
+    "ukphone": "ˈbentʃmɑːk",
+    "e_mean": [
+      "a standard for measuring performance"
+    ],
+    "speech": "noun",
+    "sentence": "We ran benchmarks on the new server cluster."
+  },
+  {
+    "name": "logging",
+    "trans": [
+      "日志记录"
+    ],
+    "usphone": "ˈlɔːɡɪŋ",
+    "ukphone": "ˈlɒɡɪŋ",
+    "e_mean": [
+      "recording system events and activities"
+    ],
+    "speech": "noun",
+    "sentence": "Proper logging helps diagnose production issues."
+  },
+  {
+    "name": "trace",
+    "trans": [
+      "追踪；跟踪"
+    ],
+    "usphone": "treɪs",
+    "ukphone": "treɪs",
+    "e_mean": [
+      "follow the execution path of a process"
+    ],
+    "speech": "verb",
+    "sentence": "The developer traced the request through multiple services."
+  },
+  {
+    "name": "stack trace",
+    "trans": [
+      "堆栈跟踪"
+    ],
+    "usphone": "stæk treɪs",
+    "ukphone": "stæk treɪs",
+    "e_mean": [
+      "a report showing the sequence of function calls during an error"
+    ],
+    "speech": "noun",
+    "sentence": "The stack trace revealed the source of the exception."
+  },
+  {
+    "name": "exception",
+    "trans": [
+      "异常"
+    ],
+    "usphone": "ɪkˈsepʃn",
+    "ukphone": "ɪkˈsepʃn",
+    "e_mean": [
+      "an error event that disrupts normal program flow"
+    ],
+    "speech": "noun",
+    "sentence": "The application threw an exception during startup."
+  },
+  {
+    "name": "timeout",
+    "trans": [
+      "超时"
+    ],
+    "usphone": "ˈtaɪmaʊt",
+    "ukphone": "ˈtaɪmaʊt",
+    "e_mean": [
+      "a failure caused by exceeding a time limit"
+    ],
+    "speech": "noun",
+    "sentence": "The request failed because of a network timeout."
+  },
+  {
+    "name": "retry",
+    "trans": [
+      "重试"
+    ],
+    "usphone": "ˌriːˈtraɪ",
+    "ukphone": "ˌriːˈtraɪ",
+    "e_mean": [
+      "attempt an operation again after failure"
+    ],
+    "speech": "verb",
+    "sentence": "The service will automatically retry failed requests."
+  },
+  {
+    "name": "configuration",
+    "trans": [
+      "配置"
+    ],
+    "usphone": "kənˌfɪɡjəˈreɪʃn",
+    "ukphone": "kənˌfɪɡəˈreɪʃn",
+    "e_mean": [
+      "the setup or arrangement of system settings"
+    ],
+    "speech": "noun",
+    "sentence": "Incorrect configuration caused the deployment failure."
+  },
+  {
+    "name": "environment",
+    "trans": [
+      "环境"
+    ],
+    "usphone": "ɪnˈvaɪrənmənt",
+    "ukphone": "ɪnˈvaɪrənmənt",
+    "e_mean": [
+      "a specific system setup for development or production"
+    ],
+    "speech": "noun",
+    "sentence": "The issue only appears in the staging environment."
+  },
+  {
+    "name": "staging",
+    "trans": [
+      "预发布环境"
+    ],
+    "usphone": "ˈsteɪdʒɪŋ",
+    "ukphone": "ˈsteɪdʒɪŋ",
+    "e_mean": [
+      "a testing environment similar to production"
+    ],
+    "speech": "noun",
+    "sentence": "We validated the release in staging first."
+  },
+  {
+    "name": "production",
+    "trans": [
+      "生产环境"
+    ],
+    "usphone": "prəˈdʌkʃn",
+    "ukphone": "prəˈdʌkʃn",
+    "e_mean": [
+      "the live environment used by real users"
+    ],
+    "speech": "noun",
+    "sentence": "The bug affected the production system."
+  },
+  {
+    "name": "sandbox",
+    "trans": [
+      "沙箱环境"
+    ],
+    "usphone": "ˈsændbɑːks",
+    "ukphone": "ˈsændbɒks",
+    "e_mean": [
+      "an isolated environment for testing"
+    ],
+    "speech": "noun",
+    "sentence": "Developers use the sandbox for experiments."
+  },
+  {
+    "name": "backup",
+    "trans": [
+      "备份"
+    ],
+    "usphone": "ˈbækʌp",
+    "ukphone": "ˈbækʌp",
+    "e_mean": [
+      "a copy of data stored for recovery"
+    ],
+    "speech": "noun",
+    "sentence": "Daily backups protect against data loss."
+  },
+  {
+    "name": "restore",
+    "trans": [
+      "恢复；还原"
+    ],
+    "usphone": "rɪˈstɔːr",
+    "ukphone": "rɪˈstɔː",
+    "e_mean": [
+      "recover data or systems from backup"
+    ],
+    "speech": "verb",
+    "sentence": "The database was restored after the outage."
+  },
+  {
+    "name": "migration",
+    "trans": [
+      "迁移"
+    ],
+    "usphone": "maɪˈɡreɪʃn",
+    "ukphone": "maɪˈɡreɪʃn",
+    "e_mean": [
+      "moving systems or data to a new platform"
+    ],
+    "speech": "noun",
+    "sentence": "The cloud migration took several months."
+  },
+  {
+    "name": "schema",
+    "trans": [
+      "模式；数据库结构"
+    ],
+    "usphone": "ˈskiːmə",
+    "ukphone": "ˈskiːmə",
+    "e_mean": [
+      "the structure definition of a database"
+    ],
+    "speech": "noun",
+    "sentence": "We updated the database schema yesterday."
+  },
+  {
+    "name": "query",
+    "trans": [
+      "查询"
+    ],
+    "usphone": "ˈkwɪri",
+    "ukphone": "ˈkwɪəri",
+    "e_mean": [
+      "a request for data from a database"
+    ],
+    "speech": "noun",
+    "sentence": "The SQL query returned thousands of records."
+  },
+  {
+    "name": "index",
+    "trans": [
+      "索引"
+    ],
+    "usphone": "ˈɪndeks",
+    "ukphone": "ˈɪndeks",
+    "e_mean": [
+      "a data structure that improves query speed"
+    ],
+    "speech": "noun",
+    "sentence": "Adding an index improved search performance."
+  },
+  {
+    "name": "cluster",
+    "trans": [
+      "集群"
+    ],
+    "usphone": "ˈklʌstər",
+    "ukphone": "ˈklʌstə",
+    "e_mean": [
+      "a group of connected servers working together"
+    ],
+    "speech": "noun",
+    "sentence": "The database cluster handled millions of requests."
+  },
+  {
+    "name": "node",
+    "trans": [
+      "节点"
+    ],
+    "usphone": "noʊd",
+    "ukphone": "nəʊd",
+    "e_mean": [
+      "an individual machine in a network or cluster"
+    ],
+    "speech": "noun",
+    "sentence": "One node in the cluster became unavailable."
+  },
+  {
+    "name": "load balancing",
+    "trans": [
+      "负载均衡"
+    ],
+    "usphone": "loʊd ˈbælənsɪŋ",
+    "ukphone": "ləʊd ˈbælənsɪŋ",
+    "e_mean": [
+      "distributing workloads across multiple servers"
+    ],
+    "speech": "noun",
+    "sentence": "Load balancing improved system reliability."
+  },
+  {
+    "name": "availability",
+    "trans": [
+      "可用性"
+    ],
+    "usphone": "əˌveɪləˈbɪləti",
+    "ukphone": "əˌveɪləˈbɪləti",
+    "e_mean": [
+      "the degree to which a system is operational"
+    ],
+    "speech": "noun",
+    "sentence": "High availability reduces service interruptions."
+  },
+  {
+    "name": "redundancy",
+    "trans": [
+      "冗余"
+    ],
+    "usphone": "rɪˈdʌndənsi",
+    "ukphone": "rɪˈdʌndənsi",
+    "e_mean": [
+      "extra components used for reliability"
+    ],
+    "speech": "noun",
+    "sentence": "System redundancy prevents single points of failure."
+  },
+  {
+    "name": "failover",
+    "trans": [
+      "故障切换"
+    ],
+    "usphone": "ˈfeɪloʊvər",
+    "ukphone": "ˈfeɪləʊvə",
+    "e_mean": [
+      "automatic switching to a backup system"
+    ],
+    "speech": "noun",
+    "sentence": "Failover mechanisms kept the service online."
+  },
+  {
+    "name": "uptime",
+    "trans": [
+      "正常运行时间"
+    ],
+    "usphone": "ˈʌptaɪm",
+    "ukphone": "ˈʌptaɪm",
+    "e_mean": [
+      "the amount of time a system stays operational"
+    ],
+    "speech": "noun",
+    "sentence": "The platform achieved 99.99% uptime this year."
+  },
+  {
+    "name": "orchestration",
+    "trans": [
+      "编排"
+    ],
+    "usphone": "ˌɔːrkɪˈstreɪʃn",
+    "ukphone": "ˌɔːkɪˈstreɪʃn",
+    "e_mean": [
+      "automated coordination of systems and services"
+    ],
+    "speech": "noun",
+    "sentence": "Kubernetes provides container orchestration."
+  },
+  {
+    "name": "virtualization",
+    "trans": [
+      "虚拟化"
+    ],
+    "usphone": "ˌvɜːrtʃuələˈzeɪʃn",
+    "ukphone": "ˌvɜːtʃuəlaɪˈzeɪʃn",
+    "e_mean": [
+      "creating virtual versions of computing resources"
+    ],
+    "speech": "noun",
+    "sentence": "Virtualization improved hardware utilization."
+  },
+  {
+    "name": "instance",
+    "trans": [
+      "实例"
+    ],
+    "usphone": "ˈɪnstəns",
+    "ukphone": "ˈɪnstəns",
+    "e_mean": [
+      "a running copy of software or service"
+    ],
+    "speech": "noun",
+    "sentence": "We launched a new cloud instance for testing."
+  },
+  {
+    "name": "endpoint security",
+    "trans": [
+      "终端安全"
+    ],
+    "usphone": "ˈendpɔɪnt sɪˈkjʊrəti",
+    "ukphone": "ˈendpɔɪnt sɪˈkjʊərəti",
+    "e_mean": [
+      "security protection for user devices"
+    ],
+    "speech": "noun",
+    "sentence": "Endpoint security prevents malware attacks."
+  },
+  {
+    "name": "firewall",
+    "trans": [
+      "防火墙"
+    ],
+    "usphone": "ˈfaɪərwɔːl",
+    "ukphone": "ˈfaɪəwɔːl",
+    "e_mean": [
+      "a system that filters network traffic"
+    ],
+    "speech": "noun",
+    "sentence": "The firewall blocked suspicious requests."
+  },
+  {
+    "name": "vulnerability",
+    "trans": [
+      "漏洞；脆弱性"
+    ],
+    "usphone": "ˌvʌlnərəˈbɪləti",
+    "ukphone": "ˌvʌlnərəˈbɪləti",
+    "e_mean": [
+      "a weakness that can be exploited"
+    ],
+    "speech": "noun",
+    "sentence": "The scan detected multiple security vulnerabilities."
+  },
+  {
+    "name": "penetration testing",
+    "trans": [
+      "渗透测试"
+    ],
+    "usphone": "ˌpenɪˈtreɪʃn ˈtestɪŋ",
+    "ukphone": "ˌpenɪˈtreɪʃn ˈtestɪŋ",
+    "e_mean": [
+      "security testing by simulating attacks"
+    ],
+    "speech": "noun",
+    "sentence": "Penetration testing identified weak authentication rules."
+  },
+  {
+    "name": "compliance",
+    "trans": [
+      "合规"
+    ],
+    "usphone": "kəmˈplaɪəns",
+    "ukphone": "kəmˈplaɪəns",
+    "e_mean": [
+      "meeting required standards or regulations"
+    ],
+    "speech": "noun",
+    "sentence": "The platform meets industry compliance requirements."
+  },
+  {
+    "name": "audit",
+    "trans": [
+      "审计"
+    ],
+    "usphone": "ˈɔːdɪt",
+    "ukphone": "ˈɔːdɪt",
+    "e_mean": [
+      "an official inspection of systems or records"
+    ],
+    "speech": "noun",
+    "sentence": "The security audit was completed successfully."
+  },
+  {
+    "name": "artifact",
+    "trans": [
+      "构件；产物"
+    ],
+    "usphone": "ˈɑːrtɪfækt",
+    "ukphone": "ˈɑːtɪfækt",
+    "e_mean": [
+      "a generated file produced during development"
+    ],
+    "speech": "noun",
+    "sentence": "The build artifact was uploaded automatically."
+  },
+  {
+    "name": "build",
+    "trans": [
+      "构建"
+    ],
+    "usphone": "bɪld",
+    "ukphone": "bɪld",
+    "e_mean": [
+      "the process of compiling and packaging software"
+    ],
+    "speech": "noun",
+    "sentence": "The nightly build failed after recent changes."
+  },
+  {
+    "name": "release",
+    "trans": [
+      "发布版本"
+    ],
+    "usphone": "rɪˈliːs",
+    "ukphone": "rɪˈliːs",
+    "e_mean": [
+      "a distributed version of software"
+    ],
+    "speech": "noun",
+    "sentence": "The release includes several performance improvements."
+  },
+  {
+    "name": "versioning",
+    "trans": [
+      "版本管理"
+    ],
+    "usphone": "ˈvɜːrʒənɪŋ",
+    "ukphone": "ˈvɜːʃənɪŋ",
+    "e_mean": [
+      "managing different versions of software"
+    ],
+    "speech": "noun",
+    "sentence": "API versioning avoids compatibility issues."
+  },
+  {
+    "name": "dependency injection",
+    "trans": [
+      "依赖注入"
+    ],
+    "usphone": "dɪˈpendənsi ɪnˈdʒekʃn",
+    "ukphone": "dɪˈpendənsi ɪnˈdʒekʃn",
+    "e_mean": [
+      "a design pattern for supplying dependencies"
+    ],
+    "speech": "noun",
+    "sentence": "Dependency injection simplifies unit testing."
+  },
+  {
+    "name": "unit test",
+    "trans": [
+      "单元测试"
+    ],
+    "usphone": "ˈjuːnɪt test",
+    "ukphone": "ˈjuːnɪt test",
+    "e_mean": [
+      "testing individual components of software"
+    ],
+    "speech": "noun",
+    "sentence": "Every new function should include a unit test."
+  },
+  {
+    "name": "integration test",
+    "trans": [
+      "集成测试"
+    ],
+    "usphone": "ˌɪntɪˈɡreɪʃn test",
+    "ukphone": "ˌɪntɪˈɡreɪʃn test",
+    "e_mean": [
+      "testing combined software components together"
+    ],
+    "speech": "noun",
+    "sentence": "Integration tests verified communication between services."
+  },
+  {
+    "name": "regression test",
+    "trans": [
+      "回归测试"
+    ],
+    "usphone": "rɪˈɡreʃn test",
+    "ukphone": "rɪˈɡreʃn test",
+    "e_mean": [
+      "testing to ensure existing features still work"
+    ],
+    "speech": "noun",
+    "sentence": "Regression tests caught a bug introduced by the update."
+  },
+  {
+    "name": "mock",
+    "trans": [
+      "模拟对象"
+    ],
+    "usphone": "mɑːk",
+    "ukphone": "mɒk",
+    "e_mean": [
+      "a simulated object used in testing"
+    ],
+    "speech": "noun",
+    "sentence": "We used a mock database during testing."
+  },
+  {
+    "name": "stub",
+    "trans": [
+      "桩；存根"
+    ],
+    "usphone": "stʌb",
+    "ukphone": "stʌb",
+    "e_mean": [
+      "a simplified implementation used for testing"
+    ],
+    "speech": "noun",
+    "sentence": "The API stub returned fixed responses for development."
+  },
+  {
+    "name": "assertion",
+    "trans": [
+      "断言"
+    ],
+    "usphone": "əˈsɜːrʃn",
+    "ukphone": "əˈsɜːʃn",
+    "e_mean": [
+      "a statement that checks expected results in tests"
+    ],
+    "speech": "noun",
+    "sentence": "The assertion failed because the output was incorrect."
+  },
+  {
+    "name": "continuous delivery",
+    "trans": [
+      "持续交付"
+    ],
+    "usphone": "kənˈtɪnjuəs dɪˈlɪvəri",
+    "ukphone": "kənˈtɪnjuəs dɪˈlɪvəri",
+    "e_mean": [
+      "automating software release preparation"
+    ],
+    "speech": "noun",
+    "sentence": "Continuous delivery speeds up product releases."
+  },
+  {
+    "name": "observability",
+    "trans": [
+      "可观测性"
+    ],
+    "usphone": "əbˌzɜːrvəˈbɪləti",
+    "ukphone": "əbˌzɜːvəˈbɪləti",
+    "e_mean": [
+      "the ability to understand system behavior through data"
+    ],
+    "speech": "noun",
+    "sentence": "Observability tools help detect hidden issues."
+  },
+  {
+    "name": "telemetry",
+    "trans": [
+      "遥测数据"
+    ],
+    "usphone": "təˈlemətri",
+    "ukphone": "təˈlemətri",
+    "e_mean": [
+      "automatically collected operational data"
+    ],
+    "speech": "noun",
+    "sentence": "Telemetry data revealed abnormal CPU usage."
+  },
+  {
+    "name": "metrics",
+    "trans": [
+      "指标"
+    ],
+    "usphone": "ˈmetrɪks",
+    "ukphone": "ˈmetrɪks",
+    "e_mean": [
+      "quantitative measurements of system performance"
+    ],
+    "speech": "noun",
+    "sentence": "The dashboard displays real-time metrics."
+  },
+  {
+    "name": "dashboard",
+    "trans": [
+      "仪表盘；监控面板"
+    ],
+    "usphone": "ˈdæʃbɔːrd",
+    "ukphone": "ˈdæʃbɔːd",
+    "e_mean": [
+      "a visual interface showing important data"
+    ],
+    "speech": "noun",
+    "sentence": "Engineers monitored the dashboard during deployment."
+  },
+  {
+    "name": "alert",
+    "trans": [
+      "警报；告警"
+    ],
+    "usphone": "əˈlɜːrt",
+    "ukphone": "əˈlɜːt",
+    "e_mean": [
+      "a notification about system issues"
+    ],
+    "speech": "noun",
+    "sentence": "An alert was triggered when memory usage spiked."
+  },
+  {
+    "name": "incident response",
+    "trans": [
+      "事件响应"
+    ],
+    "usphone": "ˈɪnsɪdənt rɪˈspɑːns",
+    "ukphone": "ˈɪnsɪdənt rɪˈspɒns",
+    "e_mean": [
+      "the process of handling system incidents"
+    ],
+    "speech": "noun",
+    "sentence": "The incident response team resolved the outage quickly."
+  },
+  {
+    "name": "root cause",
+    "trans": [
+      "根本原因"
+    ],
+    "usphone": "ruːt kɔːz",
+    "ukphone": "ruːt kɔːz",
+    "e_mean": [
+      "the original source of a problem"
+    ],
+    "speech": "noun",
+    "sentence": "The root cause analysis identified a configuration error."
+  },
+  {
+    "name": "postmortem",
+    "trans": [
+      "事后复盘；事故复盘"
+    ],
+    "usphone": "ˌpoʊstˈmɔːrtəm",
+    "ukphone": "ˌpəʊstˈmɔːtəm",
+    "e_mean": [
+      "a review conducted after an incident or failure"
+    ],
+    "speech": "noun",
+    "sentence": "The team wrote a detailed postmortem after the outage."
+  },
+  {
+    "name": "technical debt",
+    "trans": [
+      "技术债"
+    ],
+    "usphone": "ˈteknɪkl det",
+    "ukphone": "ˈteknɪkl det",
+    "e_mean": [
+      "future cost caused by quick or poor technical decisions"
+    ],
+    "speech": "noun",
+    "sentence": "Ignoring code quality increases technical debt."
+  },
+  {
+    "name": "legacy system",
+    "trans": [
+      "遗留系统"
+    ],
+    "usphone": "ˈleɡəsi ˈsɪstəm",
+    "ukphone": "ˈleɡəsi ˈsɪstəm",
+    "e_mean": [
+      "an old system still in use"
+    ],
+    "speech": "noun",
+    "sentence": "Migrating the legacy system was extremely challenging."
+  },
+  {
+    "name": "pair programming",
+    "trans": [
+      "结对编程"
+    ],
+    "usphone": "per ˈproʊɡræmɪŋ",
+    "ukphone": "peə ˈprəʊɡræmɪŋ",
+    "e_mean": [
+      "two developers working together on the same code"
+    ],
+    "speech": "noun",
+    "sentence": "Pair programming improved knowledge sharing within the team."
+  },
+  {
+    "name": "agile",
+    "trans": [
+      "敏捷开发的"
+    ],
+    "usphone": "ˈædʒl",
+    "ukphone": "ˈædʒaɪl",
+    "e_mean": [
+      "a flexible and iterative approach to software development"
+    ],
+    "speech": "adjective",
+    "sentence": "The company adopted agile practices for faster delivery."
+  },
+  {
+    "name": "kanban",
+    "trans": [
+      "看板管理"
+    ],
+    "usphone": "ˈkɑːnbɑːn",
+    "ukphone": "ˈkænbæn",
+    "e_mean": [
+      "a workflow management method using visual boards"
+    ],
+    "speech": "noun",
+    "sentence": "The team tracks tasks using a Kanban board."
+  },
+  {
+    "name": "epic",
+    "trans": [
+      "史诗任务；大型需求"
+    ],
+    "usphone": "ˈepɪk",
+    "ukphone": "ˈepɪk",
+    "e_mean": [
+      "a large body of work divided into smaller tasks"
+    ],
+    "speech": "noun",
+    "sentence": "The authentication redesign was organized as an epic."
+  },
+  {
+    "name": "user story",
+    "trans": [
+      "用户故事"
+    ],
+    "usphone": "ˈjuːzər ˈstɔːri",
+    "ukphone": "ˈjuːzə ˈstɔːri",
+    "e_mean": [
+      "a simple description of a feature from a user's perspective"
+    ],
+    "speech": "noun",
+    "sentence": "Each user story should include acceptance criteria."
+  },
+  {
+    "name": "acceptance criteria",
+    "trans": [
+      "验收标准"
+    ],
+    "usphone": "əkˈseptəns kraɪˈtɪriə",
+    "ukphone": "əkˈseptəns kraɪˈtɪəriə",
+    "e_mean": [
+      "conditions that determine whether a task is complete"
+    ],
+    "speech": "noun",
+    "sentence": "The feature passed all acceptance criteria."
+  },
+  {
+    "name": "retrospective",
+    "trans": [
+      "回顾会议；复盘"
+    ],
+    "usphone": "ˌretrəˈspektɪv",
+    "ukphone": "ˌretrəˈspektɪv",
+    "e_mean": [
+      "a meeting to review and improve team processes"
+    ],
+    "speech": "noun",
+    "sentence": "The retrospective identified several workflow improvements."
+  },
+  {
+    "name": "estimation",
+    "trans": [
+      "工作量评估"
+    ],
+    "usphone": "ˌestɪˈmeɪʃn",
+    "ukphone": "ˌestɪˈmeɪʃn",
+    "e_mean": [
+      "predicting the effort required for a task"
+    ],
+    "speech": "noun",
+    "sentence": "The estimation meeting lasted two hours."
+  },
+  {
+    "name": "velocity",
+    "trans": [
+      "开发速度；团队产能"
+    ],
+    "usphone": "vəˈlɑːsəti",
+    "ukphone": "vəˈlɒsəti",
+    "e_mean": [
+      "the amount of work completed during a sprint"
+    ],
+    "speech": "noun",
+    "sentence": "The team's velocity increased after process improvements."
+  },
+  {
+    "name": "burn down chart",
+    "trans": [
+      "燃尽图"
+    ],
+    "usphone": "bɜːrn daʊn tʃɑːrt",
+    "ukphone": "bɜːn daʊn tʃɑːt",
+    "e_mean": [
+      "a chart showing remaining work over time"
+    ],
+    "speech": "noun",
+    "sentence": "The burn down chart showed the sprint was behind schedule."
+  },
+  {
+    "name": "on-call",
+    "trans": [
+      "值班；待命"
+    ],
+    "usphone": "ˈɑːn kɔːl",
+    "ukphone": "ˈɒn kɔːl",
+    "e_mean": [
+      "being available to respond to incidents"
+    ],
+    "speech": "adjective",
+    "sentence": "She is the on-call engineer this weekend."
+  },
+  {
+    "name": "service level agreement",
+    "trans": [
+      "服务等级协议"
+    ],
+    "usphone": "ˈsɜːrvɪs ˈlevl əˈɡriːmənt",
+    "ukphone": "ˈsɜːvɪs ˈlevl əˈɡriːmənt",
+    "e_mean": [
+      "a contract defining expected service standards"
+    ],
+    "speech": "noun",
+    "sentence": "The provider guaranteed 99.9% uptime in the service level agreement."
+  },
+  {
+    "name": "service level objective",
+    "trans": [
+      "服务等级目标"
+    ],
+    "usphone": "ˈsɜːrvɪs ˈlevl əbˈdʒektɪv",
+    "ukphone": "ˈsɜːvɪs ˈlevl əbˈdʒektɪv",
+    "e_mean": [
+      "a target value for service performance"
+    ],
+    "speech": "noun",
+    "sentence": "The latency service level objective was achieved."
+  },
+  {
+    "name": "error budget",
+    "trans": [
+      "错误预算"
+    ],
+    "usphone": "ˈerər ˈbʌdʒɪt",
+    "ukphone": "ˈerə ˈbʌdʒɪt",
+    "e_mean": [
+      "the allowable amount of service unreliability"
+    ],
+    "speech": "noun",
+    "sentence": "The team paused deployments after exhausting the error budget."
+  },
+  {
+    "name": "site reliability engineering",
+    "trans": [
+      "站点可靠性工程"
+    ],
+    "usphone": "saɪt rɪˌlaɪəˈbɪləti ˌendʒɪˈnɪrɪŋ",
+    "ukphone": "saɪt rɪˌlaɪəˈbɪləti ˌendʒɪˈnɪərɪŋ",
+    "e_mean": [
+      "engineering practices focused on system reliability"
+    ],
+    "speech": "noun",
+    "sentence": "Site reliability engineering improved platform stability."
+  },
+  {
+    "name": "infrastructure as code",
+    "trans": [
+      "基础设施即代码"
+    ],
+    "usphone": "ˈɪnfrəstrʌktʃər æz koʊd",
+    "ukphone": "ˈɪnfrəstrʌktʃə æz kəʊd",
+    "e_mean": [
+      "managing infrastructure through configuration files"
+    ],
+    "speech": "noun",
+    "sentence": "Infrastructure as code simplified cloud management."
+  },
+  {
+    "name": "provisioning",
+    "trans": [
+      "资源配置；部署资源"
+    ],
+    "usphone": "prəˈvɪʒənɪŋ",
+    "ukphone": "prəˈvɪʒənɪŋ",
+    "e_mean": [
+      "setting up IT resources for use"
+    ],
+    "speech": "noun",
+    "sentence": "Automated provisioning reduced setup time."
+  },
+  {
+    "name": "autoscaling",
+    "trans": [
+      "自动扩缩容"
+    ],
+    "usphone": "ˈɔːtoʊˌskeɪlɪŋ",
+    "ukphone": "ˈɔːtəʊˌskeɪlɪŋ",
+    "e_mean": [
+      "automatically adjusting resources based on demand"
+    ],
+    "speech": "noun",
+    "sentence": "Autoscaling handled the traffic spike smoothly."
+  },
+  {
+    "name": "resource utilization",
+    "trans": [
+      "资源利用率"
+    ],
+    "usphone": "rɪˈsɔːrs ˌjuːtələˈzeɪʃn",
+    "ukphone": "rɪˈsɔːs ˌjuːtɪlaɪˈzeɪʃn",
+    "e_mean": [
+      "the efficiency of using computing resources"
+    ],
+    "speech": "noun",
+    "sentence": "Resource utilization improved after optimization."
+  },
+  {
+    "name": "throttling",
+    "trans": [
+      "限流"
+    ],
+    "usphone": "ˈθrɑːtlɪŋ",
+    "ukphone": "ˈθrɒtlɪŋ",
+    "e_mean": [
+      "limiting the rate of requests or operations"
+    ],
+    "speech": "noun",
+    "sentence": "API throttling prevents system overload."
+  },
+  {
+    "name": "rate limit",
+    "trans": [
+      "速率限制"
+    ],
+    "usphone": "reɪt ˈlɪmɪt",
+    "ukphone": "reɪt ˈlɪmɪt",
+    "e_mean": [
+      "a restriction on the number of allowed requests"
+    ],
+    "speech": "noun",
+    "sentence": "The client exceeded the API rate limit."
+  },
+  {
+    "name": "queue",
+    "trans": [
+      "队列"
+    ],
+    "usphone": "kjuː",
+    "ukphone": "kjuː",
+    "e_mean": [
+      "a structure that stores tasks or messages in order"
+    ],
+    "speech": "noun",
+    "sentence": "The message queue processed requests asynchronously."
+  },
+  {
+    "name": "message broker",
+    "trans": [
+      "消息代理"
+    ],
+    "usphone": "ˈmesɪdʒ ˈbroʊkər",
+    "ukphone": "ˈmesɪdʒ ˈbrəʊkə",
+    "e_mean": [
+      "software that routes messages between services"
+    ],
+    "speech": "noun",
+    "sentence": "Kafka is commonly used as a message broker."
+  },
+  {
+    "name": "event-driven",
+    "trans": [
+      "事件驱动的"
+    ],
+    "usphone": "ɪˈvent ˈdrɪvn",
+    "ukphone": "ɪˈvent ˈdrɪvn",
+    "e_mean": [
+      "a system architecture based on events and triggers"
+    ],
+    "speech": "adjective",
+    "sentence": "The platform uses an event-driven architecture."
+  },
+  {
+    "name": "asynchronous",
+    "trans": [
+      "异步的"
+    ],
+    "usphone": "eɪˈsɪŋkrənəs",
+    "ukphone": "eɪˈsɪŋkrənəs",
+    "e_mean": [
+      "operating independently without waiting"
+    ],
+    "speech": "adjective",
+    "sentence": "Asynchronous processing improved response times."
+  },
+  {
+    "name": "synchronous",
+    "trans": [
+      "同步的"
+    ],
+    "usphone": "ˈsɪŋkrənəs",
+    "ukphone": "ˈsɪŋkrənəs",
+    "e_mean": [
+      "operating in a coordinated or blocking manner"
+    ],
+    "speech": "adjective",
+    "sentence": "The synchronous API call delayed the request."
+  },
+  {
+    "name": "thread",
+    "trans": [
+      "线程"
+    ],
+    "usphone": "θred",
+    "ukphone": "θred",
+    "e_mean": [
+      "a unit of execution within a process"
+    ],
+    "speech": "noun",
+    "sentence": "The application created multiple threads for parallel tasks."
+  },
+  {
+    "name": "process",
+    "trans": [
+      "进程"
+    ],
+    "usphone": "ˈprɑːses",
+    "ukphone": "ˈprəʊses",
+    "e_mean": [
+      "an executing instance of a program"
+    ],
+    "speech": "noun",
+    "sentence": "The server process consumed too much memory."
+  },
+  {
+    "name": "deadlock",
+    "trans": [
+      "死锁"
+    ],
+    "usphone": "ˈdedlɑːk",
+    "ukphone": "ˈdedlɒk",
+    "e_mean": [
+      "a state where processes wait indefinitely for resources"
+    ],
+    "speech": "noun",
+    "sentence": "A database deadlock caused transaction failures."
+  },
+  {
+    "name": "race condition",
+    "trans": [
+      "竞争条件"
+    ],
+    "usphone": "reɪs kənˈdɪʃn",
+    "ukphone": "reɪs kənˈdɪʃn",
+    "e_mean": [
+      "unexpected behavior caused by concurrent operations"
+    ],
+    "speech": "noun",
+    "sentence": "The bug was caused by a race condition."
+  },
+  {
+    "name": "concurrency",
+    "trans": [
+      "并发"
+    ],
+    "usphone": "kənˈkɜːrənsi",
+    "ukphone": "kənˈkʌrənsi",
+    "e_mean": [
+      "multiple tasks executing during overlapping time periods"
+    ],
+    "speech": "noun",
+    "sentence": "Concurrency support improved server performance."
+  },
+  {
+    "name": "parallelism",
+    "trans": [
+      "并行"
+    ],
+    "usphone": "ˈpærəlelɪzəm",
+    "ukphone": "ˈpærəlelɪzəm",
+    "e_mean": [
+      "simultaneous execution of multiple operations"
+    ],
+    "speech": "noun",
+    "sentence": "Parallelism reduced processing time significantly."
+  },
+  {
+    "name": "serialization",
+    "trans": [
+      "序列化"
+    ],
+    "usphone": "ˌsɪriələˈzeɪʃn",
+    "ukphone": "ˌsɪəriəlaɪˈzeɪʃn",
+    "e_mean": [
+      "converting data structures into transferable formats"
+    ],
+    "speech": "noun",
+    "sentence": "JSON serialization was required for the API response."
+  },
+  {
+    "name": "deserialization",
+    "trans": [
+      "反序列化"
+    ],
+    "usphone": "diˌsɪriələˈzeɪʃn",
+    "ukphone": "diˌsɪəriəlaɪˈzeɪʃn",
+    "e_mean": [
+      "reconstructing data from serialized formats"
+    ],
+    "speech": "noun",
+    "sentence": "The application failed during deserialization."
+  },
+  {
+    "name": "payload",
+    "trans": [
+      "有效载荷；请求数据"
+    ],
+    "usphone": "ˈpeɪloʊd",
+    "ukphone": "ˈpeɪləʊd",
+    "e_mean": [
+      "the actual data carried in a request or message"
+    ],
+    "speech": "noun",
+    "sentence": "The API payload included user information."
+  },
+  {
+    "name": "protocol",
+    "trans": [
+      "协议"
+    ],
+    "usphone": "ˈproʊtəkɔːl",
+    "ukphone": "ˈprəʊtəkɒl",
+    "e_mean": [
+      "a set of rules for communication between systems"
+    ],
+    "speech": "noun",
+    "sentence": "HTTPS is a secure communication protocol."
+  },
+  {
+    "name": "handshake",
+    "trans": [
+      "握手过程"
+    ],
+    "usphone": "ˈhændʃeɪk",
+    "ukphone": "ˈhændʃeɪk",
+    "e_mean": [
+      "an initial negotiation process between systems"
+    ],
+    "speech": "noun",
+    "sentence": "The SSL handshake failed during connection setup."
+  },
+  {
+    "name": "socket",
+    "trans": [
+      "套接字"
+    ],
+    "usphone": "ˈsɑːkɪt",
+    "ukphone": "ˈsɒkɪt",
+    "e_mean": [
+      "an endpoint for network communication"
+    ],
+    "speech": "noun",
+    "sentence": "The server listens for requests through a socket."
+  },
+  {
+    "name": "bandwidth throttling",
+    "trans": [
+      "带宽限制"
+    ],
+    "usphone": "ˈbændwɪdθ ˈθrɑːtlɪŋ",
+    "ukphone": "ˈbændwɪdθ ˈθrɒtlɪŋ",
+    "e_mean": [
+      "controlling network speed or traffic usage"
+    ],
+    "speech": "noun",
+    "sentence": "Bandwidth throttling reduced excessive network usage."
+  },
+  {
+    "name": "content delivery network",
+    "trans": [
+      "内容分发网络"
+    ],
+    "usphone": "ˈkɑːntent dɪˈlɪvəri ˈnetwɜːrk",
+    "ukphone": "ˈkɒntent dɪˈlɪvəri ˈnetwɜːk",
+    "e_mean": [
+      "a distributed network for delivering web content efficiently"
+    ],
+    "speech": "noun",
+    "sentence": "The CDN improved page load speed globally."
+  },
+  {
+    "name": "edge computing",
+    "trans": [
+      "边缘计算"
+    ],
+    "usphone": "edʒ kəmˈpjuːtɪŋ",
+    "ukphone": "edʒ kəmˈpjuːtɪŋ",
+    "e_mean": [
+      "processing data closer to where it is generated"
+    ],
+    "speech": "noun",
+    "sentence": "Edge computing reduced latency for IoT devices."
+  },
+  {
+    "name": "cloud computing",
+    "trans": [
+      "云计算"
+    ],
+    "usphone": "klaʊd kəmˈpjuːtɪŋ",
+    "ukphone": "klaʊd kəmˈpjuːtɪŋ",
+    "e_mean": [
+      "delivering computing services over the internet"
+    ],
+    "speech": "noun",
+    "sentence": "Cloud computing reduced infrastructure costs."
+  },
+  {
+    "name": "multi-tenant",
+    "trans": [
+      "多租户的"
+    ],
+    "usphone": "ˌmʌlti ˈtenənt",
+    "ukphone": "ˌmʌlti ˈtenənt",
+    "e_mean": [
+      "a system architecture serving multiple customers on shared resources"
+    ],
+    "speech": "adjective",
+    "sentence": "The SaaS platform uses a multi-tenant architecture."
+  },
+  {
+    "name": "single sign-on",
+    "trans": [
+      "单点登录"
+    ],
+    "usphone": "ˈsɪŋɡl saɪn ɑːn",
+    "ukphone": "ˈsɪŋɡl saɪn ɒn",
+    "e_mean": [
+      "an authentication method allowing one login for multiple systems"
+    ],
+    "speech": "noun",
+    "sentence": "Single sign-on improved the user experience."
+  },
+  {
+    "name": "federation",
+    "trans": [
+      "联合认证；联邦机制"
+    ],
+    "usphone": "ˌfedəˈreɪʃn",
+    "ukphone": "ˌfedəˈreɪʃn",
+    "e_mean": [
+      "a system of shared identity or resource management"
+    ],
+    "speech": "noun",
+    "sentence": "Identity federation enabled cross-platform access."
+  },
+  {
+    "name": "data pipeline",
+    "trans": [
+      "数据管道"
+    ],
+    "usphone": "ˈdeɪtə ˈpaɪplaɪn",
+    "ukphone": "ˈdeɪtə ˈpaɪplaɪn",
+    "e_mean": [
+      "a sequence of processes for moving and transforming data"
+    ],
+    "speech": "noun",
+    "sentence": "The data pipeline processes millions of events daily."
+  },
+  {
+    "name": "data warehouse",
+    "trans": [
+      "数据仓库"
+    ],
+    "usphone": "ˈdeɪtə ˈwerhaʊs",
+    "ukphone": "ˈdeɪtə ˈweəhaʊs",
+    "e_mean": [
+      "a centralized repository for analytical data"
+    ],
+    "speech": "noun",
+    "sentence": "Business reports are generated from the data warehouse."
+  },
+  {
+    "name": "data lake",
+    "trans": [
+      "数据湖"
+    ],
+    "usphone": "ˈdeɪtə leɪk",
+    "ukphone": "ˈdeɪtə leɪk",
+    "e_mean": [
+      "a large storage system for raw structured and unstructured data"
+    ],
+    "speech": "noun",
+    "sentence": "Logs and metrics are stored in the data lake."
+  },
+  {
+    "name": "ETL",
+    "trans": [
+      "抽取、转换、加载"
+    ],
+    "usphone": "ˌiː tiː ˈel",
+    "ukphone": "ˌiː tiː ˈel",
+    "e_mean": [
+      "extracting, transforming, and loading data"
+    ],
+    "speech": "noun",
+    "sentence": "The ETL job failed due to missing records."
+  },
+  {
+    "name": "stream processing",
+    "trans": [
+      "流处理"
+    ],
+    "usphone": "striːm ˈprɑːsesɪŋ",
+    "ukphone": "striːm ˈprəʊsesɪŋ",
+    "e_mean": [
+      "processing continuous flows of data in real time"
+    ],
+    "speech": "noun",
+    "sentence": "Stream processing enables real-time analytics."
+  },
+  {
+    "name": "batch processing",
+    "trans": [
+      "批处理"
+    ],
+    "usphone": "bætʃ ˈprɑːsesɪŋ",
+    "ukphone": "bætʃ ˈprəʊsesɪŋ",
+    "e_mean": [
+      "processing data in grouped jobs"
+    ],
+    "speech": "noun",
+    "sentence": "Batch processing runs every midnight."
+  },
+  {
+    "name": "machine learning",
+    "trans": [
+      "机器学习"
+    ],
+    "usphone": "məˈʃiːn ˈlɜːrnɪŋ",
+    "ukphone": "məˈʃiːn ˈlɜːnɪŋ",
+    "e_mean": [
+      "using algorithms that learn from data"
+    ],
+    "speech": "noun",
+    "sentence": "Machine learning improved recommendation accuracy."
+  },
+  {
+    "name": "training dataset",
+    "trans": [
+      "训练数据集"
+    ],
+    "usphone": "ˈtreɪnɪŋ ˈdeɪtəset",
+    "ukphone": "ˈtreɪnɪŋ ˈdeɪtəset",
+    "e_mean": [
+      "data used to train machine learning models"
+    ],
+    "speech": "noun",
+    "sentence": "The model was trained on a large training dataset."
+  },
+  {
+    "name": "inference",
+    "trans": [
+      "推理"
+    ],
+    "usphone": "ˈɪnfərəns",
+    "ukphone": "ˈɪnfərəns",
+    "e_mean": [
+      "using a trained model to make predictions"
+    ],
+    "speech": "noun",
+    "sentence": "Inference latency must remain under 100 milliseconds."
+  },
+  {
+    "name": "feature engineering",
+    "trans": [
+      "特征工程"
+    ],
+    "usphone": "ˈfiːtʃər ˌendʒɪˈnɪrɪŋ",
+    "ukphone": "ˈfiːtʃə ˌendʒɪˈnɪərɪŋ",
+    "e_mean": [
+      "creating useful input variables for machine learning"
+    ],
+    "speech": "noun",
+    "sentence": "Feature engineering significantly improved model accuracy."
+  },
+  {
+    "name": "neural network",
+    "trans": [
+      "神经网络"
+    ],
+    "usphone": "ˈnʊrəl ˈnetwɜːrk",
+    "ukphone": "ˈnjʊərəl ˈnetwɜːk",
+    "e_mean": [
+      "a computing model inspired by the human brain"
+    ],
+    "speech": "noun",
+    "sentence": "The neural network achieved high prediction accuracy."
+  },
+  {
+    "name": "fine-tuning",
+    "trans": [
+      "微调"
+    ],
+    "usphone": "faɪn ˈtuːnɪŋ",
+    "ukphone": "faɪn ˈtjuːnɪŋ",
+    "e_mean": [
+      "adapting a pre-trained model to a specific task"
+    ],
+    "speech": "noun",
+    "sentence": "Fine-tuning improved the chatbot's responses."
+  },
+  {
+    "name": "prompt engineering",
+    "trans": [
+      "提示词工程"
+    ],
+    "usphone": "prɑːmpt ˌendʒɪˈnɪrɪŋ",
+    "ukphone": "prɒmpt ˌendʒɪˈnɪərɪŋ",
+    "e_mean": [
+      "designing prompts to improve AI model outputs"
+    ],
+    "speech": "noun",
+    "sentence": "Prompt engineering is important for generative AI applications."
+  },
+  {
+    "name": "hallucination",
+    "trans": [
+      "模型幻觉"
+    ],
+    "usphone": "həˌluːsɪˈneɪʃn",
+    "ukphone": "həˌluːsɪˈneɪʃn",
+    "e_mean": [
+      "incorrect or fabricated information generated by AI"
+    ],
+    "speech": "noun",
+    "sentence": "The AI system occasionally produces hallucinations."
+  },
+  {
+    "name": "vector database",
+    "trans": [
+      "向量数据库"
+    ],
+    "usphone": "ˈvektər ˈdeɪtəbeɪs",
+    "ukphone": "ˈvektə ˈdeɪtəbeɪs",
+    "e_mean": [
+      "a database optimized for vector similarity search"
+    ],
+    "speech": "noun",
+    "sentence": "The chatbot stores embeddings in a vector database."
+  },
+  {
+    "name": "embedding",
+    "trans": [
+      "嵌入向量"
+    ],
+    "usphone": "ɪmˈbedɪŋ",
+    "ukphone": "ɪmˈbedɪŋ",
+    "e_mean": [
+      "a numerical representation of data for machine learning"
+    ],
+    "speech": "noun",
+    "sentence": "Text embeddings enable semantic search."
+  },
+  {
+    "name": "retrieval-augmented generation",
+    "trans": [
+      "检索增强生成"
+    ],
+    "usphone": "rɪˈtriːvl ˌɔːɡˈmentɪd ˌdʒenəˈreɪʃn",
+    "ukphone": "rɪˈtriːvl ˌɔːɡˈmentɪd ˌdʒenəˈreɪʃn",
+    "e_mean": [
+      "an AI approach combining retrieval systems with text generation"
+    ],
+    "speech": "noun",
+    "sentence": "Retrieval-augmented generation improved answer accuracy."
+  },
+  {
+    "name": "knowledge base",
+    "trans": [
+      "知识库"
+    ],
+    "usphone": "ˈnɑːlɪdʒ beɪs",
+    "ukphone": "ˈnɒlɪdʒ beɪs",
+    "e_mean": [
+      "a centralized collection of information and documentation"
+    ],
+    "speech": "noun",
+    "sentence": "The chatbot retrieves answers from the knowledge base."
+  },
+  {
+    "name": "semantic search",
+    "trans": [
+      "语义搜索"
+    ],
+    "usphone": "sɪˈmæntɪk sɜːrtʃ",
+    "ukphone": "sɪˈmæntɪk sɜːtʃ",
+    "e_mean": [
+      "search based on meaning rather than exact keywords"
+    ],
+    "speech": "noun",
+    "sentence": "Semantic search improved document discovery."
+  },
+  {
+    "name": "tokenization",
+    "trans": [
+      "分词；标记化"
+    ],
+    "usphone": "ˌtoʊkənəˈzeɪʃn",
+    "ukphone": "ˌtəʊkənaɪˈzeɪʃn",
+    "e_mean": [
+      "splitting text into smaller units for processing"
+    ],
+    "speech": "noun",
+    "sentence": "Tokenization is the first step in many NLP pipelines."
+  },
+  {
+    "name": "natural language processing",
+    "trans": [
+      "自然语言处理"
+    ],
+    "usphone": "ˈnætʃrəl ˈlæŋɡwɪdʒ ˈprɑːsesɪŋ",
+    "ukphone": "ˈnætʃrəl ˈlæŋɡwɪdʒ ˈprəʊsesɪŋ",
+    "e_mean": [
+      "technology enabling computers to understand human language"
+    ],
+    "speech": "noun",
+    "sentence": "Natural language processing powers virtual assistants."
+  },
+  {
+    "name": "large language model",
+    "trans": [
+      "大型语言模型"
+    ],
+    "usphone": "lɑːrdʒ ˈlæŋɡwɪdʒ ˈmɑːdl",
+    "ukphone": "lɑːdʒ ˈlæŋɡwɪdʒ ˈmɒdl",
+    "e_mean": [
+      "an AI model trained on massive text datasets"
+    ],
+    "speech": "noun",
+    "sentence": "The application integrates a large language model."
+  },
+  {
+    "name": "context window",
+    "trans": [
+      "上下文窗口"
+    ],
+    "usphone": "ˈkɑːntekst ˈwɪndoʊ",
+    "ukphone": "ˈkɒntekst ˈwɪndəʊ",
+    "e_mean": [
+      "the amount of text an AI model can process at once"
+    ],
+    "speech": "noun",
+    "sentence": "A larger context window allows longer conversations."
+  },
+  {
+    "name": "latency optimization",
+    "trans": [
+      "延迟优化"
+    ],
+    "usphone": "ˈleɪtənsi ˌɑːptɪməˈzeɪʃn",
+    "ukphone": "ˈleɪtənsi ˌɒptɪmaɪˈzeɪʃn",
+    "e_mean": [
+      "improving response speed in systems"
+    ],
+    "speech": "noun",
+    "sentence": "Latency optimization reduced API response times."
+  },
+  {
+    "name": "horizontal scaling",
+    "trans": [
+      "水平扩展"
+    ],
+    "usphone": "ˌhɔːrɪˈzɑːntl ˈskeɪlɪŋ",
+    "ukphone": "ˌhɒrɪˈzɒntl ˈskeɪlɪŋ",
+    "e_mean": [
+      "adding more machines to increase capacity"
+    ],
+    "speech": "noun",
+    "sentence": "Horizontal scaling handled increased user traffic."
+  },
+  {
+    "name": "vertical scaling",
+    "trans": [
+      "垂直扩展"
+    ],
+    "usphone": "ˈvɜːrtɪkl ˈskeɪlɪŋ",
+    "ukphone": "ˈvɜːtɪkl ˈskeɪlɪŋ",
+    "e_mean": [
+      "increasing resources on a single machine"
+    ],
+    "speech": "noun",
+    "sentence": "Vertical scaling upgraded the server memory."
+  },
+  {
+    "name": "cold start",
+    "trans": [
+      "冷启动"
+    ],
+    "usphone": "koʊld stɑːrt",
+    "ukphone": "kəʊld stɑːt",
+    "e_mean": [
+      "initial startup delay before a service becomes active"
+    ],
+    "speech": "noun",
+    "sentence": "Serverless functions sometimes experience cold starts."
+  },
+  {
+    "name": "warmup",
+    "trans": [
+      "预热"
+    ],
+    "usphone": "ˈwɔːrmʌp",
+    "ukphone": "ˈwɔːmʌp",
+    "e_mean": [
+      "preparing a system before handling traffic"
+    ],
+    "speech": "noun",
+    "sentence": "The service performed a cache warmup after deployment."
+  },
+  {
+    "name": "blue-green deployment",
+    "trans": [
+      "蓝绿部署"
+    ],
+    "usphone": "bluː ɡriːn dɪˈplɔɪmənt",
+    "ukphone": "bluː ɡriːn dɪˈplɔɪmənt",
+    "e_mean": [
+      "a deployment strategy using two identical environments"
+    ],
+    "speech": "noun",
+    "sentence": "Blue-green deployment minimized downtime during release."
+  },
+  {
+    "name": "canary release",
+    "trans": [
+      "金丝雀发布"
+    ],
+    "usphone": "kəˈneri rɪˈliːs",
+    "ukphone": "kəˈneəri rɪˈliːs",
+    "e_mean": [
+      "releasing software gradually to a small group of users"
+    ],
+    "speech": "noun",
+    "sentence": "The team used a canary release to monitor stability."
+  },
+  {
+    "name": "feature flag",
+    "trans": [
+      "功能开关"
+    ],
+    "usphone": "ˈfiːtʃər flæɡ",
+    "ukphone": "ˈfiːtʃə flæɡ",
+    "e_mean": [
+      "a mechanism for enabling or disabling features dynamically"
+    ],
+    "speech": "noun",
+    "sentence": "The new UI was controlled by a feature flag."
+  },
+  {
+    "name": "rollout",
+    "trans": [
+      "逐步发布"
+    ],
+    "usphone": "ˈroʊlaʊt",
+    "ukphone": "ˈrəʊlaʊt",
+    "e_mean": [
+      "the staged release of software updates"
+    ],
+    "speech": "noun",
+    "sentence": "The rollout reached all users within two days."
+  },
+  {
+    "name": "backward compatibility",
+    "trans": [
+      "向后兼容"
+    ],
+    "usphone": "ˈbækwərd kəmˌpætəˈbɪləti",
+    "ukphone": "ˈbækwəd kəmˌpætəˈbɪləti",
+    "e_mean": [
+      "support for older systems or interfaces"
+    ],
+    "speech": "noun",
+    "sentence": "Backward compatibility prevented client integration failures."
+  },
+  {
+    "name": "breaking change",
+    "trans": [
+      "破坏性变更"
+    ],
+    "usphone": "ˈbreɪkɪŋ tʃeɪndʒ",
+    "ukphone": "ˈbreɪkɪŋ tʃeɪndʒ",
+    "e_mean": [
+      "a modification that disrupts existing functionality"
+    ],
+    "speech": "noun",
+    "sentence": "The API update introduced a breaking change."
+  },
+  {
+    "name": "deprecation",
+    "trans": [
+      "弃用"
+    ],
+    "usphone": "ˌdeprəˈkeɪʃn",
+    "ukphone": "ˌdeprəˈkeɪʃn",
+    "e_mean": [
+      "the process of phasing out outdated features"
+    ],
+    "speech": "noun",
+    "sentence": "The old authentication API entered deprecation."
+  },
+  {
+    "name": "observability stack",
+    "trans": [
+      "可观测性技术栈"
+    ],
+    "usphone": "əbˌzɜːrvəˈbɪləti stæk",
+    "ukphone": "əbˌzɜːvəˈbɪləti stæk",
+    "e_mean": [
+      "a collection of monitoring and logging tools"
+    ],
+    "speech": "noun",
+    "sentence": "The observability stack includes logs, metrics, and traces."
+  },
+  {
+    "name": "distributed system",
+    "trans": [
+      "分布式系统"
+    ],
+    "usphone": "dɪˈstrɪbjətɪd ˈsɪstəm",
+    "ukphone": "dɪˈstrɪbjətɪd ˈsɪstəm",
+    "e_mean": [
+      "a system with components running on multiple machines"
+    ],
+    "speech": "noun",
+    "sentence": "Distributed systems require careful coordination between services."
+  },
+  {
+    "name": "consistency",
+    "trans": [
+      "一致性"
+    ],
+    "usphone": "kənˈsɪstənsi",
+    "ukphone": "kənˈsɪstənsi",
+    "e_mean": [
+      "ensuring all systems have the same data state"
+    ],
+    "speech": "noun",
+    "sentence": "Strong consistency is important for financial transactions."
+  },
+  {
+    "name": "eventual consistency",
+    "trans": [
+      "最终一致性"
+    ],
+    "usphone": "ɪˈventʃuəl kənˈsɪstənsi",
+    "ukphone": "ɪˈventʃuəl kənˈsɪstənsi",
+    "e_mean": [
+      "a consistency model where systems become consistent over time"
+    ],
+    "speech": "noun",
+    "sentence": "The database uses eventual consistency for scalability."
+  },
+  {
+    "name": "replication",
+    "trans": [
+      "复制；数据副本"
+    ],
+    "usphone": "ˌreplɪˈkeɪʃn",
+    "ukphone": "ˌreplɪˈkeɪʃn",
+    "e_mean": [
+      "copying data across multiple systems"
+    ],
+    "speech": "noun",
+    "sentence": "Replication improved database availability."
+  },
+  {
+    "name": "sharding",
+    "trans": [
+      "分片"
+    ],
+    "usphone": "ˈʃɑːrdɪŋ",
+    "ukphone": "ˈʃɑːdɪŋ",
+    "e_mean": [
+      "splitting data across multiple databases or servers"
+    ],
+    "speech": "noun",
+    "sentence": "Sharding reduced database bottlenecks."
+  },
+  {
+    "name": "partition",
+    "trans": [
+      "分区"
+    ],
+    "usphone": "pɑːrˈtɪʃn",
+    "ukphone": "pɑːˈtɪʃn",
+    "e_mean": [
+      "a separate section of data or storage"
+    ],
+    "speech": "noun",
+    "sentence": "The logs were stored in monthly partitions."
+  },
+  {
+    "name": "load testing",
+    "trans": [
+      "负载测试"
+    ],
+    "usphone": "loʊd ˈtestɪŋ",
+    "ukphone": "ləʊd ˈtestɪŋ",
+    "e_mean": [
+      "testing system performance under heavy usage"
+    ],
+    "speech": "noun",
+    "sentence": "Load testing revealed performance issues at scale."
+  },
+  {
+    "name": "stress testing",
+    "trans": [
+      "压力测试"
+    ],
+    "usphone": "stres ˈtestɪŋ",
+    "ukphone": "stres ˈtestɪŋ",
+    "e_mean": [
+      "testing systems beyond normal operating capacity"
+    ],
+    "speech": "noun",
+    "sentence": "Stress testing identified system limits."
+  },
+  {
+    "name": "benchmarking",
+    "trans": [
+      "性能基准测试"
+    ],
+    "usphone": "ˈbentʃmɑːrkɪŋ",
+    "ukphone": "ˈbentʃmɑːkɪŋ",
+    "e_mean": [
+      "measuring and comparing system performance"
+    ],
+    "speech": "noun",
+    "sentence": "Benchmarking compared different database engines."
+  },
+  {
+    "name": "profiling",
+    "trans": [
+      "性能分析"
+    ],
+    "usphone": "ˈproʊfaɪlɪŋ",
+    "ukphone": "ˈprəʊfaɪlɪŋ",
+    "e_mean": [
+      "analyzing software resource usage and performance"
+    ],
+    "speech": "noun",
+    "sentence": "Profiling detected CPU-intensive functions."
+  },
+  {
+    "name": "memory leak",
+    "trans": [
+      "内存泄漏"
+    ],
+    "usphone": "ˈmeməri liːk",
+    "ukphone": "ˈmeməri liːk",
+    "e_mean": [
+      "a failure to release unused memory"
+    ],
+    "speech": "noun",
+    "sentence": "The application crashed because of a memory leak."
+  },
+  {
+    "name": "garbage collection",
+    "trans": [
+      "垃圾回收"
+    ],
+    "usphone": "ˈɡɑːrbɪdʒ kəˈlekʃn",
+    "ukphone": "ˈɡɑːbɪdʒ kəˈlekʃn",
+    "e_mean": [
+      "automatic memory management that frees unused objects"
+    ],
+    "speech": "noun",
+    "sentence": "Garbage collection pauses affected response times."
+  },
+  {
+    "name": "heap",
+    "trans": [
+      "堆内存"
+    ],
+    "usphone": "hiːp",
+    "ukphone": "hiːp",
+    "e_mean": [
+      "a memory area used for dynamic allocation"
+    ],
+    "speech": "noun",
+    "sentence": "The JVM heap usage increased rapidly."
+  },
+  {
+    "name": "stack overflow",
+    "trans": [
+      "栈溢出"
+    ],
+    "usphone": "stæk ˌoʊvərˈfloʊ",
+    "ukphone": "stæk ˌəʊvəˈfləʊ",
+    "e_mean": [
+      "an error caused by excessive stack memory usage"
+    ],
+    "speech": "noun",
+    "sentence": "Recursive calls caused a stack overflow."
+  },
+  {
+    "name": "immutable",
+    "trans": [
+      "不可变的"
+    ],
+    "usphone": "ɪˈmjuːtəbl",
+    "ukphone": "ɪˈmjuːtəbl",
+    "e_mean": [
+      "unable to be modified after creation"
+    ],
+    "speech": "adjective",
+    "sentence": "Immutable objects simplify concurrent programming."
+  },
+  {
+    "name": "stateful",
+    "trans": [
+      "有状态的"
+    ],
+    "usphone": "ˈsteɪtfl",
+    "ukphone": "ˈsteɪtfl",
+    "e_mean": [
+      "maintaining information about previous interactions"
+    ],
+    "speech": "adjective",
+    "sentence": "The application uses a stateful session model."
+  },
+  {
+    "name": "stateless",
+    "trans": [
+      "无状态的"
+    ],
+    "usphone": "ˈsteɪtləs",
+    "ukphone": "ˈsteɪtləs",
+    "e_mean": [
+      "not storing session information between requests"
+    ],
+    "speech": "adjective",
+    "sentence": "REST APIs are typically stateless."
+  },
+  {
+    "name": "idempotent",
+    "trans": [
+      "幂等的"
+    ],
+    "usphone": "ˌaɪdəmˈpoʊtənt",
+    "ukphone": "ˌɪdəmˈpəʊtənt",
+    "e_mean": [
+      "producing the same result when repeated multiple times"
+    ],
+    "speech": "adjective",
+    "sentence": "DELETE requests should be idempotent."
+  },
+  {
+    "name": "retry policy",
+    "trans": [
+      "重试策略"
+    ],
+    "usphone": "ˌriːˈtraɪ ˈpɑːləsi",
+    "ukphone": "ˌriːˈtraɪ ˈpɒləsi",
+    "e_mean": [
+      "rules controlling how failed operations are retried"
+    ],
+    "speech": "noun",
+    "sentence": "The retry policy prevents excessive API requests."
+  },
+  {
+    "name": "circuit breaker",
+    "trans": [
+      "熔断机制"
+    ],
+    "usphone": "ˈsɜːrkɪt ˈbreɪkər",
+    "ukphone": "ˈsɜːkɪt ˈbreɪkə",
+    "e_mean": [
+      "a mechanism that stops repeated failures in distributed systems"
+    ],
+    "speech": "noun",
+    "sentence": "The circuit breaker protected downstream services during outages."
+  },
+  {
+    "name": "service discovery",
+    "trans": [
+      "服务发现"
+    ],
+    "usphone": "ˈsɜːrvɪs dɪˈskʌvəri",
+    "ukphone": "ˈsɜːvɪs dɪˈskʌvəri",
+    "e_mean": [
+      "automatically locating services in a distributed system"
+    ],
+    "speech": "noun",
+    "sentence": "Service discovery simplified communication between microservices."
+  },
+  {
+    "name": "API gateway",
+    "trans": [
+      "API网关"
+    ],
+    "usphone": "ˌeɪ piː ˈaɪ ˈɡeɪtweɪ",
+    "ukphone": "ˌeɪ piː ˈaɪ ˈɡeɪtweɪ",
+    "e_mean": [
+      "a centralized entry point for managing APIs"
+    ],
+    "speech": "noun",
+    "sentence": "The API gateway handles authentication and routing."
+  },
+  {
+    "name": "service mesh",
+    "trans": [
+      "服务网格"
+    ],
+    "usphone": "ˈsɜːrvɪs meʃ",
+    "ukphone": "ˈsɜːvɪs meʃ",
+    "e_mean": [
+      "an infrastructure layer for managing service communication"
+    ],
+    "speech": "noun",
+    "sentence": "The service mesh improved traffic monitoring and security."
+  },
+  {
+    "name": "sidecar",
+    "trans": [
+      "边车代理"
+    ],
+    "usphone": "ˈsaɪdkɑːr",
+    "ukphone": "ˈsaɪdkɑː",
+    "e_mean": [
+      "a helper service running alongside an application"
+    ],
+    "speech": "noun",
+    "sentence": "The sidecar container handled logging and metrics collection."
+  },
+  {
+    "name": "container registry",
+    "trans": [
+      "容器镜像仓库"
+    ],
+    "usphone": "kənˈteɪnər ˈredʒɪstri",
+    "ukphone": "kənˈteɪnə ˈredʒɪstri",
+    "e_mean": [
+      "a repository for storing container images"
+    ],
+    "speech": "noun",
+    "sentence": "The deployment pipeline pulled images from the container registry."
+  },
+  {
+    "name": "image",
+    "trans": [
+      "镜像"
+    ],
+    "usphone": "ˈɪmɪdʒ",
+    "ukphone": "ˈɪmɪdʒ",
+    "e_mean": [
+      "a packaged snapshot of software and dependencies"
+    ],
+    "speech": "noun",
+    "sentence": "The Docker image contains the runtime environment."
+  },
+  {
+    "name": "namespace",
+    "trans": [
+      "命名空间"
+    ],
+    "usphone": "ˈneɪmˌspeɪs",
+    "ukphone": "ˈneɪmˌspeɪs",
+    "e_mean": [
+      "a logical grouping used to organize resources"
+    ],
+    "speech": "noun",
+    "sentence": "Each team deploys services into a separate namespace."
+  },
+  {
+    "name": "ingress",
+    "trans": [
+      "入口流量；入口控制"
+    ],
+    "usphone": "ˈɪnɡres",
+    "ukphone": "ˈɪnɡres",
+    "e_mean": [
+      "incoming network traffic management in cloud systems"
+    ],
+    "speech": "noun",
+    "sentence": "The ingress controller routed external requests."
+  },
+  {
+    "name": "egress",
+    "trans": [
+      "出口流量"
+    ],
+    "usphone": "ˈiːɡres",
+    "ukphone": "ˈiːɡres",
+    "e_mean": [
+      "outgoing network traffic from a system"
+    ],
+    "speech": "noun",
+    "sentence": "Egress traffic costs increased significantly."
+  },
+  {
+    "name": "throughput optimization",
+    "trans": [
+      "吞吐量优化"
+    ],
+    "usphone": "ˈθruːpʊt ˌɑːptɪməˈzeɪʃn",
+    "ukphone": "ˈθruːpʊt ˌɒptɪmaɪˈzeɪʃn",
+    "e_mean": [
+      "improving the amount of processed data over time"
+    ],
+    "speech": "noun",
+    "sentence": "Throughput optimization improved transaction handling capacity."
+  },
+  {
+    "name": "resource quota",
+    "trans": [
+      "资源配额"
+    ],
+    "usphone": "ˈriːsɔːrs ˈkwoʊtə",
+    "ukphone": "rɪˈsɔːs ˈkwəʊtə",
+    "e_mean": [
+      "limits placed on resource usage"
+    ],
+    "speech": "noun",
+    "sentence": "The cluster enforced CPU and memory resource quotas."
+  },
+  {
+    "name": "autosave",
+    "trans": [
+      "自动保存"
+    ],
+    "usphone": "ˈɔːtoʊseɪv",
+    "ukphone": "ˈɔːtəʊseɪv",
+    "e_mean": [
+      "automatically saving data without manual action"
+    ],
+    "speech": "noun",
+    "sentence": "Autosave prevented users from losing their work."
+  },
+  {
+    "name": "checkpoint",
+    "trans": [
+      "检查点"
+    ],
+    "usphone": "ˈtʃekpɔɪnt",
+    "ukphone": "ˈtʃekpɔɪnt",
+    "e_mean": [
+      "a saved state used for recovery or continuation"
+    ],
+    "speech": "noun",
+    "sentence": "The training job resumed from the last checkpoint."
+  },
+  {
+    "name": "snapshot",
+    "trans": [
+      "快照"
+    ],
+    "usphone": "ˈsnæpʃɑːt",
+    "ukphone": "ˈsnæpʃɒt",
+    "e_mean": [
+      "a captured state of data or systems at a specific time"
+    ],
+    "speech": "noun",
+    "sentence": "The database snapshot enabled fast recovery."
+  },
+  {
+    "name": "rollback strategy",
+    "trans": [
+      "回滚策略"
+    ],
+    "usphone": "ˈroʊlbæk ˈstrætədʒi",
+    "ukphone": "ˈrəʊlbæk ˈstrætədʒi",
+    "e_mean": [
+      "a planned method for reverting failed deployments"
+    ],
+    "speech": "noun",
+    "sentence": "The rollback strategy minimized service disruption."
+  },
+  {
+    "name": "disaster recovery",
+    "trans": [
+      "灾难恢复"
+    ],
+    "usphone": "dɪˈzæstər rɪˈkʌvəri",
+    "ukphone": "dɪˈzɑːstə rɪˈkʌvəri",
+    "e_mean": [
+      "processes for restoring systems after catastrophic failure"
+    ],
+    "speech": "noun",
+    "sentence": "The company tested its disaster recovery procedures."
+  },
+  {
+    "name": "business continuity",
+    "trans": [
+      "业务连续性"
+    ],
+    "usphone": "ˈbɪznəs ˌkɑːntəˈnuːəti",
+    "ukphone": "ˈbɪznəs ˌkɒntɪˈnjuːəti",
+    "e_mean": [
+      "maintaining operations during disruptions"
+    ],
+    "speech": "noun",
+    "sentence": "Business continuity planning reduced operational risks."
+  },
+  {
+    "name": "runbook",
+    "trans": [
+      "运行手册"
+    ],
+    "usphone": "ˈrʌnbʊk",
+    "ukphone": "ˈrʌnbʊk",
+    "e_mean": [
+      "documented operational procedures for incidents"
+    ],
+    "speech": "noun",
+    "sentence": "The engineer followed the runbook during the outage."
+  },
+  {
+    "name": "playbook",
+    "trans": [
+      "操作手册；应急预案"
+    ],
+    "usphone": "ˈpleɪbʊk",
+    "ukphone": "ˈpleɪbʊk",
+    "e_mean": [
+      "a predefined set of operational guidelines"
+    ],
+    "speech": "noun",
+    "sentence": "The security team updated the incident response playbook."
+  },
+  {
+    "name": "knowledge transfer",
+    "trans": [
+      "知识转移；经验传承"
+    ],
+    "usphone": "ˈnɑːlɪdʒ ˈtrænsfɜːr",
+    "ukphone": "ˈnɒlɪdʒ ˈtrænsfɜː",
+    "e_mean": [
+      "sharing expertise and information between team members"
+    ],
+    "speech": "noun",
+    "sentence": "Knowledge transfer sessions helped onboard new developers."
+  },
+  {
+    "name": "onboarding",
+    "trans": [
+      "入职培训；新人接入"
+    ],
+    "usphone": "ˈɑːnbɔːrdɪŋ",
+    "ukphone": "ˈɒnbɔːdɪŋ",
+    "e_mean": [
+      "the process of integrating new employees or users"
+    ],
+    "speech": "noun",
+    "sentence": "The onboarding process included security training."
+  },
+  {
+    "name": "offboarding",
+    "trans": [
+      "离职交接"
+    ],
+    "usphone": "ˈɔːfbɔːrdɪŋ",
+    "ukphone": "ˈɒfbɔːdɪŋ",
+    "e_mean": [
+      "the process of removing access and responsibilities when someone leaves"
+    ],
+    "speech": "noun",
+    "sentence": "Offboarding procedures ensured account access was revoked."
+  },
+  {
+    "name": "handover",
+    "trans": [
+      "交接"
+    ],
+    "usphone": "ˈhændoʊvər",
+    "ukphone": "ˈhændəʊvə",
+    "e_mean": [
+      "transferring responsibility or information to another person"
+    ],
+    "speech": "noun",
+    "sentence": "The project handover was completed before the engineer resigned."
+  },
+  {
+    "name": "documentation",
+    "trans": [
+      "文档；文档资料"
+    ],
+    "usphone": "ˌdɑːkjumenˈteɪʃn",
+    "ukphone": "ˌdɒkjumenˈteɪʃn",
+    "e_mean": [
+      "written materials explaining systems or processes"
+    ],
+    "speech": "noun",
+    "sentence": "Good documentation reduces onboarding time."
+  },
+  {
+    "name": "wiki",
+    "trans": [
+      "知识库系统；Wiki"
+    ],
+    "usphone": "ˈwɪki",
+    "ukphone": "ˈwɪki",
+    "e_mean": [
+      "a collaborative website for storing shared knowledge"
+    ],
+    "speech": "noun",
+    "sentence": "The deployment guide is stored in the engineering wiki."
+  },
+  {
+    "name": "changelog",
+    "trans": [
+      "更新日志"
+    ],
+    "usphone": "ˈtʃeɪndʒlɔːɡ",
+    "ukphone": "ˈtʃeɪndʒlɒɡ",
+    "e_mean": [
+      "a record of software changes and updates"
+    ],
+    "speech": "noun",
+    "sentence": "Please review the changelog before upgrading."
+  },
+  {
+    "name": "release notes",
+    "trans": [
+      "发布说明"
+    ],
+    "usphone": "rɪˈliːs noʊts",
+    "ukphone": "rɪˈliːs nəʊts",
+    "e_mean": [
+      "documents describing updates in a software release"
+    ],
+    "speech": "noun",
+    "sentence": "The release notes highlighted new security features."
+  },
+  {
+    "name": "decommission",
+    "trans": [
+      "停用；退役"
+    ],
+    "usphone": "ˌdiːkəˈmɪʃn",
+    "ukphone": "ˌdiːkəˈmɪʃn",
+    "e_mean": [
+      "remove a system or service from operation"
+    ],
+    "speech": "verb",
+    "sentence": "The legacy servers were decommissioned last month."
+  },
+  {
+    "name": "sunset",
+    "trans": [
+      "下线；终止支持"
+    ],
+    "usphone": "ˈsʌnset",
+    "ukphone": "ˈsʌnset",
+    "e_mean": [
+      "gradually discontinue a product or feature"
+    ],
+    "speech": "verb",
+    "sentence": "The company plans to sunset the old API next year."
+  },
+  {
+    "name": "migration plan",
+    "trans": [
+      "迁移计划"
+    ],
+    "usphone": "maɪˈɡreɪʃn plæn",
+    "ukphone": "maɪˈɡreɪʃn plæn",
+    "e_mean": [
+      "a strategy for moving systems or data"
+    ],
+    "speech": "noun",
+    "sentence": "The migration plan minimized downtime during the upgrade."
+  },
+  {
+    "name": "risk assessment",
+    "trans": [
+      "风险评估"
+    ],
+    "usphone": "rɪsk əˈsesmənt",
+    "ukphone": "rɪsk əˈsesmənt",
+    "e_mean": [
+      "evaluating potential risks and impacts"
+    ],
+    "speech": "noun",
+    "sentence": "A risk assessment was required before deployment."
+  },
+  {
+    "name": "mitigation",
+    "trans": [
+      "缓解措施"
+    ],
+    "usphone": "ˌmɪtɪˈɡeɪʃn",
+    "ukphone": "ˌmɪtɪˈɡeɪʃn",
+    "e_mean": [
+      "actions taken to reduce risks or problems"
+    ],
+    "speech": "noun",
+    "sentence": "The mitigation strategy reduced security exposure."
+  },
+  {
+    "name": "escalation",
+    "trans": [
+      "升级处理"
+    ],
+    "usphone": "ˌeskəˈleɪʃn",
+    "ukphone": "ˌeskəˈleɪʃn",
+    "e_mean": [
+      "forwarding issues to higher support levels"
+    ],
+    "speech": "noun",
+    "sentence": "Critical incidents require immediate escalation."
+  },
+  {
+    "name": "ticket queue",
+    "trans": [
+      "工单队列"
+    ],
+    "usphone": "ˈtɪkɪt kjuː",
+    "ukphone": "ˈtɪkɪt kjuː",
+    "e_mean": [
+      "a list of pending support or engineering tickets"
+    ],
+    "speech": "noun",
+    "sentence": "The support team cleared the ticket queue quickly."
+  },
+  {
+    "name": "triage",
+    "trans": [
+      "问题分类处理"
+    ],
+    "usphone": "triˈɑːʒ",
+    "ukphone": "triˈɑːʒ",
+    "e_mean": [
+      "prioritizing and categorizing issues or incidents"
+    ],
+    "speech": "noun",
+    "sentence": "Bug triage meetings are held every Monday."
+  },
+  {
+    "name": "severity",
+    "trans": [
+      "严重级别"
+    ],
+    "usphone": "səˈverəti",
+    "ukphone": "sɪˈverəti",
+    "e_mean": [
+      "the level of seriousness of an issue"
+    ],
+    "speech": "noun",
+    "sentence": "The outage was classified as high severity."
+  },
+  {
+    "name": "priority",
+    "trans": [
+      "优先级"
+    ],
+    "usphone": "praɪˈɔːrəti",
+    "ukphone": "praɪˈɒrəti",
+    "e_mean": [
+      "the importance level assigned to a task"
+    ],
+    "speech": "noun",
+    "sentence": "Security vulnerabilities receive top priority."
+  },
+  {
+    "name": "workaround",
+    "trans": [
+      "临时解决方案"
+    ],
+    "usphone": "ˈwɜːrkəraʊnd",
+    "ukphone": "ˈwɜːkəraʊnd",
+    "e_mean": [
+      "a temporary method for bypassing a problem"
+    ],
+    "speech": "noun",
+    "sentence": "The team implemented a workaround until the fix was ready."
+  },
+  {
+    "name": "resolution",
+    "trans": [
+      "解决方案；问题解决"
+    ],
+    "usphone": "ˌrezəˈluːʃn",
+    "ukphone": "ˌrezəˈluːʃn",
+    "e_mean": [
+      "the act of solving an issue"
+    ],
+    "speech": "noun",
+    "sentence": "The resolution was deployed within an hour."
+  },
+  {
+    "name": "service outage",
+    "trans": [
+      "服务中断"
+    ],
+    "usphone": "ˈsɜːrvɪs ˈaʊtɪdʒ",
+    "ukphone": "ˈsɜːvɪs ˈaʊtɪdʒ",
+    "e_mean": [
+      "a period when a service becomes unavailable"
+    ],
+    "speech": "noun",
+    "sentence": "The service outage affected thousands of users."
+  },
+  {
+    "name": "root access",
+    "trans": [
+      "root权限；管理员权限"
+    ],
+    "usphone": "ruːt ˈækses",
+    "ukphone": "ruːt ˈækses",
+    "e_mean": [
+      "full administrative control over a system"
+    ],
+    "speech": "noun",
+    "sentence": "Only senior engineers have root access to production servers."
+  },
+  {
+    "name": "privilege escalation",
+    "trans": [
+      "权限提升"
+    ],
+    "usphone": "ˈprɪvəlɪdʒ ˌeskəˈleɪʃn",
+    "ukphone": "ˈprɪvəlɪdʒ ˌeskəˈleɪʃn",
+    "e_mean": [
+      "gaining higher access rights within a system"
+    ],
+    "speech": "noun",
+    "sentence": "The vulnerability allowed privilege escalation attacks."
+  },
+  {
+    "name": "audit log",
+    "trans": [
+      "审计日志"
+    ],
+    "usphone": "ˈɔːdɪt lɔːɡ",
+    "ukphone": "ˈɔːdɪt lɒɡ",
+    "e_mean": [
+      "a record of system activities for tracking and compliance"
+    ],
+    "speech": "noun",
+    "sentence": "The audit log recorded every configuration change."
+  },
+  {
+    "name": "compliance policy",
+    "trans": [
+      "合规策略"
+    ],
+    "usphone": "kəmˈplaɪəns ˈpɑːləsi",
+    "ukphone": "kəmˈplaɪəns ˈpɒləsi",
+    "e_mean": [
+      "rules ensuring systems meet regulatory standards"
+    ],
+    "speech": "noun",
+    "sentence": "The compliance policy requires encrypted backups."
+  },
+  {
+    "name": "zero downtime deployment",
+    "trans": [
+      "零停机部署"
+    ],
+    "usphone": "ˈzɪroʊ ˈdaʊntaɪm dɪˈplɔɪmənt",
+    "ukphone": "ˈzɪərəʊ ˈdaʊntaɪm dɪˈplɔɪmənt",
+    "e_mean": [
+      "deploying software without interrupting service availability"
+    ],
+    "speech": "noun",
+    "sentence": "The team achieved zero downtime deployment using rolling updates."
+  },
+  {
+    "name": "rolling update",
+    "trans": [
+      "滚动更新"
+    ],
+    "usphone": "ˈroʊlɪŋ ˈʌpdeɪt",
+    "ukphone": "ˈrəʊlɪŋ ˈʌpdeɪt",
+    "e_mean": [
+      "gradually updating instances without shutting down the system"
+    ],
+    "speech": "noun",
+    "sentence": "Rolling updates minimized production impact."
+  },
+  {
+    "name": "high availability",
+    "trans": [
+      "高可用"
+    ],
+    "usphone": "haɪ əˌveɪləˈbɪləti",
+    "ukphone": "haɪ əˌveɪləˈbɪləti",
+    "e_mean": [
+      "a system design ensuring continuous operation"
+    ],
+    "speech": "noun",
+    "sentence": "The architecture was designed for high availability."
+  },
+  {
+    "name": "failback",
+    "trans": [
+      "故障恢复切回"
+    ],
+    "usphone": "ˈfeɪlbæk",
+    "ukphone": "ˈfeɪlbæk",
+    "e_mean": [
+      "switching operations back to the primary system after recovery"
+    ],
+    "speech": "noun",
+    "sentence": "The failback process restored traffic to the main cluster."
+  },
+  {
+    "name": "heartbeat",
+    "trans": [
+      "心跳检测"
+    ],
+    "usphone": "ˈhɑːrtbiːt",
+    "ukphone": "ˈhɑːtbiːt",
+    "e_mean": [
+      "a periodic signal indicating a system is active"
+    ],
+    "speech": "noun",
+    "sentence": "Heartbeat checks detected the node failure immediately."
+  },
+  {
+    "name": "health check",
+    "trans": [
+      "健康检查"
+    ],
+    "usphone": "helθ tʃek",
+    "ukphone": "helθ tʃek",
+    "e_mean": [
+      "an automated verification of system status"
+    ],
+    "speech": "noun",
+    "sentence": "The load balancer uses health checks before routing traffic."
+  },
+  {
+    "name": "heartbeat timeout",
+    "trans": [
+      "心跳超时"
+    ],
+    "usphone": "ˈhɑːrtbiːt ˈtaɪmaʊt",
+    "ukphone": "ˈhɑːtbiːt ˈtaɪmaʊt",
+    "e_mean": [
+      "a failure caused by missing heartbeat signals"
+    ],
+    "speech": "noun",
+    "sentence": "A heartbeat timeout triggered automatic failover."
+  },
+  {
+    "name": "capacity planning",
+    "trans": [
+      "容量规划"
+    ],
+    "usphone": "kəˈpæsəti ˈplænɪŋ",
+    "ukphone": "kəˈpæsəti ˈplænɪŋ",
+    "e_mean": [
+      "forecasting resource needs for future demand"
+    ],
+    "speech": "noun",
+    "sentence": "Capacity planning prepared the platform for peak traffic."
+  },
+  {
+    "name": "resource allocation",
+    "trans": [
+      "资源分配"
+    ],
+    "usphone": "rɪˈsɔːrs ˌæləˈkeɪʃn",
+    "ukphone": "rɪˈsɔːs ˌæləˈkeɪʃn",
+    "e_mean": [
+      "assigning computing resources to workloads"
+    ],
+    "speech": "noun",
+    "sentence": "Efficient resource allocation reduced cloud costs."
+  },
+  {
+    "name": "cost optimization",
+    "trans": [
+      "成本优化"
+    ],
+    "usphone": "kɔːst ˌɑːptɪməˈzeɪʃn",
+    "ukphone": "kɒst ˌɒptɪmaɪˈzeɪʃn",
+    "e_mean": [
+      "reducing expenses while maintaining performance"
+    ],
+    "speech": "noun",
+    "sentence": "Cost optimization lowered monthly infrastructure spending."
+  },
+  {
+    "name": "technical specification",
+    "trans": [
+      "技术规格说明"
+    ],
+    "usphone": "ˈteknɪkl ˌspesɪfɪˈkeɪʃn",
+    "ukphone": "ˈteknɪkl ˌspesɪfɪˈkeɪʃn",
+    "e_mean": [
+      "a detailed document describing technical requirements"
+    ],
+    "speech": "noun",
+    "sentence": "The technical specification defined API behavior clearly."
+  },
+  {
+    "name": "proof of concept",
+    "trans": [
+      "概念验证"
+    ],
+    "usphone": "pruːf əv ˈkɑːnsept",
+    "ukphone": "pruːf əv ˈkɒnsept",
+    "e_mean": [
+      "a small implementation demonstrating feasibility"
+    ],
+    "speech": "noun",
+    "sentence": "The team built a proof of concept before full development."
+  },
+  {
+    "name": "minimum viable product",
+    "trans": [
+      "最小可行产品"
+    ],
+    "usphone": "ˈmɪnɪməm ˈvaɪəbl ˈprɑːdʌkt",
+    "ukphone": "ˈmɪnɪməm ˈvaɪəbl ˈprɒdʌkt",
+    "e_mean": [
+      "a basic product version with essential features"
+    ],
+    "speech": "noun",
+    "sentence": "The startup launched an MVP within three months."
+  },
+  {
+    "name": "technical roadmap",
+    "trans": [
+      "技术路线图"
+    ],
+    "usphone": "ˈteknɪkl ˈroʊdmæp",
+    "ukphone": "ˈteknɪkl ˈrəʊdmæp",
+    "e_mean": [
+      "a long-term plan for technical development"
+    ],
+    "speech": "noun",
+    "sentence": "The technical roadmap focused on scalability improvements."
+  },
+  {
+    "name": "knowledge sharing",
+    "trans": [
+      "知识共享"
+    ],
+    "usphone": "ˈnɑːlɪdʒ ˈʃerɪŋ",
+    "ukphone": "ˈnɒlɪdʒ ˈʃeərɪŋ",
+    "e_mean": [
+      "the practice of exchanging expertise within a team"
+    ],
+    "speech": "noun",
+    "sentence": "Weekly meetings encouraged knowledge sharing across departments."
+  },
+  {
+    "name": "authentication token",
+    "trans": [
+      "认证令牌"
+    ],
+    "usphone": "ɔːˌθentɪˈkeɪʃn ˈtoʊkən",
+    "ukphone": "ɔːˌθentɪˈkeɪʃn ˈtəʊkən",
+    "e_mean": [
+      "a credential used to verify user identity"
+    ],
+    "speech": "noun",
+    "sentence": "The API request requires a valid authentication token."
+  },
+  {
+    "name": "session timeout",
+    "trans": [
+      "会话超时"
+    ],
+    "usphone": "ˈseʃn ˈtaɪmaʊt",
+    "ukphone": "ˈseʃn ˈtaɪmaʊt",
+    "e_mean": [
+      "automatic expiration of an inactive user session"
+    ],
+    "speech": "noun",
+    "sentence": "The banking app enforces a short session timeout for security."
+  },
+  {
+    "name": "access control",
+    "trans": [
+      "访问控制"
+    ],
+    "usphone": "ˈækses kənˈtroʊl",
+    "ukphone": "ˈækses kənˈtrəʊl",
+    "e_mean": [
+      "restricting access to systems or resources"
+    ],
+    "speech": "noun",
+    "sentence": "Access control policies protect sensitive information."
+  },
+  {
+    "name": "role-based access control",
+    "trans": [
+      "基于角色的访问控制"
+    ],
+    "usphone": "roʊl beɪst ˈækses kənˈtroʊl",
+    "ukphone": "rəʊl beɪst ˈækses kənˈtrəʊl",
+    "e_mean": [
+      "granting permissions based on user roles"
+    ],
+    "speech": "noun",
+    "sentence": "The system uses role-based access control for administrators."
+  },
+  {
+    "name": "permission",
+    "trans": [
+      "权限"
+    ],
+    "usphone": "pərˈmɪʃn",
+    "ukphone": "pəˈmɪʃn",
+    "e_mean": [
+      "authorization to perform actions or access resources"
+    ],
+    "speech": "noun",
+    "sentence": "You need additional permissions to edit production settings."
+  },
+  {
+    "name": "credential",
+    "trans": [
+      "凭证"
+    ],
+    "usphone": "krəˈdenʃl",
+    "ukphone": "krəˈdenʃl",
+    "e_mean": [
+      "information used to verify identity"
+    ],
+    "speech": "noun",
+    "sentence": "The credentials were stored securely in the vault."
+  },
+  {
+    "name": "secret management",
+    "trans": [
+      "密钥管理"
+    ],
+    "usphone": "ˈsiːkrət ˈmænɪdʒmənt",
+    "ukphone": "ˈsiːkrət ˈmænɪdʒmənt",
+    "e_mean": [
+      "secure storage and handling of sensitive information"
+    ],
+    "speech": "noun",
+    "sentence": "Secret management prevents API keys from being exposed."
+  },
+  {
+    "name": "encryption key",
+    "trans": [
+      "加密密钥"
+    ],
+    "usphone": "ɪnˈkrɪpʃn kiː",
+    "ukphone": "ɪnˈkrɪpʃn kiː",
+    "e_mean": [
+      "a value used for encrypting or decrypting data"
+    ],
+    "speech": "noun",
+    "sentence": "The encryption key must be rotated regularly."
+  },
+  {
+    "name": "key rotation",
+    "trans": [
+      "密钥轮换"
+    ],
+    "usphone": "kiː roʊˈteɪʃn",
+    "ukphone": "kiː rəʊˈteɪʃn",
+    "e_mean": [
+      "replacing encryption keys periodically for security"
+    ],
+    "speech": "noun",
+    "sentence": "Automatic key rotation reduced security risks."
+  },
+  {
+    "name": "certificate",
+    "trans": [
+      "数字证书"
+    ],
+    "usphone": "sərˈtɪfɪkət",
+    "ukphone": "səˈtɪfɪkət",
+    "e_mean": [
+      "a digital document verifying identity or ownership"
+    ],
+    "speech": "noun",
+    "sentence": "The SSL certificate expired unexpectedly."
+  },
+  {
+    "name": "SSL",
+    "trans": [
+      "安全套接层协议"
+    ],
+    "usphone": "ˌes es ˈel",
+    "ukphone": "ˌes es ˈel",
+    "e_mean": [
+      "a protocol for secure internet communication"
+    ],
+    "speech": "noun",
+    "sentence": "SSL protects data transmitted between browsers and servers."
+  },
+  {
+    "name": "TLS",
+    "trans": [
+      "传输层安全协议"
+    ],
+    "usphone": "ˌtiː el ˈes",
+    "ukphone": "ˌtiː el ˈes",
+    "e_mean": [
+      "a cryptographic protocol for secure communication"
+    ],
+    "speech": "noun",
+    "sentence": "TLS encryption secured all API traffic."
+  },
+  {
+    "name": "payload validation",
+    "trans": [
+      "请求数据校验"
+    ],
+    "usphone": "ˈpeɪloʊd ˌvælɪˈdeɪʃn",
+    "ukphone": "ˈpeɪləʊd ˌvælɪˈdeɪʃn",
+    "e_mean": [
+      "checking request data for correctness and security"
+    ],
+    "speech": "noun",
+    "sentence": "Payload validation blocked malformed requests."
+  },
+  {
+    "name": "sanitization",
+    "trans": [
+      "数据清理；输入净化"
+    ],
+    "usphone": "ˌsænɪtəˈzeɪʃn",
+    "ukphone": "ˌsænɪtaɪˈzeɪʃn",
+    "e_mean": [
+      "cleaning input data to prevent security issues"
+    ],
+    "speech": "noun",
+    "sentence": "Input sanitization prevented SQL injection attacks."
+  },
+  {
+    "name": "SQL injection",
+    "trans": [
+      "SQL注入"
+    ],
+    "usphone": "ˌes kjuː ˈel ɪnˈdʒekʃn",
+    "ukphone": "ˌes kjuː ˈel ɪnˈdʒekʃn",
+    "e_mean": [
+      "a cyberattack using malicious SQL commands"
+    ],
+    "speech": "noun",
+    "sentence": "Parameterized queries help prevent SQL injection."
+  },
+  {
+    "name": "cross-site scripting",
+    "trans": [
+      "跨站脚本攻击"
+    ],
+    "usphone": "krɔːs saɪt ˈskrɪptɪŋ",
+    "ukphone": "krɒs saɪt ˈskrɪptɪŋ",
+    "e_mean": [
+      "a vulnerability where attackers inject malicious scripts"
+    ],
+    "speech": "noun",
+    "sentence": "The application was patched against cross-site scripting vulnerabilities."
+  },
+  {
+    "name": "denial of service",
+    "trans": [
+      "拒绝服务攻击"
+    ],
+    "usphone": "dɪˈnaɪəl əv ˈsɜːrvɪs",
+    "ukphone": "dɪˈnaɪəl əv ˈsɜːvɪs",
+    "e_mean": [
+      "an attack intended to disrupt system availability"
+    ],
+    "speech": "noun",
+    "sentence": "The firewall mitigated the denial of service attack."
+  },
+  {
+    "name": "rate limiting",
+    "trans": [
+      "请求限流"
+    ],
+    "usphone": "reɪt ˈlɪmɪtɪŋ",
+    "ukphone": "reɪt ˈlɪmɪtɪŋ",
+    "e_mean": [
+      "restricting the frequency of requests"
+    ],
+    "speech": "noun",
+    "sentence": "Rate limiting protected the API from abuse."
+  },
+  {
+    "name": "security patch",
+    "trans": [
+      "安全补丁"
+    ],
+    "usphone": "sɪˈkjʊrəti pætʃ",
+    "ukphone": "sɪˈkjʊərəti pætʃ",
+    "e_mean": [
+      "an update fixing security vulnerabilities"
+    ],
+    "speech": "noun",
+    "sentence": "The vendor released a security patch immediately."
+  },
+  {
+    "name": "vulnerability scan",
+    "trans": [
+      "漏洞扫描"
+    ],
+    "usphone": "ˌvʌlnərəˈbɪləti skæn",
+    "ukphone": "ˌvʌlnərəˈbɪləti skæn",
+    "e_mean": [
+      "automated detection of security weaknesses"
+    ],
+    "speech": "noun",
+    "sentence": "The weekly vulnerability scan detected outdated dependencies."
+  },
+  {
+    "name": "observability platform",
+    "trans": [
+      "可观测性平台"
+    ],
+    "usphone": "əbˌzɜːrvəˈbɪləti ˈplætfɔːrm",
+    "ukphone": "əbˌzɜːvəˈbɪləti ˈplætfɔːm",
+    "e_mean": [
+      "a system for monitoring logs, metrics, and traces"
+    ],
+    "speech": "noun",
+    "sentence": "The observability platform detected unusual traffic patterns."
+  },
+  {
+    "name": "distributed tracing",
+    "trans": [
+      "分布式追踪"
+    ],
+    "usphone": "dɪˈstrɪbjətɪd ˈtreɪsɪŋ",
+    "ukphone": "dɪˈstrɪbjətɪd ˈtreɪsɪŋ",
+    "e_mean": [
+      "tracking requests across multiple services"
+    ],
+    "speech": "noun",
+    "sentence": "Distributed tracing identified latency bottlenecks."
+  },
+  {
+    "name": "log aggregation",
+    "trans": [
+      "日志聚合"
+    ],
+    "usphone": "lɔːɡ ˌæɡrɪˈɡeɪʃn",
+    "ukphone": "lɒɡ ˌæɡrɪˈɡeɪʃn",
+    "e_mean": [
+      "collecting logs from multiple systems into one place"
+    ],
+    "speech": "noun",
+    "sentence": "Log aggregation simplified troubleshooting."
+  },
+  {
+    "name": "anomaly detection",
+    "trans": [
+      "异常检测"
+    ],
+    "usphone": "əˈnɑːməli dɪˈtekʃn",
+    "ukphone": "əˈnɒməli dɪˈtekʃn",
+    "e_mean": [
+      "identifying unusual patterns in system behavior"
+    ],
+    "speech": "noun",
+    "sentence": "Anomaly detection alerted the team to unexpected traffic spikes."
+  },
+  {
+    "name": "real-time analytics",
+    "trans": [
+      "实时分析"
+    ],
+    "usphone": "ˈriːl taɪm ˌænəˈlɪtɪks",
+    "ukphone": "ˈrɪəl taɪm ˌænəˈlɪtɪks",
+    "e_mean": [
+      "analyzing data immediately as it is generated"
+    ],
+    "speech": "noun",
+    "sentence": "Real-time analytics improved fraud detection accuracy."
+  },
+  {
+    "name": "business intelligence",
+    "trans": [
+      "商业智能"
+    ],
+    "usphone": "ˈbɪznəs ɪnˈtelɪdʒəns",
+    "ukphone": "ˈbɪznəs ɪnˈtelɪdʒəns",
+    "e_mean": [
+      "technology for analyzing business data and trends"
+    ],
+    "speech": "noun",
+    "sentence": "The dashboard supports business intelligence reporting."
+  },
+  {
+    "name": "data governance",
+    "trans": [
+      "数据治理"
+    ],
+    "usphone": "ˈdeɪtə ˈɡʌvərnəns",
+    "ukphone": "ˈdeɪtə ˈɡʌvənəns",
+    "e_mean": [
+      "managing data quality, security, and usage policies"
+    ],
+    "speech": "noun",
+    "sentence": "Data governance policies ensured compliance with regulations."
+  },
+  {
+    "name": "data lineage",
+    "trans": [
+      "数据血缘"
+    ],
+    "usphone": "ˈdeɪtə ˈlɪniɪdʒ",
+    "ukphone": "ˈdeɪtə ˈlɪniɪdʒ",
+    "e_mean": [
+      "tracking the origin and movement of data"
+    ],
+    "speech": "noun",
+    "sentence": "Data lineage helped trace reporting inconsistencies."
+  },
+  {
+    "name": "schema evolution",
+    "trans": [
+      "模式演进"
+    ],
+    "usphone": "ˈskiːmə ˌevəˈluːʃn",
+    "ukphone": "ˈskiːmə ˌiːvəˈluːʃn",
+    "e_mean": [
+      "modifying database or data structures over time"
+    ],
+    "speech": "noun",
+    "sentence": "Schema evolution maintained compatibility with old records."
+  },
+  {
+    "name": "data integrity",
+    "trans": [
+      "数据完整性"
+    ],
+    "usphone": "ˈdeɪtə ɪnˈteɡrəti",
+    "ukphone": "ˈdeɪtə ɪnˈteɡrəti",
+    "e_mean": [
+      "ensuring data remains accurate and consistent"
+    ],
+    "speech": "noun",
+    "sentence": "Checksums were used to verify data integrity."
+  },
+  {
+    "name": "checksum",
+    "trans": [
+      "校验和"
+    ],
+    "usphone": "ˈtʃeksʌm",
+    "ukphone": "ˈtʃeksʌm",
+    "e_mean": [
+      "a value used to verify data integrity"
+    ],
+    "speech": "noun",
+    "sentence": "The system validated the file using a checksum."
+  },
+  {
+    "name": "hashing",
+    "trans": [
+      "哈希处理"
+    ],
+    "usphone": "ˈhæʃɪŋ",
+    "ukphone": "ˈhæʃɪŋ",
+    "e_mean": [
+      "converting data into fixed-length encoded values"
+    ],
+    "speech": "noun",
+    "sentence": "Passwords were protected using secure hashing algorithms."
+  },
+  {
+    "name": "token bucket",
+    "trans": [
+      "令牌桶算法"
+    ],
+    "usphone": "ˈtoʊkən ˈbʌkɪt",
+    "ukphone": "ˈtəʊkən ˈbʌkɪt",
+    "e_mean": [
+      "a rate limiting algorithm controlling request flow"
+    ],
+    "speech": "noun",
+    "sentence": "The API gateway implemented a token bucket strategy."
+  },
+  {
+    "name": "backpressure",
+    "trans": [
+      "背压"
+    ],
+    "usphone": "ˈbækˌpreʃər",
+    "ukphone": "ˈbækˌpreʃə",
+    "e_mean": [
+      "a mechanism for slowing data producers when consumers are overloaded"
+    ],
+    "speech": "noun",
+    "sentence": "Backpressure prevented message queue overload."
+  },
+  {
+    "name": "retry queue",
+    "trans": [
+      "重试队列"
+    ],
+    "usphone": "ˌriːˈtraɪ kjuː",
+    "ukphone": "ˌriːˈtraɪ kjuː",
+    "e_mean": [
+      "a queue storing failed tasks for later retries"
+    ],
+    "speech": "noun",
+    "sentence": "Failed jobs were moved to the retry queue automatically."
+  },
+  {
+    "name": "dead letter queue",
+    "trans": [
+      "死信队列"
+    ],
+    "usphone": "ded ˈletər kjuː",
+    "ukphone": "ded ˈletə kjuː",
+    "e_mean": [
+      "a queue holding messages that cannot be processed"
+    ],
+    "speech": "noun",
+    "sentence": "The dead letter queue stored invalid events for inspection."
+  },
+  {
+    "name": "event sourcing",
+    "trans": [
+      "事件溯源"
+    ],
+    "usphone": "ɪˈvent ˈsɔːrsɪŋ",
+    "ukphone": "ɪˈvent ˈsɔːsɪŋ",
+    "e_mean": [
+      "storing system state changes as a sequence of events"
+    ],
+    "speech": "noun",
+    "sentence": "Event sourcing simplified historical auditing."
+  },
+  {
+    "name": "command query responsibility segregation",
+    "trans": [
+      "命令查询职责分离"
+    ],
+    "usphone": "kəˈmænd ˈkwɪri rɪˌspɑːnsəˈbɪləti ˌseɡrɪˈɡeɪʃn",
+    "ukphone": "kəˈmɑːnd ˈkwɪəri rɪˌspɒnsəˈbɪləti ˌseɡrɪˈɡeɪʃn",
+    "e_mean": [
+      "a design pattern separating read and write operations"
+    ],
+    "speech": "noun",
+    "sentence": "CQRS improved scalability for the transaction system."
+  },
+  {
+    "name": "event bus",
+    "trans": [
+      "事件总线"
+    ],
+    "usphone": "ɪˈvent bʌs",
+    "ukphone": "ɪˈvent bʌs",
+    "e_mean": [
+      "a communication system for distributing events between services"
+    ],
+    "speech": "noun",
+    "sentence": "Services communicated through the centralized event bus."
+  },
+  {
+    "name": "workflow orchestration",
+    "trans": [
+      "工作流编排"
+    ],
+    "usphone": "ˈwɜːrkfloʊ ˌɔːrkɪˈstreɪʃn",
+    "ukphone": "ˈwɜːkfləʊ ˌɔːkɪˈstreɪʃn",
+    "e_mean": [
+      "automating and coordinating complex workflows"
+    ],
+    "speech": "noun",
+    "sentence": "Workflow orchestration reduced manual intervention in deployments."
+  },
+  {
+    "name": "infrastructure monitoring",
+    "trans": [
+      "基础设施监控"
+    ],
+    "usphone": "ˈɪnfrəstrʌktʃər ˈmɑːnɪtərɪŋ",
+    "ukphone": "ˈɪnfrəstrʌktʃə ˈmɒnɪtərɪŋ",
+    "e_mean": [
+      "tracking the health and performance of infrastructure systems"
+    ],
+    "speech": "noun",
+    "sentence": "Infrastructure monitoring detected abnormal CPU usage."
+  },
+  {
+    "name": "application performance monitoring",
+    "trans": [
+      "应用性能监控"
+    ],
+    "usphone": "ˌæplɪˈkeɪʃn pərˈfɔːrməns ˈmɑːnɪtərɪŋ",
+    "ukphone": "ˌæplɪˈkeɪʃn pəˈfɔːməns ˈmɒnɪtərɪŋ",
+    "e_mean": [
+      "monitoring and analyzing application performance"
+    ],
+    "speech": "noun",
+    "sentence": "Application performance monitoring helped identify slow database queries."
+  },
+  {
+    "name": "service dependency",
+    "trans": [
+      "服务依赖关系"
+    ],
+    "usphone": "ˈsɜːrvɪs dɪˈpendənsi",
+    "ukphone": "ˈsɜːvɪs dɪˈpendənsi",
+    "e_mean": [
+      "a relationship where one service relies on another"
+    ],
+    "speech": "noun",
+    "sentence": "The outage exposed hidden service dependencies."
+  },
+  {
+    "name": "resource contention",
+    "trans": [
+      "资源争用"
+    ],
+    "usphone": "rɪˈsɔːrs kənˈtenʃn",
+    "ukphone": "rɪˈsɔːs kənˈtenʃn",
+    "e_mean": [
+      "competition between processes for limited resources"
+    ],
+    "speech": "noun",
+    "sentence": "Resource contention caused latency spikes during peak traffic."
+  },
+  {
+    "name": "throughput bottleneck",
+    "trans": [
+      "吞吐瓶颈"
+    ],
+    "usphone": "ˈθruːpʊt ˈbɑːtlnek",
+    "ukphone": "ˈθruːpʊt ˈbɒtlnek",
+    "e_mean": [
+      "a component limiting overall processing capacity"
+    ],
+    "speech": "noun",
+    "sentence": "The database became the throughput bottleneck."
+  },
+  {
+    "name": "resource isolation",
+    "trans": [
+      "资源隔离"
+    ],
+    "usphone": "rɪˈsɔːrs ˌaɪsəˈleɪʃn",
+    "ukphone": "rɪˈsɔːs ˌaɪsəˈleɪʃn",
+    "e_mean": [
+      "separating workloads to prevent interference"
+    ],
+    "speech": "noun",
+    "sentence": "Containerization improved resource isolation between services."
+  },
+  {
+    "name": "configuration drift",
+    "trans": [
+      "配置漂移"
+    ],
+    "usphone": "kənˌfɪɡjəˈreɪʃn drɪft",
+    "ukphone": "kənˌfɪɡəˈreɪʃn drɪft",
+    "e_mean": [
+      "unintended differences between system configurations over time"
+    ],
+    "speech": "noun",
+    "sentence": "Automation tools reduced configuration drift."
+  },
+  {
+    "name": "immutable infrastructure",
+    "trans": [
+      "不可变基础设施"
+    ],
+    "usphone": "ɪˈmjuːtəbl ˈɪnfrəstrʌktʃər",
+    "ukphone": "ɪˈmjuːtəbl ˈɪnfrəstrʌktʃə",
+    "e_mean": [
+      "infrastructure that is replaced instead of modified"
+    ],
+    "speech": "noun",
+    "sentence": "Immutable infrastructure simplified rollback procedures."
+  },
+  {
+    "name": "deployment artifact",
+    "trans": [
+      "部署构件"
+    ],
+    "usphone": "dɪˈplɔɪmənt ˈɑːrtɪfækt",
+    "ukphone": "dɪˈplɔɪmənt ˈɑːtɪfækt",
+    "e_mean": [
+      "a packaged file used during software deployment"
+    ],
+    "speech": "noun",
+    "sentence": "The deployment artifact was uploaded to the registry."
+  },
+  {
+    "name": "release candidate",
+    "trans": [
+      "候选发布版本"
+    ],
+    "usphone": "rɪˈliːs ˈkændɪdət",
+    "ukphone": "rɪˈliːs ˈkændɪdət",
+    "e_mean": [
+      "a nearly final version of software pending approval"
+    ],
+    "speech": "noun",
+    "sentence": "The release candidate passed all regression tests."
+  },
+  {
+    "name": "feature rollout",
+    "trans": [
+      "功能逐步发布"
+    ],
+    "usphone": "ˈfiːtʃər ˈroʊlaʊt",
+    "ukphone": "ˈfiːtʃə ˈrəʊlaʊt",
+    "e_mean": [
+      "gradually enabling a feature for users"
+    ],
+    "speech": "noun",
+    "sentence": "The feature rollout started with internal employees only."
+  },
+  {
+    "name": "dark launch",
+    "trans": [
+      "暗发布"
+    ],
+    "usphone": "dɑːrk lɔːntʃ",
+    "ukphone": "dɑːk lɔːntʃ",
+    "e_mean": [
+      "deploying features without exposing them to users"
+    ],
+    "speech": "noun",
+    "sentence": "The system used a dark launch to test backend scalability."
+  },
+  {
+    "name": "chaos engineering",
+    "trans": [
+      "混沌工程"
+    ],
+    "usphone": "ˈkeɪɑːs ˌendʒɪˈnɪrɪŋ",
+    "ukphone": "ˈkeɪɒs ˌendʒɪˈnɪərɪŋ",
+    "e_mean": [
+      "testing system resilience through controlled failures"
+    ],
+    "speech": "noun",
+    "sentence": "Chaos engineering improved fault tolerance across services."
+  },
+  {
+    "name": "fault injection",
+    "trans": [
+      "故障注入"
+    ],
+    "usphone": "fɔːlt ɪnˈdʒekʃn",
+    "ukphone": "fɔːlt ɪnˈdʒekʃn",
+    "e_mean": [
+      "intentionally introducing failures for testing"
+    ],
+    "speech": "noun",
+    "sentence": "Fault injection validated disaster recovery procedures."
+  },
+  {
+    "name": "resilience testing",
+    "trans": [
+      "韧性测试"
+    ],
+    "usphone": "rɪˈzɪliəns ˈtestɪŋ",
+    "ukphone": "rɪˈzɪliəns ˈtestɪŋ",
+    "e_mean": [
+      "testing a system's ability to recover from failures"
+    ],
+    "speech": "noun",
+    "sentence": "Resilience testing uncovered weaknesses in the failover process."
+  },
+  {
+    "name": "fault tolerance",
+    "trans": [
+      "容错能力"
+    ],
+    "usphone": "fɔːlt ˈtɑːlərəns",
+    "ukphone": "fɔːlt ˈtɒlərəns",
+    "e_mean": [
+      "the ability of a system to continue operating despite failures"
+    ],
+    "speech": "noun",
+    "sentence": "Replication improved the system's fault tolerance."
+  },
+  {
+    "name": "graceful degradation",
+    "trans": [
+      "优雅降级"
+    ],
+    "usphone": "ˈɡreɪsfl ˌdeɡrəˈdeɪʃn",
+    "ukphone": "ˈɡreɪsfl ˌdeɡrəˈdeɪʃn",
+    "e_mean": [
+      "reducing functionality gradually instead of failing completely"
+    ],
+    "speech": "noun",
+    "sentence": "Graceful degradation kept essential features available during outages."
+  },
+  {
+    "name": "service resilience",
+    "trans": [
+      "服务韧性"
+    ],
+    "usphone": "ˈsɜːrvɪs rɪˈzɪliəns",
+    "ukphone": "ˈsɜːvɪs rɪˈzɪliəns",
+    "e_mean": [
+      "the ability of a service to withstand failures and recover quickly"
+    ],
+    "speech": "noun",
+    "sentence": "Caching strategies improved service resilience."
+  },
+  {
+    "name": "dependency graph",
+    "trans": [
+      "依赖关系图"
+    ],
+    "usphone": "dɪˈpendənsi ɡræf",
+    "ukphone": "dɪˈpendənsi ɡrɑːf",
+    "e_mean": [
+      "a diagram showing relationships between components or services"
+    ],
+    "speech": "noun",
+    "sentence": "The dependency graph revealed a circular dependency."
+  },
+  {
+    "name": "blast radius",
+    "trans": [
+      "影响范围"
+    ],
+    "usphone": "blæst ˈreɪdiəs",
+    "ukphone": "blɑːst ˈreɪdiəs",
+    "e_mean": [
+      "the extent of impact caused by a system failure"
+    ],
+    "speech": "noun",
+    "sentence": "Feature flags reduced the blast radius of deployment issues."
+  },
+  {
+    "name": "domain-driven design",
+    "trans": [
+      "领域驱动设计"
+    ],
+    "usphone": "doʊˈmeɪn ˈdrɪvn dɪˈzaɪn",
+    "ukphone": "dəˈmeɪn ˈdrɪvn dɪˈzaɪn",
+    "e_mean": [
+      "a software design approach focused on business domains"
+    ],
+    "speech": "noun",
+    "sentence": "Domain-driven design improved collaboration between engineers and business teams."
+  },
+  {
+    "name": "bounded context",
+    "trans": [
+      "限界上下文"
+    ],
+    "usphone": "ˈbaʊndɪd ˈkɑːntekst",
+    "ukphone": "ˈbaʊndɪd ˈkɒntekst",
+    "e_mean": [
+      "a logical boundary within a domain-driven design model"
+    ],
+    "speech": "noun",
+    "sentence": "Each microservice owns a separate bounded context."
+  },
+  {
+    "name": "entity",
+    "trans": [
+      "实体"
+    ],
+    "usphone": "ˈentəti",
+    "ukphone": "ˈentəti",
+    "e_mean": [
+      "an object with a unique identity in software design"
+    ],
+    "speech": "noun",
+    "sentence": "The customer entity stores account information."
+  },
+  {
+    "name": "value object",
+    "trans": [
+      "值对象"
+    ],
+    "usphone": "ˈvæljuː ˈɑːbdʒekt",
+    "ukphone": "ˈvæljuː ˈɒbdʒekt",
+    "e_mean": [
+      "an immutable object defined only by its attributes"
+    ],
+    "speech": "noun",
+    "sentence": "The address was modeled as a value object."
+  },
+  {
+    "name": "repository pattern",
+    "trans": [
+      "仓储模式"
+    ],
+    "usphone": "rɪˈpɑːzətɔːri ˈpætərn",
+    "ukphone": "rɪˈpɒzətri ˈpætən",
+    "e_mean": [
+      "a design pattern for abstracting data access logic"
+    ],
+    "speech": "noun",
+    "sentence": "The repository pattern simplified database operations."
+  },
+  {
+    "name": "dependency graph resolution",
+    "trans": [
+      "依赖图解析"
+    ],
+    "usphone": "dɪˈpendənsi ɡræf ˌrezəˈluːʃn",
+    "ukphone": "dɪˈpendənsi ɡrɑːf ˌrezəˈluːʃn",
+    "e_mean": [
+      "the process of resolving dependencies between modules"
+    ],
+    "speech": "noun",
+    "sentence": "Dependency graph resolution failed because of version conflicts."
+  },
+  {
+    "name": "build pipeline",
+    "trans": [
+      "构建流水线"
+    ],
+    "usphone": "bɪld ˈpaɪplaɪn",
+    "ukphone": "bɪld ˈpaɪplaɪn",
+    "e_mean": [
+      "an automated sequence of build and test steps"
+    ],
+    "speech": "noun",
+    "sentence": "The build pipeline runs unit tests automatically."
+  },
+  {
+    "name": "artifact repository",
+    "trans": [
+      "制品仓库"
+    ],
+    "usphone": "ˈɑːrtɪfækt rɪˈpɑːzətɔːri",
+    "ukphone": "ˈɑːtɪfækt rɪˈpɒzətri",
+    "e_mean": [
+      "a storage system for compiled binaries and packages"
+    ],
+    "speech": "noun",
+    "sentence": "Deployment packages are stored in the artifact repository."
+  },
+  {
+    "name": "semantic versioning",
+    "trans": [
+      "语义化版本管理"
+    ],
+    "usphone": "sɪˈmæntɪk ˈvɜːrʒənɪŋ",
+    "ukphone": "sɪˈmæntɪk ˈvɜːʃənɪŋ",
+    "e_mean": [
+      "a versioning system using major, minor, and patch numbers"
+    ],
+    "speech": "noun",
+    "sentence": "The API follows semantic versioning standards."
+  },
+  {
+    "name": "monorepo",
+    "trans": [
+      "单体代码仓库"
+    ],
+    "usphone": "ˈmɑːnoʊˌrepoʊ",
+    "ukphone": "ˈmɒnəʊˌrepəʊ",
+    "e_mean": [
+      "a single repository containing multiple projects or services"
+    ],
+    "speech": "noun",
+    "sentence": "The engineering team migrated services into a monorepo."
+  },
+  {
+    "name": "polyrepo",
+    "trans": [
+      "多代码仓库"
+    ],
+    "usphone": "ˈpɑːliˌrepoʊ",
+    "ukphone": "ˈpɒliˌrepəʊ",
+    "e_mean": [
+      "a development strategy using separate repositories for projects"
+    ],
+    "speech": "noun",
+    "sentence": "The organization adopted a polyrepo structure for isolation."
+  },
+  {
+    "name": "linting",
+    "trans": [
+      "代码检查"
+    ],
+    "usphone": "ˈlɪntɪŋ",
+    "ukphone": "ˈlɪntɪŋ",
+    "e_mean": [
+      "analyzing code for style and programming errors"
+    ],
+    "speech": "noun",
+    "sentence": "Linting tools enforced consistent coding standards."
+  },
+  {
+    "name": "static analysis",
+    "trans": [
+      "静态分析"
+    ],
+    "usphone": "ˈstætɪk əˈnæləsɪs",
+    "ukphone": "ˈstætɪk əˈnæləsɪs",
+    "e_mean": [
+      "examining source code without executing it"
+    ],
+    "speech": "noun",
+    "sentence": "Static analysis detected security vulnerabilities early."
+  },
+  {
+    "name": "dynamic analysis",
+    "trans": [
+      "动态分析"
+    ],
+    "usphone": "daɪˈnæmɪk əˈnæləsɪs",
+    "ukphone": "daɪˈnæmɪk əˈnæləsɪs",
+    "e_mean": [
+      "analyzing software during execution"
+    ],
+    "speech": "noun",
+    "sentence": "Dynamic analysis revealed memory leaks in production."
+  },
+  {
+    "name": "code coverage",
+    "trans": [
+      "代码覆盖率"
+    ],
+    "usphone": "koʊd ˈkʌvərɪdʒ",
+    "ukphone": "kəʊd ˈkʌvərɪdʒ",
+    "e_mean": [
+      "a measurement of how much code is tested"
+    ],
+    "speech": "noun",
+    "sentence": "The project maintains over 90% code coverage."
+  },
+  {
+    "name": "test harness",
+    "trans": [
+      "测试框架"
+    ],
+    "usphone": "test ˈhɑːrnəs",
+    "ukphone": "test ˈhɑːnəs",
+    "e_mean": [
+      "a collection of tools for automated software testing"
+    ],
+    "speech": "noun",
+    "sentence": "The test harness simulated external API responses."
+  },
+  {
+    "name": "sandbox environment",
+    "trans": [
+      "沙箱环境"
+    ],
+    "usphone": "ˈsændbɑːks ɪnˈvaɪrənmənt",
+    "ukphone": "ˈsændbɒks ɪnˈvaɪərənmənt",
+    "e_mean": [
+      "an isolated environment for experimentation and testing"
+    ],
+    "speech": "noun",
+    "sentence": "Developers validated the integration in a sandbox environment."
+  },
+  {
+    "name": "tenant isolation",
+    "trans": [
+      "租户隔离"
+    ],
+    "usphone": "ˈtenənt ˌaɪsəˈleɪʃn",
+    "ukphone": "ˈtenənt ˌaɪsəˈleɪʃn",
+    "e_mean": [
+      "separating customer data and resources in shared systems"
+    ],
+    "speech": "noun",
+    "sentence": "Tenant isolation is critical for SaaS security."
+  },
+  {
+    "name": "shared responsibility model",
+    "trans": [
+      "共享责任模型"
+    ],
+    "usphone": "ʃerd rɪˌspɑːnsəˈbɪləti ˈmɑːdl",
+    "ukphone": "ʃeəd rɪˌspɒnsəˈbɪləti ˈmɒdl",
+    "e_mean": [
+      "a cloud security model dividing responsibilities between provider and customer"
+    ],
+    "speech": "noun",
+    "sentence": "The cloud provider follows a shared responsibility model."
+  },
+  {
+    "name": "service orchestration",
+    "trans": [
+      "服务编排"
+    ],
+    "usphone": "ˈsɜːrvɪs ˌɔːrkɪˈstreɪʃn",
+    "ukphone": "ˈsɜːvɪs ˌɔːkɪˈstreɪʃn",
+    "e_mean": [
+      "coordinating multiple services to complete workflows"
+    ],
+    "speech": "noun",
+    "sentence": "Service orchestration automated the deployment process."
+  },
+  {
+    "name": "edge node",
+    "trans": [
+      "边缘节点"
+    ],
+    "usphone": "edʒ noʊd",
+    "ukphone": "edʒ nəʊd",
+    "e_mean": [
+      "a computing node located close to end users or devices"
+    ],
+    "speech": "noun",
+    "sentence": "The edge node reduced latency for mobile users."
+  },
+  {
+    "name": "service endpoint",
+    "trans": [
+      "服务端点"
+    ],
+    "usphone": "ˈsɜːrvɪs ˈendpɔɪnt",
+    "ukphone": "ˈsɜːvɪs ˈendpɔɪnt",
+    "e_mean": [
+      "a network address used to access a service"
+    ],
+    "speech": "noun",
+    "sentence": "The client application connects to the service endpoint."
+  },
+  {
+    "name": "API contract",
+    "trans": [
+      "API契约"
+    ],
+    "usphone": "ˌeɪ piː ˈaɪ ˈkɑːntrækt",
+    "ukphone": "ˌeɪ piː ˈaɪ ˈkɒntrækt",
+    "e_mean": [
+      "a formal definition of API behavior and data structures"
+    ],
+    "speech": "noun",
+    "sentence": "The API contract ensured compatibility between teams."
+  },
+  {
+    "name": "schema registry",
+    "trans": [
+      "模式注册中心"
+    ],
+    "usphone": "ˈskiːmə ˈredʒɪstri",
+    "ukphone": "ˈskiːmə ˈredʒɪstri",
+    "e_mean": [
+      "a centralized repository for managing data schemas"
+    ],
+    "speech": "noun",
+    "sentence": "The schema registry validated event formats automatically."
+  },
+  {
+    "name": "message serialization",
+    "trans": [
+      "消息序列化"
+    ],
+    "usphone": "ˈmesɪdʒ ˌsɪriələˈzeɪʃn",
+    "ukphone": "ˈmesɪdʒ ˌsɪəriəlaɪˈzeɪʃn",
+    "e_mean": [
+      "converting messages into transferable formats"
+    ],
+    "speech": "noun",
+    "sentence": "Message serialization reduced network payload size."
+  },
+  {
+    "name": "event stream",
+    "trans": [
+      "事件流"
+    ],
+    "usphone": "ɪˈvent striːm",
+    "ukphone": "ɪˈvent striːm",
+    "e_mean": [
+      "a continuous sequence of generated events"
+    ],
+    "speech": "noun",
+    "sentence": "The analytics engine processed the event stream in real time."
+  },
+  {
+    "name": "stream consumer",
+    "trans": [
+      "流消费者"
+    ],
+    "usphone": "striːm kənˈsuːmər",
+    "ukphone": "striːm kənˈsjuːmə",
+    "e_mean": [
+      "a service that reads and processes streaming data"
+    ],
+    "speech": "noun",
+    "sentence": "The stream consumer handled incoming telemetry events."
+  },
+  {
+    "name": "stream producer",
+    "trans": [
+      "流生产者"
+    ],
+    "usphone": "striːm prəˈduːsər",
+    "ukphone": "striːm prəˈdjuːsə",
+    "e_mean": [
+      "a service that generates and publishes streaming data"
+    ],
+    "speech": "noun",
+    "sentence": "The IoT gateway acted as the stream producer."
+  },
+  {
+    "name": "distributed cache",
+    "trans": [
+      "分布式缓存"
+    ],
+    "usphone": "dɪˈstrɪbjətɪd kæʃ",
+    "ukphone": "dɪˈstrɪbjətɪd kæʃ",
+    "e_mean": [
+      "a cache shared across multiple servers"
+    ],
+    "speech": "noun",
+    "sentence": "The distributed cache improved response times significantly."
+  },
+  {
+    "name": "cache invalidation",
+    "trans": [
+      "缓存失效"
+    ],
+    "usphone": "kæʃ ɪnˌvælɪˈdeɪʃn",
+    "ukphone": "kæʃ ɪnˌvælɪˈdeɪʃn",
+    "e_mean": [
+      "removing outdated data from a cache"
+    ],
+    "speech": "noun",
+    "sentence": "Cache invalidation ensured users received updated content."
+  },
+  {
+    "name": "cache hit ratio",
+    "trans": [
+      "缓存命中率"
+    ],
+    "usphone": "kæʃ hɪt ˈreɪʃioʊ",
+    "ukphone": "kæʃ hɪt ˈreɪʃiəʊ",
+    "e_mean": [
+      "the percentage of successful cache lookups"
+    ],
+    "speech": "noun",
+    "sentence": "The cache hit ratio improved after optimization."
+  },
+  {
+    "name": "cold storage",
+    "trans": [
+      "冷存储"
+    ],
+    "usphone": "koʊld ˈstɔːrɪdʒ",
+    "ukphone": "kəʊld ˈstɔːrɪdʒ",
+    "e_mean": [
+      "low-cost storage for infrequently accessed data"
+    ],
+    "speech": "noun",
+    "sentence": "Archived backups were moved to cold storage."
+  },
+  {
+    "name": "hot storage",
+    "trans": [
+      "热存储"
+    ],
+    "usphone": "hɑːt ˈstɔːrɪdʒ",
+    "ukphone": "hɒt ˈstɔːrɪdʒ",
+    "e_mean": [
+      "fast-access storage for frequently used data"
+    ],
+    "speech": "noun",
+    "sentence": "Customer session data was kept in hot storage."
+  },
+  {
+    "name": "storage tiering",
+    "trans": [
+      "存储分层"
+    ],
+    "usphone": "ˈstɔːrɪdʒ ˈtɪrɪŋ",
+    "ukphone": "ˈstɔːrɪdʒ ˈtɪərɪŋ",
+    "e_mean": [
+      "organizing data into different storage performance levels"
+    ],
+    "speech": "noun",
+    "sentence": "Storage tiering reduced infrastructure costs."
+  },
+  {
+    "name": "data retention",
+    "trans": [
+      "数据保留策略"
+    ],
+    "usphone": "ˈdeɪtə rɪˈtenʃn",
+    "ukphone": "ˈdeɪtə rɪˈtenʃn",
+    "e_mean": [
+      "policies controlling how long data is stored"
+    ],
+    "speech": "noun",
+    "sentence": "The compliance team updated the data retention policy."
+  },
+  {
+    "name": "retention policy",
+    "trans": [
+      "保留策略"
+    ],
+    "usphone": "rɪˈtenʃn ˈpɑːləsi",
+    "ukphone": "rɪˈtenʃn ˈpɒləsi",
+    "e_mean": [
+      "rules defining how long records or logs are preserved"
+    ],
+    "speech": "noun",
+    "sentence": "The retention policy automatically deleted old logs."
+  },
+  {
+    "name": "compliance audit",
+    "trans": [
+      "合规审计"
+    ],
+    "usphone": "kəmˈplaɪəns ˈɔːdɪt",
+    "ukphone": "kəmˈplaɪəns ˈɔːdɪt",
+    "e_mean": [
+      "an inspection ensuring adherence to regulations"
+    ],
+    "speech": "noun",
+    "sentence": "The company passed the annual compliance audit."
+  },
+  {
+    "name": "go-live",
+    "trans": [
+      "正式上线"
+    ],
+    "usphone": "ɡoʊ laɪv",
+    "ukphone": "ɡəʊ laɪv",
+    "e_mean": [
+      "the point when a system becomes operational for users"
+    ],
+    "speech": "noun",
+    "sentence": "The payment platform go-live was scheduled for Friday."
+  },
+  {
+    "name": "rollback window",
+    "trans": [
+      "回滚窗口期"
+    ],
+    "usphone": "ˈroʊlbæk ˈwɪndoʊ",
+    "ukphone": "ˈrəʊlbæk ˈwɪndəʊ",
+    "e_mean": [
+      "a limited period during which a deployment can be reverted"
+    ],
+    "speech": "noun",
+    "sentence": "The rollback window remained open for two hours after deployment."
+  },
+  {
+    "name": "change management",
+    "trans": [
+      "变更管理"
+    ],
+    "usphone": "tʃeɪndʒ ˈmænɪdʒmənt",
+    "ukphone": "tʃeɪndʒ ˈmænɪdʒmənt",
+    "e_mean": [
+      "a structured process for handling system or process changes"
+    ],
+    "speech": "noun",
+    "sentence": "Change management procedures reduced deployment risks."
+  },
+  {
+    "name": "change request",
+    "trans": [
+      "变更请求"
+    ],
+    "usphone": "tʃeɪndʒ rɪˈkwest",
+    "ukphone": "tʃeɪndʒ rɪˈkwest",
+    "e_mean": [
+      "a formal proposal to modify systems or processes"
+    ],
+    "speech": "noun",
+    "sentence": "The infrastructure update required a change request approval."
+  },
+  {
+    "name": "approval workflow",
+    "trans": [
+      "审批流程"
+    ],
+    "usphone": "əˈpruːvl ˈwɜːrkfloʊ",
+    "ukphone": "əˈpruːvl ˈwɜːkfləʊ",
+    "e_mean": [
+      "a sequence of steps for reviewing and approving actions"
+    ],
+    "speech": "noun",
+    "sentence": "The approval workflow delayed the production deployment."
+  },
+  {
+    "name": "service ownership",
+    "trans": [
+      "服务归属"
+    ],
+    "usphone": "ˈsɜːrvɪs ˈoʊnərʃɪp",
+    "ukphone": "ˈsɜːvɪs ˈəʊnəʃɪp",
+    "e_mean": [
+      "responsibility for maintaining and operating a service"
+    ],
+    "speech": "noun",
+    "sentence": "Clear service ownership improved incident response times."
+  },
+  {
+    "name": "run-time configuration",
+    "trans": [
+      "运行时配置"
+    ],
+    "usphone": "ˈrʌn taɪm kənˌfɪɡjəˈreɪʃn",
+    "ukphone": "ˈrʌn taɪm kənˌfɪɡəˈreɪʃn",
+    "e_mean": [
+      "configuration settings applied while software is running"
+    ],
+    "speech": "noun",
+    "sentence": "The application supports dynamic run-time configuration changes."
+  },
+  {
+    "name": "feature toggle",
+    "trans": [
+      "功能开关"
+    ],
+    "usphone": "ˈfiːtʃər ˈtɑːɡl",
+    "ukphone": "ˈfiːtʃə ˈtɒɡl",
+    "e_mean": [
+      "a mechanism for enabling or disabling features dynamically"
+    ],
+    "speech": "noun",
+    "sentence": "The beta feature was hidden behind a feature toggle."
+  },
+  {
+    "name": "maintenance window",
+    "trans": [
+      "维护窗口"
+    ],
+    "usphone": "ˈmeɪntənəns ˈwɪndoʊ",
+    "ukphone": "ˈmeɪntənəns ˈwɪndəʊ",
+    "e_mean": [
+      "a scheduled period for performing maintenance activities"
+    ],
+    "speech": "noun",
+    "sentence": "Database upgrades were completed during the maintenance window."
+  },
+  {
+    "name": "system hardening",
+    "trans": [
+      "系统加固"
+    ],
+    "usphone": "ˈsɪstəm ˈhɑːrdənɪŋ",
+    "ukphone": "ˈsɪstəm ˈhɑːdənɪŋ",
+    "e_mean": [
+      "strengthening system security by reducing vulnerabilities"
+    ],
+    "speech": "noun",
+    "sentence": "System hardening improved the server's security posture."
+  },
+  {
+    "name": "security posture",
+    "trans": [
+      "安全态势"
+    ],
+    "usphone": "sɪˈkjʊrəti ˈpɑːstʃər",
+    "ukphone": "sɪˈkjʊərəti ˈpɒstʃə",
+    "e_mean": [
+      "the overall security status of an organization or system"
+    ],
+    "speech": "noun",
+    "sentence": "Regular audits strengthened the company's security posture."
+  },
+  {
+    "name": "intrusion detection",
+    "trans": [
+      "入侵检测"
+    ],
+    "usphone": "ɪnˈtruːʒn dɪˈtekʃn",
+    "ukphone": "ɪnˈtruːʒn dɪˈtekʃn",
+    "e_mean": [
+      "monitoring systems for malicious activities or attacks"
+    ],
+    "speech": "noun",
+    "sentence": "The intrusion detection system flagged suspicious traffic."
+  },
+  {
+    "name": "threat modeling",
+    "trans": [
+      "威胁建模"
+    ],
+    "usphone": "θret ˈmɑːdlɪŋ",
+    "ukphone": "θret ˈmɒdlɪŋ",
+    "e_mean": [
+      "identifying and analyzing potential security threats"
+    ],
+    "speech": "noun",
+    "sentence": "Threat modeling was performed before launching the new platform."
+  },
+  {
+    "name": "attack surface",
+    "trans": [
+      "攻击面"
+    ],
+    "usphone": "əˈtæk ˈsɜːrfɪs",
+    "ukphone": "əˈtæk ˈsɜːfɪs",
+    "e_mean": [
+      "all possible points where a system can be attacked"
+    ],
+    "speech": "noun",
+    "sentence": "Unused APIs increased the application's attack surface."
+  },
+  {
+    "name": "zero trust",
+    "trans": [
+      "零信任安全"
+    ],
+    "usphone": "ˈzɪroʊ trʌst",
+    "ukphone": "ˈzɪərəʊ trʌst",
+    "e_mean": [
+      "a security model requiring continuous verification of access"
+    ],
+    "speech": "noun",
+    "sentence": "The company adopted a zero trust security architecture."
+  },
+  {
+    "name": "identity provider",
+    "trans": [
+      "身份提供方"
+    ],
+    "usphone": "aɪˈdentəti prəˈvaɪdər",
+    "ukphone": "aɪˈdentəti prəˈvaɪdə",
+    "e_mean": [
+      "a system that manages and verifies user identities"
+    ],
+    "speech": "noun",
+    "sentence": "The identity provider integrated with the SSO platform."
+  },
+  {
+    "name": "federated identity",
+    "trans": [
+      "联合身份认证"
+    ],
+    "usphone": "ˈfedəreɪtɪd aɪˈdentəti",
+    "ukphone": "ˈfedəreɪtɪd aɪˈdentəti",
+    "e_mean": [
+      "an identity system shared across multiple organizations or services"
+    ],
+    "speech": "noun",
+    "sentence": "Federated identity simplified cross-platform authentication."
+  },
+  {
+    "name": "observability dashboard",
+    "trans": [
+      "可观测性仪表盘"
+    ],
+    "usphone": "əbˌzɜːrvəˈbɪləti ˈdæʃbɔːrd",
+    "ukphone": "əbˌzɜːvəˈbɪləti ˈdæʃbɔːd",
+    "e_mean": [
+      "a dashboard displaying logs, metrics, and traces"
+    ],
+    "speech": "noun",
+    "sentence": "The observability dashboard displayed service health metrics."
+  },
+  {
+    "name": "service health",
+    "trans": [
+      "服务健康状态"
+    ],
+    "usphone": "ˈsɜːrvɪs helθ",
+    "ukphone": "ˈsɜːvɪs helθ",
+    "e_mean": [
+      "the operational status and performance of a service"
+    ],
+    "speech": "noun",
+    "sentence": "The dashboard showed declining service health during the outage."
+  },
+  {
+    "name": "incident timeline",
+    "trans": [
+      "事故时间线"
+    ],
+    "usphone": "ˈɪnsɪdənt ˈtaɪmlaɪn",
+    "ukphone": "ˈɪnsɪdənt ˈtaɪmlaɪn",
+    "e_mean": [
+      "a chronological sequence of events during an incident"
+    ],
+    "speech": "noun",
+    "sentence": "The incident timeline helped investigators identify the root cause."
+  },
+  {
+    "name": "capacity threshold",
+    "trans": [
+      "容量阈值"
+    ],
+    "usphone": "kəˈpæsəti ˈθreʃhoʊld",
+    "ukphone": "kəˈpæsəti ˈθreʃhəʊld",
+    "e_mean": [
+      "a predefined limit for acceptable resource usage"
+    ],
+    "speech": "noun",
+    "sentence": "Alerts were triggered when the CPU crossed the capacity threshold."
+  },
+  {
+    "name": "resource saturation",
+    "trans": [
+      "资源饱和"
+    ],
+    "usphone": "rɪˈsɔːrs ˌsætʃəˈreɪʃn",
+    "ukphone": "rɪˈsɔːs ˌsætʃəˈreɪʃn",
+    "e_mean": [
+      "a condition where resources are fully utilized"
+    ],
+    "speech": "noun",
+    "sentence": "Memory resource saturation slowed down the application."
+  },
+  {
+    "name": "operational excellence",
+    "trans": [
+      "运营卓越"
+    ],
+    "usphone": "ˌɑːpəˈreɪʃənl ˈeksələns",
+    "ukphone": "ˌɒpəˈreɪʃənl ˈeksələns",
+    "e_mean": [
+      "achieving reliable and efficient operational practices"
+    ],
+    "speech": "noun",
+    "sentence": "Automation contributed significantly to operational excellence."
+  }
+]
