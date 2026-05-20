@@ -224,12 +224,12 @@ export class App {
       this.focus === 'task' &&
       (this.session.getCurrentMode() === 'typing' || this.session.getCurrentMode() === 'meaning');
 
-    const quitHotkey = ch === 'Q' || key.full === 'S-q' || key.full === 'C-c';
-    const reloadHotkey = ch === 'R' || key.full === 'S-r';
-    const addSentenceHotkey = key.full === 'C-e';
-    const replayHotkey = ch === 'P' || key.full === 'S-p';
-    const muteHotkey = ch === 'M' || key.full === 'S-m';
-    const accentHotkey = ch === 'U' || key.full === 'S-u';
+    const quitHotkey = lowerFull === 'c-c' || (!inTaskInputMode && (ch === 'Q' || lowerFull === 's-q'));
+    const reloadHotkey = !inTaskInputMode && (ch === 'R' || lowerFull === 's-r');
+    const addSentenceHotkey = lowerFull === 'c-e';
+    const replayHotkey = !inTaskInputMode && (ch === 'P' || lowerFull === 's-p');
+    const muteHotkey = !inTaskInputMode && (ch === 'M' || lowerFull === 's-m');
+    const accentHotkey = !inTaskInputMode && (ch === 'U' || lowerFull === 's-u');
     const youglishChunkToggleHotkey = lowerFull === 'c-o';
     const youglishToggleHotkey = key.full === 'C-y' || (!inTaskInputMode && lowerCh === 'y');
 
@@ -379,14 +379,20 @@ export class App {
 
     if (isDownKey(ch, key)) {
       if (this.visibleIndexes.length > 0) {
-        this.selectedVisibleIndex = Math.min(this.visibleIndexes.length - 1, this.selectedVisibleIndex + 1);
+        const nextIndex = Math.min(this.visibleIndexes.length - 1, this.selectedVisibleIndex + 1);
+        if (nextIndex !== this.selectedVisibleIndex) {
+          this.selectDictionaryByVisibleIndex(nextIndex);
+        }
       }
       return;
     }
 
     if (isUpKey(ch, key)) {
       if (this.visibleIndexes.length > 0) {
-        this.selectedVisibleIndex = Math.max(0, this.selectedVisibleIndex - 1);
+        const nextIndex = Math.max(0, this.selectedVisibleIndex - 1);
+        if (nextIndex !== this.selectedVisibleIndex) {
+          this.selectDictionaryByVisibleIndex(nextIndex);
+        }
       }
       return;
     }
