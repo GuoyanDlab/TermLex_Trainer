@@ -247,7 +247,9 @@ pnpm run sentence:add -- <dictId> <word>
 - 打开：`Ctrl+Y`
 - 关闭：`Esc` / `Ctrl+Y`
 - 播放/暂停：`Space`
+- 跳过当前 clip：`s`
 - 上一/下一 clip：`[` / `]`
+- 视频显示/隐藏切换：`v`（默认隐藏）
 - 实时减速/加速：`-` / `=`
 - 实时增加/减少切换延迟：`,` / `.`
 - 翻译 phrase：`t`
@@ -261,7 +263,9 @@ pnpm run sentence:add -- <dictId> <word>
 - 播放/暂停：`Space`
 - 下一/上一条 chunk：`n` / `b`
 - 跳转到第 N 条 chunk：`j`（输入数字后回车）
+- 跳过当前 clip：`s`
 - 上一/下一 clip：`[` / `]`
+- 视频显示/隐藏切换：`v`（默认隐藏）
 - 实时减速/加速：`-` / `=`
 - 实时增加/减少切换延迟：`,` / `.`
 - 翻译 phrase：`t`
@@ -272,6 +276,8 @@ pnpm run sentence:add -- <dictId> <word>
 
 以下按键在 YouGlish 单词模式和 Chunk Radio 模式都可使用：
 
+- `s`：跳过当前 clip
+- `v`：切换视频显示/隐藏（默认隐藏）
 - `-`：降低播放语速
 - `=`（或 `+`）：提高播放语速
 - `,`：增加自动切换延迟（切得更慢）
@@ -279,11 +285,13 @@ pnpm run sentence:add -- <dictId> <word>
 
 YouGlish 面板会实时显示：
 
+- `Video View`：`hidden` / `shown`
 - `Speed`：当前播放速度（如 `0.92x`）
 - `Switch Delay`：当前自动切换延迟毫秒数（如 `900ms`）
 
 默认值：
 
+- 视频默认隐藏
 - 默认语速：`0.92x`
 - 默认切换延迟：`900ms`
 

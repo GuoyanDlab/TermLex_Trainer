@@ -27,6 +27,7 @@ interface YouGlishOverlayState {
   consumedCount: number;
   speed: number;
   autoNextGapMs: number;
+  videoVisible: boolean;
   phrase: string;
   phraseTranslation: string;
   playerState: string;
@@ -85,6 +86,7 @@ export class App {
     consumedCount: 0,
     speed: 1,
     autoNextGapMs: 900,
+    videoVisible: false,
     phrase: '',
     phraseTranslation: '',
     playerState: 'unknown',
@@ -558,6 +560,7 @@ export class App {
     this.youglishState.consumedCount = snapshot.consumedCount;
     this.youglishState.speed = snapshot.speed;
     this.youglishState.autoNextGapMs = snapshot.autoNextGapMs;
+    this.youglishState.videoVisible = snapshot.videoVisible;
     this.youglishState.videoId = snapshot.videoId;
     this.youglishState.phrase = normalizedPhrase;
     this.youglishState.playerState = snapshot.playerState;
@@ -639,6 +642,7 @@ export class App {
       consumedCount: 0,
       speed: 1,
       autoNextGapMs: 900,
+      videoVisible: false,
       phrase: '',
       phraseTranslation: '',
       playerState: 'unknown',
@@ -695,6 +699,7 @@ export class App {
       consumedCount: 0,
       speed: 1,
       autoNextGapMs: 900,
+      videoVisible: false,
       phrase: '',
       phraseTranslation: '',
       playerState: 'unknown',
@@ -898,6 +903,20 @@ export class App {
       const snapshot = await this.youglishBridge.adjustAutoNextGap(-180);
       this.applyYouGlishSnapshot(snapshot);
       this.runtimeNotice = `YouGlish switch delay: ${snapshot.autoNextGapMs}ms`;
+      return true;
+    }
+
+    if (lowerCh === 'v' || name === 'v' || full === 'v') {
+      const snapshot = await this.youglishBridge.toggleVideoVisible();
+      this.applyYouGlishSnapshot(snapshot);
+      this.runtimeNotice = snapshot.videoVisible ? 'YouGlish video: shown' : 'YouGlish video: hidden';
+      return true;
+    }
+
+    if (lowerCh === 's' || name === 's' || full === 's') {
+      const snapshot = await this.youglishBridge.next();
+      this.applyYouGlishSnapshot(snapshot);
+      this.runtimeNotice = 'YouGlish skipped clip';
       return true;
     }
 
@@ -1170,6 +1189,7 @@ export class App {
       videoId: this.youglishState.videoId,
       speed: this.youglishState.speed,
       autoNextGapMs: this.youglishState.autoNextGapMs,
+      videoVisible: this.youglishState.videoVisible,
       message: this.youglishState.message,
       error: this.youglishState.error,
       chunkIndex: this.chunkRadioState.currentIndex,

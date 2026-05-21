@@ -247,7 +247,9 @@ See `.env.example`. Common options:
 - Open: `Ctrl+Y`
 - Close: `Esc` / `Ctrl+Y`
 - Play/pause: `Space`
+- Skip current clip: `s`
 - Previous/next clip: `[` / `]`
+- Toggle video show/hide: `v` (default hidden)
 - Slower/faster playback: `-` / `=` (real-time)
 - Increase/decrease auto-switch delay: `,` / `.` (real-time)
 - Translate phrase: `t`
@@ -261,7 +263,9 @@ See `.env.example`. Common options:
 - Play/pause: `Space`
 - Next/previous chunk: `n` / `b`
 - Jump to chunk N: `j` (input number, then `Enter`)
+- Skip current clip: `s`
 - Previous/next clip: `[` / `]`
+- Toggle video show/hide: `v` (default hidden)
 - Slower/faster playback: `-` / `=` (real-time)
 - Increase/decrease auto-switch delay: `,` / `.` (real-time)
 - Translate phrase: `t`
@@ -272,6 +276,8 @@ See `.env.example`. Common options:
 
 These controls work in both YouGlish Word mode and Chunk Radio mode:
 
+- `s`: skip current clip
+- `v`: toggle video show/hide (default hidden)
 - `-`: decrease speed
 - `=` (or `+`): increase speed
 - `,`: increase auto-switch delay (switch later)
@@ -279,11 +285,13 @@ These controls work in both YouGlish Word mode and Chunk Radio mode:
 
 Current values are displayed in the YouGlish overlay:
 
+- `Video View`: `hidden` / `shown`
 - `Speed`: current playback rate (e.g. `0.92x`)
 - `Switch Delay`: current clip auto-switch delay in milliseconds (e.g. `900ms`)
 
 Default behavior:
 
+- Video view is hidden by default
 - Default speed: `0.92x`
 - Default switch delay: `900ms`
 

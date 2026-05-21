@@ -6,6 +6,12 @@ function safeText(value: string): string {
   return value.replace(/\{/g, '(').replace(/\}/g, ')');
 }
 
+function clampSingleLine(value: string, maxLength: number): string {
+  const normalized = value.replace(/\s+/g, ' ').trim();
+  if (normalized.length <= maxLength) return normalized;
+  return `${normalized.slice(0, Math.max(0, maxLength - 3))}...`;
+}
+
 export interface DatasetRenderState {
   dictionaries: DictionaryRecord[];
   visibleIndexes: number[];
@@ -34,6 +40,7 @@ export interface YouGlishRenderState {
   consumedCount: number;
   speed?: number;
   autoNextGapMs?: number;
+  videoVisible?: boolean;
   phrase: string;
   phraseTranslation: string;
   playerState: string;
@@ -115,7 +122,7 @@ export function renderStatus(layout: AppLayout, status: StatusRenderState): void
 
   if (status.mode === 'youglish') {
     layout.statusBar.setContent(withNotice(
-      `YOUGLISH | ${status.currentDictId} | Ctrl+Y/Esc close | Space pause/play | [ prev | ] next | - slower | = faster | , delay+ | . delay- | t translate phrase | r reload word | x restart bridge | q quit`,
+      `YOUGLISH | ${status.currentDictId} | Ctrl+Y/Esc close | Space pause/play | s skip | [ prev | ] next | - slower | = faster | , delay+ | . delay- | v video | t translate phrase | r reload word | x restart bridge | q quit`,
       status.notice,
     ));
     return;
@@ -123,7 +130,7 @@ export function renderStatus(layout: AppLayout, status: StatusRenderState): void
 
   if (status.mode === 'youglish_chunks') {
     layout.statusBar.setContent(withNotice(
-      `CHUNKS | ${status.currentDictId} | Ctrl+O/Esc close | Space pause/play | n next chunk | b prev chunk | j jump | [ prev | ] next | - slower | = faster | , delay+ | . delay- | t translate phrase | r reload chunk | x restart bridge | q quit`,
+      `CHUNKS | ${status.currentDictId} | Ctrl+O/Esc close | Space pause/play | s skip | n next chunk | b prev chunk | j jump | [ prev | ] next | - slower | = faster | , delay+ | . delay- | v video | t translate phrase | r reload chunk | x restart bridge | q quit`,
       status.notice,
     ));
     return;
@@ -178,6 +185,14 @@ export function renderYouGlish(layout: AppLayout, state: YouGlishRenderState): v
   const safeTranslation = safeText(state.phraseTranslation || '(translation pending)');
   const safeMessage = safeText(state.message || '-');
   const safeError = safeText(state.error || '-');
+  const displayPhrase = clampSingleLine(safePhrase, 112);
+  const displayTranslation = clampSingleLine(safeTranslation, 112);
+  const keys =
+    state.mode === 'chunks'
+      ? 'Keys: Ctrl+O/Esc close | Space pause/play | s skip | n/b chunk | j jump | [/] clip | -/= speed | ,/. delay | v video | t translate | r reload | x restart'
+      : 'Keys: Ctrl+Y/Esc close | Space pause/play | s skip | [/] clip | -/= speed | ,/. delay | v video | t translate | r reload | x restart';
+
+  const maxFieldLength = Math.max(72, Math.min(140, Math.floor(Number(layout.screen.width || 120) * 0.75)));
 
   const lines: string[] = [];
   lines.push(state.mode === 'chunks' ? 'YouGlish Chunk Radio Mode' : 'YouGlish Audio Mode');
@@ -202,24 +217,20 @@ export function renderYouGlish(layout: AppLayout, state: YouGlishRenderState): v
     lines.push(`Consumed Total : ${state.consumedCount}`);
   }
   lines.push(`Player         : ${safeText(state.playerState)}`);
-  lines.push(`Video          : ${safeText(state.videoId || '-')}`);
-  lines.push(`Speed          : ${Number.isFinite(state.speed) ? Number(state.speed).toFixed(2) : '1.00'}x`);
-  lines.push(`Switch Delay   : ${Number.isFinite(state.autoNextGapMs) ? Math.round(Number(state.autoNextGapMs)) : 900}ms`);
+  lines.push(
+    `View / Speed   : ${state.videoVisible ? 'shown' : 'hidden'} / ${
+      Number.isFinite(state.speed) ? Number(state.speed).toFixed(2) : '1.00'
+    }x`,
+  );
   lines.push('');
-  lines.push('Phrase');
-  lines.push(`${safePhrase}`);
-  lines.push('');
-  lines.push('Phrase CN');
-  lines.push(`${safeTranslation}`);
+  lines.push(`Phrase         : ${clampSingleLine(displayPhrase, maxFieldLength)}`);
+  lines.push(`Phrase CN      : ${clampSingleLine(displayTranslation, maxFieldLength)}`);
   lines.push('');
   lines.push(`Bridge Message : ${safeMessage}`);
   lines.push(`Bridge Error   : ${safeError}`);
+
   lines.push('');
-  if (state.mode === 'chunks') {
-    lines.push('Keys: Ctrl+O/Esc close | Space pause/play | n next chunk | b prev chunk | j jump | [ prev | ] next | - slower | = faster | , delay+ | . delay- | t translate phrase | r reload chunk | x restart bridge');
-  } else {
-    lines.push('Keys: Ctrl+Y/Esc close | Space pause/play | [ prev | ] next | - slower | = faster | , delay+ | . delay- | t translate phrase | r reload word | x restart bridge');
-  }
+  lines.push(keys);
 
   layout.youglishPanel.setContent(lines.join('\n'));
   layout.youglishPanel.setScroll(0);

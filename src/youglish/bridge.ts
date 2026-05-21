@@ -21,6 +21,7 @@ export interface YouGlishSnapshot {
   consumedCount: number;
   speed: number;
   autoNextGapMs: number;
+  videoVisible: boolean;
   videoId: string;
   phrase: string;
   captionId: number;
@@ -39,6 +40,7 @@ const EMPTY_SNAPSHOT: YouGlishSnapshot = {
   consumedCount: 0,
   speed: 1,
   autoNextGapMs: 900,
+  videoVisible: false,
   videoId: '',
   phrase: '',
   captionId: 0,
@@ -71,6 +73,7 @@ interface BridgeState {
   consumedCount: number;
   speed: number;
   autoNextGapMs: number;
+  videoVisible: boolean;
   videoId: string;
   phrase: string;
   captionId: number;
@@ -151,7 +154,9 @@ export class YouGlishBridge {
       #youglish-root {
         width: 640px;
         height: 360px;
-        opacity: 0.01;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 120ms ease-in-out;
         overflow: hidden;
       }
     </style>
@@ -169,6 +174,9 @@ export class YouGlishBridge {
         var maxReadyRetry = 3;
         var lastAutoNextAt = 0;
         var lastConsumedCaptionId = 0;
+        var stuckStartedAt = 0;
+        var lastStuckSkipKey = '';
+        var stuckPlaybackSkipMs = 7000;
         var autoNextTimer = null;
         var widgetCreatedAt = 0;
         var readyRetryCount = 0;
@@ -184,6 +192,7 @@ export class YouGlishBridge {
           consumedCount: 0,
           speed: defaultSpeed,
           autoNextGapMs: autoNextGapMs,
+          videoVisible: false,
           videoId: '',
           phrase: '',
           captionId: 0,
@@ -223,6 +232,8 @@ export class YouGlishBridge {
             .replace(/&quot;/g, '"')
             .replace(/&#39;/g, "'")
             .replace(/&amp;/g, '&')
+            .replace(/&nbsp;/g, ' ')
+            .replace(/\u00a0/g, ' ')
             .replace(/\s+/g, ' ')
             .trim();
 
@@ -267,6 +278,24 @@ export class YouGlishBridge {
           return speed;
         }
 
+        function applyVideoVisibility(nextVisible, source) {
+          var visible = Boolean(nextVisible);
+          var root = document.getElementById('youglish-root');
+          if (root) {
+            root.style.opacity = visible ? '1' : '0';
+            root.style.pointerEvents = visible ? 'auto' : 'none';
+          }
+          if (source) {
+            update({
+              videoVisible: visible,
+              message: source
+            });
+          } else {
+            update({ videoVisible: visible });
+          }
+          return visible;
+        }
+
         function requestFetch(source) {
           if (!pendingFetch) return false;
           if (!widget) {
@@ -287,6 +316,8 @@ export class YouGlishBridge {
               message: source || 'fetch-requested',
               errorCode: 0
             });
+            stuckStartedAt = 0;
+            lastStuckSkipKey = '';
             widget.fetch(pendingFetch.query, pendingFetch.lang, pendingFetch.accent);
             pendingFetch = null;
             return true;
@@ -333,14 +364,18 @@ export class YouGlishBridge {
                     query: String(event && event.query ? event.query : state.query),
                     lang: String(event && event.lang ? event.lang : state.lang),
                     accent: String(event && event.accent ? event.accent : state.accent),
-                    message: Number(event && event.totalResult ? event.totalResult : 0) > 0 ? 'fetch-done' : 'fetch-zero'
+                    message: Number(event && event.totalResult ? event.totalResult : 0) > 0 ? 'fetch-done' : 'fetch-zero',
+                    errorCode: 0
                   });
                 },
                 onVideoChange: function (event) {
+                  stuckStartedAt = Date.now();
+                  lastStuckSkipKey = '';
                   update({
                     clipIndex: Number(event && event.trackNumber ? event.trackNumber : 0),
                     videoId: String(event && event.video ? event.video : ''),
-                    message: 'video-change'
+                    message: 'video-change',
+                    errorCode: 0
                   });
                   applySpeed(state.speed);
                 },
@@ -348,7 +383,8 @@ export class YouGlishBridge {
                   update({
                     phrase: normalizeCaption(event && event.caption),
                     captionId: Number(event && event.id ? event.id : 0),
-                    message: 'caption-change'
+                    message: 'caption-change',
+                    errorCode: 0
                   });
                 },
                 onCaptionConsumed: function (event) {
@@ -356,20 +392,32 @@ export class YouGlishBridge {
                   update({
                     captionId: consumedId,
                     consumedCount: Number(state.consumedCount || 0) + 1,
-                    message: 'caption-consumed'
+                    message: 'caption-consumed',
+                    errorCode: 0
                   });
                   scheduleAutoNext(consumedId);
                 },
                 onPlayerStateChange: function (event) {
+                  var nextPlayerState = Number(event && typeof event.state === 'number' ? event.state : -1);
                   update({
-                    playerState: Number(event && typeof event.state === 'number' ? event.state : -1),
-                    message: 'player-state'
+                    playerState: nextPlayerState,
+                    message: 'player-state',
+                    errorCode: 0
                   });
+                  if (nextPlayerState === 1 || nextPlayerState === 3) {
+                    stuckStartedAt = 0;
+                  } else if ((nextPlayerState === -1 || nextPlayerState === 5) && state.videoId && !stuckStartedAt) {
+                    stuckStartedAt = Date.now();
+                  }
+                  if (nextPlayerState === 0) {
+                    scheduleAutoNext(0, 'player-ended');
+                  }
                 },
                 onSpeedChange: function (event) {
                   update({
                     speed: clampSpeed(event && event.speed),
-                    message: 'speed-change'
+                    message: 'speed-change',
+                    errorCode: 0
                   });
                 },
                 onError: function (event) {
@@ -381,7 +429,8 @@ export class YouGlishBridge {
                 onPlayerReady: function () {
                   update({
                     ready: true,
-                    message: 'ready'
+                    message: 'ready',
+                    errorCode: 0
                   });
                   applySpeed(state.speed, 'speed-applied');
                   lastWaitSecond = -1;
@@ -395,6 +444,7 @@ export class YouGlishBridge {
               message: reason || 'widget-created',
               errorCode: 0
             });
+            applyVideoVisibility(state.videoVisible, 'video-hidden-default');
             requestFetch('fetch-on-widget-created');
             return true;
           } catch (error) {
@@ -417,16 +467,16 @@ export class YouGlishBridge {
           return createWidget(reason || 'widget-recreate');
         }
 
-        function scheduleAutoNext(captionId) {
+        function scheduleAutoNext(captionId, source) {
           if (!shouldAutoNext(captionId)) return false;
           if (captionId) {
             lastConsumedCaptionId = captionId;
           }
           if (autoNextTimer) {
-            clearTimeout(autoNextTimer);
-            autoNextTimer = null;
+            update({ message: source || 'auto-next-waiting' });
+            return true;
           }
-          update({ message: 'auto-next-waiting' });
+          update({ message: source || 'auto-next-waiting' });
           autoNextTimer = setTimeout(function () {
             autoNextTimer = null;
             if (!widget) return;
@@ -443,6 +493,24 @@ export class YouGlishBridge {
             }
           }, autoNextGapMs);
           return true;
+        }
+
+        function monitorStuckPlayback() {
+          if (!autoNextEnabled) return false;
+          if (!widget) return false;
+          if (state.playerState !== -1 && state.playerState !== 5) return false;
+          if (!state.videoId) return false;
+          if (state.totalClips > 0 && state.clipIndex >= state.totalClips) return false;
+          if (!stuckStartedAt) {
+            stuckStartedAt = Date.now();
+            return false;
+          }
+          if (Date.now() - stuckStartedAt < stuckPlaybackSkipMs) return false;
+
+          var stuckKey = [state.query, state.clipIndex, state.videoId].join('|');
+          if (lastStuckSkipKey === stuckKey) return false;
+          lastStuckSkipKey = stuckKey;
+          return scheduleAutoNext(0, 'stuck-unstarted-skip');
         }
 
         window.__YGBridge = {
@@ -507,6 +575,14 @@ export class YouGlishBridge {
             });
             return true;
           },
+          setVideoVisible: function (visible) {
+            applyVideoVisibility(Boolean(visible), 'video-visible-set');
+            return true;
+          },
+          toggleVideoVisible: function () {
+            applyVideoVisibility(!state.videoVisible, 'video-visible-toggle');
+            return true;
+          },
           toggle: function () {
             if (!widget) return false;
             if (state.playerState === 1) widget.pause();
@@ -542,6 +618,9 @@ export class YouGlishBridge {
         setInterval(function () {
           requestFetch('fetch-retry');
         }, 1000);
+        setInterval(function () {
+          monitorStuckPlayback();
+        }, 1500);
         setInterval(function () {
           if (!state.ready && widget) {
             var waitedMs = Date.now() - widgetCreatedAt;
@@ -649,6 +728,7 @@ export class YouGlishBridge {
       consumedCount: Number.isFinite(parsed.consumedCount) ? Number(parsed.consumedCount) : 0,
       speed: Number.isFinite(parsed.speed) ? Number(parsed.speed) : 1,
       autoNextGapMs: Number.isFinite(parsed.autoNextGapMs) ? Number(parsed.autoNextGapMs) : 900,
+      videoVisible: Boolean(parsed.videoVisible),
       videoId: typeof parsed.videoId === 'string' ? parsed.videoId : '',
       phrase: typeof parsed.phrase === 'string' ? parsed.phrase : '',
       captionId: Number.isFinite(parsed.captionId) ? Number(parsed.captionId) : 0,
@@ -669,6 +749,7 @@ export class YouGlishBridge {
       consumedCount: state.consumedCount,
       speed: state.speed,
       autoNextGapMs: state.autoNextGapMs,
+      videoVisible: state.videoVisible,
       videoId: state.videoId,
       phrase: state.phrase,
       captionId: state.captionId,
@@ -854,6 +935,44 @@ export class YouGlishBridge {
             bridge.adjustAutoNextGapMs(nextDeltaMs);
           }
         }, deltaMs);
+      }
+      return this.getSnapshot();
+    } catch (error) {
+      return this.errorSnapshot(error);
+    }
+  }
+
+  async setVideoVisible(visible: boolean): Promise<YouGlishSnapshot> {
+    try {
+      await this.ensurePage();
+      if (this.page) {
+        await this.page.evaluate((nextVisible) => {
+          const bridge = (window as unknown as {
+            __YGBridge?: { setVideoVisible?: (visibleFlag: boolean) => boolean };
+          }).__YGBridge;
+          if (bridge && typeof bridge.setVideoVisible === 'function') {
+            bridge.setVideoVisible(nextVisible);
+          }
+        }, visible);
+      }
+      return this.getSnapshot();
+    } catch (error) {
+      return this.errorSnapshot(error);
+    }
+  }
+
+  async toggleVideoVisible(): Promise<YouGlishSnapshot> {
+    try {
+      await this.ensurePage();
+      if (this.page) {
+        await this.page.evaluate(() => {
+          const bridge = (window as unknown as {
+            __YGBridge?: { toggleVideoVisible?: () => boolean };
+          }).__YGBridge;
+          if (bridge && typeof bridge.toggleVideoVisible === 'function') {
+            bridge.toggleVideoVisible();
+          }
+        });
       }
       return this.getSnapshot();
     } catch (error) {
